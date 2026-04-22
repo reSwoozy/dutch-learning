@@ -48,23 +48,36 @@ jobs:
           FB_MESSAGING_SENDER_ID: ${{ secrets.FIREBASE_MESSAGING_SENDER_ID }}
           FB_APP_ID: ${{ secrets.FIREBASE_APP_ID }}
         run: |
-          set -e
-          cp site/js/firebase/config.example.js site/js/firebase/config.js
-          sed -i \
-            -e "s|__FB_API_KEY__|${FB_API_KEY}|" \
-            -e "s|__FB_AUTH_DOMAIN__|${FB_AUTH_DOMAIN}|" \
-            -e "s|__FB_PROJECT_ID__|${FB_PROJECT_ID}|" \
-            -e "s|__FB_STORAGE_BUCKET__|${FB_STORAGE_BUCKET}|" \
-            -e "s|__FB_MESSAGING_SENDER_ID__|${FB_MESSAGING_SENDER_ID}|" \
-            -e "s|__FB_APP_ID__|${FB_APP_ID}|" \
-            site/js/firebase/config.js
+          node <<'EOF'
+          const fs = require('fs');
+          const clean = (v) =>
+            (v ?? '').trim().replace(/^["'`]|["'`]$/g, '');
+          const cfg = {
+            apiKey: clean(process.env.FB_API_KEY),
+            authDomain: clean(process.env.FB_AUTH_DOMAIN),
+            projectId: clean(process.env.FB_PROJECT_ID),
+            storageBucket: clean(process.env.FB_STORAGE_BUCKET),
+            messagingSenderId: clean(process.env.FB_MESSAGING_SENDER_ID),
+            appId: clean(process.env.FB_APP_ID),
+          };
+          const missing = Object.entries(cfg)
+            .filter(([, v]) => !v)
+            .map(([k]) => k);
+          if (missing.length) {
+            console.error(
+              '::error::Missing or empty Firebase secrets: ' + missing.join(', '),
+            );
+            process.exit(1);
+          }
+          const body =
+            'export const firebaseConfig = ' +
+            JSON.stringify(cfg, null, 2) +
+            ';\n';
+          fs.writeFileSync('site/js/firebase/config.js', body);
+          EOF
 
-      - name: Guard against missing secrets
-        run: |
-          if grep -q '__FB_' site/js/firebase/config.js; then
-            echo "::error::Placeholder __FB_*__ still present in site/js/firebase/config.js — check GitHub Secrets"
-            exit 1
-          fi
+      - name: Validate generated config.js
+        run: node --check site/js/firebase/config.js
 
       - uses: actions/configure-pages@v5
 
