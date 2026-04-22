@@ -1,11 +1,14 @@
-const VERSION = 'v9';
+const VERSION = 'v10';
 const STATIC_CACHE = `dutch-static-${VERSION}`;
 const RUNTIME_CACHE = `dutch-runtime-${VERSION}`;
 
 const STATIC_ASSETS = [
   './',
   './index.html',
-  './css/style.css',
+  './css/base.css',
+  './css/layout.css',
+  './css/components.css',
+  './css/pages.css',
   './js/main.js',
   './manifest.webmanifest',
   './icons/icon.svg',
