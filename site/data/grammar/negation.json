@@ -1,0 +1,76 @@
+{
+  "id": "negation",
+  "title": "Отрицание (niet/geen)",
+  "titleNL": "Ontkenning",
+  "level": "A1",
+  "summary": "В нидерландском два основных слова для отрицания: niet (не) и geen (никакой/ни один). Выбор зависит от того, что отрицается.",
+  "rule": {
+    "formula": "geen + существительное с een/без артикля | niet + все остальное",
+    "explanation": "Используй geen, когда отрицаешь существительное с неопределенным артиклем (een) или без артикля. Используй niet для всего остального: глаголов, прилагательных, наречий, существительных с определенным артиклем (de/het).",
+    "whenToUse": [
+      "geen: Ik heb geen auto. (У меня нет машины.) -- отрицание een auto",
+      "geen: Ik drink geen koffie. (Я не пью кофе.) -- отрицание без артикля",
+      "niet: Ik werk niet. (Я не работаю.) -- отрицание глагола",
+      "niet: Het boek is niet groot. (Книга не большая.) -- отрицание прилагательного",
+      "niet: Ik ken de man niet. (Я не знаю этого мужчину.) -- отрицание с de/het"
+    ]
+  },
+  "tables": [
+    {
+      "title": "geen vs niet",
+      "headers": ["Ситуация", "Пример с утверждением", "Отрицание"],
+      "rows": [
+        ["Сущ. с een", "Ik heb een auto.", "Ik heb geen auto."],
+        ["Сущ. без артикля", "Ik drink koffie.", "Ik drink geen koffie."],
+        ["Сущ. с de/het", "Ik ken de man.", "Ik ken de man niet."],
+        ["Глагол", "Ik werk.", "Ik werk niet."],
+        ["Прилагательное", "Het is groot.", "Het is niet groot."],
+        ["Наречие", "Hij komt vaak.", "Hij komt niet vaak."],
+        ["Предлог. группа", "Ik ga naar school.", "Ik ga niet naar school."]
+      ]
+    },
+    {
+      "title": "Место niet в предложении",
+      "headers": ["Правило", "Пример"],
+      "rows": [
+        ["Перед прилагательным", "Het weer is niet goed."],
+        ["Перед предложной группой", "Ik ga niet naar huis."],
+        ["Перед наречием", "Hij werkt niet hard."],
+        ["В конце (отрицание глагола)", "Ik weet het niet."],
+        ["Перед вторым глаголом", "Ik kan niet zwemmen."],
+        ["Перед причастием", "Ik heb niet gewerkt."]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik heb geen broers of zussen.", "ru": "У меня нет братьев или сестер." },
+    { "nl": "Er is geen melk meer.", "ru": "Молока больше нет." },
+    { "nl": "Ik spreek niet goed Nederlands.", "ru": "Я не хорошо говорю по-нидерландски." },
+    { "nl": "Zij woont niet in Amsterdam.", "ru": "Она не живет в Амстердаме." },
+    { "nl": "Ik kan vandaag niet komen.", "ru": "Я не могу сегодня прийти." },
+    { "nl": "Het is geen probleem.", "ru": "Это не проблема." },
+    { "nl": "Wij hebben de film niet gezien.", "ru": "Мы не видели фильм." },
+    { "nl": "Dat is niet waar.", "ru": "Это неправда." }
+  ],
+  "exceptions": [
+    "geen заменяет и een, и отсутствие артикля: Ik heb een auto -> Ik heb geen auto; Ik drink koffie -> Ik drink geen koffie",
+    "С определенным артиклем всегда niet: Ik lees het boek niet (не: Ik lees geen het boek)",
+    "nooit (никогда), nergens (нигде), niemand (никто), niets (ничего) -- другие отрицательные слова, они заменяют niet"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik heb niet een auto.", "correct": "Ik heb geen auto.", "why": "Перед существительным с een используется geen, не niet een" },
+    { "wrong": "Ik drink niet koffie.", "correct": "Ik drink geen koffie.", "why": "Существительное без артикля -> geen" },
+    { "wrong": "Ik ga geen naar school.", "correct": "Ik ga niet naar school.", "why": "Перед предложной группой -> niet" },
+    { "wrong": "Het is geen goed.", "correct": "Het is niet goed.", "why": "Перед прилагательным -> niet" }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "Ik heb __ tijd.", "options": ["niet", "geen"], "answer": "geen", "explanation": "tijd -- существительное без артикля -> geen" },
+    { "type": "choice", "question": "Hij is __ ziek.", "options": ["niet", "geen"], "answer": "niet", "explanation": "ziek -- прилагательное -> niet" },
+    { "type": "choice", "question": "Wij gaan __ naar de bioscoop.", "options": ["niet", "geen"], "answer": "niet", "explanation": "Перед предложной группой -> niet" },
+    { "type": "choice", "question": "Er zijn __ stoelen meer.", "options": ["niet", "geen"], "answer": "geen", "explanation": "stoelen -- существительное без артикля -> geen" },
+    { "type": "fill-blank", "sentence": "Ik kan vandaag __ komen.", "answer": "niet", "explanation": "Отрицание перед инфинитивом -> niet" },
+    { "type": "fill-blank", "sentence": "Zij heeft __ kinderen.", "answer": "geen", "explanation": "kinderen -- существительное без артикля -> geen" }
+  ],
+  "relatedTopics": ["word-order", "articles", "present-tense", "indefinite-pronouns", "quantifiers"],
+  "inLessons": [4, 6, 12]
+}

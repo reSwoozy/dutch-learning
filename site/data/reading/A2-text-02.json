@@ -1,0 +1,42 @@
+{
+  "id": "A2-text-02",
+  "level": "A2",
+  "title": "Op vakantie in Friesland",
+  "topic": "reizen",
+  "readingTime": "3 min",
+  "body": "Vorige zomer gingen wij op vakantie naar Friesland, een provincie in het noorden van Nederland. We huurden een klein huisje bij een meer. Het was een mooie week, met veel zon en soms een beetje wind.\n\nOverdag fietsten we door het landschap. Friesland is prachtig: veel groene velden, koeien, en kleine dorpen met oude kerken. In een van die dorpen proefden we een lokale specialiteit: dumkes, kleine harde koekjes met anijs. Ze smaakten heel bijzonder.\n\nOp dinsdag huurden we een zeilboot. Mijn man had vroeger gezeild, dus hij leerde ons hoe het moest. In het begin was ik bang, maar na een uur vond ik het heel leuk. We voeren langs kleine eilandjes en zagen veel vogels.\n\n's Avonds zaten we buiten op het terras. We aten vis uit het meer en dronken witte wijn. Het was stil, alleen de wind en soms een eend op het water. Ik wil volgende zomer zeker terug.",
+  "glossary": [
+    {"nl": "huren", "ru": "арендовать"},
+    {"nl": "het meer", "ru": "озеро"},
+    {"nl": "het landschap", "ru": "пейзаж"},
+    {"nl": "proeven", "ru": "пробовать"},
+    {"nl": "de specialiteit", "ru": "фирменное блюдо"},
+    {"nl": "de zeilboot", "ru": "парусная лодка"},
+    {"nl": "zeilen", "ru": "ходить под парусом"},
+    {"nl": "varen", "ru": "плавать (на судне)"},
+    {"nl": "het eiland", "ru": "остров"},
+    {"nl": "de eend", "ru": "утка"}
+  ],
+  "questions": [
+    {
+      "q": "Wanneer was de vakantie?",
+      "options": ["Vorige winter", "Vorige zomer", "Volgend jaar"],
+      "answer": 1
+    },
+    {
+      "q": "Wat zijn dumkes?",
+      "options": ["Een soort vis", "Kleine koekjes met anijs", "Een Friese boot"],
+      "answer": 1
+    },
+    {
+      "q": "Hoe voelde de verteller zich op de zeilboot?",
+      "options": ["Altijd bang", "Eerst bang, daarna leuk", "Altijd leuk"],
+      "answer": 1
+    },
+    {
+      "q": "Wat aten ze 's avonds?",
+      "options": ["Pizza", "Vis uit het meer", "Dumkes"],
+      "answer": 1
+    }
+  ]
+}

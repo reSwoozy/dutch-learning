@@ -1,0 +1,42 @@
+{
+  "id": "A1-text-05",
+  "level": "A1",
+  "title": "Mijn familie",
+  "topic": "familie",
+  "readingTime": "2 min",
+  "body": "Ik heet Daan en ik ben acht jaar oud. Ik woon in een huis met mijn vader, mijn moeder en mijn zus. Mijn zus heet Lotte en zij is tien jaar oud.\n\nMijn vader heet Mark. Hij is leraar op een school. Hij werkt met kleine kinderen. Mijn vader is heel geduldig en lief. Hij maakt graag fietstochten met ons op zaterdag.\n\nMijn moeder heet Sanne. Zij werkt in een ziekenhuis. Zij is verpleegkundige. Soms werkt zij 's nachts. Dan slaapt zij overdag.\n\nWij hebben ook een hond. Hij heet Bas. Hij is bruin en wit. Bas loopt elke dag met mijn vader door het park. Ik houd heel veel van mijn familie.",
+  "glossary": [
+    {"nl": "de zus", "ru": "сестра"},
+    {"nl": "de vader", "ru": "отец"},
+    {"nl": "de moeder", "ru": "мать"},
+    {"nl": "geduldig", "ru": "терпеливый"},
+    {"nl": "lief", "ru": "милый, добрый"},
+    {"nl": "de fietstocht", "ru": "велопрогулка"},
+    {"nl": "de verpleegkundige", "ru": "медсестра"},
+    {"nl": "'s nachts", "ru": "ночью"},
+    {"nl": "overdag", "ru": "днём"},
+    {"nl": "de hond", "ru": "собака"}
+  ],
+  "questions": [
+    {
+      "q": "Hoe oud is Daan?",
+      "options": ["Acht jaar", "Tien jaar", "Twaalf jaar"],
+      "answer": 0
+    },
+    {
+      "q": "Wat is het beroep van Marks?",
+      "options": ["Arts", "Leraar", "Verpleegkundige"],
+      "answer": 1
+    },
+    {
+      "q": "Wanneer werkt Sanne soms?",
+      "options": ["'s Avonds", "'s Nachts", "In het weekend"],
+      "answer": 1
+    },
+    {
+      "q": "Hoe heet de hond?",
+      "options": ["Lotte", "Mark", "Bas"],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "modal-verbs",
+  "title": "Модальные глаголы",
+  "titleNL": "Modale werkwoorden",
+  "level": "A2",
+  "summary": "Модальные глаголы выражают возможность, необходимость, желание, разрешение. Основные: kunnen (мочь), moeten (должен), willen (хотеть), mogen (иметь разрешение), zullen (буду).",
+  "rule": {
+    "formula": "Модальный глагол (спрягаемый, 2-е место) + ... + инфинитив (в конце)",
+    "explanation": "Модальный глагол спрягается и стоит на 2-м месте. Основной глагол в инфинитиве уходит в конец предложения. В ед. числе модальные глаголы имеют особое спряжение (без -t в 1-м и 3-м лице).",
+    "whenToUse": [
+      "kunnen: способность/возможность -- Ik kan zwemmen. (Я умею плавать.)",
+      "moeten: необходимость/обязанность -- Ik moet werken. (Я должен работать.)",
+      "willen: желание -- Ik wil koffie drinken. (Я хочу выпить кофе.)",
+      "mogen: разрешение -- Mag ik hier zitten? (Можно мне здесь сесть?)",
+      "zullen: будущее/предложение -- Zullen we gaan? (Пойдем?)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Спряжение модальных глаголов",
+      "headers": ["Лицо", "kunnen", "moeten", "willen", "mogen", "zullen"],
+      "rows": [
+        ["ik", "kan", "moet", "wil", "mag", "zal"],
+        ["jij/je", "kunt/kan", "moet", "wilt/wil", "mag", "zult/zal"],
+        ["u", "kunt/kan", "moet", "wilt/wil", "mag", "zult/zal"],
+        ["hij/zij/het", "kan", "moet", "wil", "mag", "zal"],
+        ["wij/we", "kunnen", "moeten", "willen", "mogen", "zullen"],
+        ["jullie", "kunnen", "moeten", "willen", "mogen", "zullen"],
+        ["zij/ze", "kunnen", "moeten", "willen", "mogen", "zullen"]
+      ]
+    },
+    {
+      "title": "Значения и нюансы",
+      "headers": ["Глагол", "Основное значение", "Нюансы"],
+      "rows": [
+        ["kunnen", "мочь, уметь", "способность (Ik kan fietsen) и возможность (Kun je morgen komen?)"],
+        ["moeten", "должен, нужно", "обязанность (Ik moet werken) и необходимость (Je moet een jas aantrekken)"],
+        ["willen", "хотеть", "желание; в вопросе вежливее с zou: Zou je willen...?"],
+        ["mogen", "иметь разрешение", "разрешение (Mag ik?) и вероятность (Het mag waar zijn)"],
+        ["zullen", "буду; давай", "будущее (Ik zal komen) и предложение (Zullen we gaan?)"],
+        ["hoeven", "нужно (в отрицании)", "Только с niet/geen: Je hoeft niet te komen. (Тебе не нужно приходить.)"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "moeten vs hoeven",
+      "items": [
+        "moeten -- утвердительное: Ik moet werken. (Я должен работать.)",
+        "hoeven + niet/geen -- отрицательное: Je hoeft niet te komen. (Тебе не нужно приходить.)",
+        "Не говори: Je moet niet komen. (Это значит: Ты не должен приходить = запрет)"
+      ]
+    },
+    {
+      "title": "Вежливые формы",
+      "items": [
+        "Mag ik...? -- Можно мне...? (просьба о разрешении)",
+        "Kun je...? / Kunt u...? -- Можешь ли ты...? / Можете ли Вы...?",
+        "Zou je willen...? -- Не мог бы ты...? (самая вежливая форма)",
+        "Wil je...? -- Хочешь ли ты...? (менее вежливо, чем zou)"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik kan goed Nederlands spreken.", "ru": "Я хорошо могу говорить по-нидерландски." },
+    { "nl": "Je moet elke dag oefenen.", "ru": "Ты должен практиковаться каждый день." },
+    { "nl": "Wil je een kopje koffie?", "ru": "Хочешь чашку кофе?" },
+    { "nl": "Mag ik hier roken?", "ru": "Можно здесь курить?" },
+    { "nl": "Zullen we naar de bioscoop gaan?", "ru": "Пойдем в кино?" },
+    { "nl": "Je hoeft niet te betalen.", "ru": "Тебе не нужно платить." },
+    { "nl": "Ik moet morgen vroeg opstaan.", "ru": "Я должен завтра рано встать." },
+    { "nl": "Kun je mij helpen?", "ru": "Можешь мне помочь?" }
+  ],
+  "exceptions": [
+    "hoeven используется только в отрицательных предложениях и с te + инфинитив",
+    "В ед. числе модальные не получают -t в 1-м и 3-м лице: ik kan, hij kan (не: ik kant, hij kant)",
+    "zullen в значении предложения используется только с wij/we: Zullen we...?"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik kan zwemmen goed.", "correct": "Ik kan goed zwemmen.", "why": "Инфинитив в конце, наречие перед ним" },
+    { "wrong": "Je moet niet komen. (= не нужно)", "correct": "Je hoeft niet te komen.", "why": "moet niet = запрет; hoeft niet = не обязательно" },
+    { "wrong": "Ik wil te leren Nederlands.", "correct": "Ik wil Nederlands leren.", "why": "После модальных (кроме hoeven) инфинитив без te" },
+    { "wrong": "Hij moet gaat naar school.", "correct": "Hij moet naar school gaan.", "why": "Второй глагол в инфинитиве, не спрягается" }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "__ ik hier zitten? (разрешение)", "options": ["Kan", "Mag", "Moet", "Wil"], "answer": "Mag", "explanation": "Просьба о разрешении -> mogen" },
+    { "type": "choice", "question": "Je __ niet te betalen. (не нужно)", "options": ["moet", "hoeft", "kan", "mag"], "answer": "hoeft", "explanation": "Не обязательно -> hoeven + niet + te" },
+    { "type": "fill-blank", "sentence": "Ik __ morgen vroeg opstaan. (должен)", "answer": "moet", "explanation": "Обязанность -> moeten, ik moet" },
+    { "type": "word-order", "words": ["je", "kun", "mij", "helpen"], "answer": "Kun je mij helpen?", "explanation": "Вопрос: модальный на 1-м месте, инфинитив в конце" },
+    { "type": "fill-blank", "sentence": "__ we naar het strand gaan? (предложение)", "answer": "Zullen", "explanation": "Предложение -> zullen + we" }
+  ],
+  "relatedTopics": ["present-tense", "word-order", "future-tense", "ipp-double-infinitive", "zou-usage"],
+  "inLessons": [7, 18, 24]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "A2-text-01",
+  "level": "A2",
+  "title": "Een nieuwe baan",
+  "topic": "werk",
+  "readingTime": "3 min",
+  "body": "Martijn zoekt al drie maanden een nieuwe baan. Zijn oude werk was saai en het salaris was te laag. Hij heeft veel sollicitatiebrieven geschreven en ook zijn cv aangepast. Gisteren kreeg hij een telefoontje van een bedrijf in Rotterdam. Ze vroegen hem voor een sollicitatiegesprek.\n\nHet gesprek duurde een uur. Martijn was eerst zenuwachtig, maar na een paar minuten voelde hij zich rustiger. De mensen van het bedrijf waren vriendelijk. Ze stelden vragen over zijn werkervaring en zijn wensen. Martijn vertelde eerlijk over zijn sterke en zwakke punten. Hij liet zien dat hij graag in een team werkt.\n\nTwee dagen later belde het bedrijf terug. Martijn kreeg de baan! Hij begint volgende maand. Hij krijgt een goed salaris en dertig vakantiedagen per jaar. Martijn is heel blij, maar ook een beetje nerveus. Hij moet namelijk van Amsterdam naar Rotterdam verhuizen.",
+  "glossary": [
+    {"nl": "saai", "ru": "скучный"},
+    {"nl": "het salaris", "ru": "зарплата"},
+    {"nl": "de sollicitatiebrief", "ru": "сопроводительное письмо"},
+    {"nl": "aanpassen", "ru": "адаптировать"},
+    {"nl": "zenuwachtig", "ru": "нервный"},
+    {"nl": "de werkervaring", "ru": "опыт работы"},
+    {"nl": "eerlijk", "ru": "честно"},
+    {"nl": "de sterke punten", "ru": "сильные стороны"},
+    {"nl": "de zwakke punten", "ru": "слабые стороны"},
+    {"nl": "de vakantiedagen", "ru": "отпускные дни"},
+    {"nl": "verhuizen", "ru": "переезжать"}
+  ],
+  "questions": [
+    {
+      "q": "Waarom wilde Martijn een nieuwe baan?",
+      "options": ["Hij moest verhuizen", "Het werk was saai en het salaris te laag", "Hij had ruzie met zijn collega's"],
+      "answer": 1
+    },
+    {
+      "q": "Hoe voelde Martijn zich in het begin van het gesprek?",
+      "options": ["Heel rustig", "Zenuwachtig", "Boos"],
+      "answer": 1
+    },
+    {
+      "q": "Wat was positief aan de nieuwe baan?",
+      "options": ["Het is dicht bij zijn huis", "Goed salaris en veel vakantiedagen", "Hij kan thuis werken"],
+      "answer": 1
+    },
+    {
+      "q": "Wat moet Martijn nog doen?",
+      "options": ["Een sollicitatiebrief schrijven", "Verhuizen naar Rotterdam", "Nog een gesprek hebben"],
+      "answer": 1
+    }
+  ]
+}

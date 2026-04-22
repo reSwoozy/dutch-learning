@@ -1,0 +1,52 @@
+{
+  "id": "B1-text-05",
+  "level": "B1",
+  "title": "Duurzaam wonen",
+  "topic": "milieu-wonen",
+  "readingTime": "4 min",
+  "body": "Steeds meer Nederlanders proberen hun huis duurzamer te maken. Dat heeft twee redenen: de energieprijzen zijn de afgelopen jaren flink gestegen en er is een groeiend bewustzijn over het klimaat. Wie zijn huis goed isoleert en overstapt op schone energie, bespaart vaak op lange termijn geld én vermindert zijn CO2-uitstoot.\n\nDe meeste huizenbezitters beginnen met eenvoudige stappen. Zo vervang je oude gloeilampen door LED, je plaatst tochtstrips langs deuren en je laat de spouwmuur isoleren. Deze maatregelen zijn relatief goedkoop en leveren snel resultaat. Wie verder wil, laat zonnepanelen installeren. Dankzij subsidies en de salderingsregeling was dat de laatste jaren erg aantrekkelijk.\n\nEen grotere stap is 'van het gas af'. Miljoenen Nederlandse woningen zijn nog verwarmd met een gasketel, maar de overheid wil dat dit verandert. Alternatieven zijn warmtepompen, die warmte uit de buitenlucht of de grond halen, en stadsverwarming, waarbij huizen aangesloten worden op een collectief warmtenet. Helaas zijn deze opties nog steeds duur, en lang niet overal beschikbaar.\n\nVoor huurders is het ingewikkelder. Zij zijn afhankelijk van de verhuurder of woningcorporatie. Gelukkig investeren veel corporaties sinds kort in renovatie: oudere sociale huurwoningen worden één voor één voorzien van betere isolatie, zonnepanelen en soms een warmtepomp. Toch gaat het langzaam.\n\nDeskundigen benadrukken dat verduurzamen niet alleen een zaak van techniek is. Ook gedrag telt: lagere verwarming, korter douchen, minder vaak de wasdroger gebruiken. Wie daarnaast investeert in isolatie, legt een stevige basis voor een huis dat klaar is voor de toekomst.",
+  "glossary": [
+    {"nl": "duurzaam", "ru": "устойчивый, экологичный"},
+    {"nl": "het bewustzijn", "ru": "осознанность"},
+    {"nl": "isoleren", "ru": "утеплять"},
+    {"nl": "de uitstoot", "ru": "выбросы"},
+    {"nl": "de tochtstrip", "ru": "уплотнитель (для дверей)"},
+    {"nl": "de spouwmuur", "ru": "внутренняя стенка (с полостью)"},
+    {"nl": "de zonnepanelen", "ru": "солнечные панели"},
+    {"nl": "de salderingsregeling", "ru": "сетевой обмен (для PV)"},
+    {"nl": "van het gas af", "ru": "переход от газа"},
+    {"nl": "de warmtepomp", "ru": "тепловой насос"},
+    {"nl": "het warmtenet", "ru": "сеть централизованного тепла"},
+    {"nl": "de huurder", "ru": "арендатор"},
+    {"nl": "de woningcorporatie", "ru": "жилищная корпорация"},
+    {"nl": "benadrukken", "ru": "подчёркивать"},
+    {"nl": "de wasdroger", "ru": "сушильная машина"}
+  ],
+  "questions": [
+    {
+      "q": "Wat zijn de twee redenen dat Nederlanders hun huis duurzamer maken?",
+      "options": ["Subsidies en belastingverlaging", "Hogere energieprijzen en klimaatbewustzijn", "Regeldruk van de overheid"],
+      "answer": 1
+    },
+    {
+      "q": "Wat is een eenvoudige duurzame maatregel?",
+      "options": ["Warmtepomp installeren", "Gloeilampen vervangen door LED en isoleren", "Stadsverwarming aanleggen"],
+      "answer": 1
+    },
+    {
+      "q": "Wat betekent 'van het gas af'?",
+      "options": ["Geen fossiele brandstof meer gebruiken om te verwarmen", "Zonder eten leven", "Geen koken met gas meer"],
+      "answer": 0
+    },
+    {
+      "q": "Wat is lastig voor huurders?",
+      "options": ["Ze betalen dubbele huur", "Ze zijn afhankelijk van verhuurder/corporatie", "Ze mogen niet verhuizen"],
+      "answer": 1
+    },
+    {
+      "q": "Wat benadrukken deskundigen?",
+      "options": ["Alleen techniek telt", "Ook gedrag is belangrijk", "Isolatie heeft geen effect"],
+      "answer": 1
+    }
+  ]
+}

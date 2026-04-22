@@ -1,0 +1,285 @@
+{
+  "id": "B1-lesson-32",
+  "num": 32,
+  "level": "B1",
+  "title": "Медицинская помощь",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Медицинская помощь",
+      "content": "**Научиться ориентироваться в голландской системе здравоохранения, понимать медицинское страхование и взаимодействовать с врачами.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "text",
+      "title": "Уровни медицинской помощи",
+      "content": "```\nEerste lijn (Первичная помощь)\n├── Huisarts (Семейный врач) - первый контакт\n├── Praktijkondersteuner (Медсестра в клинике)\n├── Fysio-/ergotherapeut (Физио-/эрготерапевт)\n└── Apotheek (Аптека)\nTweede lijn (Вторичная помощь)\n├── Specialist in ziekenhuis (Специалист в больнице)\n├── Medisch specialist centrum (Медицинский центр)\n└── Diagnostisch centrum (Диагностический центр)\nDerde lijn (Третичная помощь)\n├── Academische ziekenhuizen (Университетские больницы)\n├── Gespecialiseerde centra (Специализированные центры)\n└── Topklinische zorg (Высокоспециализированная помощь)\n```"
+    },
+    {
+      "type": "text",
+      "title": "Роль семейного врача (Huisarts)",
+      "content": "**Функции huisarts**:\n- **Gatekeeper**: Первый контакт для всех проблем\n- **Verwijzing**: Направление к специалистам\n- **Preventie**: Профилактические осмотры\n- **Chronische zorg**: Ведение хронических заболеваний\n- **Kleine chirurgie**: Малые операции\n**Когда обращаться к huisarts**:\n- Простуда, грипп, инфекции\n- Хронические заболевания (диабет, гипертония)\n- Прививки и профилактика\n- Психологические проблемы\n- Направления к специалистам"
+    },
+    {
+      "type": "text",
+      "title": "Zorgverzekering (Обязательная страховка)",
+      "content": "**Основные принципы**:\n- **Verplicht**: Обязательна для всех жителей\n- **Basispakket**: Базовый пакет покрывает основные услуги\n- **Eigen risico**: Собственный риск (€385 в 2024 году)\n- **Zorgtoeslag**: Доплата от государства для низких доходов"
+    },
+    {
+      "type": "grammar",
+      "title": "Структура расходов",
+      "content": "Maandpremie (Месячная премия): €100-150\n+ Eigen risico (Собственные расходы): €385/год\n+ Eigen bijdrage (Доплаты): Зависит от услуги\n= Totale kosten (Общие расходы)\n**Что покрывает basispakket**:\n- Huisarts (семейный врач)\n- Ziekenhuiszorg (больничная помощь)\n- Medicijnen op recept (лекарства по рецепту)\n- Verloskunde (акушерство)\n- Fysiotherapie (первые 20 сеансов)\n- Hulpmiddelen (медтехника)",
+      "codeExamples": [
+        "Maandpremie (Месячная премия): €100-150\n+ Eigen risico (Собственные расходы): €385/год\n+ Eigen bijdrage (Доплаты): Зависит от услуги\n= Totale kosten (Общие расходы)"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Aanvullende verzekering (Дополнительная страховка)",
+      "words": [
+        {
+          "nl": "Tandarts",
+          "ru": "Только до 18 лет",
+          "hint": "Полное покрытие"
+        },
+        {
+          "nl": "Fysiotherapie",
+          "ru": "20 сеансов",
+          "hint": "Неограниченно"
+        },
+        {
+          "nl": "Psycholoog",
+          "ru": "Базовое покрытие",
+          "hint": "Расширенное"
+        },
+        {
+          "nl": "Brillen/lenzen",
+          "ru": "Нет",
+          "hint": "€100-500/год"
+        },
+        {
+          "nl": "Alternatieve geneeskunde",
+          "ru": "Нет",
+          "hint": "Частичное"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Номера экстренных служб",
+      "words": [
+        {
+          "nl": "112",
+          "ru": "Ambulance, politie, brandweer",
+          "hint": "Опасные для жизни ситуации"
+        },
+        {
+          "nl": "0900-8844",
+          "ru": "Huisartsenpost",
+          "hint": "Вне часов работы huisarts"
+        },
+        {
+          "nl": "113",
+          "ru": "Suicide preventie",
+          "hint": "Суицидальные мысли"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Spoedeisende hulp (Скорая помощь)",
+      "content": "**Когда обращаться в spoedpost**:\n- Серьезные травмы\n- Сильная боль в груди\n- Проблемы с дыханием\n- Потеря сознания\n- Серьезные кровотечения\n**Процедура**:\n```\nЗвонок 112 → Triage (сортировка) → Transport → Behandeling (лечение)\n```"
+    },
+    {
+      "type": "text",
+      "title": "Диалог: У семейного врача",
+      "content": "**Huisarts**: Goedemorgen! Waarmee kan ik u helpen?\n**Patiënt**: Ik heb al drie dagen hoofdpijn en koorts. Ook ben ik erg moe.\n**Huisarts**: Wanneer is het begonnen? Heeft u ook andere klachten?\n**Patiënt**: Maandag begon het. Ik heb ook keelpijn en mijn neus is verstopt.\n**Huisarts**: Laat me even uw temperatuur opnemen en in uw keel kijken. Gebruikt u medicijnen?\n**Patiënt**: Alleen paracetamol voor de hoofdpijn. Helpt niet veel.\n**Huisarts**: U heeft een virusinfectie. Het gaat vanzelf over in een week. Rust veel en drink veel water.\n**Patiënt**: Moet ik niet naar het werk?\n**Huisarts**: Nee, blijf thuis tot u 24 uur koortsvrij bent. Ik geef u een ziekmelding.\n**Patiënt**: Wanneer moet ik terugkomen als het niet beter wordt?\n**Huisarts**: Als de koorts na vijf dagen niet zakt of als u kortademig wordt."
+    },
+    {
+      "type": "text",
+      "title": "Диалог: В аптеке",
+      "content": "**Apotheker (Фармацевт)**: Goedemiddag! Heeft u een recept?\n**Klant (Клиент)**: Ja, van mijn huisarts. Het is voor antibiotica.\n**Apotheker**: Laat me even kijken. Ah, amoxicilline. Gebruikt u dit voor het eerst?\n**Klant**: Ja. Hoe moet ik het innemen?\n**Apotheker**: Driemaal daags één capsule, bij de maaltijd. Heel belangrijk: maak de kuur af, ook als u zich beter voelt.\n**Klant**: Waarom is dat belangrijk?\n**Apotheker**: Anders kunnen bacteriën resistent worden. Ook geen alcohol tijdens de kuur.\n**Klant**: Hoeveel kost het?\n**Apotheker**: €8,50. Dit valt onder uw eigen risico. Heeft u bijwerkingen gehad bij antibiotica?\n**Klant**: Nee, nooit. Wanneer moet ik het stoppen als er problemen zijn?\n**Apotheker**: Bij huiduitslag, diarree of ademhalingsproblemen direct stoppen en contact opnemen."
+    },
+    {
+      "type": "text",
+      "title": "Wat zijn participia?",
+      "content": "Причастия - это формы глагола, которые используются как прилагательные или в сложных временах.\n**Два типа**:\n1. **Tegenwoordig deelwoord** (настоящее причастие): lopend, werkend\n2. **Voltooid deelwoord** (прошедшее причастие): gelopen, gewerkt"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Образование причастий",
+      "words": [
+        {
+          "nl": "lopen",
+          "ru": "loop",
+          "hint": "lopend (бегущий)"
+        },
+        {
+          "nl": "werken",
+          "ru": "werk",
+          "hint": "werkend (работающий)"
+        },
+        {
+          "nl": "slapen",
+          "ru": "slaap",
+          "hint": "slapend (спящий)"
+        },
+        {
+          "nl": "Глагол",
+          "ru": "Прошедшее причастие",
+          "hint": "Значение"
+        },
+        {
+          "nl": "maken",
+          "ru": "gemaakt",
+          "hint": "сделанный"
+        },
+        {
+          "nl": "behandelen",
+          "ru": "behandeld",
+          "hint": "вылеченный"
+        },
+        {
+          "nl": "opereren",
+          "ru": "geopereerd",
+          "hint": "прооперированный"
+        },
+        {
+          "nl": "breken",
+          "ru": "gebroken",
+          "hint": "сломанный"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Использование причастий",
+      "content": "#### **Как прилагательные**\n```\nDe slapende patiënt wordt niet wakker gemaakt.\n(Спящего пациента не будят)\nHet gebroken been is gezet.\n(Сломанная нога загипсована)\n```\n#### **В составных временах**\n```\nIk heb de medicijnen ingenomen.\n(Я принял лекарства)\nHij wordt geopereerd door de chirurg.\n(Его оперирует хирург)\n```\n#### **Абсолютные конструкции**\n```\nLopend naar het ziekenhuis, zag ik een ambulance.\n(Идя в больницу, я увидел скорую)\nBehandeld door de specialist, voelde hij zich beter.\n(Пролеченный специалистом, он чувствовал себя лучше)\n```"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Медицинская система",
+      "items": [
+        {
+          "question": "Мне нужно записаться к семейному врачу."
+        },
+        {
+          "question": "У меня болит горло уже три дня."
+        },
+        {
+          "question": "Врач выписал мне рецепт на антибиотики."
+        },
+        {
+          "question": "Моя медицинская страховка покрывает эти расходы."
+        },
+        {
+          "question": "В экстренной ситуации звоните 112."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Причастия",
+      "items": [
+        {
+          "question": "lezen → _______"
+        },
+        {
+          "question": "spreken → _______"
+        },
+        {
+          "question": "behandelen → _______"
+        },
+        {
+          "question": "onderzoeken → _______"
+        },
+        {
+          "question": "opereren → _______"
+        },
+        {
+          "question": "genezen → _______"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: В аптеке",
+      "items": [
+        {
+          "question": "Medicijnen op recept vallen onder:"
+        },
+        {
+          "question": "Bij bijwerkingen moet u:"
+        },
+        {
+          "question": "Antibiotica moet u:"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Особенности голландского здравоохранения",
+      "content": "** Preventieve zorg (Профилактика)**:\n- Акцент на предотвращение болезней\n- Регулярные скрининги (mammografie, bevolkingsonderzoek)\n- Прививочная программа для детей\n- Здоровый образ жизни\n** Medicijnbeleid (Лекарственная политика)**:\n- Рациональное назначение антибиотиков\n- Предпочтение генерикам\n- Строгий контроль наркотических веществ\n- Фармацевтическая опека\n** Kwaliteit en toegankelijkheid**:\n- Высокое качество медицинской помощи\n- Короткие очереди на экстренную помощь\n- Длинные очереди на плановые операции\n- Равный доступ независимо от дохода"
+    },
+    {
+      "type": "text",
+      "title": "Отношение к ментальному здоровью",
+      "content": "**Особенности**:\n- Открытое обсуждение психологических проблем\n- Интеграция ментального и физического здоровья\n- POH-GGZ (психологическая поддержка у huisarts)\n- Акцент на early intervention\n**Доступная помощь**:\n- **Huisarts**: Первичная психологическая помощь\n- **Basis-GGZ**: Базовая ментальная помощь\n- **Gespecialiseerde GGZ**: Специализированная помощь\n- **Crisis interventie**: Кризисное вмешательство"
+    },
+    {
+      "type": "text",
+      "title": "Статистика здравоохранения",
+      "content": "- **Удовлетворенность системой**: 85%\n- **Ожидаемая продолжительность жизни**: 82 года\n- **Расходы на здравоохранение**: 10% ВВП\n- **Покрытие страховкой**: 99.9% населения"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые фразы урока",
+      "words": [
+        {
+          "nl": "Ik voel me niet lekker",
+          "ru": "Я плохо себя чувствую"
+        },
+        {
+          "nl": "Ik heb pijn in mijn...",
+          "ru": "У меня болит..."
+        },
+        {
+          "nl": "Kunt u een afspraak maken?",
+          "ru": "Можете записать на прием?"
+        },
+        {
+          "nl": "Ik heb koorts en hoofdpijn",
+          "ru": "У меня температура и головная боль"
+        },
+        {
+          "nl": "Is dit gedekt door mijn verzekering?",
+          "ru": "Покрывается ли это моей страховкой?"
+        },
+        {
+          "nl": "Wanneer moet ik terugkomen?",
+          "ru": "Когда мне нужно прийти снова?"
+        },
+        {
+          "nl": "Heeft u bijwerkingen?",
+          "ru": "У вас есть побочные эффекты?"
+        },
+        {
+          "nl": "In geval van nood, bel 112",
+          "ru": "В экстренной ситуации звоните 112"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 31** (Правительство и законы): Государственное регулирование здравоохранения\n- **Урок 29** (Банки и финансы): Медицинская страховка и расходы\n- **Урок 27** (Пассивный залог): \"De patiënt wordt behandeld\" (Пациент лечится)"
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 33: Социальные услуги (Sociale diensten)**\n- Система социальной поддержки\n- Пособия и льготы\n- Поддержка семей с детьми\n- Интеграционная помощь\n**Подготовка**: Подумайте о социальных услугах, которые могут вам понадобиться!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-32.json"
+}

@@ -1,0 +1,298 @@
+{
+  "id": "A2-lesson-16",
+  "num": 16,
+  "level": "A2",
+  "title": "Путешествия и отпуск",
+  "minutes": 15,
+  "objectives": [
+    "Планировать и обсуждать путешествия и отпуск",
+    "Бронировать отели и покупать билеты",
+    "Говорить о транспорте и маршрутах",
+    "Описывать места и впечатления от поездок",
+    "Понимать голландскую культуру путешествий"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Путешествия и отпуск",
+      "content": "**Уровень**: A2 Элементарный | **Время**: 15 минут | **День**: 16 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Планировать и обсуждать путешествия и отпуск\n- Бронировать отели и покупать билеты\n- Говорить о транспорте и маршрутах\n- Описывать места и впечатления от поездок\n- Понимать голландскую культуру путешествий"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Планирование путешествия (4 минуты)",
+      "words": [
+        {
+          "nl": "de vakantie",
+          "ru": "отпуск",
+          "pronunciation": "[də vɑˈkɑnsi]",
+          "hint": "Ik ga met vakantie naar Spanje"
+        },
+        {
+          "nl": "de reis",
+          "ru": "поездка",
+          "pronunciation": "[də rɛi̯s]",
+          "hint": "De reis duurt vijf uur"
+        },
+        {
+          "nl": "reizen",
+          "ru": "путешествовать",
+          "pronunciation": "[ˈrɛi̯zə]",
+          "hint": "Ik reis graag naar nieuwe landen"
+        },
+        {
+          "nl": "het ticket",
+          "ru": "билет",
+          "pronunciation": "[ɦət ˈtɪkət]",
+          "hint": "Ik heb mijn ticket geboekt"
+        },
+        {
+          "nl": "boeken",
+          "ru": "бронировать",
+          "pronunciation": "[ˈbukə]",
+          "hint": "Ik boek een hotel online"
+        },
+        {
+          "nl": "de reservering",
+          "ru": "бронь",
+          "pronunciation": "[də reːzərˈveːrɪŋ]",
+          "hint": "Mijn reservering is bevestigd"
+        },
+        {
+          "nl": "vertrekken",
+          "ru": "отправляться",
+          "pronunciation": "[vərˈtrɛkə]",
+          "hint": "We vertrekken om acht uur"
+        },
+        {
+          "nl": "aankomen",
+          "ru": "прибывать",
+          "pronunciation": "[ˈaːnkoːmə]",
+          "hint": "We komen aan in Amsterdam"
+        },
+        {
+          "nl": "het vliegtuig",
+          "ru": "самолет",
+          "pronunciation": "[ɦət ˈvliːxˌtœy̯x]",
+          "hint": "Het vliegtuig vertrekt op tijd"
+        },
+        {
+          "nl": "de trein",
+          "ru": "поезд",
+          "pronunciation": "[də trɛi̯n]",
+          "hint": "De trein is comfortabel"
+        },
+        {
+          "nl": "de bus",
+          "ru": "автобус",
+          "pronunciation": "[də bʏs]",
+          "hint": "De bus naar Brussel"
+        },
+        {
+          "nl": "de auto",
+          "ru": "машина",
+          "pronunciation": "[də ˈaːuto]",
+          "hint": "We gaan met de auto"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: В отеле и размещение (5 минут)",
+      "words": [
+        {
+          "nl": "het hotel",
+          "ru": "отель",
+          "pronunciation": "[ɦət ɦoːˈtɛl]",
+          "hint": "Het hotel heeft vier sterren"
+        },
+        {
+          "nl": "de kamer",
+          "ru": "номер",
+          "pronunciation": "[də ˈkaːmər]",
+          "hint": "Ik wil een kamer voor twee nachten"
+        },
+        {
+          "nl": "de receptie",
+          "ru": "стойка регистрации",
+          "pronunciation": "[də rəˈsɛpsi]",
+          "hint": "Ga naar de receptie"
+        },
+        {
+          "nl": "inchecken",
+          "ru": "заселяться",
+          "pronunciation": "[ˈɪntʃɛkə]",
+          "hint": "We checken in om twee uur"
+        },
+        {
+          "nl": "uitchecken",
+          "ru": "выселяться",
+          "pronunciation": "[ˈœy̯tʃɛkə]",
+          "hint": "Checkout is voor elf uur"
+        },
+        {
+          "nl": "het ontbijt",
+          "ru": "завтрак",
+          "pronunciation": "[ɦət ˈɔntbɛi̯t]",
+          "hint": "Is ontbijt inbegrepen?"
+        },
+        {
+          "nl": "de sleutel",
+          "ru": "ключ",
+          "pronunciation": "[də ˈsløːtəl]",
+          "hint": "Hier is uw sleutel"
+        },
+        {
+          "nl": "de lift",
+          "ru": "лифт",
+          "pronunciation": "[də lɪft]",
+          "hint": "De lift is kapot"
+        },
+        {
+          "nl": "het zwembad",
+          "ru": "бассейн",
+          "pronunciation": "[ɦət ˈsʋɛmbɑt]",
+          "hint": "Het hotel heeft een zwembad"
+        },
+        {
+          "nl": "wifi",
+          "ru": "вайфай",
+          "pronunciation": "[ˈʋaɪfaɪ]",
+          "hint": "Is er gratis wifi?"
+        },
+        {
+          "nl": "de rekening",
+          "ru": "счет",
+          "pronunciation": "[də ˈreːkənɪŋ]",
+          "hint": "Kan ik de rekening krijgen?"
+        },
+        {
+          "nl": "betalen",
+          "ru": "платить",
+          "pronunciation": "[bəˈtaːlə]",
+          "hint": "Ik betaal met creditcard"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Фаза 3: Осмотр достопримечательностей (4 минуты)",
+      "content": "**Туризм и достопримечательности**:\n**Практические диалоги**:\n**В туристическом бюро**:\n- **Toerist**: Welke bezienswaardigheden zijn er? - Какие достопримечательности есть?\n- **Medewerker**: Het museum en de kathedraal zijn populair. - Музей и собор популярны.\n- **Toerist**: Hoe kom ik daar? - Как туда добраться?\n- **Medewerker**: Met bus lijn 12, tien minuten. - Автобусом 12, десять минут.\n**На экскурсии**:\n- **Gids**: Dit gebouw is vierhonderd jaar oud. - Это здание четыреста лет.\n- **Toerist**: Mag ik foto's maken? - Можно фотографировать?\n- **Gids**: Ja, maar geen flits gebruiken. - Да, но без вспышки.\n- **Toerist**: Wanneer eindigt de rondleiding? - Когда заканчивается экскурсия?\n**В ресторане**:\n- **Ober**: Heeft u gereserveerd? - У вас бронь?\n- **Gast**: Nee, is er een tafel vrij? - Нет, есть свободный столик?\n- **Ober**: Voor hoeveel personen? - На сколько человек?\n- **Gast**: Voor twee personen. - На двоих."
+    },
+    {
+      "type": "text",
+      "title": "Фаза 4: Впечатления и планы (2 минуты)",
+      "content": "**Впечатления от путешествий**:\n**Положительные впечатления**:\n- **geweldig** - потрясающе: \"Het was geweldig!\"\n- **fantastisch** - фантастично: \"Een fantastische reis\"\n- **mooi** - красиво: \"Zo'n mooie stad\"\n- **interessant** - интересно: \"Heel interessant museum\"\n**Проблемы в путешествии**:\n- **vertraagd** - задержка: \"De trein is vertraagd\"\n- **geannuleerd** - отменен: \"De vlucht is geannuleerd\"\n- **duur** - дорого: \"Het hotel was te duur\"\n- **druk** - многолюдно: \"Het was erg druk\""
+    },
+    {
+      "type": "text",
+      "title": "1. Прошедшее время для рассказа о путешествиях",
+      "content": "**Perfectum (завершенное действие)**:\n- **Ik ben naar Parijs geweest** - Я был в Париже\n- **We hebben het museum bezocht** - Мы посетили музей\n- **Hij heeft veel foto's gemaakt** - Он сделал много фото\n**Структура**: hebben/zijn + participium\n- **Beweging**: zijn + participium (geweest, gekomen, vertrokken)\n- **Andere**: hebben + participium (bezocht, geboekt, gemaakt)"
+    },
+    {
+      "type": "text",
+      "title": "2. Будущее время для планов",
+      "content": "**Gaan + infinitief (ближайшее будущее)**:\n- **Ik ga morgen vertrekken** - Я завтра уезжаю\n- **We gaan een hotel boeken** - Мы забронируем отель\n- **Hij gaat met de trein reizen** - Он поедет поездом"
+    },
+    {
+      "type": "grammar",
+      "title": "3. Предлоги направления и места",
+      "content": "**Направление**:\n---",
+      "examples": [
+        {
+          "nl": "naar",
+          "ru": "в (страну/город): \"naar Nederland\", \"naar Amsterdam\""
+        },
+        {
+          "nl": "in",
+          "ru": "в (внутри): \"in het hotel\", \"in de trein\""
+        },
+        {
+          "nl": "op",
+          "ru": "на: \"op het vliegveld\", \"op reis\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Покупка билетов:",
+      "content": "- **Eén kaartje naar...** - Один билет в...\n- **Enkele reis of retour?** - В одну сторону или туда-обратно?\n- **Hoe laat vertrekt de trein?** - Во сколько отправляется поезд?\n- **Van welk perron?** - С какой платформы?\n- **Moet ik overstappen?** - Нужна пересадка?"
+    },
+    {
+      "type": "text",
+      "title": "В аэропорту:",
+      "content": "- **Waar is de gate?** - Где выход на посадку?\n- **Hoe laat is boarding?** - Во сколько посадка?\n- **Mijn vlucht is vertraagd** - Мой рейс задержан\n- **Waar kan ik inchecken?** - Где регистрация?"
+    },
+    {
+      "type": "text",
+      "title": "В отеле:",
+      "content": "- **Ik heb een reservering** - У меня бронь\n- **Kunt u me helpen?** - Можете помочь?\n- **De airco werkt niet** - Кондиционер не работает\n- **Kunt u een taxi bestellen?** - Можете заказать такси?"
+    },
+    {
+      "type": "culture",
+      "title": "Голландская культура путешествий",
+      "content": "Понимание travel культуры поможет в планировании:\n**Внутренние путешествия**:\n- **OV-chipkaart** - единая карта общественного транспорта\n- **NS** (Nederlandse Spoorwegen) - национальная железная дорога\n- **Fietsvakanties** - велосипедные туры очень популярны\n- **Natuurgebieden** - национальные парки и заповедники\n**Заграничные поездки**:\n- **Vakantiegeld** - отпускные деньги (обязательная 8% надбавка)\n- **Schoolvakanties** - школьные каникулы влияют на цены\n- **Camping culture** - кемпинги и караваны популярны\n- **Early booking** - ранее бронирование экономит деньги\n**Транспортные особенности**:\n- **Punctualiteit** - пунктуальность очень важна\n- **Reserveren verplicht** - часто обязательна резервация\n- **Spitsuren** - пиковые часы (дороже)\n- **Weekend korting** - скидки выходного дня\n**Культура отпусков**:\n- **Zomervakantie** - летний отпуск (июль-август)\n- **Wintersport** - зимние виды спорта (горные лыжи)\n- **Lange weekenden** - длинные выходные\n- **Verre reizen** - дальние путешествия популярны\n**Для интеграции**: Знание транспортной системы и культуры отпусков поможет планировать поездки и интегрироваться в голландское общество."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Планирование поездки",
+      "items": [
+        {
+          "question": "Забронируй билет на поезд"
+        },
+        {
+          "question": "Найди отель в центре"
+        },
+        {
+          "question": "Спланируй программу осмотра"
+        },
+        {
+          "question": "Рассчитай бюджет"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: В отеле",
+      "content": "**Ролевая игра**: Регистрация в отеле\n- Администратор: проверяет бронь\n- Гость: сообщает о проблемах в номере\n- Решение проблем"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Рассказ о путешествии",
+      "items": [
+        {
+          "question": "Куда ездил и как добирался"
+        },
+        {
+          "question": "Где останавливался"
+        },
+        {
+          "question": "Что посещал"
+        },
+        {
+          "question": "Какие впечатления"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Европейские города (поезд 2-6 часов):",
+      "content": "- **Брюссель** - 2 часа, столица ЕС\n- **Париж** - 4 часа, искусство и культура\n- **Лондон** - 4 часа, Eurostar через тоннель\n- **Берлин** - 6 часов, история и музеи\n- **Кёльн** - 3 часа, соборы и музеи"
+    },
+    {
+      "type": "text",
+      "title": "Летние направления (самолет):",
+      "content": "- **Испания** - пляжи и солнце\n- **Италия** - искусство и кухня\n- **Греция** - острова и история\n- **Португалия** - природа и серфинг"
+    },
+    {
+      "type": "text",
+      "title": "Зимние направления:",
+      "content": "- **Австрия/Швейцария** - горные лыжи\n- **Таиланд** - избежать зимы\n- **Карибы** - теплые острова"
+    }
+  ],
+  "vocabularyFile": "A2-lesson-16.json"
+}

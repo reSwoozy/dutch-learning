@@ -1,0 +1,103 @@
+{
+  "id": "conjunctions",
+  "title": "Союзы и сложные предложения",
+  "titleNL": "Voegwoorden en samengestelde zinnen",
+  "level": "A2",
+  "summary": "Союзы делятся на сочинительные (не меняют порядок слов) и подчинительные (глагол уходит в конец). Это ключевое различие в нидерландском.",
+  "rule": {
+    "formula": "Сочинительные (en, maar, of, want, dus): S-V-... | Подчинительные (omdat, dat, als, wanneer, hoewel, terwijl): S-...-V",
+    "explanation": "После сочинительных союзов порядок слов не меняется (глагол на 2-м месте). После подчинительных союзов глагол уходит в конец придаточного предложения.",
+    "whenToUse": [
+      "Сочинительные: Ik werk en hij studeert. (порядок не меняется)",
+      "Подчинительные: Ik werk, omdat ik geld nodig heb. (глагол heb в конце)",
+      "Придаточное в начале: Omdat ik ziek ben, blijf ik thuis. (инверсия в главном)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Сочинительные союзы (порядок слов НЕ меняется)",
+      "headers": ["Союз", "Значение", "Пример"],
+      "rows": [
+        ["en", "и", "Ik werk en hij studeert."],
+        ["maar", "но", "Ik wil komen, maar ik heb geen tijd."],
+        ["of", "или", "Wil je koffie of thee?"],
+        ["want", "потому что", "Ik blijf thuis, want ik ben ziek."],
+        ["dus", "поэтому", "Het regent, dus ik neem een paraplu."]
+      ]
+    },
+    {
+      "title": "Подчинительные союзы (глагол В КОНЕЦ)",
+      "headers": ["Союз", "Значение", "Пример"],
+      "rows": [
+        ["omdat", "потому что", "...omdat ik ziek ben."],
+        ["dat", "что", "Ik denk dat hij komt."],
+        ["als", "если / когда", "Als het regent, blijf ik thuis."],
+        ["wanneer", "когда", "Wanneer je klaar bent, bel me."],
+        ["toen", "когда (прошлое)", "Toen ik jong was, woonde ik in Moskou."],
+        ["hoewel", "хотя", "Hoewel het regent, ga ik fietsen."],
+        ["terwijl", "в то время как", "Terwijl ik kook, leest hij de krant."],
+        ["voordat", "прежде чем", "Voordat je gaat, ruim je kamer op."],
+        ["nadat", "после того как", "Nadat ik heb gegeten, ga ik werken."],
+        ["totdat", "до тех пор пока", "Wacht totdat ik klaar ben."],
+        ["zodat", "чтобы", "Ik studeer hard zodat ik het examen haal."],
+        ["of", "ли (косвенный вопрос)", "Ik weet niet of hij komt."]
+      ]
+    },
+    {
+      "title": "want vs omdat",
+      "headers": ["Союз", "Порядок слов", "Пример"],
+      "rows": [
+        ["want", "S-V (не меняется)", "Ik blijf thuis, want ik ben ziek."],
+        ["omdat", "S-...-V (глагол в конце)", "Ik blijf thuis, omdat ik ziek ben."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Придаточное в начале предложения",
+      "items": [
+        "Если придаточное стоит перед главным, в главном предложении происходит инверсия",
+        "Omdat ik ziek ben, blijf ik thuis. (придаточное = позиция 1, глагол главного на 2-м месте)",
+        "Als het mooi weer is, gaan we naar het strand.",
+        "Схема: [Придаточное], V-S-..."
+      ]
+    },
+    {
+      "title": "Два глагола в придаточном",
+      "items": [
+        "Оба глагола уходят в конец: ...omdat ik Nederlands wil leren.",
+        "...dat hij gisteren heeft gewerkt.",
+        "Порядок: обычно модальный/вспомогательный перед инфинитивом/причастием"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik leer Nederlands en mijn vrouw leert Frans.", "ru": "Я учу нидерландский, а моя жена учит французский." },
+    { "nl": "Ik wil komen, maar ik heb geen tijd.", "ru": "Я хочу прийти, но у меня нет времени." },
+    { "nl": "Ik blijf thuis, omdat ik ziek ben.", "ru": "Я остаюсь дома, потому что я болен." },
+    { "nl": "Ik denk dat het morgen regent.", "ru": "Я думаю, что завтра будет дождь." },
+    { "nl": "Als je vragen hebt, kun je mij bellen.", "ru": "Если у тебя есть вопросы, ты можешь мне позвонить." },
+    { "nl": "Hoewel het koud is, ga ik fietsen.", "ru": "Хотя холодно, я еду на велосипеде." },
+    { "nl": "Ik weet niet of hij morgen komt.", "ru": "Я не знаю, придет ли он завтра." }
+  ],
+  "exceptions": [
+    "want и omdat оба значат 'потому что', но want -- сочинительный (порядок не меняется), omdat -- подчинительный (глагол в конце)",
+    "of как сочинительный = или (Koffie of thee?); of как подчинительный = ли (Ik weet niet of...)",
+    "В разговорной речи после omdat иногда используют прямой порядок, но это грамматически неправильно"
+  ],
+  "commonMistakes": [
+    { "wrong": "...omdat ik ben ziek.", "correct": "...omdat ik ziek ben.", "why": "После omdat глагол в конце" },
+    { "wrong": "Omdat ik ben ziek, ik blijf thuis.", "correct": "Omdat ik ziek ben, blijf ik thuis.", "why": "Глагол в конце придаточного + инверсия в главном" },
+    { "wrong": "Ik blijf thuis, want ik ziek ben.", "correct": "Ik blijf thuis, want ik ben ziek.", "why": "want -- сочинительный, порядок слов не меняется" },
+    { "wrong": "Ik denk dat hij komt morgen.", "correct": "Ik denk dat hij morgen komt.", "why": "В придаточном глагол в конце, наречие перед ним" }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "Ik blijf thuis, __ ik ben ziek.", "options": ["want", "omdat", "dat"], "answer": "want", "explanation": "Порядок S-V не изменен -> want (сочинительный)" },
+    { "type": "fill-blank", "sentence": "Ik blijf thuis, omdat ik ziek __.", "answer": "ben", "explanation": "После omdat глагол в конце" },
+    { "type": "word-order", "words": ["omdat", "ik", "Nederlands", "wil", "leren"], "answer": "...omdat ik Nederlands wil leren.", "explanation": "Подчинительный: оба глагола в конце" },
+    { "type": "fill-blank", "sentence": "__ het regent, neem ik een paraplu.", "answer": "Als", "explanation": "Условие -> als" },
+    { "type": "choice", "question": "Ik weet niet __ hij morgen komt.", "options": ["dat", "of", "als"], "answer": "of", "explanation": "Косвенный вопрос (ли) -> of" }
+  ],
+  "relatedTopics": ["word-order", "conditional", "indirect-speech"],
+  "inLessons": [13, 25, 26, 35]
+}

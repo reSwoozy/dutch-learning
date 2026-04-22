@@ -1,0 +1,1617 @@
+[
+  {
+    "nl": "de axioma",
+    "ru": "аксиома",
+    "level": "B2"
+  },
+  {
+    "nl": "het postulaat",
+    "ru": "постулат",
+    "level": "B2"
+  },
+  {
+    "nl": "de stellingname",
+    "ru": "позиция (аргументированная)",
+    "level": "B2"
+  },
+  {
+    "nl": "het standpuntbepaling",
+    "ru": "определение позиции",
+    "level": "B2"
+  },
+  {
+    "nl": "de argumentatieve kracht",
+    "ru": "сила аргументации",
+    "level": "B2"
+  },
+  {
+    "nl": "de drogreden",
+    "ru": "софизм, ложный довод",
+    "level": "B2"
+  },
+  {
+    "nl": "de cirkelredenering",
+    "ru": "круговое доказательство",
+    "level": "B2"
+  },
+  {
+    "nl": "de hellend vlak",
+    "ru": "скользкий путь (аргумент)",
+    "level": "B2"
+  },
+  {
+    "nl": "de stroman",
+    "ru": "подмена тезиса",
+    "level": "B2"
+  },
+  {
+    "nl": "de ad hominem",
+    "ru": "аргумент к личности",
+    "level": "B2"
+  },
+  {
+    "nl": "de aanloop",
+    "ru": "подход, вступление",
+    "level": "B2"
+  },
+  {
+    "nl": "de inleiding",
+    "ru": "введение",
+    "level": "B2"
+  },
+  {
+    "nl": "het voorwoord",
+    "ru": "предисловие",
+    "level": "B2"
+  },
+  {
+    "nl": "het nawoord",
+    "ru": "послесловие",
+    "level": "B2"
+  },
+  {
+    "nl": "de bijlage",
+    "ru": "приложение",
+    "level": "B2"
+  },
+  {
+    "nl": "de voetnoot",
+    "ru": "сноска",
+    "level": "B2"
+  },
+  {
+    "nl": "de eindnoot",
+    "ru": "концевая сноска",
+    "level": "B2"
+  },
+  {
+    "nl": "de bibliografie",
+    "ru": "библиография",
+    "level": "B2"
+  },
+  {
+    "nl": "de literatuurlijst",
+    "ru": "список литературы",
+    "level": "B2"
+  },
+  {
+    "nl": "de verwijzing",
+    "ru": "ссылка",
+    "level": "B2"
+  },
+  {
+    "nl": "het citaat",
+    "ru": "цитата",
+    "level": "B2"
+  },
+  {
+    "nl": "de parafrase",
+    "ru": "пересказ, парафраз",
+    "level": "B2"
+  },
+  {
+    "nl": "de samenvatting",
+    "ru": "краткое содержание",
+    "level": "B2"
+  },
+  {
+    "nl": "de abstract",
+    "ru": "аннотация",
+    "level": "B2"
+  },
+  {
+    "nl": "de synopsis",
+    "ru": "синопсис",
+    "level": "B2"
+  },
+  {
+    "nl": "het manuscript",
+    "ru": "рукопись",
+    "level": "B2"
+  },
+  {
+    "nl": "de scriptie",
+    "ru": "дипломная работа",
+    "level": "B2"
+  },
+  {
+    "nl": "het proefschrift",
+    "ru": "диссертация",
+    "level": "B2"
+  },
+  {
+    "nl": "de doctoraalscriptie",
+    "ru": "магистерская диссертация",
+    "level": "B2"
+  },
+  {
+    "nl": "het promotieonderzoek",
+    "ru": "докторское исследование",
+    "level": "B2"
+  },
+  {
+    "nl": "de promovendus",
+    "ru": "соискатель PhD",
+    "level": "B2"
+  },
+  {
+    "nl": "de promotor",
+    "ru": "научный руководитель",
+    "level": "B2"
+  },
+  {
+    "nl": "de co-promotor",
+    "ru": "со-руководитель",
+    "level": "B2"
+  },
+  {
+    "nl": "de leescommissie",
+    "ru": "экзаменационная комиссия",
+    "level": "B2"
+  },
+  {
+    "nl": "de verdediging",
+    "ru": "защита (диссертации)",
+    "level": "B2"
+  },
+  {
+    "nl": "de opponent",
+    "ru": "оппонент",
+    "level": "B2"
+  },
+  {
+    "nl": "de stellingen",
+    "ru": "тезисы (к защите)",
+    "level": "B2"
+  },
+  {
+    "nl": "de onderzoeksvraag",
+    "ru": "исследовательский вопрос",
+    "level": "B2"
+  },
+  {
+    "nl": "het onderzoeksvoorstel",
+    "ru": "исследовательское предложение",
+    "level": "B2"
+  },
+  {
+    "nl": "het theoretisch kader",
+    "ru": "теоретическая рамка",
+    "level": "B2"
+  },
+  {
+    "nl": "de casestudy",
+    "ru": "кейс-стади",
+    "level": "B2"
+  },
+  {
+    "nl": "het experiment",
+    "ru": "эксперимент",
+    "level": "B2"
+  },
+  {
+    "nl": "de proefopstelling",
+    "ru": "экспериментальная установка",
+    "level": "B2"
+  },
+  {
+    "nl": "de controlegroep",
+    "ru": "контрольная группа",
+    "level": "B2"
+  },
+  {
+    "nl": "de experimentele groep",
+    "ru": "экспериментальная группа",
+    "level": "B2"
+  },
+  {
+    "nl": "de variabele",
+    "ru": "переменная",
+    "level": "B2"
+  },
+  {
+    "nl": "de onafhankelijke variabele",
+    "ru": "независимая переменная",
+    "level": "B2"
+  },
+  {
+    "nl": "de afhankelijke variabele",
+    "ru": "зависимая переменная",
+    "level": "B2"
+  },
+  {
+    "nl": "de correlatie",
+    "ru": "корреляция",
+    "level": "B2"
+  },
+  {
+    "nl": "de causaliteit",
+    "ru": "причинность",
+    "level": "B2"
+  },
+  {
+    "nl": "de significantie",
+    "ru": "значимость",
+    "level": "B2"
+  },
+  {
+    "nl": "de standaardafwijking",
+    "ru": "стандартное отклонение",
+    "level": "B2"
+  },
+  {
+    "nl": "de spreiding",
+    "ru": "разброс",
+    "level": "B2"
+  },
+  {
+    "nl": "het gemiddelde",
+    "ru": "среднее",
+    "level": "B2"
+  },
+  {
+    "nl": "de mediaan",
+    "ru": "медиана",
+    "level": "B2"
+  },
+  {
+    "nl": "de modus",
+    "ru": "мода (стат.)",
+    "level": "B2"
+  },
+  {
+    "nl": "de regressie",
+    "ru": "регрессия",
+    "level": "B2"
+  },
+  {
+    "nl": "de factoranalyse",
+    "ru": "факторный анализ",
+    "level": "B2"
+  },
+  {
+    "nl": "de t-toets",
+    "ru": "t-тест",
+    "level": "B2"
+  },
+  {
+    "nl": "de anova",
+    "ru": "ANOVA (дисперсионный анализ)",
+    "level": "B2"
+  },
+  {
+    "nl": "de chi-kwadraat",
+    "ru": "хи-квадрат",
+    "level": "B2"
+  },
+  {
+    "nl": "de betrouwbaarheidsinterval",
+    "ru": "доверительный интервал",
+    "level": "B2"
+  },
+  {
+    "nl": "de effectgrootte",
+    "ru": "размер эффекта",
+    "level": "B2"
+  },
+  {
+    "nl": "de validiteit",
+    "ru": "валидность",
+    "level": "B2"
+  },
+  {
+    "nl": "de interne validiteit",
+    "ru": "внутренняя валидность",
+    "level": "B2"
+  },
+  {
+    "nl": "de externe validiteit",
+    "ru": "внешняя валидность",
+    "level": "B2"
+  },
+  {
+    "nl": "de betrouwbaarheid",
+    "ru": "надёжность (стат.)",
+    "level": "B2"
+  },
+  {
+    "nl": "de generaliseerbaarheid",
+    "ru": "обобщаемость",
+    "level": "B2"
+  },
+  {
+    "nl": "de replicatie",
+    "ru": "репликация (воспроизведение)",
+    "level": "B2"
+  },
+  {
+    "nl": "de meta-analyse",
+    "ru": "метаанализ",
+    "level": "B2"
+  },
+  {
+    "nl": "de literatuurstudie",
+    "ru": "обзор литературы",
+    "level": "B2"
+  },
+  {
+    "nl": "de systematische review",
+    "ru": "систематический обзор",
+    "level": "B2"
+  },
+  {
+    "nl": "de kwalitatief onderzoek",
+    "ru": "качественное исследование",
+    "level": "B2"
+  },
+  {
+    "nl": "de kwantitatief onderzoek",
+    "ru": "количественное исследование",
+    "level": "B2"
+  },
+  {
+    "nl": "de triangulatie",
+    "ru": "триангуляция",
+    "level": "B2"
+  },
+  {
+    "nl": "de hermeneutiek",
+    "ru": "герменевтика",
+    "level": "B2"
+  },
+  {
+    "nl": "de fenomenologie",
+    "ru": "феноменология",
+    "level": "B2"
+  },
+  {
+    "nl": "de grounded theory",
+    "ru": "обоснованная теория",
+    "level": "B2"
+  },
+  {
+    "nl": "de ethnografie",
+    "ru": "этнография",
+    "level": "B2"
+  },
+  {
+    "nl": "de discoursanalyse",
+    "ru": "дискурс-анализ",
+    "level": "B2"
+  },
+  {
+    "nl": "de inhoudsanalyse",
+    "ru": "контент-анализ",
+    "level": "B2"
+  },
+  {
+    "nl": "de narratieve analyse",
+    "ru": "нарративный анализ",
+    "level": "B2"
+  },
+  {
+    "nl": "de longitudinaal onderzoek",
+    "ru": "лонгитюдное исследование",
+    "level": "B2"
+  },
+  {
+    "nl": "de cross-sectioneel onderzoek",
+    "ru": "поперечное исследование",
+    "level": "B2"
+  },
+  {
+    "nl": "het panelonderzoek",
+    "ru": "панельное исследование",
+    "level": "B2"
+  },
+  {
+    "nl": "het veldwerk",
+    "ru": "полевая работа",
+    "level": "B2"
+  },
+  {
+    "nl": "het proefschrift indienen",
+    "ru": "сдать диссертацию",
+    "level": "B2"
+  },
+  {
+    "nl": "cum laude promoveren",
+    "ru": "защититься с отличием",
+    "level": "B2"
+  },
+  {
+    "nl": "de hoogleraar",
+    "ru": "профессор",
+    "level": "B2"
+  },
+  {
+    "nl": "de universitair hoofddocent",
+    "ru": "доцент",
+    "level": "B2"
+  },
+  {
+    "nl": "de universitair docent",
+    "ru": "преподаватель университета",
+    "level": "B2"
+  },
+  {
+    "nl": "de postdoc",
+    "ru": "постдок",
+    "level": "B2"
+  },
+  {
+    "nl": "de onderzoeker",
+    "ru": "исследователь",
+    "level": "B2"
+  },
+  {
+    "nl": "de wetenschapper",
+    "ru": "учёный",
+    "level": "B2"
+  },
+  {
+    "nl": "de academicus",
+    "ru": "академик",
+    "level": "B2"
+  },
+  {
+    "nl": "het lectoraat",
+    "ru": "кафедра прикладной науки",
+    "level": "B2"
+  },
+  {
+    "nl": "het onderzoeksproject",
+    "ru": "исследовательский проект",
+    "level": "B2"
+  },
+  {
+    "nl": "de subsidieaanvraag",
+    "ru": "заявка на грант",
+    "level": "B2"
+  },
+  {
+    "nl": "de NWO-beurs",
+    "ru": "грант NWO",
+    "level": "B2"
+  },
+  {
+    "nl": "de Horizon-subsidie",
+    "ru": "грант Horizon",
+    "level": "B2"
+  },
+  {
+    "nl": "de tweede geldstroom",
+    "ru": "второй поток финансирования",
+    "level": "B2"
+  },
+  {
+    "nl": "de derde geldstroom",
+    "ru": "третий поток финансирования",
+    "level": "B2"
+  },
+  {
+    "nl": "de valorisatie",
+    "ru": "валоризация (применение науки)",
+    "level": "B2"
+  },
+  {
+    "nl": "het open access",
+    "ru": "открытый доступ",
+    "level": "B2"
+  },
+  {
+    "nl": "de preprint",
+    "ru": "препринт",
+    "level": "B2"
+  },
+  {
+    "nl": "de repository",
+    "ru": "репозиторий",
+    "level": "B2"
+  },
+  {
+    "nl": "de data management plan",
+    "ru": "план управления данными",
+    "level": "B2"
+  },
+  {
+    "nl": "de FAIR-principes",
+    "ru": "принципы FAIR",
+    "level": "B2"
+  },
+  {
+    "nl": "de ethische commissie",
+    "ru": "этический комитет",
+    "level": "B2"
+  },
+  {
+    "nl": "de informed consent",
+    "ru": "информированное согласие",
+    "level": "B2"
+  },
+  {
+    "nl": "de anonimisering",
+    "ru": "анонимизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de pseudonimisering",
+    "ru": "псевдонимизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de gegevenswet",
+    "ru": "закон о персональных данных",
+    "level": "B2"
+  },
+  {
+    "nl": "de AVG",
+    "ru": "GDPR (нидерландский эквивалент)",
+    "level": "B2"
+  },
+  {
+    "nl": "de functionaris gegevensbescherming",
+    "ru": "офицер по защите данных",
+    "level": "B2"
+  },
+  {
+    "nl": "de datalek",
+    "ru": "утечка данных",
+    "level": "B2"
+  },
+  {
+    "nl": "de cyberaanval",
+    "ru": "кибератака",
+    "level": "B2"
+  },
+  {
+    "nl": "de ransomware",
+    "ru": "программа-вымогатель",
+    "level": "B2"
+  },
+  {
+    "nl": "de phishing",
+    "ru": "фишинг",
+    "level": "B2"
+  },
+  {
+    "nl": "de malware",
+    "ru": "вредоносное ПО",
+    "level": "B2"
+  },
+  {
+    "nl": "de firewall",
+    "ru": "файервол",
+    "level": "B2"
+  },
+  {
+    "nl": "de encryptie",
+    "ru": "шифрование",
+    "level": "B2"
+  },
+  {
+    "nl": "de tweefactorauthenticatie",
+    "ru": "двухфакторная аутентификация",
+    "level": "B2"
+  },
+  {
+    "nl": "de biometrische identificatie",
+    "ru": "биометрическая идентификация",
+    "level": "B2"
+  },
+  {
+    "nl": "de blockchain",
+    "ru": "блокчейн",
+    "level": "B2"
+  },
+  {
+    "nl": "de cryptovaluta",
+    "ru": "криптовалюта",
+    "level": "B2"
+  },
+  {
+    "nl": "de cloud computing",
+    "ru": "облачные вычисления",
+    "level": "B2"
+  },
+  {
+    "nl": "de machine learning",
+    "ru": "машинное обучение",
+    "level": "B2"
+  },
+  {
+    "nl": "de deep learning",
+    "ru": "глубокое обучение",
+    "level": "B2"
+  },
+  {
+    "nl": "het neuraal netwerk",
+    "ru": "нейронная сеть",
+    "level": "B2"
+  },
+  {
+    "nl": "het algoritme",
+    "ru": "алгоритм",
+    "level": "B2"
+  },
+  {
+    "nl": "de bias",
+    "ru": "предвзятость (алгоритмическая)",
+    "level": "B2"
+  },
+  {
+    "nl": "de transparantie",
+    "ru": "прозрачность (алг.)",
+    "level": "B2"
+  },
+  {
+    "nl": "de verklaarbaarheid",
+    "ru": "объяснимость (ИИ)",
+    "level": "B2"
+  },
+  {
+    "nl": "de ethiek van AI",
+    "ru": "этика ИИ",
+    "level": "B2"
+  },
+  {
+    "nl": "de singulariteit",
+    "ru": "сингулярность",
+    "level": "B2"
+  },
+  {
+    "nl": "de technologische ontwrichting",
+    "ru": "технологическая дисрупция",
+    "level": "B2"
+  },
+  {
+    "nl": "de disruptieve innovatie",
+    "ru": "дисруптивная инновация",
+    "level": "B2"
+  },
+  {
+    "nl": "de start-up",
+    "ru": "стартап",
+    "level": "B2"
+  },
+  {
+    "nl": "de scale-up",
+    "ru": "масштабируемая компания",
+    "level": "B2"
+  },
+  {
+    "nl": "de durfkapitalist",
+    "ru": "венчурный инвестор",
+    "level": "B2"
+  },
+  {
+    "nl": "de aandeelhouder",
+    "ru": "акционер",
+    "level": "B2"
+  },
+  {
+    "nl": "de investeerder",
+    "ru": "инвестор",
+    "level": "B2"
+  },
+  {
+    "nl": "de beurswaarde",
+    "ru": "биржевая стоимость",
+    "level": "B2"
+  },
+  {
+    "nl": "de marktkapitalisatie",
+    "ru": "рыночная капитализация",
+    "level": "B2"
+  },
+  {
+    "nl": "de fusie",
+    "ru": "слияние",
+    "level": "B2"
+  },
+  {
+    "nl": "de overname",
+    "ru": "поглощение",
+    "level": "B2"
+  },
+  {
+    "nl": "de gedwongen vertrek",
+    "ru": "вынужденный уход",
+    "level": "B2"
+  },
+  {
+    "nl": "de reorganisatie",
+    "ru": "реорганизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de sanering",
+    "ru": "санация, оздоровление",
+    "level": "B2"
+  },
+  {
+    "nl": "het faillissement",
+    "ru": "банкротство",
+    "level": "B2"
+  },
+  {
+    "nl": "de curator",
+    "ru": "конкурсный управляющий",
+    "level": "B2"
+  },
+  {
+    "nl": "de surseance van betaling",
+    "ru": "отсрочка платежей",
+    "level": "B2"
+  },
+  {
+    "nl": "de doorstart",
+    "ru": "перезапуск (компании)",
+    "level": "B2"
+  },
+  {
+    "nl": "de omzetbelasting",
+    "ru": "НДС",
+    "level": "B2"
+  },
+  {
+    "nl": "de vennootschapsbelasting",
+    "ru": "корпоративный налог",
+    "level": "B2"
+  },
+  {
+    "nl": "de dividend belasting",
+    "ru": "налог на дивиденды",
+    "level": "B2"
+  },
+  {
+    "nl": "de kapitaalwinst",
+    "ru": "прирост капитала",
+    "level": "B2"
+  },
+  {
+    "nl": "de aflossingsvrije hypotheek",
+    "ru": "ипотека только с процентами",
+    "level": "B2"
+  },
+  {
+    "nl": "de annuïteitenhypotheek",
+    "ru": "аннуитетная ипотека",
+    "level": "B2"
+  },
+  {
+    "nl": "de lineaire hypotheek",
+    "ru": "линейная ипотека",
+    "level": "B2"
+  },
+  {
+    "nl": "de spaarhypotheek",
+    "ru": "сберегательная ипотека",
+    "level": "B2"
+  },
+  {
+    "nl": "de rentevaste periode",
+    "ru": "период фиксированной ставки",
+    "level": "B2"
+  },
+  {
+    "nl": "de variabele rente",
+    "ru": "плавающая ставка",
+    "level": "B2"
+  },
+  {
+    "nl": "de boeterente",
+    "ru": "штрафная процентная ставка",
+    "level": "B2"
+  },
+  {
+    "nl": "de oversluitkosten",
+    "ru": "расходы на перекредитование",
+    "level": "B2"
+  },
+  {
+    "nl": "de Nationale Hypotheek Garantie",
+    "ru": "национальная ипотечная гарантия",
+    "level": "B2"
+  },
+  {
+    "nl": "de starterslening",
+    "ru": "кредит для начинающих покупателей",
+    "level": "B2"
+  },
+  {
+    "nl": "de jubelton",
+    "ru": "подарок до 100 тыс. евро (отменён)",
+    "level": "B2"
+  },
+  {
+    "nl": "de schenkingsvrijstelling",
+    "ru": "освобождение от налога на дарение",
+    "level": "B2"
+  },
+  {
+    "nl": "het legitieme deel",
+    "ru": "обязательная доля наследства",
+    "level": "B2"
+  },
+  {
+    "nl": "de erfgenaam",
+    "ru": "наследник",
+    "level": "B2"
+  },
+  {
+    "nl": "de testament",
+    "ru": "завещание",
+    "level": "B2"
+  },
+  {
+    "nl": "de executeur-testamentair",
+    "ru": "исполнитель завещания",
+    "level": "B2"
+  },
+  {
+    "nl": "de nalatenschap",
+    "ru": "наследство",
+    "level": "B2"
+  },
+  {
+    "nl": "de levensverzekering",
+    "ru": "страхование жизни",
+    "level": "B2"
+  },
+  {
+    "nl": "de uitvaartverzekering",
+    "ru": "страхование похорон",
+    "level": "B2"
+  },
+  {
+    "nl": "de rechtsbijstandverzekering",
+    "ru": "страхование юридической помощи",
+    "level": "B2"
+  },
+  {
+    "nl": "de opstalverzekering",
+    "ru": "страхование здания",
+    "level": "B2"
+  },
+  {
+    "nl": "de inboedelverzekering",
+    "ru": "страхование имущества",
+    "level": "B2"
+  },
+  {
+    "nl": "de aansprakelijkheidsverzekering",
+    "ru": "страхование ответственности",
+    "level": "B2"
+  },
+  {
+    "nl": "de rechtshandhaving",
+    "ru": "правоприменение",
+    "level": "B2"
+  },
+  {
+    "nl": "de strafrecht",
+    "ru": "уголовное право",
+    "level": "B2"
+  },
+  {
+    "nl": "het burgerlijk recht",
+    "ru": "гражданское право",
+    "level": "B2"
+  },
+  {
+    "nl": "het bestuursrecht",
+    "ru": "административное право",
+    "level": "B2"
+  },
+  {
+    "nl": "het staatsrecht",
+    "ru": "государственное право",
+    "level": "B2"
+  },
+  {
+    "nl": "het arbeidsrecht",
+    "ru": "трудовое право",
+    "level": "B2"
+  },
+  {
+    "nl": "het familierecht",
+    "ru": "семейное право",
+    "level": "B2"
+  },
+  {
+    "nl": "het erfrecht",
+    "ru": "наследственное право",
+    "level": "B2"
+  },
+  {
+    "nl": "het goederenrecht",
+    "ru": "вещное право",
+    "level": "B2"
+  },
+  {
+    "nl": "het verbintenissenrecht",
+    "ru": "обязательственное право",
+    "level": "B2"
+  },
+  {
+    "nl": "de wetsartikel",
+    "ru": "статья закона",
+    "level": "B2"
+  },
+  {
+    "nl": "de jurisprudentie",
+    "ru": "прецедентное право",
+    "level": "B2"
+  },
+  {
+    "nl": "het precedent",
+    "ru": "прецедент",
+    "level": "B2"
+  },
+  {
+    "nl": "de rechtsgang",
+    "ru": "судебный процесс",
+    "level": "B2"
+  },
+  {
+    "nl": "de dagvaarding",
+    "ru": "повестка в суд",
+    "level": "B2"
+  },
+  {
+    "nl": "de conclusie van antwoord",
+    "ru": "отзыв на иск",
+    "level": "B2"
+  },
+  {
+    "nl": "het pleidooi",
+    "ru": "защитительная речь",
+    "level": "B2"
+  },
+  {
+    "nl": "de getuigenverklaring",
+    "ru": "свидетельские показания",
+    "level": "B2"
+  },
+  {
+    "nl": "de bewijslast",
+    "ru": "бремя доказывания",
+    "level": "B2"
+  },
+  {
+    "nl": "de bewijsvoering",
+    "ru": "доказательство (процесс)",
+    "level": "B2"
+  },
+  {
+    "nl": "de tegenbewijs",
+    "ru": "контрдоказательство",
+    "level": "B2"
+  },
+  {
+    "nl": "de onschuldpresumptie",
+    "ru": "презумпция невиновности",
+    "level": "B2"
+  },
+  {
+    "nl": "de rechtsbijstand",
+    "ru": "юридическая помощь",
+    "level": "B2"
+  },
+  {
+    "nl": "de pro deo advocaat",
+    "ru": "бесплатный адвокат",
+    "level": "B2"
+  },
+  {
+    "nl": "de mediation",
+    "ru": "медиация",
+    "level": "B2"
+  },
+  {
+    "nl": "de arbitrage",
+    "ru": "арбитраж",
+    "level": "B2"
+  },
+  {
+    "nl": "het kort geding",
+    "ru": "срочное судебное разбирательство",
+    "level": "B2"
+  },
+  {
+    "nl": "de bodemprocedure",
+    "ru": "основное разбирательство",
+    "level": "B2"
+  },
+  {
+    "nl": "de uitspraak",
+    "ru": "вынесение решения",
+    "level": "B2"
+  },
+  {
+    "nl": "de motivering",
+    "ru": "мотивировочная часть",
+    "level": "B2"
+  },
+  {
+    "nl": "het dictum",
+    "ru": "резолютивная часть",
+    "level": "B2"
+  },
+  {
+    "nl": "het kracht van gewijsde",
+    "ru": "вступление в законную силу",
+    "level": "B2"
+  },
+  {
+    "nl": "de executie",
+    "ru": "исполнение (решения)",
+    "level": "B2"
+  },
+  {
+    "nl": "de beslaglegging",
+    "ru": "наложение ареста",
+    "level": "B2"
+  },
+  {
+    "nl": "de deurwaarder",
+    "ru": "судебный пристав",
+    "level": "B2"
+  },
+  {
+    "nl": "de incasso",
+    "ru": "взыскание долга",
+    "level": "B2"
+  },
+  {
+    "nl": "het inpandgeven",
+    "ru": "залог",
+    "level": "B2"
+  },
+  {
+    "nl": "de borgstelling",
+    "ru": "поручительство",
+    "level": "B2"
+  },
+  {
+    "nl": "de schuldsanering",
+    "ru": "реструктуризация долга",
+    "level": "B2"
+  },
+  {
+    "nl": "de wsnp",
+    "ru": "WSNP (закон о санации долгов физ. лиц)",
+    "level": "B2"
+  },
+  {
+    "nl": "het minnelijk traject",
+    "ru": "досудебный путь урегулирования",
+    "level": "B2"
+  },
+  {
+    "nl": "de schuldhulpverlening",
+    "ru": "долговая консультация",
+    "level": "B2"
+  },
+  {
+    "nl": "de budgetbeheer",
+    "ru": "управление бюджетом",
+    "level": "B2"
+  },
+  {
+    "nl": "de bewindvoering",
+    "ru": "опекунство над финансами",
+    "level": "B2"
+  },
+  {
+    "nl": "het curatorschap",
+    "ru": "опека",
+    "level": "B2"
+  },
+  {
+    "nl": "het mentorschap",
+    "ru": "менторство (юр.)",
+    "level": "B2"
+  },
+  {
+    "nl": "de wilsbekwaamheid",
+    "ru": "дееспособность",
+    "level": "B2"
+  },
+  {
+    "nl": "de wilsonbekwaamheid",
+    "ru": "недееспособность",
+    "level": "B2"
+  },
+  {
+    "nl": "de wilsverklaring",
+    "ru": "заявление о волеизъявлении",
+    "level": "B2"
+  },
+  {
+    "nl": "het levenstestament",
+    "ru": "прижизненное завещание",
+    "level": "B2"
+  },
+  {
+    "nl": "de euthanasie",
+    "ru": "эвтаназия",
+    "level": "B2"
+  },
+  {
+    "nl": "de palliatieve zorg",
+    "ru": "паллиативная помощь",
+    "level": "B2"
+  },
+  {
+    "nl": "de terminale fase",
+    "ru": "терминальная фаза",
+    "level": "B2"
+  },
+  {
+    "nl": "de ondraaglijk lijden",
+    "ru": "невыносимые страдания",
+    "level": "B2"
+  },
+  {
+    "nl": "de uitzichtloos lijden",
+    "ru": "безнадёжные страдания",
+    "level": "B2"
+  },
+  {
+    "nl": "de zorgvuldigheidseisen",
+    "ru": "требования тщательности",
+    "level": "B2"
+  },
+  {
+    "nl": "de regionale toetsingscommissie",
+    "ru": "региональная оценочная комиссия",
+    "level": "B2"
+  },
+  {
+    "nl": "de wegingscriteria",
+    "ru": "критерии оценки",
+    "level": "B2"
+  },
+  {
+    "nl": "de beroepsethiek",
+    "ru": "профессиональная этика",
+    "level": "B2"
+  },
+  {
+    "nl": "de gedragscode",
+    "ru": "кодекс поведения",
+    "level": "B2"
+  },
+  {
+    "nl": "de klokkenluider",
+    "ru": "информатор",
+    "level": "B2"
+  },
+  {
+    "nl": "de klokkenluiders regeling",
+    "ru": "регламент информаторов",
+    "level": "B2"
+  },
+  {
+    "nl": "de integriteitsmelding",
+    "ru": "заявление о нарушении этики",
+    "level": "B2"
+  },
+  {
+    "nl": "de tuchtzaak",
+    "ru": "дисциплинарное дело",
+    "level": "B2"
+  },
+  {
+    "nl": "de tuchtrechter",
+    "ru": "дисциплинарный судья",
+    "level": "B2"
+  },
+  {
+    "nl": "de beroepsvereniging",
+    "ru": "профессиональная ассоциация",
+    "level": "B2"
+  },
+  {
+    "nl": "de vakbond",
+    "ru": "профсоюз",
+    "level": "B2"
+  },
+  {
+    "nl": "de cao-onderhandelingen",
+    "ru": "переговоры по коллективному договору",
+    "level": "B2"
+  },
+  {
+    "nl": "de stakingsrecht",
+    "ru": "право на забастовку",
+    "level": "B2"
+  },
+  {
+    "nl": "de prikactie",
+    "ru": "точечная забастовка",
+    "level": "B2"
+  },
+  {
+    "nl": "de sympathie-actie",
+    "ru": "забастовка солидарности",
+    "level": "B2"
+  },
+  {
+    "nl": "het overleg",
+    "ru": "консультации",
+    "level": "B2"
+  },
+  {
+    "nl": "het poldermodel",
+    "ru": "голландская консультативная модель",
+    "level": "B2"
+  },
+  {
+    "nl": "het gedogen",
+    "ru": "терпимость (официальная)",
+    "level": "B2"
+  },
+  {
+    "nl": "de gedoogbeleid",
+    "ru": "политика терпимости",
+    "level": "B2"
+  },
+  {
+    "nl": "de verzuiling",
+    "ru": "столбовая структура общества",
+    "level": "B2"
+  },
+  {
+    "nl": "de ontzuiling",
+    "ru": "деструктурирование общества",
+    "level": "B2"
+  },
+  {
+    "nl": "de secularisatie",
+    "ru": "секуляризация",
+    "level": "B2"
+  },
+  {
+    "nl": "de individualisering",
+    "ru": "индивидуализация",
+    "level": "B2"
+  },
+  {
+    "nl": "de multiculturaliteit",
+    "ru": "мультикультурность",
+    "level": "B2"
+  },
+  {
+    "nl": "de interculturele communicatie",
+    "ru": "межкультурная коммуникация",
+    "level": "B2"
+  },
+  {
+    "nl": "de assimilatie",
+    "ru": "ассимиляция",
+    "level": "B2"
+  },
+  {
+    "nl": "de acculturatie",
+    "ru": "аккультурация",
+    "level": "B2"
+  },
+  {
+    "nl": "de identiteitspolitiek",
+    "ru": "идентитарная политика",
+    "level": "B2"
+  },
+  {
+    "nl": "het nationalisme",
+    "ru": "национализм",
+    "level": "B2"
+  },
+  {
+    "nl": "het kosmopolitisme",
+    "ru": "космополитизм",
+    "level": "B2"
+  },
+  {
+    "nl": "het communautarisme",
+    "ru": "коммунитаризм",
+    "level": "B2"
+  },
+  {
+    "nl": "het individualisme",
+    "ru": "индивидуализм",
+    "level": "B2"
+  },
+  {
+    "nl": "het collectivisme",
+    "ru": "коллективизм",
+    "level": "B2"
+  },
+  {
+    "nl": "het materialisme",
+    "ru": "материализм",
+    "level": "B2"
+  },
+  {
+    "nl": "het postmaterialisme",
+    "ru": "постматериализм",
+    "level": "B2"
+  },
+  {
+    "nl": "het consumentisme",
+    "ru": "потребительство",
+    "level": "B2"
+  },
+  {
+    "nl": "het minimalisme",
+    "ru": "минимализм",
+    "level": "B2"
+  },
+  {
+    "nl": "de deeleconomie",
+    "ru": "экономика совместного потребления",
+    "level": "B2"
+  },
+  {
+    "nl": "de circulaire economie",
+    "ru": "циркулярная экономика",
+    "level": "B2"
+  },
+  {
+    "nl": "de kringloopwinkel",
+    "ru": "комиссионный магазин",
+    "level": "B2"
+  },
+  {
+    "nl": "de tweedehands",
+    "ru": "подержанный",
+    "level": "B2"
+  },
+  {
+    "nl": "de upcycling",
+    "ru": "апсайклинг",
+    "level": "B2"
+  },
+  {
+    "nl": "de vintage",
+    "ru": "винтаж",
+    "level": "B2"
+  },
+  {
+    "nl": "de couture",
+    "ru": "кутюр",
+    "level": "B2"
+  },
+  {
+    "nl": "de erfgoedsector",
+    "ru": "сектор культурного наследия",
+    "level": "B2"
+  },
+  {
+    "nl": "het immaterieel erfgoed",
+    "ru": "нематериальное наследие",
+    "level": "B2"
+  },
+  {
+    "nl": "de traditie-eigen",
+    "ru": "традиционный",
+    "level": "B2"
+  },
+  {
+    "nl": "de folklore",
+    "ru": "фольклор",
+    "level": "B2"
+  },
+  {
+    "nl": "de volkscultuur",
+    "ru": "народная культура",
+    "level": "B2"
+  },
+  {
+    "nl": "de hoge cultuur",
+    "ru": "высокая культура",
+    "level": "B2"
+  },
+  {
+    "nl": "de lage cultuur",
+    "ru": "массовая культура",
+    "level": "B2"
+  },
+  {
+    "nl": "de avant-garde",
+    "ru": "авангард",
+    "level": "B2"
+  },
+  {
+    "nl": "de mainstream",
+    "ru": "мейнстрим",
+    "level": "B2"
+  },
+  {
+    "nl": "de subcultuur",
+    "ru": "субкультура",
+    "level": "B2"
+  },
+  {
+    "nl": "de tegencultuur",
+    "ru": "контркультура",
+    "level": "B2"
+  },
+  {
+    "nl": "de popcultuur",
+    "ru": "поп-культура",
+    "level": "B2"
+  },
+  {
+    "nl": "de hoogstandje",
+    "ru": "мастерство, шедевр",
+    "level": "B2"
+  },
+  {
+    "nl": "de kunstenaar",
+    "ru": "художник (исп. искусства)",
+    "level": "B2"
+  },
+  {
+    "nl": "de beeldhouwer",
+    "ru": "скульптор",
+    "level": "B2"
+  },
+  {
+    "nl": "de fotograaf",
+    "ru": "фотограф",
+    "level": "B2"
+  },
+  {
+    "nl": "de choreograaf",
+    "ru": "хореограф",
+    "level": "B2"
+  },
+  {
+    "nl": "de regisseur",
+    "ru": "режиссёр",
+    "level": "B2"
+  },
+  {
+    "nl": "de scenarioschrijver",
+    "ru": "сценарист",
+    "level": "B2"
+  },
+  {
+    "nl": "de toneelschrijver",
+    "ru": "драматург",
+    "level": "B2"
+  },
+  {
+    "nl": "de dirigent",
+    "ru": "дирижёр",
+    "level": "B2"
+  },
+  {
+    "nl": "de componist",
+    "ru": "композитор",
+    "level": "B2"
+  },
+  {
+    "nl": "de musicus",
+    "ru": "музыкант",
+    "level": "B2"
+  },
+  {
+    "nl": "de schilder",
+    "ru": "художник (картины)",
+    "level": "B2"
+  },
+  {
+    "nl": "de tekenaar",
+    "ru": "рисовальщик",
+    "level": "B2"
+  },
+  {
+    "nl": "de illustrator",
+    "ru": "иллюстратор",
+    "level": "B2"
+  },
+  {
+    "nl": "de curator",
+    "ru": "куратор (выставки)",
+    "level": "B2"
+  },
+  {
+    "nl": "de recensie schrijven",
+    "ru": "писать рецензию",
+    "level": "B2"
+  },
+  {
+    "nl": "de kritiek leveren",
+    "ru": "давать критику",
+    "level": "B2"
+  },
+  {
+    "nl": "de waardering",
+    "ru": "оценка, высокая оценка",
+    "level": "B2"
+  },
+  {
+    "nl": "de onderwaardering",
+    "ru": "недооценка",
+    "level": "B2"
+  },
+  {
+    "nl": "de overwaardering",
+    "ru": "переоценка",
+    "level": "B2"
+  },
+  {
+    "nl": "de hype",
+    "ru": "хайп",
+    "level": "B2"
+  },
+  {
+    "nl": "de trendsetter",
+    "ru": "законодатель моды",
+    "level": "B2"
+  },
+  {
+    "nl": "de influencer",
+    "ru": "инфлюенсер",
+    "level": "B2"
+  },
+  {
+    "nl": "de follower",
+    "ru": "подписчик",
+    "level": "B2"
+  },
+  {
+    "nl": "de engagement",
+    "ru": "вовлечённость (онлайн)",
+    "level": "B2"
+  },
+  {
+    "nl": "de viral",
+    "ru": "вирусный",
+    "level": "B2"
+  },
+  {
+    "nl": "de clickbait",
+    "ru": "кликбейт",
+    "level": "B2"
+  },
+  {
+    "nl": "de algoritmische zeepbel",
+    "ru": "алгоритмический пузырь",
+    "level": "B2"
+  },
+  {
+    "nl": "de echo chamber",
+    "ru": "эхо-камера",
+    "level": "B2"
+  },
+  {
+    "nl": "de filter bubble",
+    "ru": "фильтр-пузырь",
+    "level": "B2"
+  }
+]

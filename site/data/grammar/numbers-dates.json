@@ -1,0 +1,171 @@
+{
+  "id": "numbers-dates",
+  "title": "Числительные, даты, время, деньги",
+  "titleNL": "Getallen, data, tijd en geld",
+  "level": "A1",
+  "summary": "Полный справочник: количественные и порядковые числительные, чтение лет (negentienhonderd...), дробей, процентов, времени (half negen = 8:30!), дат в письмах и официальных документах, евро.",
+  "rule": {
+    "formula": "единицы и десятки инвертируются: vijfentwintig = 5 + en + 20 = 25.",
+    "explanation": "В нидерландском (и немецком) сначала произносят единицы, потом десятки, соединяя 'en'. Порядковые числа образуются суффиксом -de / -ste. 'Half' указывает на половину следующего часа: 'half negen' = 'полдевятого' = 8:30, а не 9:30.",
+    "whenToUse": [
+      "В телефонах и адресах: читайте парами или по одной цифре.",
+      "В ценах и весах: дробь через запятую (2,50 евро), тысячи через точку (1.500).",
+      "В датах: 21 maart 2026 (день — месяц — год, без 'th/st' как в англ.).",
+      "Время: 8:30 = half negen, 8:15 = kwart over acht, 8:45 = kwart voor negen."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Количественные числительные",
+      "headers": ["Число", "Нидерландский", "Заметка"],
+      "rows": [
+        ["0-10", "nul, een, twee, drie, vier, vijf, zes, zeven, acht, negen, tien", ""],
+        ["11-20", "elf, twaalf, dertien, veertien, vijftien, zestien, zeventien, achttien, negentien, twintig", ""],
+        ["21, 22, 35", "eenentwintig, tweeëntwintig, vijfendertig", "сначала единицы, потом 'en' + десятки"],
+        ["30-90", "dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig", "80 без -tig-: tachtig"],
+        ["100, 200", "honderd, tweehonderd", "без 'een' перед honderd"],
+        ["1000, 1500", "duizend, vijftienhonderd / duizend vijfhonderd", "для 1100-1900 чаще 'elfhonderd...'"],
+        ["10 000", "tienduizend", "слитно"],
+        ["100 000", "honderdduizend", ""],
+        ["1 000 000", "(een) miljoen", "'een' необязателен"],
+        ["миллиард", "(een) miljard", ""]
+      ]
+    },
+    {
+      "title": "Порядковые числительные",
+      "headers": ["Число", "Порядковое", "Пример"],
+      "rows": [
+        ["1", "eerste (не 'eenste')", "de eerste les"],
+        ["2", "tweede", "de tweede keer"],
+        ["3", "derde (не 'driede')", "de derde maand"],
+        ["4-19", "+ -de (vierde, vijfde...)", ""],
+        ["20+", "+ -ste (twintigste, eenentwintigste, honderdste)", ""],
+        ["100", "honderdste", ""],
+        ["1000", "duizendste", ""]
+      ]
+    },
+    {
+      "title": "Годы",
+      "headers": ["Год", "Произношение"],
+      "rows": [
+        ["1985", "negentienhonderdvijfentachtig"],
+        ["1999", "negentienhonderdnegenennegentig"],
+        ["2000", "tweeduizend"],
+        ["2010", "tweeduizend tien"],
+        ["2025", "tweeduizend vijfentwintig"],
+        ["2026", "tweeduizend zesentwintig"]
+      ]
+    },
+    {
+      "title": "Дроби и проценты",
+      "headers": ["Запись", "Произношение", "Перевод"],
+      "rows": [
+        ["1/2", "een half / de helft", "половина"],
+        ["1/3", "een derde", "треть"],
+        ["1/4", "een kwart / een vierde", "четверть"],
+        ["3/4", "drie kwart / driekwart", "три четверти"],
+        ["2,5", "twee komma vijf", "2.5"],
+        ["50%", "vijftig procent", "50%"],
+        ["0,25", "nul komma vijfentwintig", "0.25"]
+      ]
+    },
+    {
+      "title": "Время (het is ...)",
+      "headers": ["Часы", "Нидерландский", "Перевод"],
+      "rows": [
+        ["8:00", "acht uur", "8 часов"],
+        ["8:05", "vijf over acht", "5 минут 9-го"],
+        ["8:15", "kwart over acht", "четверть 9-го"],
+        ["8:20", "tien voor half negen", "10 до полдевятого"],
+        ["8:25", "vijf voor half negen", "5 до полдевятого"],
+        ["8:30", "half negen", "полдевятого (!)"],
+        ["8:35", "vijf over half negen", "5 после полдевятого"],
+        ["8:40", "tien over half negen", "10 после полдевятого"],
+        ["8:45", "kwart voor negen", "без четверти 9"],
+        ["8:55", "vijf voor negen", "без пяти 9"]
+      ]
+    },
+    {
+      "title": "Дни и месяцы",
+      "headers": ["По-русски", "По-нидерландски"],
+      "rows": [
+        ["понедельник", "maandag"],
+        ["вторник", "dinsdag"],
+        ["среда", "woensdag"],
+        ["четверг", "donderdag"],
+        ["пятница", "vrijdag"],
+        ["суббота", "zaterdag"],
+        ["воскресенье", "zondag"],
+        ["январь–декабрь", "januari, februari, maart, april, mei, juni, juli, augustus, september, oktober, november, december"]
+      ]
+    },
+    {
+      "title": "Деньги",
+      "headers": ["Запись", "Произношение", "Заметка"],
+      "rows": [
+        ["€ 2,50", "twee euro vijftig", "'vijftig cent' или просто 'vijftig'"],
+        ["€ 1.500", "vijftienhonderd euro", "точка = тысячи"],
+        ["€ 0,99", "negenennegentig cent", "без 'nul komma'"],
+        ["€ 12,75", "twaalf euro vijfenzeventig", ""]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Опасности русскоязычным",
+      "items": [
+        "'Half negen' = 8:30, НЕ 9:30. Это главная ошибка всех учащихся — помните, 'half' указывает на половину следующего часа.",
+        "Запятая = десятичная дробь (2,5), точка = разделитель тысяч (1.500). В числах обратно русскому.",
+        "'Eenendertig' = 31. Сначала '1', потом 'и', потом '30'. Это не опечатка."
+      ]
+    },
+    {
+      "title": "Официальные даты",
+      "items": [
+        "21-03-2026 (дата-месяц-год) или 21 maart 2026.",
+        "В письмах: 'Amsterdam, 21 maart 2026'.",
+        "Порядковые: 'op 21 maart' читается 'op eenentwintig maart' (количественное)."
+      ]
+    },
+    {
+      "title": "Телефоны",
+      "items": [
+        "Часто читают парами: 06 12 34 56 78 = 'nul zes, twaalf, vierendertig, zesenvijftig, achtenzeventig'.",
+        "Код страны: +31 = 'plus eenendertig'.",
+        "'06'-номер — мобильный, 'О2О' — Амстердам и т.д."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Het is half tien.", "ru": "Сейчас 9:30." },
+    { "nl": "Ik ben in 1995 geboren.", "ru": "Я родился в 1995-м." },
+    { "nl": "Dat kost drie euro vijftig.", "ru": "Это стоит 3,50 евро." },
+    { "nl": "Op 21 maart vieren we mijn verjaardag.", "ru": "21 марта мы празднуем мой день рождения." },
+    { "nl": "Kwart over acht beginnen we.", "ru": "В 8:15 начнём." },
+    { "nl": "Ik woon op nummer 42.", "ru": "Я живу в доме 42." },
+    { "nl": "De les duurt anderhalf uur.", "ru": "Урок длится полтора часа." }
+  ],
+  "exceptions": [
+    "'Anderhalf' = 1,5 (идиома).",
+    "'Achthonderd' НО 'achtduizend' пишутся слитно, 'acht miljoen' — раздельно.",
+    "В голосовых сообщениях NS (железная дорога) время произносится по 24-часовой шкале: 'twintig uur dertig'.",
+    "В неформальной речи 'half tien' может всё же означать 10:30, но стандарт — 9:30."
+  ],
+  "commonMistakes": [
+    { "wrong": "half negen = 9:30", "correct": "half negen = 8:30", "why": "'half' = половина следующего часа." },
+    { "wrong": "tweeentwintig", "correct": "tweeëntwintig", "why": "Trema (ë) чтобы обозначить, что 'e' начинает новый слог." },
+    { "wrong": "Ik ben in negentienhonderdvijfennegentig geboren (на письме)", "correct": "Ik ben in 1995 geboren.", "why": "На письме цифрами." },
+    { "wrong": "Op de 21-ste maart", "correct": "Op 21 maart", "why": "С предлогом 'op' — обычно без окончания -ste." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Het is ___ (8:30).", "answer": "half negen", "explanation": "half + следующий час" },
+    { "type": "fill-blank", "sentence": "Twee kwartier = ___ uur.", "answer": "een half", "explanation": "2 × 15 мин = 30 мин = полчаса" },
+    { "type": "choice", "question": "Как сказать 35?", "options": ["dertigenvijf", "vijfendertig", "drieënvijftig"], "answer": "vijfendertig", "explanation": "сначала единицы + en + десятки" },
+    { "type": "fill-blank", "sentence": "Deze kamer kost ___ 750 per maand.", "answer": "€", "explanation": "Символ евро или 'euro'" },
+    { "type": "choice", "question": "Как прочитать 2,5?", "options": ["twee komma vijf", "tweepuntvijf", "tweeenhalf"], "answer": "twee komma vijf", "explanation": "komma = десятичная запятая" },
+    { "type": "choice", "question": "Какое порядковое от 3?", "options": ["driede", "drieste", "derde"], "answer": "derde", "explanation": "нерегулярное" },
+    { "type": "choice", "question": "Как сказать 'в 1985 году'?", "options": ["in negentienvijfentachtig", "in negentienhonderdvijfentachtig", "in duizend negenhonderd vijfentachtig"], "answer": "in negentienhonderdvijfentachtig", "explanation": "XIX-сот + двузначное число" }
+  ],
+  "relatedTopics": ["pronunciation", "fixed-expressions", "alphabet-and-sounds", "quantifiers"],
+  "inLessons": [2, 3, 5, 7, 11]
+}

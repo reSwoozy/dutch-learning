@@ -1,0 +1,193 @@
+{
+  "id": "A2-lesson-21",
+  "num": 21,
+  "level": "A2",
+  "title": "Будущее время",
+  "minutes": 15,
+  "objectives": [
+    "Выражать планы и намерения в будущем",
+    "Использовать gaan + infinitief для ближайшего будущего",
+    "Применять zullen + infinitief для отдаленного будущего",
+    "Говорить о расписании и планах",
+    "Делать предсказания о будущем"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Будущее время",
+      "content": "**Уровень**: A2 Элементарный | **Время**: 15 минут | **День**: 21 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Выражать планы и намерения в будущем\n- Использовать gaan + infinitief для ближайшего будущего\n- Применять zullen + infinitief для отдаленного будущего\n- Говорить о расписании и планах\n- Делать предсказания о будущем"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Gaan + infinitief (5 минут)",
+      "words": [
+        {
+          "nl": "ik",
+          "ru": "ga",
+          "hint": "Ik ga morgen werken"
+        },
+        {
+          "nl": "jij/je",
+          "ru": "gaat",
+          "hint": "Jij gaat studeren"
+        },
+        {
+          "nl": "hij/zij/het",
+          "ru": "gaat",
+          "hint": "Hij gaat naar Amsterdam"
+        },
+        {
+          "nl": "wij/we",
+          "ru": "gaan",
+          "hint": "We gaan op vakantie"
+        },
+        {
+          "nl": "jullie",
+          "ru": "gaan",
+          "hint": "Jullie gaan naar school"
+        },
+        {
+          "nl": "zij/ze",
+          "ru": "gaan",
+          "hint": "Ze gaan verhuizen"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Zullen + infinitief (4 минуты)",
+      "words": [
+        {
+          "nl": "ik",
+          "ru": "zal",
+          "hint": "Ik zal je helpen"
+        },
+        {
+          "nl": "jij/je",
+          "ru": "zult",
+          "hint": "Jij zult slagen"
+        },
+        {
+          "nl": "hij/zij/het",
+          "ru": "zal",
+          "hint": "Het zal moeilijk zijn"
+        },
+        {
+          "nl": "wij/we",
+          "ru": "zullen",
+          "hint": "We zullen winnen"
+        },
+        {
+          "nl": "jullie",
+          "ru": "zullen",
+          "hint": "Jullie zullen het begrijpen"
+        },
+        {
+          "nl": "zij/ze",
+          "ru": "zullen",
+          "hint": "Ze zullen komen"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Фаза 3: Настоящее время для будущего (3 минуты)",
+      "content": "**Запланированные события**:\n#### Фиксированное расписание:\n- **De trein vertrekt om 8 uur** - Поезд отправляется в 8\n- **Morgen heb ik een afspraak** - Завтра у меня встреча\n- **Volgende week begin ik met werken** - На следующей неделе начинаю работать\n#### Временные маркеры:\n- **morgen** - завтра\n- **overmorgen** - послезавтра\n- **volgende week** - на следующей неделе\n- **volgend jaar** - в следующем году\n- **straks** - позже (сегодня)\n- **binnenkort** - скоро"
+    },
+    {
+      "type": "text",
+      "title": "1. Различия между gaan и zullen",
+      "content": "#### GAAN (планы и намерения):\n- Личные планы и решения\n- То, что уже решено\n- Ближайшее будущее\n- **\"Ik ga naar de winkel\"** - Я иду в магазин\n#### ZULLEN (обещания и предсказания):\n- Обещания и гарантии\n- Официальные заявления\n- Предсказания без доказательств\n- **\"Ik zal je helpen\"** - Я тебе помогу"
+    },
+    {
+      "type": "grammar",
+      "title": "2. Порядок слов в будущем времени",
+      "content": "#### С gaan/zullen:\nПодлежащее + gaan/zullen + дополнения + инфинитив (в конце)\n- **Ik ga morgen naar Amsterdam reizen**\n- **Hij zal waarschijnlijk laat komen**\n#### Отрицание:",
+      "examples": [
+        {
+          "nl": "Ik ga niet werken",
+          "ru": "Я не буду работать"
+        },
+        {
+          "nl": "Hij zal niet komen",
+          "ru": "Он не придет"
+        }
+      ],
+      "codeExamples": [
+        "Подлежащее + gaan/zullen + дополнения + инфинитив (в конце)"
+      ]
+    },
+    {
+      "type": "text",
+      "title": "3. Вопросы в будущем времени",
+      "content": "#### С gaan:\n- **Ga je morgen werken?** - Будешь завтра работать?\n- **Wat ga je doen?** - Что будешь делать?\n#### С zullen:\n- **Zul je me helpen?** - Поможешь мне?\n- **Wanneer zal hij komen?** - Когда он придет?\n**Подробнее**: [A2 Грамматика: Будущее время](../../../REFERENCE/grammar/A2-grammar/future-tense.md)"
+    },
+    {
+      "type": "text",
+      "title": "Личные планы:",
+      "content": "- **Ik ga naar de tandarts** - Иду к зубному\n- **We gaan verhuizen** - Переезжаем\n- **Zij gaat studeren** - Она будет учиться\n- **Jullie gaan trouwen** - Вы женитесь"
+    },
+    {
+      "type": "text",
+      "title": "Обещания:",
+      "content": "- **Ik zal op tijd zijn** - Буду вовремя\n- **We zullen contact houden** - Будем поддерживать связь\n- **Hij zal het begrijpen** - Он поймет\n- **Het zal goed komen** - Все будет хорошо"
+    },
+    {
+      "type": "text",
+      "title": "Предсказания:",
+      "content": "- **Het zal morgen regenen** - Завтра будет дождь\n- **De economie zal groeien** - Экономика будет расти\n- **Er zullen problemen zijn** - Будут проблемы\n- **Alles zal veranderen** - Все изменится"
+    },
+    {
+      "type": "culture",
+      "title": "Будущее время в голландской культуре",
+      "content": "**Планирование и пунктуальность**:\n- Голландцы очень любят планировать\n- **\"Agenda\"** - ежедневник важнее всего\n- Планы на несколько месяцев вперед - норма\n- Опоздание недопустимо даже в планах\n**Прямота в намерениях**:\n- **\"Ik ga dat niet doen\"** - говорят прямо\n- Обещания очень серьезно воспринимаются\n- **\"Zal ik...?\"** - вежливое предложение помощи\n**Деловая культура**:\n- Четкие дедлайны и планы\n- **\"Wat is de planning?\"** - стандартный вопрос\n- Долгосрочное планирование ценится\n**Для интеграции**: Умение четко выражать планы и соблюдать обещания критично в голландском обществе."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Выбор формы",
+      "items": [
+        {
+          "question": "Ik _____ morgen naar de dokter. (ga/zal)"
+        },
+        {
+          "question": "Het _____ morgen regenen. (gaat/zal)"
+        },
+        {
+          "question": "We _____ je helpen. (gaan/zullen)"
+        },
+        {
+          "question": "Zij _____ een huis kopen. (gaat/zal)"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Планы на неделю",
+      "content": "Расскажи о планах, используя будущее время:\n- Понедельник: работа\n- Вторник: врач\n- Среда: покупки\n- Четверг: встреча с друзьями"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Обещания",
+      "items": [
+        {
+          "question": "Я помогу тебе завтра."
+        },
+        {
+          "question": "Мы встретимся в два часа."
+        },
+        {
+          "question": "Он позвонит позже."
+        },
+        {
+          "question": "Все будет хорошо."
+        }
+      ]
+    }
+  ],
+  "vocabularyFile": "A2-lesson-21.json"
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "nl": "omdat",
+    "ru": "потому что",
+    "example": "Ik leer Nederlands omdat ik hier woon.",
+    "pronunciation": "om-DAHT",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "doordat",
+    "ru": "из-за того что",
+    "example": "Doordat het regent, blijf ik thuis.",
+    "pronunciation": "DOOR-daht",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "daarom",
+    "ru": "поэтому",
+    "example": "Het regent, daarom ga ik niet uit.",
+    "pronunciation": "DAHR-om",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "maar",
+    "ru": "но",
+    "example": "Ik wil komen, maar ik heb geen tijd.",
+    "pronunciation": "maar",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "hoewel",
+    "ru": "хотя",
+    "example": "Hoewel het koud is, ga ik wandelen.",
+    "pronunciation": "HOO-vel",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "ondanks dat",
+    "ru": "несмотря на то что",
+    "example": "Ondanks dat hij ziek is, werkt hij.",
+    "pronunciation": "ON-danks daht",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "als",
+    "ru": "если",
+    "example": "Als het regent, blijf ik thuis.",
+    "pronunciation": "als",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "tenzij",
+    "ru": "если не/кроме как",
+    "example": "Ik kom, tenzij ik ziek ben.",
+    "pronunciation": "ten-ZEY",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "terwijl",
+    "ru": "пока/в то время как",
+    "example": "Terwijl ik kook, kijk jij tv.",
+    "pronunciation": "ter-VEYL",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "nadat",
+    "ru": "после того как",
+    "example": "Nadat ik eet, ga ik slapen.",
+    "pronunciation": "nah-DAHT",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "voordat",
+    "ru": "прежде чем",
+    "example": "Voordat je gaat, bel je me.",
+    "pronunciation": "VOOR-daht",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "dat",
+    "ru": "что",
+    "example": "Ik denk dat hij gelijk heeft.",
+    "pronunciation": "daht",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "bovendien",
+    "ru": "кроме того",
+    "example": "Hij is aardig, bovendien intelligent.",
+    "pronunciation": "bo-ven-DEEN",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "echter",
+    "ru": "однако",
+    "example": "Het is mooi, echter ook duur.",
+    "pronunciation": "ekh-TER",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "daarbij",
+    "ru": "при этом",
+    "example": "Hij werkt hard, daarbij is hij aardig.",
+    "pronunciation": "DAHR-bey",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "integendeel",
+    "ru": "наоборот",
+    "example": "Het is niet makkelijk, integendeel!",
+    "pronunciation": "in-te-khen-DEEL",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "bijvoorbeeld",
+    "ru": "например",
+    "example": "Fruit, bijvoorbeeld appels en peren.",
+    "pronunciation": "bei-VOOR-belt",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "met andere woorden",
+    "ru": "другими словами",
+    "example": "Hij is boos, met andere woorden: kwaad.",
+    "pronunciation": "met AN-de-re VOOR-den",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "kortom",
+    "ru": "короче говоря",
+    "example": "Kortom, we moeten harder werken.",
+    "pronunciation": "kor-TOM",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "enerzijds",
+    "ru": "с одной стороны",
+    "example": "Enerzijds wil ik gaan, anderzijds niet.",
+    "pronunciation": "eh-ner-ZEYDS",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "anderzijds",
+    "ru": "с другой стороны",
+    "example": "Enerzijds leuk, anderzijds duur.",
+    "pronunciation": "an-der-ZEYDS",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "ten eerste",
+    "ru": "во-первых",
+    "example": "Ten eerste moeten we plannen maken.",
+    "pronunciation": "ten EER-ste",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "ten tweede",
+    "ru": "во-вторых",
+    "example": "Ten tweede hebben we meer geld nodig.",
+    "pronunciation": "ten TVEE-de",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "ten slotte",
+    "ru": "наконец",
+    "example": "Ten slotte wil ik jullie bedanken.",
+    "pronunciation": "ten SLOT-te",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "samenvattend",
+    "ru": "подводя итог",
+    "example": "Samenvattend: het was een goed jaar.",
+    "pronunciation": "sah-men-VAT-tent",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "concluderend",
+    "ru": "в заключение",
+    "example": "Concluderend kunnen we zeggen dat...",
+    "pronunciation": "kon-klu-DEH-rent",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "gevolg",
+    "ru": "следствие",
+    "example": "Het gevolg van de regen is overlast.",
+    "pronunciation": "khe-VOLKH",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "oorzaak",
+    "ru": "причина",
+    "example": "De oorzaak van het probleem is duidelijk.",
+    "pronunciation": "OOR-zaak",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "voorwaarde",
+    "ru": "условие",
+    "example": "De voorwaarde is dat je op tijd komt.",
+    "pronunciation": "VOOR-vahr-de",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "tegenstelling",
+    "ru": "противопоставление",
+    "example": "Er is een tegenstelling tussen de ideeën.",
+    "pronunciation": "teh-khen-STEL-ling",
+    "level": "B1",
+    "lesson": 25
+  },
+  {
+    "nl": "verband",
+    "ru": "связь",
+    "example": "Er is een verband tussen roken en kanker.",
+    "pronunciation": "ver-BANT",
+    "level": "B1",
+    "lesson": 25
+  }
+]

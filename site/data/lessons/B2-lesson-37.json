@@ -1,0 +1,172 @@
+{
+  "id": "B2-lesson-37",
+  "num": 37,
+  "level": "B2",
+  "title": "Дискурсивные маркеры и связность текста",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Дискурсивные маркеры и связность текста",
+      "content": "Научиться использовать продвинутые дискурсивные маркеры для логичной, связной устной и письменной речи: ввод темы, развитие аргумента, контраст, следствие, обобщение.\n**Время изучения**: 15 минут\n**Уровень**: B2 (Upper‑intermediate)"
+    },
+    {
+      "type": "grammar",
+      "title": "Новая грамматика и конструкции"
+    },
+    {
+      "type": "text",
+      "title": "1) Добавление и развитие мысли",
+      "content": "- bovendien — кроме того\n- daarnaast/verdere — кроме этого/далее\n- ten eerste / ten tweede / vervolgens / tot slot — во‑первых / во‑вторых / далее / наконец\nПримеры:\n- Het plan is haalbaar; bovendien bespaart het kosten.\n- Ten eerste bespreken we de doelen, vervolgens de uitvoering."
+    },
+    {
+      "type": "text",
+      "title": "2) Контраст и оговорки (nuancering)",
+      "content": "- echter, daarentegen, integendeel — однако, с другой стороны, напротив\n- ondanks (dat) — несмотря на (то, что)\n- toch / desondanks — всё же / несмотря на это\nПримеры:\n- Het product is populair; echter zijn de levertijden lang.\n- Ondanks dat het regent, gaan we toch naar buiten."
+    },
+    {
+      "type": "text",
+      "title": "3) Причина, следствие, цель",
+      "content": "- aangezien / doordat — поскольку / из‑за того, что\n- waardoor / zodat — вследствие чего / так что (в результате)\n- om te / zodat — цель («чтобы»)\nПримеры:\n- Doordat de vraag stijgt, zijn de prijzen toegenomen.\n- We passen het schema aan zodat iedereen kan deelnemen."
+    },
+    {
+      "type": "text",
+      "title": "4) Обобщение и структурирование",
+      "content": "- samenvattend, kortom, al met al — подытоживая, короче, в целом\n- overigens, namelijk, immers — кстати, а именно, ведь\nПримеры:\n- Kortom, de resultaten zijn positief, maar er zijn risico’s.\n- Er zijn drie problemen, namelijk budget, tijd en capaciteit.\nСвязанные справочники:\n- [Сложные предложения (B1)](../../../REFERENCE/grammar/B1-grammar/complex-sentences.md)\n- [Противительные и условные конструкции (B1)](../../../REFERENCE/grammar/B1-grammar/conditional-sentences.md)"
+    },
+    {
+      "type": "grammar",
+      "title": "Порядок слов и пунктуация",
+      "content": "- При вставках с «echter, bovendien, daarentegen» возможна инверсия: Echter, is het budget beperkt. / Het budget is echter beperkt.\n- В сложных предложениях с придаточными — глагол в конце придаточного (см. B1).\n- Для ясности используйте точку с запятой перед «echter/daarentegen» при сильном контрасте в письменной речи.\n---"
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1: На встрече по проекту",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Ten eerste wil ik de planning bespreken; vervolgens de risico’s."
+        },
+        {
+          "speaker": "B",
+          "text": "Het voorstel is solide; echter, de kosten zijn hoger dan verwacht."
+        },
+        {
+          "speaker": "A",
+          "text": "Desondanks kunnen we starten met een pilot, zodat we data verzamelen."
+        },
+        {
+          "speaker": "B",
+          "text": "Bovendien sluit dit aan bij de strategie voor volgend kwartaal."
+        }
+      ],
+      "translation": "A: Во‑первых, хочу обсудить планирование; затем риски.\nB: Предложение надёжное; однако затраты выше ожидаемых.\nA: Несмотря на это, можем начать пилот, чтобы собрать данные.\nB: Кроме того, это соответствует стратегии на следующий квартал."
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2: Обсуждение статьи",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Samenvattend is de conclusie overtuigend."
+        },
+        {
+          "speaker": "B",
+          "text": "Integendeel, ik vind de argumentatie onvoldoende onderbouwd."
+        },
+        {
+          "speaker": "A",
+          "text": "Er ontbreken cijfers; bovendien zijn de bronnen beperkt."
+        },
+        {
+          "speaker": "B",
+          "text": "Al met al is verder onderzoek nodig."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Замени простые связки на продвинутые",
+      "items": [
+        {
+          "question": "Het plan is goed, **en** het bespaart kosten. -> `_______` (bovendien)"
+        },
+        {
+          "question": "De resultaten zijn positief, **maar** er zijn risico's. -> `_______` (echter)"
+        },
+        {
+          "question": "De vraag stijgt, **daarom** stijgen de prijzen. -> `_______` (waardoor)"
+        },
+        {
+          "question": "We passen het schema aan **zodat** iedereen kan deelnemen. -> (уже хорошо!)",
+          "answers": [
+            "1. Het plan is goed; bovendien bespaart het kosten.",
+            "2. De resultaten zijn positief; echter zijn er risico's.",
+            "3. De vraag stijgt, waardoor de prijzen toenemen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Вставь правильный маркер",
+      "items": [
+        {
+          "question": "__ bespreken we de doelen; __ de uitvoering; __ de evaluatie."
+        },
+        {
+          "question": "Het product is populair; __ zijn de levertijden lang."
+        },
+        {
+          "question": "__ dat het regent, gaan we toch naar buiten."
+        },
+        {
+          "question": "Er zijn drie problemen, __ budget, tijd en capaciteit."
+        },
+        {
+          "question": "__, de resultaten zijn positief maar er zijn risico's.",
+          "answers": [
+            "1. Ten eerste ... vervolgens ... tot slot",
+            "2. echter",
+            "3. Ondanks",
+            "4. namelijk",
+            "5. Kortom / Al met al / Samenvattend"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Schrijf een gestructureerde alinea",
+      "content": "Schrijf 4-5 zinnen over het onderwerp \"Thuiswerken\" met:\n- ten eerste\n- vervolgens / daarnaast\n- echter\n- kortom / samenvattend"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 4: Oorzaak → gevolg",
+      "items": [
+        {
+          "question": "De bevolking vergrijst. De zorgkosten stijgen."
+        },
+        {
+          "question": "We investeren in opleiding. De kwaliteit verbetert.",
+          "answers": [
+            "1. Doordat de bevolking vergrijst, stijgen de zorgkosten. / De bevolking vergrijst, waardoor de zorgkosten stijgen.",
+            "2. We investeren in opleiding, zodat de kwaliteit verbetert."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Культурная заметка",
+      "content": "В деловой и академической среде высоко ценятся структурированные тексты: явный план (inleiding–kern–slot), прозрачные связки и короткие, точные формулировки."
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- bovendien — кроме того\n- daarnaast — кроме этого\n- vervolgens — далее\n- ten eerste — во‑первых\n- tot slot — наконец\n- echter — однако\n- daarentegen — с другой стороны\n- integendeel — напротив\n- ondanks (dat) — несмотря на (то, что)\n- desondanks — несмотря на это\n- toch — всё же\n- aangezien — поскольку\n- doordat — из‑за того, что\n- waardoor — вследствие чего\n- zodat — так что (в результате)\n- om te — чтобы (цель)\n- samenvattend — подытоживая\n- kortom — короче\n- al met al — в целом\n- overigens — кстати\n- namelijk — а именно\n- immers — ведь\n- onderbouwen — обосновывать\n- nuanceren — вносить нюансы"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-37.json"
+}

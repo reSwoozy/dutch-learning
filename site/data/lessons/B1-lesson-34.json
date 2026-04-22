@@ -1,0 +1,227 @@
+{
+  "id": "B1-lesson-34",
+  "num": 34,
+  "level": "B1",
+  "title": "Интеграция в общество",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Интеграция в общество",
+      "content": "**Понять процесс интеграции в голландское общество, изучить требования для получения гражданства и научиться активно участвовать в общественной жизни.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "text",
+      "title": "Inburgeringstraject (Путь интеграции)",
+      "content": "```\nAankomst in Nederland\n↓\nInschrijving bij gemeente (BSN)\n↓\nInburgeringsplicht (если применимо)\n↓\nInburgeringscursus + Inburgeringsexamen\n↓\nParticipatieverklaring\n↓\nPermanent verblijf/Naturalisatie\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Inburgeringsexamen (Экзамен на интеграцию)",
+      "words": [
+        {
+          "nl": "Spreeken",
+          "ru": "Говорение в ситуациях",
+          "hint": "20 min"
+        },
+        {
+          "nl": "Lezen",
+          "ru": "Понимание текстов",
+          "hint": "65 min"
+        },
+        {
+          "nl": "Luisteren",
+          "ru": "Понимание на слух",
+          "hint": "30 min"
+        },
+        {
+          "nl": "Schrijven",
+          "ru": "Письменное выражение",
+          "hint": "45 min"
+        },
+        {
+          "nl": "KNM",
+          "ru": "Знание нидерландского общества",
+          "hint": "45 min"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Participatieverklaring (Декларация об участии)",
+      "content": "**Содержание декларации**:\n- Соблюдение голландских законов\n- Уважение к основным ценностям\n- Участие в общественной жизни\n- Изучение голландского языка\n- Обязательно для постоянного ВНЖ"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Naturalisatie (Натурализация)",
+      "words": [
+        {
+          "nl": "Verblijfsduur",
+          "ru": "5 лет непрерывного проживания"
+        },
+        {
+          "nl": "Verblijfsstatus",
+          "ru": "Постоянный ВНЖ"
+        },
+        {
+          "nl": "Inburgeringsexamen",
+          "ru": "Сдан на уровне A2/B1"
+        },
+        {
+          "nl": "Participatieverklaring",
+          "ru": "Подписана"
+        },
+        {
+          "nl": "Geen misdrijven",
+          "ru": "Отсутствие серьезных правонарушений"
+        },
+        {
+          "nl": "Inkomenseis",
+          "ru": "Достаточный доход (3 года)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Dubbele nationaliteit",
+      "content": "**Nieuwe regels (2024)**:\n- Dubbele nationaliteit toegestaan in meer gevallen\n- Behoud van oorspronkelijke nationaliteit mogelijk\n- Uitzonderingen voor EU-burgers\n- Kinderen geboren in Nederland"
+    },
+    {
+      "type": "text",
+      "title": "Диалог: На уроке интеграции",
+      "content": "**Docent (Преподаватель)**: Welkom bij de inburgeringscursus! Waarom leren jullie Nederlands?\n**Ahmed**: Ik wil mijn kinderen helpen met school en werk vinden.\n**Maria**: Ik ben hier voor mijn man. Ik wil Nederlandse vrienden maken.\n**Docent**: Dat zijn goede redenen! Ahmed, wat voor werk deed je in jouw land?\n**Ahmed**: Ik was elektricien. Ik hoop hier hetzelfde werk te doen.\n**Docent**: Dan moet je je diploma's laten erkennen. Ken je het EVC-proces?\n**Ahmed**: Nee, wat is dat?\n**Docent**: EVC betekent 'Erkenning van Verworven Competenties'. Je ervaring wordt erkend.\n**Maria**: Hoe lang duurt de inburgeringscursus?\n**Docent**: Dat hangt af van jullie niveau. Gemiddeld 600 uur, soms meer.\n**Ahmed**: Is het moeilijk om te slagen voor het examen?\n**Docent**: Met goede voorbereiding lukt het. Wij helpen jullie elke stap."
+    },
+    {
+      "type": "text",
+      "title": "Диалог: В gemeente (naturalisatie)",
+      "content": "**Ambtenaar**: Goedemiddag! U komt voor informatie over naturalisatie?\n**Aanvrager**: Ja, ik woon hier al zes jaar en wil Nederlands staatsburger worden.\n**Ambtenaar**: Mooi! Heeft u al het inburgeringsexamen gedaan?\n**Aanvrager**: Ja, vorig jaar geslaagd. Ik heb alle certificaten.\n**Ambtenaar**: Perfect. Heeft u de participatieverklaring ondertekend?\n**Aanvrager**: Ja, bij het verkrijgen van mijn permanente verblijfsvergunning.\n**Ambtenaar**: Uitstekend. Dan kunt u de aanvraag indienen. Dat kost €925.\n**Aanvrager**: Hoelang duurt de procedure?\n**Ambtenaar**: Ongeveer 12 maanden. De IND doet een uitgebreid onderzoek.\n**Aanvrager**: Wat gebeurt er als ik word goedgekeurd?\n**Ambtenaar**: Dan krijgt u een uitnodiging voor de naturalisatieceremonie.\n**Aanvrager**: Mag ik mijn oorspronkelijke nationaliteit behouden?\n**Ambtenaar**: Dat hangt af van uw land. In veel gevallen is dubbele nationaliteit nu toegestaan."
+    },
+    {
+      "type": "text",
+      "title": "Meningsvorming (Формирование мнения)",
+      "content": "#### **Выражение мнения**\n```\nIk vind dat... (Я считаю, что...)\nNaar mijn mening... (По моему мнению...)\nIk ben van mening dat... (Я придерживаюсь мнения, что...)\nHet lijkt mij dat... (Мне кажется, что...)\n```\n#### **Аргументация**\n```\nTen eerste... (Во-первых...)\nBovendien... (Кроме того...)\nDaarentegen... (Напротив...)\nEnerzijds... anderzijds... (С одной стороны... с другой стороны...)\n```\n#### **Примеры мнений об интеграции**\n```\nIk vind dat inburgering belangrijk is voor succesvolle integratie.\nNaar mijn mening moet iedereen de Nederlandse taal leren.\nHet lijkt mij dat culturele diversiteit Nederland verrijkt.\n```"
+    },
+    {
+      "type": "text",
+      "title": "Discussie voeren (Ведение дискуссии)",
+      "content": "#### **Соглашение**\n```\nDaar ben ik het helemaal mee eens.\nDat klopt inderdaad.\nU heeft gelijk.\nPrecies!\n```\n#### **Несогласие (вежливое)**\n```\nDaar ben ik het niet helemaal mee eens.\nIk zie het anders.\nDat betwijfel ik.\nMet alle respect, maar...\n```\n#### **Переход к новой теме**\n```\nEen ander punt is...\nWat betreft...\nAls we het hebben over...\nLaten we ook kijken naar...\n```"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Интеграционный процесс",
+      "content": "Расставьте этапы интеграции в правильном порядке:\na) Naturalisatieceremonie\nb) Inburgeringsexamen\nc) Aankomst in Nederland\nd) Participatieverklaring\ne) BSN aanvragen"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Выражение мнения",
+      "items": [
+        {
+          "question": "Ik vind dat inburgering..."
+        },
+        {
+          "question": "Naar mijn mening is de Nederlandse taal..."
+        },
+        {
+          "question": "Het lijkt mij dat culturele diversiteit..."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Дискуссия",
+      "content": "Как бы вы ответили:\n**Stelling**: \"Alle immigranten moeten perfecte Nederlands spreken.\"\nСогласие: _______\nНесогласие: _______\nВаш аргумент: _______"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Lokale participatie (Местное участие)",
+      "words": [
+        {
+          "nl": "Onderwijs",
+          "ru": "Помощь в школах, языковые курсы"
+        },
+        {
+          "nl": "Zorg",
+          "ru": "Больницы, дома престарелых"
+        },
+        {
+          "nl": "Sport",
+          "ru": "Тренер, организация мероприятий"
+        },
+        {
+          "nl": "Cultuur",
+          "ru": "Музеи, театры, фестивали"
+        },
+        {
+          "nl": "Natuur",
+          "ru": "Парки, экологические проекты"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Politieke participatie (Политическое участие)",
+      "content": "#### **Verkiezingen (Выборы)**\n- **Stemrecht**: Голосование на местных выборах (5+ лет проживания)\n- **Kiesrecht**: Полное избирательное право (только граждане)\n- **Actief vs. passief kiesrecht**: Голосовать vs. быть избранным\n#### **Invloed uitoefenen (Влияние на политику)**\n```\nLokaal niveau:\n- Gemeenteraadsvergaderingen bijwonen\n- Inspreken bij besluiten\n- Petities indienen\nNationaal niveau:\n- Partij lid worden\n- Demonstraties (vreedzaam)\n- Brieven naar volksvertegenwoordigers\n```"
+    },
+    {
+      "type": "culture",
+      "title": "Голландские ценности",
+      "content": "** Kernwaarden (Основные ценности)**:\n#### **Vrijheid (Свобода)**\n- Vrijheid van meningsuiting\n- Godsdienstvrijheid\n- Persoonlijke autonomie\n- Tolerantie voor verschillende levensstijlen\n#### **Gelijkheid (Равенство)**\n- Gelijke behandeling ongeacht afkomst\n- Gelijke kansen voor iedereen\n- Emancipatie van vrouwen\n- LGBTI+ rechten\n#### **Solidariteit (Солидарность)**\n- Zorgen voor elkaar\n- Sociale zekerheid\n- Hulp aan minderbedeelden\n- Collectieve verantwoordelijkheid"
+    },
+    {
+      "type": "text",
+      "title": "Интеграционная статистика",
+      "content": "- **Slagingspercentage inburgeringsexamen**: 70%\n- **Naturalisaties per jaar**: ~35.000\n- **Participatieverklaring ondertekend**: 95%+ nieuwkomers\n- **Tevredenheid met integratie**: 75% immigranten"
+    },
+    {
+      "type": "text",
+      "title": "Diversiteit en inclusie",
+      "content": "**Multiculturele samenleving**:\n- 200+ nationaliteiten in Nederland\n- 25% bevolking heeft migratieachtergrond\n- Meertaligheid als norm in steden\n- Interculturele competenties waardevol\n**Uitdagingen**:\n- Arbeidsmarktdiscriminatie bestrijden\n- Onderwijsachterstanden wegwerken\n- Sociale cohesie versterken\n- Radicalisering voorkomen"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые фразы урока",
+      "words": [
+        {
+          "nl": "Ik wil me integreren in de Nederlandse samenleving",
+          "ru": "Я хочу интегрироваться в голландское общество"
+        },
+        {
+          "nl": "Het inburgeringsexamen is verplicht",
+          "ru": "Экзамен на интеграцию обязателен"
+        },
+        {
+          "nl": "Ik heb het examen gehaald",
+          "ru": "Я сдал экзамен"
+        },
+        {
+          "nl": "Naar mijn mening is diversiteit belangrijk",
+          "ru": "По моему мнению, разнообразие важно"
+        },
+        {
+          "nl": "Ik doe vrijwilligerswerk bij...",
+          "ru": "Я занимаюсь волонтерством в..."
+        },
+        {
+          "nl": "Daarben ik het mee eens",
+          "ru": "С этим я согласен"
+        },
+        {
+          "nl": "Met alle respect, maar ik zie het anders",
+          "ru": "При всем уважении, но я вижу это по-другому"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 33** (Социальные услуги): Поддержка в процессе интеграции\n- **Урок 31** (Правительство и законы): Политическая система и участие\n- **Урок 30** (Жилье и аренда): Регистрация в GBA для получения BSN"
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 35: СМИ и новости (Media en nieuws)**\n- Понимание голландских СМИ\n- Критическое мышление при работе с информацией\n- Современные цифровые медиа\n- Выражение мнения о новостных событиях\n**Подготовка**: Начните читать голландские новости каждый день!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-34.json"
+}

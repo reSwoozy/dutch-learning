@@ -1,0 +1,250 @@
+[
+  {
+    "nl": "overheid",
+    "ru": "правительство",
+    "example": "De overheid regelt veel dingen.",
+    "pronunciation": "OH-ver-heyt",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "regering",
+    "ru": "правительство",
+    "example": "De regering bestaat uit ministers.",
+    "pronunciation": "reh-KHAY-ring",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "koning",
+    "ru": "король",
+    "example": "De koning is het staatshoofd.",
+    "pronunciation": "KOH-ning",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "minister",
+    "ru": "министр",
+    "example": "De minister geeft een toespraak.",
+    "pronunciation": "mi-NIS-ter",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "minister-president",
+    "ru": "премьер-министр",
+    "example": "De minister-president leidt het land.",
+    "pronunciation": "mi-NIS-ter-preh-si-DENT",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "parlement",
+    "ru": "парламент",
+    "example": "Het parlement maakt wetten.",
+    "pronunciation": "par-lah-MENT",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "Tweede Kamer",
+    "ru": "Вторая палата",
+    "example": "De Tweede Kamer heeft 150 leden.",
+    "pronunciation": "TVAY-de KAH-mer",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "Eerste Kamer",
+    "ru": "Первая палата",
+    "example": "De Eerste Kamer controleert wetten.",
+    "pronunciation": "AYR-ste KAH-mer",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "verkiezingen",
+    "ru": "выборы",
+    "example": "Verkiezingen zijn om de vier jaar.",
+    "pronunciation": "ver-KEE-zin-gen",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "stemmen",
+    "ru": "голосовать",
+    "example": "Ik ga stemmen bij de verkiezingen.",
+    "pronunciation": "STEM-men",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "coalitie",
+    "ru": "коалиция",
+    "example": "Er is een coalitie van vier partijen.",
+    "pronunciation": "ko-ah-LEE-tsee",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "partij",
+    "ru": "партия",
+    "example": "Welke partij kiest u?",
+    "pronunciation": "par-TEY",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "wet",
+    "ru": "закон",
+    "example": "De nieuwe wet gaat in januari in.",
+    "pronunciation": "vet",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "wet maken",
+    "ru": "принимать закон",
+    "example": "Het parlement maakt wetten.",
+    "pronunciation": "vet MAH-ken",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "DigiD",
+    "ru": "ДиджиД",
+    "example": "Met DigiD kun je overheidssites bezoeken.",
+    "pronunciation": "DI-khi-dee",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "BSN",
+    "ru": "БСН номер",
+    "example": "Iedereen heeft een BSN-nummer.",
+    "pronunciation": "bee-es-en",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "gemeente",
+    "ru": "муниципалитет",
+    "example": "Ik ga naar de gemeente.",
+    "pronunciation": "khe-MAYN-te",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "gemeentehuis",
+    "ru": "мэрия",
+    "example": "Het gemeentehuis is open tot 17:00.",
+    "pronunciation": "khe-MAYN-te-hoys",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "burgemeester",
+    "ru": "мэр",
+    "example": "De burgemeester opent het festival.",
+    "pronunciation": "BUR-khe-mays-ter",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "ambtenaar",
+    "ru": "чиновник",
+    "example": "De ambtenaar helpt met formulieren.",
+    "pronunciation": "AM-te-naar",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "inschrijven",
+    "ru": "регистрироваться",
+    "example": "Ik moet me inschrijven bij de GBA.",
+    "pronunciation": "IN-skhrey-ven",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "uittreksel GBA",
+    "ru": "выписка из реестра населения",
+    "example": "Ik heb een uittreksel GBA nodig.",
+    "pronunciation": "OYT-trek-sel khee-bee-ah",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "Belastingdienst",
+    "ru": "налоговая служба",
+    "example": "De Belastingdienst int belastingen.",
+    "pronunciation": "be-LAS-ting-deenst",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "aangifte",
+    "ru": "декларация",
+    "example": "Ik doe mijn aangifte online.",
+    "pronunciation": "AAN-khif-te",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "IND",
+    "ru": "иммиграционная служба",
+    "example": "De IND behandelt verblijfsvergunningen.",
+    "pronunciation": "in-dee",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "UWV",
+    "ru": "агентство по трудоустройству",
+    "example": "Het UWV helpt werklozen.",
+    "pronunciation": "oo-vay-vay",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "politie",
+    "ru": "полиция",
+    "example": "De politie zorgt voor veiligheid.",
+    "pronunciation": "po-LEE-tsee",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "rechter",
+    "ru": "судья",
+    "example": "De rechter beslist over de zaak.",
+    "pronunciation": "REKH-ter",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "rechtbank",
+    "ru": "суд",
+    "example": "De rechtbank behandelt civiele zaken.",
+    "pronunciation": "REKHT-bank",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "dat",
+    "ru": "что (союз)",
+    "example": "Hij zei dat hij zou komen.",
+    "pronunciation": "daht",
+    "level": "B1",
+    "lesson": 31
+  },
+  {
+    "nl": "indirecte rede",
+    "ru": "косвенная речь",
+    "example": "We gebruiken indirecte rede voor citaten.",
+    "pronunciation": "in-di-REK-te REH-de",
+    "level": "B1",
+    "lesson": 31
+  }
+]

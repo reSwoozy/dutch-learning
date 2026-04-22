@@ -1,0 +1,342 @@
+{
+  "title": "Werk & sollicitatie",
+  "level": "B1",
+  "tags": [
+    "sollicitatie",
+    "arbeidsmarkt",
+    "cao",
+    "salaris"
+  ],
+  "words": [
+    {
+      "nl": "de sollicitatiebrief",
+      "ru": "сопроводительное письмо",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de vacaturetekst",
+      "ru": "текст вакансии",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de functieomschrijving",
+      "ru": "описание должности",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de werving en selectie",
+      "ru": "подбор персонала",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het assessment",
+      "ru": "ассессмент",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de persoonlijkheidstest",
+      "ru": "личностный тест",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het arbeidsvoorwaardengesprek",
+      "ru": "разговор об условиях труда",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de salarisschaal",
+      "ru": "тарифная сетка",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de bruto",
+      "ru": "брутто",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de netto",
+      "ru": "нетто",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het vakantiegeld",
+      "ru": "отпускные",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de eindejaarsuitkering",
+      "ru": "13-я зарплата",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de bonus",
+      "ru": "бонус",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de winstdeling",
+      "ru": "участие в прибыли",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het pensioenfonds",
+      "ru": "пенсионный фонд",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de secundaire arbeidsvoorwaarden",
+      "ru": "нематериальные условия труда",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de leaseauto",
+      "ru": "служебный автомобиль",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het thuiswerken",
+      "ru": "работа из дома",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het hybride werken",
+      "ru": "гибридный формат",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het flexibel rooster",
+      "ru": "гибкий график",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de deeltijdbaan",
+      "ru": "неполная занятость",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de voltijdbaan",
+      "ru": "полная занятость",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de oproepkracht",
+      "ru": "временный работник по вызову",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de uitzendkracht",
+      "ru": "агентский работник",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de zzp'er",
+      "ru": "фрилансер (самозанятый)",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de detachering",
+      "ru": "откомандирование",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de proeftijd",
+      "ru": "испытательный срок",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het concurrentiebeding",
+      "ru": "соглашение о неконкуренции",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het geheimhoudingsbeding",
+      "ru": "соглашение о неразглашении",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de opzegtermijn",
+      "ru": "срок уведомления об увольнении",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de vaststellingsovereenkomst",
+      "ru": "соглашение о расторжении",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de transitievergoeding",
+      "ru": "выходное пособие",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de re-integratie",
+      "ru": "возвращение к работе",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de bedrijfsarts",
+      "ru": "корпоративный врач",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het werkoverleg",
+      "ru": "рабочее совещание",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het functioneringsgesprek",
+      "ru": "оценочная беседа",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het beoordelingsgesprek",
+      "ru": "аттестация",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het exitgesprek",
+      "ru": "выходное интервью",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de ondernemingsraad",
+      "ru": "совет предприятия",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de vertrouwenspersoon",
+      "ru": "доверенное лицо",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de mentor",
+      "ru": "наставник",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de coach",
+      "ru": "коуч",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de arbo",
+      "ru": "охрана труда",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de risico-inventarisatie",
+      "ru": "оценка рисков",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de werksfeer",
+      "ru": "рабочая атмосфера",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de bedrijfscultuur",
+      "ru": "корпоративная культура",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de teamgeest",
+      "ru": "командный дух",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de teamuitje",
+      "ru": "тимбилдинг",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de promotie",
+      "ru": "повышение",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de demotie",
+      "ru": "понижение",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de carrièreswitch",
+      "ru": "смена карьеры",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de zij-instromer",
+      "ru": "работник с другой специальности",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het omscholingstraject",
+      "ru": "переквалификация",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "de bijscholing",
+      "ru": "повышение квалификации",
+      "level": "B1",
+      "theme": "work"
+    },
+    {
+      "nl": "het leerwerktraject",
+      "ru": "учебно-производственный план",
+      "level": "B1",
+      "theme": "work"
+    }
+  ]
+}

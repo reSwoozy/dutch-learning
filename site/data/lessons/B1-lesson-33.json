@@ -1,0 +1,226 @@
+{
+  "id": "B1-lesson-33",
+  "num": 33,
+  "level": "B1",
+  "title": "Социальные услуги",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Социальные услуги",
+      "content": "**Понять систему социальной поддержки в Нидерландах, изучить различные пособия и льготы, научиться взаимодействовать с социальными службами.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "text",
+      "title": "Основные принципы",
+      "content": "** Solidariteit (Солидарность)**:\n- Общественная ответственность за благосостояние всех\n- Перераспределение ресурсов от богатых к бедным\n- Поддержка наиболее уязвимых групп\n** Subsidiariteit (Субсидиарность)**:\n- Помощь предоставляется на минимально необходимом уровне\n- Сначала семья, потом община, затем государство\n- Поощрение самостоятельности"
+    },
+    {
+      "type": "grammar",
+      "title": "Структура социальных служб",
+      "content": "Rijksoverheid (Государственный уровень)\n├── UWV - Werkloosheid en arbeidsongeschiktheid\n├── SVB - AOW, kinderbijslag, zorgtoeslag\n└── Belastingdienst - Toeslagen en heffingen\nGemeente (Муниципальный уровень)\n├── Sociale dienst - Bijstand, schuldhulp\n├── Jeugdzorg - Помощь детям и семьям\n└── WMO - Ondersteuning bij participatie\nZorgverzekeraars (Страховщики)\n└── Zorgverzekering en aanvullende diensten\n---",
+      "codeExamples": [
+        "Rijksoverheid (Государственный уровень)\n├── UWV - Werkloosheid en arbeidsongeschiktheid\n├── SVB - AOW, kinderbijslag, zorgtoeslag\n└── Belastingdienst - Toeslagen en heffingen\n\nGemeente (Муниципальный уровень)\n├── Sociale dienst - Bijstand, schuldhulp\n├── Jeugdzorg - Помощь детям и семьям\n└── WMO - Ondersteuning bij participatie\n\nZorgverzekeraars (Страховщики)\n└── Zorgverzekering en aanvullende diensten"
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Uitkeringen (Пособия)",
+      "content": "#### **WW-uitkering (Пособие по безработице)**\n- **Voorwaarden**: Работали не менее 26 недель из последних 36\n- **Duur**: 3-38 месяцев (зависит от стажа)\n- **Hoogte**: 75% первые 2 месяца, потом 70% последней зарплаты\n- **Verplichtingen**: Активный поиск работы, регистрация в UWV\n#### **Bijstand (Социальная помощь)**\n- **Voor wie**: Люди без доходов и без права на другие пособия\n- **Hoogte**: €1.070 одинокие, €1.529 пары (2024)\n- **Voorwaarden**: Минимальные активы, готовность работать\n- **Gemeentelijk**: Управляется муниципалитетом\n#### **AOW (Государственная пенсия)**\n- **Leeftijd**: С 67 лет (постепенно увеличивается)\n- **Voorwaarden**: Проживание/работа в Нидерландах\n- **Hoogte**: Около €1.400 в месяц для одиноких\n- **Aanvulling**: Дополнительные пенсионные схемы"
+    },
+    {
+      "type": "text",
+      "title": "Toeslagen (Доплаты)",
+      "content": "#### **Zorgtoeslag (Доплата на медстраховку)**\n- **Doel**: Помощь в оплате медицинской страховки\n- **Hoogte**: До €111 в месяц (2024)\n- **Voorwaarden**: Доходы ниже €37.000 в год\n- **Aanvraag**: Через Belastingdienst\n#### **Huurtoeslag (Жилищная доплата)**\n- **Doel**: Помощь с арендной платой\n- **Hoogte**: До €400+ в месяц\n- **Voorwaarden**: Доходы ниже лимита, социальное жилье\n- **Huurgrens**: Аренда не выше €808 (2024)\n#### **Kinderbijslag (Детское пособие)**\n- **Hoogte**: €250-300 в квартал на ребенка\n- **Tot welke leeftijd**: До 18 лет\n- **Automatisch**: Выплачивается автоматически\n- **Aanvraag**: Через SVB"
+    },
+    {
+      "type": "text",
+      "title": "Kinderopvang (Детский сад)",
+      "content": "#### **Kinderopvangtoeslag (Доплата на детский сад)**\n- **Doel**: Возмещение расходов на детский сад\n- **Hoogte**: До 95% стоимости (зависит от дохода)\n- **Voorwaarden**: Оба родителя работают/учатся\n- **Maximaal**: €8,15 в час\n#### **Buitenschoolse opvang (Продленка)**\n- **Voor wie**: Дети школьного возраста\n- **Tijden**: До и после школы, каникулы\n- **Kosten**: €5-8 в час, также есть toeslag"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ondersteuning bij opvoeding (Поддержка в воспитании)",
+      "words": [
+        {
+          "nl": "Consultatiebureaus",
+          "ru": "Контроль развития до 4 лет"
+        },
+        {
+          "nl": "Schoolmaatschappelijk werk",
+          "ru": "Помощь в школьных вопросах"
+        },
+        {
+          "nl": "Jeugd- en gezinsteams",
+          "ru": "Поддержка семей в кризисе"
+        },
+        {
+          "nl": "Opvoedingsondersteuning",
+          "ru": "Курсы для родителей"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Диалог: В социальной службе",
+      "content": "**Medewerker (Сотрудник)**: Goedemorgen! Waarmee kan ik u helpen?\n**Aanvrager (Заявитель)**: Ik wil een aanvraag doen voor bijstand. Ik ben vorige maand werkloos geworden.\n**Medewerker**: Heeft u al een WW-uitkering aangevraagd bij het UWV?\n**Aanvrager**: Ja, maar ik heb geen recht op WW omdat ik te kort gewerkt heb.\n**Medewerker**: Begrijpelijk. Dan kunnen we kijken naar bijstand. Woont u alleen of samen?\n**Aanvrager**: Ik woon alleen. Wat zijn de voorwaarden voor bijstand?\n**Medewerker**: U moet kunnen aantonen dat u actief naar werk zoekt en uw vermogen moet onder de €6.450 zijn.\n**Aanvrager**: Hoeveel zou ik kunnen krijgen?\n**Medewerker**: Voor alleenstaanden is het €1.070 per maand. U moet wel elke maand rapporteren over uw sollicitaties.\n**Aanvrager**: Welke documenten moet ik meebrengen?\n**Medewerker**: Paspoort, uittreksel GBA, bankafschriften van drie maanden en een brief van het UWV."
+    },
+    {
+      "type": "text",
+      "title": "Диалог: Bij het UWV",
+      "content": "**UWV-medewerker**: Welkom bij het UWV. Hoe kan ik u helpen?\n**Werkzoekende (Ищущий работу)**: Ik ben ontslagen en wil me inschrijven als werkzoekende.\n**Medewerker**: Wanneer bent u ontslagen en wat was de reden?\n**Werkzoekende**: Vorige week. Het bedrijf ging failliet, dus het was geen ontslag op staande voet.\n**Medewerker**: Dan heeft u waarschijnlijk recht op WW. Hoelang heeft u gewerkt bij uw laatste werkgever?\n**Werkzoekende**: Twee jaar fulltime. Daarvoor had ik ook een baan van een jaar.\n**Medewerker**: Perfect. U heeft recht op WW voor maximaal 26 maanden. Ik ga uw aanvraag verwerken.\n**Werkzoekende**: Wanneer krijg ik de eerste uitkering?\n**Medewerker**: Binnen twee weken na uw laatste werkdag. U moet wel actief solliciteren.\n**Werkzoekende**: Hoeveel sollicitaties per maand?\n**Medewerker**: Minimaal vier per maand, maar we adviseren meer. U krijgt ook hulp van onze arbeidscoach."
+    },
+    {
+      "type": "grammar",
+      "title": "Формальные регистры речи (Formele registers)"
+    },
+    {
+      "type": "text",
+      "title": "Wat zijn formele registers?",
+      "content": "Формальные регистры - это различные уровни официальности в языке, которые используются в зависимости от ситуации."
+    },
+    {
+      "type": "text",
+      "title": "Уровни формальности",
+      "content": "#### **1. Informeel (Неформальный) - с друзьями**\n```\nIk heb geen geld meer.\nKun je me helpen?\nDat is niet eerlijk!\n```\n#### **2. Neutraal (Нейтральный) - обычное общение**\n```\nIk heb financiële problemen.\nKunt u mij adviseren?\nDat vind ik niet rechtvaardig.\n```\n#### **3. Formeel (Формальный) - с чиновниками**\n```\nIk verkeer in financiële moeilijkheden.\nZou u mij kunnen adviseren?\nIk ben van mening dat dit onrechtvaardig is.\n```\n#### **4. Zeer formeel (Очень формальный) - официальные документы**\n```\nOndergetekende verkeert in pecuniaire problemen.\nZoudt u mij van advies kunnen dienen?\nOndergetekende acht dit onrechtvaardig.\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Формальная лексика в социальных услугах",
+      "words": [
+        {
+          "nl": "geld",
+          "ru": "financiële middelen",
+          "hint": "pecuniaire middelen"
+        },
+        {
+          "nl": "hulp",
+          "ru": "ondersteuning",
+          "hint": "assistentie"
+        },
+        {
+          "nl": "aanvraag",
+          "ru": "verzoek",
+          "hint": "rekest"
+        },
+        {
+          "nl": "krijgen",
+          "ru": "ontvangen",
+          "hint": "verkrijgen"
+        },
+        {
+          "nl": "problemen",
+          "ru": "moeilijkheden",
+          "hint": "problematiek"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Формальные фразы для социальных служб",
+      "content": "```\nOpening:\n- \"Hierbij dien ik een verzoek in voor...\"\n- \"Ondergetekende verzoekt u vriendelijk om...\"\nExplanation:\n- \"De reden voor dit verzoek is...\"\n- \"Uit de bijgevoegde documenten blijkt dat...\"\nClosing:\n- \"Bij voorbaat dank voor uw medewerking.\"\n- \"Ik zie uw reactie met belangstelling tegemoet.\"\n```"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Социальные пособия",
+      "items": [
+        {
+          "question": "WW-uitkering → a) Для детей до 18 лет"
+        },
+        {
+          "question": "Bijstand → b) Помощь с арендой"
+        },
+        {
+          "question": "Zorgtoeslag → c) При потере работы"
+        },
+        {
+          "question": "Huurtoeslag → d) Доплата на медстраховку"
+        },
+        {
+          "question": "Kinderbijslag → e) Последняя социальная сеть"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 2: Формальные регистры",
+      "content": "Перепишите предложения в формальном стиле:\n1. Ik heb geen geld. → Ik verkeer in...\n2. Kun je me helpen? → Zou u mij kunnen...\n3. Ik wil geld aanvragen. → Hierbij dien ik een verzoek in voor..."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: В UWV",
+      "items": [
+        {
+          "question": "Я потерял работу и хочу подать заявление на пособие по безработице."
+        },
+        {
+          "question": "Сколько времени я могу получать пособие?"
+        },
+        {
+          "question": "Какие обязательства у меня есть?"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Голландская модель социального государства",
+      "content": "** Polder model (Полдер модель)**:\n- Сотрудничество между правительством, работодателями и профсоюзами\n- Консенсус в принятии решений\n- Баланс между экономическим ростом и социальной защитой\n- Гибкость рынка труда с сильной социальной поддержкой\n** Статистика социальной поддержки**:\n- **Социальные расходы**: 20% ВВП\n- **Получатели bijstand**: ~450.000 человек\n- **Получатели WW**: ~200.000 человек\n- **Детское пособие**: 100% семей с детьми"
+    },
+    {
+      "type": "text",
+      "title": "Активация и participatie",
+      "content": "**Активизация вместо пассивной поддержки**:\n- **Work first**: Приоритет трудоустройства\n- **Participatiewet**: Закон об участии\n- **Maatwerk**: Индивидуальный подход\n- **Re-integratie**: Программы возвращения к работе\n**Поддерживаемые группы**:\n- **Alleenstaande ouders**: Одинокие родители\n- **Mensen met beperking**: Люди с инвалидностью\n- **Ouderen**: Пожилые люди\n- **Statushouders**: Беженцы со статусом"
+    },
+    {
+      "type": "text",
+      "title": "Интеграция и социальная поддержка",
+      "content": "**Особенности для иммигрантов**:\n- **Inburgeringscursus**: Курс интеграции\n- **Participatieverklaring**: Декларация об участии\n- **Statushouders begeleiding**: Сопровождение беженцев\n- **Taalonderwijs**: Языковое обучение"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые фразы урока",
+      "words": [
+        {
+          "nl": "Ik wil een uitkering aanvragen",
+          "ru": "Я хочу подать заявление на пособие"
+        },
+        {
+          "nl": "Heb ik recht op bijstand?",
+          "ru": "Имею ли я право на социальную помощь?"
+        },
+        {
+          "nl": "Welke documenten moet ik meebrengen?",
+          "ru": "Какие документы мне нужно принести?"
+        },
+        {
+          "nl": "Ik verkeer in financiële moeilijkheden",
+          "ru": "Я нахожусь в финансовых затруднениях"
+        },
+        {
+          "nl": "Hierbij dien ik een verzoek in",
+          "ru": "Настоящим подаю заявление"
+        },
+        {
+          "nl": "Bij voorbaat dank",
+          "ru": "Заранее спасибо"
+        },
+        {
+          "nl": "De gemeente biedt ondersteuning",
+          "ru": "Муниципалитет предлагает поддержку"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 32** (Медицинская помощь): Zorgtoeslag и медицинские льготы\n- **Урок 31** (Правительство и законы): Государственные органы и DigiD\n- **Урок 29** (Банки и финансы): Финансовое планирование и управление"
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 34: Интеграция в общество (Integratie in de samenleving)**\n- Процесс интеграции в Нидерландах\n- Экзамен на интеграцию\n- Получение гражданства\n- Участие в общественной жизни\n**Подготовка**: Подумайте о своем пути интеграции в голландское общество!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-33.json"
+}

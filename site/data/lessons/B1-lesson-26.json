@@ -1,0 +1,236 @@
+{
+  "id": "B1-lesson-26",
+  "num": 26,
+  "level": "B1",
+  "title": "Условные предложения",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Условные предложения",
+      "content": "**Научиться выражать гипотетические ситуации, нереальные условия и сожаления с помощью условных предложений.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "grammar",
+      "title": "Новая грамматика"
+    },
+    {
+      "type": "text",
+      "title": "Типы условных предложений",
+      "content": "#### 1⃣ **Реальные условия (Реальность)**\n**Структура**: Als + настоящее время, настоящее/будущее время\n```\nAls het regent, neem ik een paraplu mee.\n(Если дождит, я возьму зонт)\nAls je hard studeert, slaag je voor het examen.\n(Если будешь усердно учиться, сдашь экзамен)\n```\n#### 2⃣ **Нереальные условия в настоящем (Если бы...)**\n**Структура**: Als + прошедшее время, zou + infinitief\n```\nAls ik rijk was, zou ik een huis kopen.\n(Если бы я был богат, я бы купил дом)\nAls het niet regende, zouden we naar buiten gaan.\n(Если бы не было дождя, мы бы пошли на улицу)\n```\n#### 3⃣ **Нереальные условия в прошлом (Сожаления)**\n**Структура**: Als + прошедшее совершенное, zou + настоящее совершенное\n```\nAls ik harder had gestudeerd, zou ik zijn geslaagd.\n(Если бы я учился усерднее, я бы сдал)\nAls we eerder waren vertrokken, zouden we niet te laat zijn geweest.\n(Если бы мы уехали раньше, мы бы не опоздали)\n```"
+    },
+    {
+      "type": "grammar",
+      "title": "Глагол \"zouden\" (would/бы)"
+    },
+    {
+      "type": "grammar",
+      "title": "Спряжение",
+      "tables": [
+        {
+          "headers": [
+            "Лицо",
+            "Форма",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "ik",
+              "zou",
+              "Ik zou graag naar Parijs gaan"
+            ],
+            [
+              "jij/je",
+              "zou",
+              "Jij zou het kunnen doen"
+            ],
+            [
+              "hij/zij/het",
+              "zou",
+              "Hij zou blij zijn"
+            ],
+            [
+              "wij/we",
+              "zouden",
+              "Wij zouden helpen"
+            ],
+            [
+              "jullie",
+              "zouden",
+              "Jullie zouden komen"
+            ],
+            [
+              "zij/ze",
+              "zouden",
+              "Zij zouden begrijpen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Использование zou(den)",
+      "content": "1. **Условные предложения**: Als ik tijd had, zou ik komen\n2. **Вежливые просьбы**: Zou je me kunnen helpen?\n3. **Будущее в прошлом**: Hij zei dat hij zou komen\n4. **Сомнения**: Dat zou kunnen zijn"
+    },
+    {
+      "type": "text",
+      "title": "Was maar...! / Had maar...! (Если бы только...!)",
+      "content": "```\nWas ik maar rijk!\n(Если бы только я был богат!)\nHad ik maar meer tijd!\n(Если бы только у меня было больше времени!)\nWas het maar zomer!\n(Если бы только было лето!)\n```"
+    },
+    {
+      "type": "text",
+      "title": "Ik had beter... (Мне лучше было бы...)",
+      "content": "```\nIk had beter thuis kunnen blijven.\n(Мне лучше было бы остаться дома)\nJe had beter je jas kunnen aantrekken.\n(Тебе лучше было бы надеть куртку)\n```"
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1: Планы и мечты",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Wat zou je doen als je de loterij won?"
+        },
+        {
+          "speaker": "B",
+          "text": "Als ik de loterij zou winnen, zou ik eerst mijn schulden afbetalen."
+        },
+        {
+          "speaker": "A",
+          "text": "En daarna?"
+        },
+        {
+          "speaker": "B",
+          "text": "Dan zou ik een wereldreis maken. En jij?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik zou een groot huis kopen en een bedrijf starten."
+        },
+        {
+          "speaker": "B",
+          "text": "Dat zou fantastisch zijn! Was ik maar net zo ambitieus als jij."
+        },
+        {
+          "speaker": "A",
+          "text": "Als we samen zouden werken, zouden we veel kunnen bereiken."
+        }
+      ],
+      "translation": "A: Что бы ты делал, если выиграл лотерею?\nB: Если бы я выиграл лотерею, сначала расплатился бы с долгами.\nA: А потом?\nB: Потом совершил бы кругосветное путешествие. А ты?\nA: Я бы купил большой дом и открыл бизнес.\nB: Это было бы фантастично! Если бы только я был таким амбициозным, как ты.\nA: Если бы мы работали вместе, мы бы многого достигли."
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2: Сожаления",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Hoe was je weekend?"
+        },
+        {
+          "speaker": "B",
+          "text": "Niet zo goed. Ik had beter thuis kunnen blijven."
+        },
+        {
+          "speaker": "A",
+          "text": "Waarom? Wat is er gebeurd?"
+        },
+        {
+          "speaker": "B",
+          "text": "Als ik niet naar dat feest was gegaan, zou ik niet ziek zijn geworden."
+        },
+        {
+          "speaker": "A",
+          "text": "Had je maar naar mij geluisterd! Ik zei toch dat het koud zou zijn."
+        },
+        {
+          "speaker": "B",
+          "text": "Je hebt gelijk. Ik zou een jas hebben meegenomen als ik wijzer was geweest."
+        },
+        {
+          "speaker": "A",
+          "text": "Volgende keer luister je hopelijk beter naar advies."
+        }
+      ],
+      "translation": "A: Как прошли выходные?\nB: Не очень хорошо. Мне лучше было бы остаться дома.\nA: Почему? Что случилось?\nB: Если бы я не пошел на ту вечеринку, я бы не заболел.\nA: Если бы только ты меня послушал! Я же говорил, что будет холодно.\nB: Ты прав. Я бы взял куртку, если бы был мудрее.\nA: Надеюсь, в следующий раз ты лучше будешь слушать советы."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Реальные или нереальные условия?",
+      "items": [
+        {
+          "question": "Als ik tijd heb, ga ik naar de bioscoop."
+        },
+        {
+          "question": "Als ik rijk was, zou ik een kasteel kopen."
+        },
+        {
+          "question": "Als het morgen regent, blijven we thuis."
+        },
+        {
+          "question": "Als ik jou was, zou ik die baan nemen."
+        },
+        {
+          "question": "Als je eerder was gekomen, zou je hem hebben ontmoet."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 2: Поставьте глаголы в правильную форму",
+      "content": "1. Als ik jou _____ (zijn), zou ik voorzichtiger zijn.\n2. Als het niet _____ (regenen), gaan we wandelen.\n3. Ik zou blij zijn als je _____ (komen).\n4. Als ik harder _____ (studeren - прошедшее совершенное), zou ik zijn geslaagd.\n5. Zou je me _____ (helpen) als ik het vraag?"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Выразите сожаление",
+      "items": [
+        {
+          "question": "Ik ben laat naar bed gegaan. (Я поздно лег спать)"
+        },
+        {
+          "question": "Ze heeft te veel gegeten. (Она слишком много съела)"
+        },
+        {
+          "question": "We zijn niet eerder vertrokken. (Мы не уехали раньше)"
+        },
+        {
+          "question": "Hij heeft zijn jas niet meegenomen. (Он не взял куртку)"
+        },
+        {
+          "question": "Jullie hebben niet geluisterd. (Вы не слушали)"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Ролевая игра",
+      "content": "**Ситуация**: Вы с другом обсуждаете, что бы вы делали, если бы у вас была машина времени.\n**Полезные фразы**:\n- Als ik terug in de tijd kon gaan...\n- Ik zou... als ik de kans had\n- Was ik maar aanwezig geweest bij...\n- Als ik het opnieuw kon doen...\n- Ik had beter..."
+    },
+    {
+      "type": "culture",
+      "title": "Голландские размышления о \"если бы\"",
+      "content": "Голландцы часто используют условные предложения в повседневном общении:\n#### ** Популярные темы для размышлений**:\n- **Als ik in het buitenland zou wonen...** (Если бы я жил за границей...)\n- **Als ik mijn eigen bedrijf had...** (Если бы у меня был свой бизнес...)\n- **Als ik meer tijd zou hebben...** (Если бы у меня было больше времени...)\n#### ** В разговоре голландцы часто говорят**:\n- \"Dat zou leuk zijn\" (Это было бы приятно)\n- \"Als ik jou was...\" (На твоем месте...)\n- \"Had ik maar geweten!\" (Если бы только я знал!)\n#### ** В бизнесе**:\n- \"Als we dit project zouden aannemen...\" (Если бы мы взялись за этот проект...)\n- \"Wat zou er gebeuren als...?\" (Что произойдет, если...?)"
+    },
+    {
+      "type": "text",
+      "title": "Выражение условий и гипотез",
+      "content": "- **in het geval dat** - в случае если\n- **voor het geval dat** - на случай если\n- **gesteld dat** - предположим что\n- **verondersteld dat** - при условии что\n- **mocht het zo zijn dat** - если окажется что\n- **stel je voor dat** - представь что"
+    },
+    {
+      "type": "text",
+      "title": "Выражение сожалений",
+      "content": "- **spijt hebben van** - сожалеть о\n- **berouw hebben** - раскаиваться\n- **jammer dat** - жаль что\n- **helaas** - к сожалению\n- **wat jammer!** - как жаль!"
+    },
+    {
+      "type": "text",
+      "title": "Выражение желаний",
+      "content": "- **ik zou graag willen** - я бы хотел\n- **het zou fijn zijn als** - было бы хорошо если\n- **ik droom ervan om** - я мечтаю о том чтобы\n- **ik hoop dat** - я надеюсь что"
+    },
+    {
+      "type": "exercises",
+      "title": "Проверьте себя",
+      "content": "**Я могу**:\n- [ ] Различать реальные и нереальные условные предложения\n- [ ] Использовать \"zou(den)\" для выражения гипотетических ситуаций\n- [ ] Выражать сожаления о прошлом\n- [ ] Говорить о нереальных планах и мечтах\n- [ ] Давать советы, используя \"Als ik jou was...\""
+    }
+  ],
+  "vocabularyFile": "B1-lesson-26.json"
+}

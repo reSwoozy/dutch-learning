@@ -1,0 +1,290 @@
+[
+  {
+    "nl": "het hoofd",
+    "ru": "голова",
+    "example": "Mijn hoofd doet verschrikkelijk pijn.",
+    "pronunciation": "ɦət ɦoːft",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de ogen",
+    "ru": "глаза",
+    "example": "Ik heb blauwe ogen en blond haar.",
+    "pronunciation": "də ˈoːɣə",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de oren",
+    "ru": "уши",
+    "example": "Mijn oren doen zeer van de muziek.",
+    "pronunciation": "də ˈoːrə",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de neus",
+    "ru": "нос",
+    "example": "Mijn neus is verstopt door verkoudheid.",
+    "pronunciation": "də nøːs",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de mond",
+    "ru": "рот",
+    "example": "Open je mond voor de dokter.",
+    "pronunciation": "də mɔnt",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de tanden",
+    "ru": "зубы",
+    "example": "Ik poets mijn tanden twee keer per dag.",
+    "pronunciation": "də ˈtɑndə",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de hals",
+    "ru": "шея",
+    "example": "Mijn hals is stijf van het computeren.",
+    "pronunciation": "də ɦɑls",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de arm",
+    "ru": "рука",
+    "example": "Mijn arm is gebroken bij het vallen.",
+    "pronunciation": "də ɑrm",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de hand",
+    "ru": "кисть",
+    "example": "Geef me je hand, dan help ik je.",
+    "pronunciation": "də ɦɑnt",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de buik",
+    "ru": "живот",
+    "example": "Mijn buik doet pijn na het eten.",
+    "pronunciation": "də bœy̯k",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "het been",
+    "ru": "нога",
+    "example": "Mijn been is blauw van de val.",
+    "pronunciation": "ɦət beːn",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de voet",
+    "ru": "стопа",
+    "example": "Mijn voet is gezwollen na het wandelen.",
+    "pronunciation": "də vut",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "ziek",
+    "ru": "больной",
+    "example": "Ik ben al drie dagen ziek thuis.",
+    "pronunciation": "zik",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de pijn",
+    "ru": "боль",
+    "example": "Ik heb veel pijn in mijn rug.",
+    "pronunciation": "də pɛi̯n",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de koorts",
+    "ru": "температура",
+    "example": "Ik heb hoge koorts en voel me slecht.",
+    "pronunciation": "də koːrts",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "hoesten",
+    "ru": "кашлять",
+    "example": "Ik hoest de hele nacht al.",
+    "pronunciation": "ˈɦustə",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "niezen",
+    "ru": "чихать",
+    "example": "Ik moet steeds niezen door de kou.",
+    "pronunciation": "ˈnizə",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "misselijk",
+    "ru": "тошнота",
+    "example": "Ik voel me misselijk in de auto.",
+    "pronunciation": "ˈmɪsələk",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "moe",
+    "ru": "усталый",
+    "example": "Ik ben heel moe na het werk.",
+    "pronunciation": "mu",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "duizelig",
+    "ru": "головокружение",
+    "example": "Ik ben duizelig als ik sta.",
+    "pronunciation": "ˈdœy̯zələx",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de verkoudheid",
+    "ru": "простуда",
+    "example": "Ik heb een erge verkoudheid.",
+    "pronunciation": "də vərˈkɑu̯tɦɛi̯t",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de griep",
+    "ru": "грипп",
+    "example": "De griep gaat rond op kantoor.",
+    "pronunciation": "də ɣrip",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de hoofdpijn",
+    "ru": "головная боль",
+    "example": "Ik heb hoofdpijn van de stress.",
+    "pronunciation": "də ˈɦoːftpɛi̯n",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de buikpijn",
+    "ru": "боль в животе",
+    "example": "Het kind heeft buikpijn na het snoep.",
+    "pronunciation": "də ˈbœy̯kpɛi̯n",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de dokter",
+    "ru": "врач",
+    "example": "De dokter zegt dat ik moet rusten.",
+    "pronunciation": "də ˈdɔktər",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de huisarts",
+    "ru": "семейный врач",
+    "example": "Mijn huisarts is heel aardig.",
+    "pronunciation": "də ˈɦœy̯sɑrts",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "het ziekenhuis",
+    "ru": "больница",
+    "example": "We gaan naar het ziekenhuis.",
+    "pronunciation": "ɦət ˈzikənɦœy̯s",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de apotheek",
+    "ru": "аптека",
+    "example": "Haal de medicijnen bij de apotheek.",
+    "pronunciation": "də ˌaːpoːˈteːk",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "het medicijn",
+    "ru": "лекарство",
+    "example": "Dit medicijn helpt tegen de pijn.",
+    "pronunciation": "ɦət ˌmeːdəˈsɛi̯n",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "het recept",
+    "ru": "рецепт",
+    "example": "De dokter geeft me een recept.",
+    "pronunciation": "ɦət rəˈsɛpt",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de afspraak",
+    "ru": "запись",
+    "example": "Ik heb een afspraak bij de dokter.",
+    "pronunciation": "də ˈɑfspraːk",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de klachten",
+    "ru": "жалобы",
+    "example": "Wat zijn uw klachten vandaag?",
+    "pronunciation": "də ˈklɑxtə",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "innemen",
+    "ru": "принимать",
+    "example": "Neem de pillen driemaal per dag in.",
+    "pronunciation": "ˈɪnneːmə",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "genezen",
+    "ru": "выздоравливать",
+    "example": "Ik genees langzaam van de griep.",
+    "pronunciation": "ɣəˈneːzə",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "de gezondheid",
+    "ru": "здоровье",
+    "example": "Gezondheid is het belangrijkste.",
+    "pronunciation": "də ɣəˈzɔntɦɛi̯t",
+    "level": "A2",
+    "lesson": 15
+  },
+  {
+    "nl": "sporten",
+    "ru": "заниматься спортом",
+    "example": "Sporten is goed voor je gezondheid.",
+    "pronunciation": "ˈspɔrtə",
+    "level": "A2",
+    "lesson": 15
+  }
+]

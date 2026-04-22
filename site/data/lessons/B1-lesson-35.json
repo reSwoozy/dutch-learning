@@ -1,0 +1,209 @@
+{
+  "id": "B1-lesson-35",
+  "num": 35,
+  "level": "B1",
+  "title": "СМИ и новости",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "СМИ и новости",
+      "content": "**Научиться понимать голландские СМИ, развить критическое мышление при работе с информацией и уметь выражать свое мнение о новостных событиях.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Traditionele media (Традиционные СМИ)",
+      "words": [
+        {
+          "nl": "NPO 1, 2, 3",
+          "ru": "Publieke omroep",
+          "hint": "Государственные каналы"
+        },
+        {
+          "nl": "RTL 4, 5, 7",
+          "ru": "Commerciële zenders",
+          "hint": "Коммерческие каналы"
+        },
+        {
+          "nl": "SBS6, NET5",
+          "ru": "Commercieel",
+          "hint": "Развлекательные программы"
+        },
+        {
+          "nl": "BVN",
+          "ru": "Nederlandse omroep",
+          "hint": "Для голландцев за границей"
+        },
+        {
+          "nl": "Станция",
+          "ru": "Формат",
+          "hint": "Аудитория"
+        },
+        {
+          "nl": "NPO Radio 1",
+          "ru": "Новости, ток-шоу",
+          "hint": "Взрослые"
+        },
+        {
+          "nl": "NPO Radio 2",
+          "ru": "Популярная музыка",
+          "hint": "Средний возраст"
+        },
+        {
+          "nl": "3FM",
+          "ru": "Молодежная музыка",
+          "hint": "15-35 лет"
+        },
+        {
+          "nl": "Radio 538",
+          "ru": "Коммерческое радио",
+          "hint": "Массовая"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Digitale media (Цифровые СМИ)",
+      "content": "#### **Nieuwswebsites**\n- **nos.nl**: Главный новостной сайт\n- **nu.nl**: Популярные новости\n- **tweakers.net**: Технические новости\n- **volkskrant.nl**: Онлайн-версия газеты\n#### **Sociale media en nieuws**\n- **Facebook, Twitter**: Распространение новостей\n- **Instagram**: Визуальные новости\n- **LinkedIn**: Деловые новости\n- **TikTok**: Новости для молодежи"
+    },
+    {
+      "type": "grammar",
+      "title": "Structuur nieuwsartikelen (Структура новостных статей)",
+      "content": "Kop (Заголовок)\n↓\nLead (Лид) - основная информация в первом абзаце\n↓\nBody (Основная часть)\n├── Wie? (Кто?)\n├── Wat? (Что?)\n├── Waar? (Где?)\n├── Wanneer? (Когда?)\n├── Waarom? (Почему?)\n└── Hoe? (Как?)\n↓\nConclusie/Implicaties (Заключение/Последствия)",
+      "codeExamples": [
+        "Kop (Заголовок)\n↓\nLead (Лид) - основная информация в первом абзаце\n↓\nBody (Основная часть)\n├── Wie? (Кто?)\n├── Wat? (Что?)\n├── Waar? (Где?)\n├── Wanneer? (Когда?)\n├── Waarom? (Почему?)\n└── Hoe? (Как?)\n↓\nConclusie/Implicaties (Заключение/Последствия)"
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Televisiejournaals (Телевизионные новости)",
+      "content": "#### **NOS Journaal (НОС Журнал)**\n- **Tijden**: 13:00, 18:00, 20:00, 23:00\n- **Duur**: 15-30 минут\n- **Inhoud**: Nationale en internationale nieuws\n- **Stijl**: Objectief, neutraal\n#### **Hart van Nederland**\n- **Karakter**: Meer emotioneel\n- **Focus**: Menselijke verhalen\n- **Doelgroep**: Brede publiek"
+    },
+    {
+      "type": "text",
+      "title": "Диалог: Обсуждение новостей",
+      "content": "**Collega A**: Heb je het nieuws gezien over de klimaatdemonstratie?\n**Collega B**: Ja, ik zag het op nos.nl. Duizenden mensen in Amsterdam. Wat vind jij ervan?\n**Collega A**: Ik vind het goed dat mensen hun mening laten horen. Klimaatverandering is een serieus probleem.\n**Collega B**: Dat ben ik met je eens, maar ik vraag me af of demonstraties wel effect hebben.\n**Collega A**: Volgens mij wel. Het zorgt voor bewustwording en politieke druk.\n**Collega B**: Misschien. Maar ik las ook kritiek in de Telegraaf. Zij vinden het te radicaal.\n**Collega A**: Je moet voorzichtig zijn met de Telegraaf. Die krant is nogal populistisch.\n**Collega B**: Dat is waar. Ik lees liever NRC voor een evenwichtige kijk.\n**Collega A**: Goed idee. Het is belangrijk om verschillende bronnen te gebruiken."
+    },
+    {
+      "type": "text",
+      "title": "Диалог: Over sociale media en nieuws",
+      "content": "**Vriend A**: Zie je veel nieuws op sociale media?\n**Vriend B**: Ja, vooral op Facebook en Twitter. Jij ook?\n**Vriend A**: Soms, maar ik vertrouw het niet altijd. Er staat veel nepnieuws op.\n**Vriend B**: Nepnieuws? Hoe herken je dat?\n**Vriend A**: Kijk naar de bron. Is het een betrouwbare website? Ook: lijkt het te mooi om waar te zijn?\n**Vriend B**: Goed punt. Ik check meestal nos.nl om te zien of het waar is.\n**Vriend A**: Slimme strategie! Ook belangrijk: lees niet alleen de kop, maar het hele artikel.\n**Vriend B**: Waarom?\n**Vriend A**: Koppen zijn vaak overdreven om clicks te krijgen. Het artikel geeft meer context.\n**Vriend B**: Ah, clickbait! Ja, daar heb ik wel eens last van gehad."
+    },
+    {
+      "type": "text",
+      "title": "Mediawijsheid (Медиаграмотность)",
+      "content": "#### **Kritisch lezen (Критическое чтение)**\n**Vragen bij nieuwsartikelen**:\n1. **Wie heeft dit geschreven?** (Автор и его компетенция)\n2. **Wat is de bron?** (Первоисточник информации)\n3. **Wanneer is het gepubliceerd?** (Актуальность)\n4. **Waarom is dit nieuws?** (Причина публикации)\n5. **Wat ontbreekt?** (Что не освещено)\n#### **Nepnieuws herkennen (Распознавание фейк-ньюс)**\n**Waarschuwingssignalen**:\n- Extreme emotionele taal\n- Geen bronvermelding\n- Onbekende websites\n- Datum ontbreekt\n- Te mooi om waar te zijn"
+    },
+    {
+      "type": "text",
+      "title": "Diverse nieuwsbronnen (Разнообразные источники)",
+      "content": "#### **Links-rechts spectrum in Nederlandse media**\n```\nLinks ←——————————————————→ Rechts\nVolkskrant | NRC | AD | Telegraaf\n```\n#### **Betrouwbaarheidsschaal**\n```\nZeer betrouwbaar: NOS, NRC, Volkskrant\nBetrouwbaar: AD, Trouw\nGemiddeld: RTL Nieuws, SBS\nVoorzichtig: GeenStijl, TPO\n```"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: СМИ в Нидерландах",
+      "items": [
+        {
+          "question": "NOS → a) Коммерческое телевидение"
+        },
+        {
+          "question": "de Volkskrant → b) Государственные новости"
+        },
+        {
+          "question": "RTL 4 → c) Левоцентристская газета"
+        },
+        {
+          "question": "3FM → d) Популистская газета"
+        },
+        {
+          "question": "de Telegraaf → e) Молодежное радио"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 2: Структура новостей",
+      "content": "Расставьте в правильном порядке:\na) Детали события\nb) Заголовок\nc) Последствия\nd) Основная информация (лид)\ne) Контекст"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Критическое мышление",
+      "content": "Оцените достоверность:\n**Заголовок**: \"SHOCK: Regering verhoogt belastingen met 50%!\"\n**Источник**: Неизвестный блог\n**Дата**: Отсутствует\n**Тон**: Очень эмоциональный\nВаша оценка: ______\nЧто проверить: ______"
+    },
+    {
+      "type": "text",
+      "title": "Digitale revolutie (Цифровая революция)",
+      "content": "#### **Veranderende nieuwsconsumptie**\n- **Mobiel eerst**: 70% читает новости на смартфоне\n- **Sociale media**: 40% получает новости через Facebook\n- **Personalisatie**: Алгоритмы выбирают контент\n- **Real-time**: Мгновенные уведомления\n#### **Nieuwe mediaformaten**\n- **Podcasts**: Audio-контент растет\n- **Newsletters**: Персональные подборки\n- **Video**: YouTube как источник новостей\n- **Stories**: Краткие визуальные новости"
+    },
+    {
+      "type": "text",
+      "title": "Podcasts en Nederlandse media",
+      "content": "**Populaire Nederlandse podcasts**:\n- **De Dag** (NRC): Ежедневный анализ новостей\n- **Spraakmakers** (NPO): Общественные дебаты\n- **De Stemming van Vullings en Van der Wulp**: Политический анализ\n- **WNL Op Zondag**: Еженедельный обзор"
+    },
+    {
+      "type": "culture",
+      "title": "Медиаландшафт Нидерландов",
+      "content": "** Publieke omroep systeem (Система общественного вещания)**:\n- Уникальная система общественного вещания\n- Различные общественные организации (AVRO, VARA, KRO, etc.)\n- Финансирование через налоги\n- Обязательство служить общественным интересам\n** Статистика потребления медиа**:\n- **Телевидение**: 3,5 часа в день (среднее)\n- **Интернет-новости**: 80% населения\n- **Газеты**: Тираж снижается (-5% в год)\n- **Подкасты**: 30% слушает регулярно"
+    },
+    {
+      "type": "text",
+      "title": "Свобода прессы",
+      "content": "**Press Freedom Index**: Нидерланды в топ-10 мира\n- Независимость от правительства\n- Разнообразие мнений\n- Защита журналистов\n- Открытость информации\n**Вызовы**:\n- Концентрация собственности медиа\n- Финансовые проблемы газет\n- Дезинформация в социальных сетях\n- Поляризация общественного мнения"
+    },
+    {
+      "type": "culture",
+      "title": "Голландский стиль журналистики",
+      "content": "**Особенности**:\n- **Nuchterheid**: Трезвость, отсутствие сенсационности\n- **Consensus seeking**: Поиск компромисса\n- **Fact-based**: Опора на факты\n- **Toegankelijkheid**: Доступность для понимания"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые фразы урока",
+      "words": [
+        {
+          "nl": "Heb je het nieuws gezien?",
+          "ru": "Ты видел новости?"
+        },
+        {
+          "nl": "Wat vind je van dit artikel?",
+          "ru": "Что ты думаешь об этой статье?"
+        },
+        {
+          "nl": "Volgens de krant...",
+          "ru": "По данным газеты..."
+        },
+        {
+          "nl": "Dat is nepnieuws",
+          "ru": "Это фейк-ньюс"
+        },
+        {
+          "nl": "Welke bron is dit?",
+          "ru": "Какой это источник?"
+        },
+        {
+          "nl": "Ik ben het eens/oneens",
+          "ru": "Я согласен/не согласен"
+        },
+        {
+          "nl": "Het lijkt me overdreven",
+          "ru": "Мне кажется это преувеличением"
+        },
+        {
+          "nl": "Dat moet je kritisch bekijken",
+          "ru": "На это нужно смотреть критически"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 34** (Интеграция в общество): Медиа как часть общественной жизни\n- **Урок 31** (Правительство и законы): Политические новости и освещение власти\n- **Урок 26** (Условные предложения): \"Als je alleen tabloids leest, zou je verkeerde informatie krijgen\""
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 36: B1 итоговый урок и подготовка к B2**\n- Обзор всех тем B1 уровня\n- Самооценка прогресса\n- Подготовка к переходу на B2\n- Планирование дальнейшего изучения\n**Подготовка**: Просмотрите все предыдущие уроки B1 и оцените свой прогресс!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-35.json"
+}

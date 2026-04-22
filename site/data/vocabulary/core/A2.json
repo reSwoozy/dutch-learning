@@ -1,0 +1,5532 @@
+[
+  {
+    "nl": "beginnen met",
+    "ru": "начинать с",
+    "level": "A2"
+  },
+  {
+    "nl": "ophouden met",
+    "ru": "переставать",
+    "level": "A2"
+  },
+  {
+    "nl": "gebeuren",
+    "ru": "происходить",
+    "level": "A2"
+  },
+  {
+    "nl": "bestaan",
+    "ru": "существовать",
+    "level": "A2"
+  },
+  {
+    "nl": "bestaan uit",
+    "ru": "состоять из",
+    "level": "A2"
+  },
+  {
+    "nl": "blijven",
+    "ru": "оставаться",
+    "level": "A2"
+  },
+  {
+    "nl": "verblijven",
+    "ru": "пребывать",
+    "level": "A2"
+  },
+  {
+    "nl": "voorkomen",
+    "ru": "встречаться / предотвращать",
+    "level": "A2"
+  },
+  {
+    "nl": "doorgaan",
+    "ru": "продолжаться",
+    "level": "A2"
+  },
+  {
+    "nl": "ophouden",
+    "ru": "прекращаться",
+    "level": "A2"
+  },
+  {
+    "nl": "aankomen",
+    "ru": "прибывать",
+    "level": "A2"
+  },
+  {
+    "nl": "vertrekken",
+    "ru": "отправляться",
+    "level": "A2"
+  },
+  {
+    "nl": "afhalen",
+    "ru": "забирать",
+    "level": "A2"
+  },
+  {
+    "nl": "brengen",
+    "ru": "приносить",
+    "level": "A2"
+  },
+  {
+    "nl": "halen",
+    "ru": "получать, доставать",
+    "level": "A2"
+  },
+  {
+    "nl": "sturen",
+    "ru": "отправлять",
+    "level": "A2"
+  },
+  {
+    "nl": "meenemen",
+    "ru": "брать с собой",
+    "level": "A2"
+  },
+  {
+    "nl": "meegaan",
+    "ru": "идти вместе",
+    "level": "A2"
+  },
+  {
+    "nl": "uitnodigen",
+    "ru": "приглашать",
+    "level": "A2"
+  },
+  {
+    "nl": "bezoeken",
+    "ru": "посещать",
+    "level": "A2"
+  },
+  {
+    "nl": "ontmoeten",
+    "ru": "встречать",
+    "level": "A2"
+  },
+  {
+    "nl": "afspreken",
+    "ru": "договариваться",
+    "level": "A2"
+  },
+  {
+    "nl": "ontbijten",
+    "ru": "завтракать",
+    "level": "A2"
+  },
+  {
+    "nl": "lunchen",
+    "ru": "обедать (lunch)",
+    "level": "A2"
+  },
+  {
+    "nl": "dineren",
+    "ru": "ужинать",
+    "level": "A2"
+  },
+  {
+    "nl": "bestellen",
+    "ru": "заказывать",
+    "level": "A2"
+  },
+  {
+    "nl": "betalen",
+    "ru": "оплачивать",
+    "level": "A2"
+  },
+  {
+    "nl": "pinnen",
+    "ru": "платить картой",
+    "level": "A2"
+  },
+  {
+    "nl": "afrekenen",
+    "ru": "расплачиваться",
+    "level": "A2"
+  },
+  {
+    "nl": "verdienen",
+    "ru": "зарабатывать",
+    "level": "A2"
+  },
+  {
+    "nl": "sparen",
+    "ru": "копить",
+    "level": "A2"
+  },
+  {
+    "nl": "uitgeven",
+    "ru": "тратить",
+    "level": "A2"
+  },
+  {
+    "nl": "lenen",
+    "ru": "одалживать / брать в долг",
+    "level": "A2"
+  },
+  {
+    "nl": "huren",
+    "ru": "арендовать",
+    "level": "A2"
+  },
+  {
+    "nl": "verhuren",
+    "ru": "сдавать в аренду",
+    "level": "A2"
+  },
+  {
+    "nl": "verhuizen",
+    "ru": "переезжать",
+    "level": "A2"
+  },
+  {
+    "nl": "emigreren",
+    "ru": "эмигрировать",
+    "level": "A2"
+  },
+  {
+    "nl": "aanmelden",
+    "ru": "регистрировать(ся)",
+    "level": "A2"
+  },
+  {
+    "nl": "inschrijven",
+    "ru": "записывать(ся)",
+    "level": "A2"
+  },
+  {
+    "nl": "uitschrijven",
+    "ru": "выписывать(ся)",
+    "level": "A2"
+  },
+  {
+    "nl": "invullen",
+    "ru": "заполнять",
+    "level": "A2"
+  },
+  {
+    "nl": "ondertekenen",
+    "ru": "подписывать",
+    "level": "A2"
+  },
+  {
+    "nl": "goedkeuren",
+    "ru": "одобрять",
+    "level": "A2"
+  },
+  {
+    "nl": "afwijzen",
+    "ru": "отклонять",
+    "level": "A2"
+  },
+  {
+    "nl": "beslissen",
+    "ru": "решать",
+    "level": "A2"
+  },
+  {
+    "nl": "kiezen",
+    "ru": "выбирать",
+    "level": "A2"
+  },
+  {
+    "nl": "aannemen",
+    "ru": "принимать (предположение, работу)",
+    "level": "A2"
+  },
+  {
+    "nl": "weigeren",
+    "ru": "отказывать(ся)",
+    "level": "A2"
+  },
+  {
+    "nl": "vergeten",
+    "ru": "забывать",
+    "level": "A2"
+  },
+  {
+    "nl": "onthouden",
+    "ru": "запоминать",
+    "level": "A2"
+  },
+  {
+    "nl": "herhalen",
+    "ru": "повторять",
+    "level": "A2"
+  },
+  {
+    "nl": "oefenen",
+    "ru": "тренировать(ся)",
+    "level": "A2"
+  },
+  {
+    "nl": "uitleggen",
+    "ru": "объяснять",
+    "level": "A2"
+  },
+  {
+    "nl": "beschrijven",
+    "ru": "описывать",
+    "level": "A2"
+  },
+  {
+    "nl": "vergelijken",
+    "ru": "сравнивать",
+    "level": "A2"
+  },
+  {
+    "nl": "herkennen",
+    "ru": "узнавать",
+    "level": "A2"
+  },
+  {
+    "nl": "merken",
+    "ru": "замечать",
+    "level": "A2"
+  },
+  {
+    "nl": "opvallen",
+    "ru": "бросаться в глаза",
+    "level": "A2"
+  },
+  {
+    "nl": "geloven in",
+    "ru": "верить в",
+    "level": "A2"
+  },
+  {
+    "nl": "twijfelen",
+    "ru": "сомневаться",
+    "level": "A2"
+  },
+  {
+    "nl": "zich voelen",
+    "ru": "чувствовать себя",
+    "level": "A2"
+  },
+  {
+    "nl": "zich voorstellen",
+    "ru": "представляться / представлять",
+    "level": "A2"
+  },
+  {
+    "nl": "zich aanpassen",
+    "ru": "приспосабливаться",
+    "level": "A2"
+  },
+  {
+    "nl": "zich vervelen",
+    "ru": "скучать",
+    "level": "A2"
+  },
+  {
+    "nl": "zich ergeren",
+    "ru": "раздражаться",
+    "level": "A2"
+  },
+  {
+    "nl": "zich schamen",
+    "ru": "стыдиться",
+    "level": "A2"
+  },
+  {
+    "nl": "zich haasten",
+    "ru": "спешить",
+    "level": "A2"
+  },
+  {
+    "nl": "zich wassen",
+    "ru": "мыться",
+    "level": "A2"
+  },
+  {
+    "nl": "zich aankleden",
+    "ru": "одеваться",
+    "level": "A2"
+  },
+  {
+    "nl": "zich uitkleden",
+    "ru": "раздеваться",
+    "level": "A2"
+  },
+  {
+    "nl": "douchen",
+    "ru": "принимать душ",
+    "level": "A2"
+  },
+  {
+    "nl": "tandenpoetsen",
+    "ru": "чистить зубы",
+    "level": "A2"
+  },
+  {
+    "nl": "kammen",
+    "ru": "расчёсывать",
+    "level": "A2"
+  },
+  {
+    "nl": "scheren",
+    "ru": "бриться",
+    "level": "A2"
+  },
+  {
+    "nl": "make-up opdoen",
+    "ru": "делать макияж",
+    "level": "A2"
+  },
+  {
+    "nl": "schoonmaken",
+    "ru": "убирать",
+    "level": "A2"
+  },
+  {
+    "nl": "opruimen",
+    "ru": "прибирать",
+    "level": "A2"
+  },
+  {
+    "nl": "wassen",
+    "ru": "мыть / стирать",
+    "level": "A2"
+  },
+  {
+    "nl": "afwassen",
+    "ru": "мыть посуду",
+    "level": "A2"
+  },
+  {
+    "nl": "stofzuigen",
+    "ru": "пылесосить",
+    "level": "A2"
+  },
+  {
+    "nl": "strijken",
+    "ru": "гладить",
+    "level": "A2"
+  },
+  {
+    "nl": "ophangen",
+    "ru": "вешать",
+    "level": "A2"
+  },
+  {
+    "nl": "vuilnis",
+    "ru": "мусор",
+    "level": "A2"
+  },
+  {
+    "nl": "stof",
+    "ru": "пыль / ткань",
+    "level": "A2"
+  },
+  {
+    "nl": "schoon",
+    "ru": "чистый",
+    "level": "A2"
+  },
+  {
+    "nl": "vuil",
+    "ru": "грязный",
+    "level": "A2"
+  },
+  {
+    "nl": "netjes",
+    "ru": "аккуратный",
+    "level": "A2"
+  },
+  {
+    "nl": "rommelig",
+    "ru": "неопрятный",
+    "level": "A2"
+  },
+  {
+    "nl": "overhemd",
+    "ru": "рубашка",
+    "level": "A2"
+  },
+  {
+    "nl": "blouse",
+    "ru": "блузка",
+    "level": "A2"
+  },
+  {
+    "nl": "pak",
+    "ru": "костюм",
+    "level": "A2"
+  },
+  {
+    "nl": "trouwjurk",
+    "ru": "свадебное платье",
+    "level": "A2"
+  },
+  {
+    "nl": "zwembroek",
+    "ru": "плавки",
+    "level": "A2"
+  },
+  {
+    "nl": "badpak",
+    "ru": "купальник",
+    "level": "A2"
+  },
+  {
+    "nl": "riem",
+    "ru": "ремень",
+    "level": "A2"
+  },
+  {
+    "nl": "bril",
+    "ru": "очки",
+    "level": "A2"
+  },
+  {
+    "nl": "zonnebril",
+    "ru": "солнечные очки",
+    "level": "A2"
+  },
+  {
+    "nl": "horloge",
+    "ru": "наручные часы",
+    "level": "A2"
+  },
+  {
+    "nl": "portemonnee",
+    "ru": "кошелёк",
+    "level": "A2"
+  },
+  {
+    "nl": "sleutel",
+    "ru": "ключ",
+    "level": "A2"
+  },
+  {
+    "nl": "paspoort",
+    "ru": "паспорт",
+    "level": "A2"
+  },
+  {
+    "nl": "identiteitskaart",
+    "ru": "удостоверение личности",
+    "level": "A2"
+  },
+  {
+    "nl": "rijbewijs",
+    "ru": "водительские права",
+    "level": "A2"
+  },
+  {
+    "nl": "verblijfsvergunning",
+    "ru": "вид на жительство",
+    "level": "A2"
+  },
+  {
+    "nl": "BSN-nummer",
+    "ru": "гражданский сервис-номер",
+    "level": "A2"
+  },
+  {
+    "nl": "gemeente",
+    "ru": "муниципалитет",
+    "level": "A2"
+  },
+  {
+    "nl": "stadhuis",
+    "ru": "ратуша",
+    "level": "A2"
+  },
+  {
+    "nl": "ambassade",
+    "ru": "посольство",
+    "level": "A2"
+  },
+  {
+    "nl": "consulaat",
+    "ru": "консульство",
+    "level": "A2"
+  },
+  {
+    "nl": "politie",
+    "ru": "полиция",
+    "level": "A2"
+  },
+  {
+    "nl": "brandweer",
+    "ru": "пожарные",
+    "level": "A2"
+  },
+  {
+    "nl": "ambulance",
+    "ru": "скорая помощь",
+    "level": "A2"
+  },
+  {
+    "nl": "noodgeval",
+    "ru": "экстренный случай",
+    "level": "A2"
+  },
+  {
+    "nl": "ongeluk",
+    "ru": "авария, несчастье",
+    "level": "A2"
+  },
+  {
+    "nl": "brand",
+    "ru": "пожар",
+    "level": "A2"
+  },
+  {
+    "nl": "alarm",
+    "ru": "тревога",
+    "level": "A2"
+  },
+  {
+    "nl": "hulpverlening",
+    "ru": "служба помощи",
+    "level": "A2"
+  },
+  {
+    "nl": "eerste hulp",
+    "ru": "первая помощь",
+    "level": "A2"
+  },
+  {
+    "nl": "pijn",
+    "ru": "боль",
+    "level": "A2"
+  },
+  {
+    "nl": "ziekte",
+    "ru": "болезнь",
+    "level": "A2"
+  },
+  {
+    "nl": "verkoudheid",
+    "ru": "простуда",
+    "level": "A2"
+  },
+  {
+    "nl": "griep",
+    "ru": "грипп",
+    "level": "A2"
+  },
+  {
+    "nl": "koorts",
+    "ru": "лихорадка",
+    "level": "A2"
+  },
+  {
+    "nl": "hoest",
+    "ru": "кашель",
+    "level": "A2"
+  },
+  {
+    "nl": "keelpijn",
+    "ru": "боль в горле",
+    "level": "A2"
+  },
+  {
+    "nl": "hoofdpijn",
+    "ru": "головная боль",
+    "level": "A2"
+  },
+  {
+    "nl": "buikpijn",
+    "ru": "боль в животе",
+    "level": "A2"
+  },
+  {
+    "nl": "rugpijn",
+    "ru": "боль в спине",
+    "level": "A2"
+  },
+  {
+    "nl": "wond",
+    "ru": "рана",
+    "level": "A2"
+  },
+  {
+    "nl": "blauwe plek",
+    "ru": "синяк",
+    "level": "A2"
+  },
+  {
+    "nl": "allergie",
+    "ru": "аллергия",
+    "level": "A2"
+  },
+  {
+    "nl": "medicijn",
+    "ru": "лекарство",
+    "level": "A2"
+  },
+  {
+    "nl": "pilletje",
+    "ru": "таблетка",
+    "level": "A2"
+  },
+  {
+    "nl": "recept",
+    "ru": "рецепт",
+    "level": "A2"
+  },
+  {
+    "nl": "afspraak (дoктор)",
+    "ru": "запись к врачу",
+    "level": "A2"
+  },
+  {
+    "nl": "huisarts",
+    "ru": "семейный врач",
+    "level": "A2"
+  },
+  {
+    "nl": "specialist",
+    "ru": "специалист",
+    "level": "A2"
+  },
+  {
+    "nl": "verpleegkundige",
+    "ru": "медсестра/медбрат",
+    "level": "A2"
+  },
+  {
+    "nl": "patient",
+    "ru": "пациент",
+    "level": "A2"
+  },
+  {
+    "nl": "operatie",
+    "ru": "операция",
+    "level": "A2"
+  },
+  {
+    "nl": "behandeling",
+    "ru": "лечение",
+    "level": "A2"
+  },
+  {
+    "nl": "onderzoek",
+    "ru": "обследование / исследование",
+    "level": "A2"
+  },
+  {
+    "nl": "zorgverzekering",
+    "ru": "медицинская страховка",
+    "level": "A2"
+  },
+  {
+    "nl": "ziekenfonds",
+    "ru": "страховая касса",
+    "level": "A2"
+  },
+  {
+    "nl": "eigen risico",
+    "ru": "франшиза",
+    "level": "A2"
+  },
+  {
+    "nl": "eigen bijdrage",
+    "ru": "доплата пациента",
+    "level": "A2"
+  },
+  {
+    "nl": "formulier",
+    "ru": "бланк",
+    "level": "A2"
+  },
+  {
+    "nl": "document",
+    "ru": "документ",
+    "level": "A2"
+  },
+  {
+    "nl": "contract",
+    "ru": "договор",
+    "level": "A2"
+  },
+  {
+    "nl": "afschrift",
+    "ru": "копия / выписка",
+    "level": "A2"
+  },
+  {
+    "nl": "handtekening",
+    "ru": "подпись",
+    "level": "A2"
+  },
+  {
+    "nl": "datum",
+    "ru": "дата",
+    "level": "A2"
+  },
+  {
+    "nl": "plaats van handeling",
+    "ru": "место действия",
+    "level": "A2"
+  },
+  {
+    "nl": "geboorteplaats",
+    "ru": "место рождения",
+    "level": "A2"
+  },
+  {
+    "nl": "woonplaats",
+    "ru": "место жительства",
+    "level": "A2"
+  },
+  {
+    "nl": "postcode",
+    "ru": "почтовый индекс",
+    "level": "A2"
+  },
+  {
+    "nl": "huisnummer",
+    "ru": "номер дома",
+    "level": "A2"
+  },
+  {
+    "nl": "mobiel nummer",
+    "ru": "мобильный номер",
+    "level": "A2"
+  },
+  {
+    "nl": "vaste lijn",
+    "ru": "стационарный телефон",
+    "level": "A2"
+  },
+  {
+    "nl": "afzender",
+    "ru": "отправитель",
+    "level": "A2"
+  },
+  {
+    "nl": "ontvanger",
+    "ru": "получатель",
+    "level": "A2"
+  },
+  {
+    "nl": "envelop",
+    "ru": "конверт",
+    "level": "A2"
+  },
+  {
+    "nl": "postzegel",
+    "ru": "марка",
+    "level": "A2"
+  },
+  {
+    "nl": "pakket",
+    "ru": "посылка",
+    "level": "A2"
+  },
+  {
+    "nl": "bezorgen",
+    "ru": "доставлять",
+    "level": "A2"
+  },
+  {
+    "nl": "versturen",
+    "ru": "отправлять",
+    "level": "A2"
+  },
+  {
+    "nl": "ontvangen",
+    "ru": "получать (формально)",
+    "level": "A2"
+  },
+  {
+    "nl": "bevestigen",
+    "ru": "подтверждать",
+    "level": "A2"
+  },
+  {
+    "nl": "antwoord geven",
+    "ru": "давать ответ",
+    "level": "A2"
+  },
+  {
+    "nl": "reageren op",
+    "ru": "реагировать на",
+    "level": "A2"
+  },
+  {
+    "nl": "klacht",
+    "ru": "жалоба",
+    "level": "A2"
+  },
+  {
+    "nl": "klagen",
+    "ru": "жаловаться",
+    "level": "A2"
+  },
+  {
+    "nl": "compliment",
+    "ru": "комплимент",
+    "level": "A2"
+  },
+  {
+    "nl": "kritiek",
+    "ru": "критика",
+    "level": "A2"
+  },
+  {
+    "nl": "mening",
+    "ru": "мнение",
+    "level": "A2"
+  },
+  {
+    "nl": "opinie",
+    "ru": "мнение (форм.)",
+    "level": "A2"
+  },
+  {
+    "nl": "argument",
+    "ru": "аргумент",
+    "level": "A2"
+  },
+  {
+    "nl": "discussie",
+    "ru": "обсуждение",
+    "level": "A2"
+  },
+  {
+    "nl": "gesprek",
+    "ru": "разговор",
+    "level": "A2"
+  },
+  {
+    "nl": "vergadering",
+    "ru": "совещание",
+    "level": "A2"
+  },
+  {
+    "nl": "bijeenkomst",
+    "ru": "собрание",
+    "level": "A2"
+  },
+  {
+    "nl": "conferentie",
+    "ru": "конференция",
+    "level": "A2"
+  },
+  {
+    "nl": "presentatie",
+    "ru": "презентация",
+    "level": "A2"
+  },
+  {
+    "nl": "voorstelling",
+    "ru": "спектакль / представление",
+    "level": "A2"
+  },
+  {
+    "nl": "concert",
+    "ru": "концерт",
+    "level": "A2"
+  },
+  {
+    "nl": "tentoonstelling",
+    "ru": "выставка",
+    "level": "A2"
+  },
+  {
+    "nl": "museum",
+    "ru": "музей",
+    "level": "A2"
+  },
+  {
+    "nl": "bibliotheek",
+    "ru": "библиотека",
+    "level": "A2"
+  },
+  {
+    "nl": "theater",
+    "ru": "театр",
+    "level": "A2"
+  },
+  {
+    "nl": "bioscoop",
+    "ru": "кинотеатр",
+    "level": "A2"
+  },
+  {
+    "nl": "fitness",
+    "ru": "фитнес",
+    "level": "A2"
+  },
+  {
+    "nl": "sportschool",
+    "ru": "спортзал",
+    "level": "A2"
+  },
+  {
+    "nl": "zwembad",
+    "ru": "бассейн",
+    "level": "A2"
+  },
+  {
+    "nl": "tennisbaan",
+    "ru": "теннисный корт",
+    "level": "A2"
+  },
+  {
+    "nl": "voetbalveld",
+    "ru": "футбольное поле",
+    "level": "A2"
+  },
+  {
+    "nl": "speeltuin",
+    "ru": "детская площадка",
+    "level": "A2"
+  },
+  {
+    "nl": "dierentuin",
+    "ru": "зоопарк",
+    "level": "A2"
+  },
+  {
+    "nl": "pretpark",
+    "ru": "парк развлечений",
+    "level": "A2"
+  },
+  {
+    "nl": "festival",
+    "ru": "фестиваль",
+    "level": "A2"
+  },
+  {
+    "nl": "evenement",
+    "ru": "мероприятие",
+    "level": "A2"
+  },
+  {
+    "nl": "optreden",
+    "ru": "выступление",
+    "level": "A2"
+  },
+  {
+    "nl": "publiek",
+    "ru": "публика",
+    "level": "A2"
+  },
+  {
+    "nl": "ticket",
+    "ru": "билет на мероприятие",
+    "level": "A2"
+  },
+  {
+    "nl": "boeken",
+    "ru": "бронировать",
+    "level": "A2"
+  },
+  {
+    "nl": "reserveren",
+    "ru": "резервировать",
+    "level": "A2"
+  },
+  {
+    "nl": "annuleren",
+    "ru": "отменять",
+    "level": "A2"
+  },
+  {
+    "nl": "wijzigen",
+    "ru": "менять",
+    "level": "A2"
+  },
+  {
+    "nl": "uitstellen",
+    "ru": "откладывать",
+    "level": "A2"
+  },
+  {
+    "nl": "inhalen",
+    "ru": "догонять / навёрстывать",
+    "level": "A2"
+  },
+  {
+    "nl": "regelen",
+    "ru": "устраивать, организовывать",
+    "level": "A2"
+  },
+  {
+    "nl": "organiseren",
+    "ru": "организовывать",
+    "level": "A2"
+  },
+  {
+    "nl": "plannen",
+    "ru": "планировать",
+    "level": "A2"
+  },
+  {
+    "nl": "voorbereiden",
+    "ru": "готовить, подготавливать",
+    "level": "A2"
+  },
+  {
+    "nl": "doel",
+    "ru": "цель",
+    "level": "A2"
+  },
+  {
+    "nl": "resultaat",
+    "ru": "результат",
+    "level": "A2"
+  },
+  {
+    "nl": "gevolg",
+    "ru": "следствие",
+    "level": "A2"
+  },
+  {
+    "nl": "oorzaak",
+    "ru": "причина (корневая)",
+    "level": "A2"
+  },
+  {
+    "nl": "kans",
+    "ru": "шанс",
+    "level": "A2"
+  },
+  {
+    "nl": "risico",
+    "ru": "риск",
+    "level": "A2"
+  },
+  {
+    "nl": "mogelijkheid",
+    "ru": "возможность",
+    "level": "A2"
+  },
+  {
+    "nl": "onmogelijkheid",
+    "ru": "невозможность",
+    "level": "A2"
+  },
+  {
+    "nl": "verschil",
+    "ru": "разница",
+    "level": "A2"
+  },
+  {
+    "nl": "overeenkomst",
+    "ru": "сходство / соглашение",
+    "level": "A2"
+  },
+  {
+    "nl": "invloed",
+    "ru": "влияние",
+    "level": "A2"
+  },
+  {
+    "nl": "belangstelling",
+    "ru": "интерес",
+    "level": "A2"
+  },
+  {
+    "nl": "aandacht",
+    "ru": "внимание",
+    "level": "A2"
+  },
+  {
+    "nl": "verwachting",
+    "ru": "ожидание",
+    "level": "A2"
+  },
+  {
+    "nl": "ervaring",
+    "ru": "опыт",
+    "level": "A2"
+  },
+  {
+    "nl": "kennismaking",
+    "ru": "знакомство",
+    "level": "A2"
+  },
+  {
+    "nl": "achtergrond",
+    "ru": "происхождение, фон",
+    "level": "A2"
+  },
+  {
+    "nl": "toekomst",
+    "ru": "будущее",
+    "level": "A2"
+  },
+  {
+    "nl": "verleden",
+    "ru": "прошлое",
+    "level": "A2"
+  },
+  {
+    "nl": "heden",
+    "ru": "настоящее",
+    "level": "A2"
+  },
+  {
+    "nl": "toen",
+    "ru": "тогда (при рассказе)",
+    "level": "A2"
+  },
+  {
+    "nl": "inmiddels",
+    "ru": "тем временем",
+    "level": "A2"
+  },
+  {
+    "nl": "ondertussen",
+    "ru": "тем временем",
+    "level": "A2"
+  },
+  {
+    "nl": "daarna",
+    "ru": "потом, после этого",
+    "level": "A2"
+  },
+  {
+    "nl": "daarom",
+    "ru": "поэтому",
+    "level": "A2"
+  },
+  {
+    "nl": "daardoor",
+    "ru": "в результате",
+    "level": "A2"
+  },
+  {
+    "nl": "toch",
+    "ru": "всё-таки",
+    "level": "A2"
+  },
+  {
+    "nl": "echter",
+    "ru": "однако",
+    "level": "A2"
+  },
+  {
+    "nl": "bovendien",
+    "ru": "кроме того",
+    "level": "A2"
+  },
+  {
+    "nl": "daarnaast",
+    "ru": "помимо этого",
+    "level": "A2"
+  },
+  {
+    "nl": "ten slotte",
+    "ru": "наконец",
+    "level": "A2"
+  },
+  {
+    "nl": "kortom",
+    "ru": "вкратце",
+    "level": "A2"
+  },
+  {
+    "nl": "zodat",
+    "ru": "чтобы, так что",
+    "level": "A2"
+  },
+  {
+    "nl": "hoewel",
+    "ru": "хотя",
+    "level": "A2"
+  },
+  {
+    "nl": "terwijl",
+    "ru": "в то время как",
+    "level": "A2"
+  },
+  {
+    "nl": "voordat",
+    "ru": "прежде чем",
+    "level": "A2"
+  },
+  {
+    "nl": "nadat",
+    "ru": "после того как",
+    "level": "A2"
+  },
+  {
+    "nl": "zodra",
+    "ru": "как только",
+    "level": "A2"
+  },
+  {
+    "nl": "totdat",
+    "ru": "до тех пор пока",
+    "level": "A2"
+  },
+  {
+    "nl": "sinds",
+    "ru": "с тех пор как",
+    "level": "A2"
+  },
+  {
+    "nl": "omdat",
+    "ru": "потому что",
+    "level": "A2"
+  },
+  {
+    "nl": "aangezien",
+    "ru": "поскольку",
+    "level": "A2"
+  },
+  {
+    "nl": "namelijk",
+    "ru": "а именно / дело в том",
+    "level": "A2"
+  },
+  {
+    "nl": "vanwege",
+    "ru": "из-за",
+    "level": "A2"
+  },
+  {
+    "nl": "dankzij",
+    "ru": "благодаря",
+    "level": "A2"
+  },
+  {
+    "nl": "behalve",
+    "ru": "кроме",
+    "level": "A2"
+  },
+  {
+    "nl": "volgens",
+    "ru": "по мнению / согласно",
+    "level": "A2"
+  },
+  {
+    "nl": "binnen",
+    "ru": "в пределах / внутри",
+    "level": "A2"
+  },
+  {
+    "nl": "buiten",
+    "ru": "вне",
+    "level": "A2"
+  },
+  {
+    "nl": "dichtbij",
+    "ru": "близко",
+    "level": "A2"
+  },
+  {
+    "nl": "verder",
+    "ru": "дальше / далее",
+    "level": "A2"
+  },
+  {
+    "nl": "vooruit",
+    "ru": "вперёд",
+    "level": "A2"
+  },
+  {
+    "nl": "achteruit",
+    "ru": "назад",
+    "level": "A2"
+  },
+  {
+    "nl": "omhoog",
+    "ru": "вверх",
+    "level": "A2"
+  },
+  {
+    "nl": "omlaag",
+    "ru": "вниз",
+    "level": "A2"
+  },
+  {
+    "nl": "noord",
+    "ru": "север",
+    "level": "A2"
+  },
+  {
+    "nl": "zuid",
+    "ru": "юг",
+    "level": "A2"
+  },
+  {
+    "nl": "oost",
+    "ru": "восток",
+    "level": "A2"
+  },
+  {
+    "nl": "west",
+    "ru": "запад",
+    "level": "A2"
+  },
+  {
+    "nl": "regio",
+    "ru": "регион",
+    "level": "A2"
+  },
+  {
+    "nl": "provincie",
+    "ru": "провинция",
+    "level": "A2"
+  },
+  {
+    "nl": "gebied",
+    "ru": "область",
+    "level": "A2"
+  },
+  {
+    "nl": "grens",
+    "ru": "граница",
+    "level": "A2"
+  },
+  {
+    "nl": "hoofdstad",
+    "ru": "столица",
+    "level": "A2"
+  },
+  {
+    "nl": "gemeente",
+    "ru": "муниципалитет",
+    "level": "A2"
+  },
+  {
+    "nl": "dorp",
+    "ru": "село",
+    "level": "A2"
+  },
+  {
+    "nl": "buurt",
+    "ru": "район",
+    "level": "A2"
+  },
+  {
+    "nl": "wijk",
+    "ru": "квартал",
+    "level": "A2"
+  },
+  {
+    "nl": "centrum",
+    "ru": "центр",
+    "level": "A2"
+  },
+  {
+    "nl": "buitenwijk",
+    "ru": "окраина",
+    "level": "A2"
+  },
+  {
+    "nl": "platteland",
+    "ru": "сельская местность",
+    "level": "A2"
+  },
+  {
+    "nl": "natuur",
+    "ru": "природа",
+    "level": "A2"
+  },
+  {
+    "nl": "milieu",
+    "ru": "окружающая среда",
+    "level": "A2"
+  },
+  {
+    "nl": "klimaat",
+    "ru": "климат",
+    "level": "A2"
+  },
+  {
+    "nl": "vervuiling",
+    "ru": "загрязнение",
+    "level": "A2"
+  },
+  {
+    "nl": "afval",
+    "ru": "отходы, мусор",
+    "level": "A2"
+  },
+  {
+    "nl": "recycling",
+    "ru": "переработка",
+    "level": "A2"
+  },
+  {
+    "nl": "duurzaam",
+    "ru": "устойчивый, экологичный",
+    "level": "A2"
+  },
+  {
+    "nl": "energie",
+    "ru": "энергия",
+    "level": "A2"
+  },
+  {
+    "nl": "zonne-energie",
+    "ru": "солнечная энергия",
+    "level": "A2"
+  },
+  {
+    "nl": "windenergie",
+    "ru": "ветровая энергия",
+    "level": "A2"
+  },
+  {
+    "nl": "gas",
+    "ru": "газ",
+    "level": "A2"
+  },
+  {
+    "nl": "elektriciteit",
+    "ru": "электричество",
+    "level": "A2"
+  },
+  {
+    "nl": "water (утил.)",
+    "ru": "вода (комм. услуга)",
+    "level": "A2"
+  },
+  {
+    "nl": "rekening (счёт)",
+    "ru": "счёт-квитанция",
+    "level": "A2"
+  },
+  {
+    "nl": "meterstand",
+    "ru": "показания счётчика",
+    "level": "A2"
+  },
+  {
+    "nl": "leverancier",
+    "ru": "поставщик",
+    "level": "A2"
+  },
+  {
+    "nl": "aanbieding",
+    "ru": "акция, предложение",
+    "level": "A2"
+  },
+  {
+    "nl": "korting",
+    "ru": "скидка",
+    "level": "A2"
+  },
+  {
+    "nl": "prijs",
+    "ru": "цена",
+    "level": "A2"
+  },
+  {
+    "nl": "btw",
+    "ru": "НДС",
+    "level": "A2"
+  },
+  {
+    "nl": "inclusief",
+    "ru": "включая",
+    "level": "A2"
+  },
+  {
+    "nl": "exclusief",
+    "ru": "исключая",
+    "level": "A2"
+  },
+  {
+    "nl": "totaal",
+    "ru": "итого",
+    "level": "A2"
+  },
+  {
+    "nl": "bedrag",
+    "ru": "сумма",
+    "level": "A2"
+  },
+  {
+    "nl": "bon",
+    "ru": "чек / купон",
+    "level": "A2"
+  },
+  {
+    "nl": "factuur",
+    "ru": "счёт-фактура",
+    "level": "A2"
+  },
+  {
+    "nl": "garantie",
+    "ru": "гарантия",
+    "level": "A2"
+  },
+  {
+    "nl": "terugbetaling",
+    "ru": "возврат средств",
+    "level": "A2"
+  },
+  {
+    "nl": "ruilen",
+    "ru": "обменивать",
+    "level": "A2"
+  },
+  {
+    "nl": "retourneren",
+    "ru": "возвращать",
+    "level": "A2"
+  },
+  {
+    "nl": "bestelling",
+    "ru": "заказ",
+    "level": "A2"
+  },
+  {
+    "nl": "klant",
+    "ru": "клиент",
+    "level": "A2"
+  },
+  {
+    "nl": "medewerker",
+    "ru": "сотрудник",
+    "level": "A2"
+  },
+  {
+    "nl": "personeel",
+    "ru": "персонал",
+    "level": "A2"
+  },
+  {
+    "nl": "personeelslid",
+    "ru": "сотрудник",
+    "level": "A2"
+  },
+  {
+    "nl": "directeur",
+    "ru": "директор",
+    "level": "A2"
+  },
+  {
+    "nl": "afdeling",
+    "ru": "отдел",
+    "level": "A2"
+  },
+  {
+    "nl": "functie",
+    "ru": "должность / функция",
+    "level": "A2"
+  },
+  {
+    "nl": "taak",
+    "ru": "задача",
+    "level": "A2"
+  },
+  {
+    "nl": "verantwoordelijkheid",
+    "ru": "ответственность",
+    "level": "A2"
+  },
+  {
+    "nl": "verantwoordelijk",
+    "ru": "ответственный",
+    "level": "A2"
+  },
+  {
+    "nl": "samenwerken",
+    "ru": "сотрудничать",
+    "level": "A2"
+  },
+  {
+    "nl": "samenwerking",
+    "ru": "сотрудничество",
+    "level": "A2"
+  },
+  {
+    "nl": "teamwerk",
+    "ru": "командная работа",
+    "level": "A2"
+  },
+  {
+    "nl": "leidinggevende",
+    "ru": "руководитель",
+    "level": "A2"
+  },
+  {
+    "nl": "salaris",
+    "ru": "зарплата",
+    "level": "A2"
+  },
+  {
+    "nl": "loonstrook",
+    "ru": "расчётный листок",
+    "level": "A2"
+  },
+  {
+    "nl": "uurloon",
+    "ru": "почасовая ставка",
+    "level": "A2"
+  },
+  {
+    "nl": "bruto",
+    "ru": "брутто",
+    "level": "A2"
+  },
+  {
+    "nl": "netto",
+    "ru": "нетто",
+    "level": "A2"
+  },
+  {
+    "nl": "belasting",
+    "ru": "налог",
+    "level": "A2"
+  },
+  {
+    "nl": "belastingdienst",
+    "ru": "налоговая служба",
+    "level": "A2"
+  },
+  {
+    "nl": "aangifte",
+    "ru": "декларация",
+    "level": "A2"
+  },
+  {
+    "nl": "toeslag",
+    "ru": "дотация / доплата",
+    "level": "A2"
+  },
+  {
+    "nl": "uitkering",
+    "ru": "пособие",
+    "level": "A2"
+  },
+  {
+    "nl": "werkloos",
+    "ru": "безработный",
+    "level": "A2"
+  },
+  {
+    "nl": "werkloosheid",
+    "ru": "безработица",
+    "level": "A2"
+  },
+  {
+    "nl": "solliciteren",
+    "ru": "подавать заявку",
+    "level": "A2"
+  },
+  {
+    "nl": "sollicitatiebrief",
+    "ru": "сопроводительное письмо",
+    "level": "A2"
+  },
+  {
+    "nl": "cv",
+    "ru": "резюме",
+    "level": "A2"
+  },
+  {
+    "nl": "ervaring hebben",
+    "ru": "иметь опыт",
+    "level": "A2"
+  },
+  {
+    "nl": "vaardigheid",
+    "ru": "навык",
+    "level": "A2"
+  },
+  {
+    "nl": "opleiding",
+    "ru": "образование",
+    "level": "A2"
+  },
+  {
+    "nl": "diploma",
+    "ru": "диплом",
+    "level": "A2"
+  },
+  {
+    "nl": "cursus",
+    "ru": "курс",
+    "level": "A2"
+  },
+  {
+    "nl": "training",
+    "ru": "тренинг",
+    "level": "A2"
+  },
+  {
+    "nl": "workshop",
+    "ru": "мастер-класс",
+    "level": "A2"
+  },
+  {
+    "nl": "studiefinanciering",
+    "ru": "пособие на учёбу",
+    "level": "A2"
+  },
+  {
+    "nl": "examenboekje",
+    "ru": "экзаменационная книжка",
+    "level": "A2"
+  },
+  {
+    "nl": "schoolrapport",
+    "ru": "табель",
+    "level": "A2"
+  },
+  {
+    "nl": "cijfer",
+    "ru": "оценка / цифра",
+    "level": "A2"
+  },
+  {
+    "nl": "punt",
+    "ru": "балл / пункт",
+    "level": "A2"
+  },
+  {
+    "nl": "score",
+    "ru": "результат",
+    "level": "A2"
+  },
+  {
+    "nl": "beoordeling",
+    "ru": "оценка, отзыв",
+    "level": "A2"
+  },
+  {
+    "nl": "basisschool",
+    "ru": "начальная школа",
+    "level": "A2"
+  },
+  {
+    "nl": "middelbare school",
+    "ru": "средняя школа",
+    "level": "A2"
+  },
+  {
+    "nl": "vmbo",
+    "ru": "среднее проф. образование (низш.)",
+    "level": "A2"
+  },
+  {
+    "nl": "havo",
+    "ru": "среднее профессионально-высшее образование",
+    "level": "A2"
+  },
+  {
+    "nl": "vwo",
+    "ru": "гимназия",
+    "level": "A2"
+  },
+  {
+    "nl": "mbo",
+    "ru": "среднее профессиональное",
+    "level": "A2"
+  },
+  {
+    "nl": "hbo",
+    "ru": "прикладной университет",
+    "level": "A2"
+  },
+  {
+    "nl": "wo",
+    "ru": "университетское образование",
+    "level": "A2"
+  },
+  {
+    "nl": "faculteit",
+    "ru": "факультет",
+    "level": "A2"
+  },
+  {
+    "nl": "vak",
+    "ru": "предмет / профессия",
+    "level": "A2"
+  },
+  {
+    "nl": "hoofdvak",
+    "ru": "основной предмет",
+    "level": "A2"
+  },
+  {
+    "nl": "keuzevak",
+    "ru": "предмет по выбору",
+    "level": "A2"
+  },
+  {
+    "nl": "college",
+    "ru": "лекция",
+    "level": "A2"
+  },
+  {
+    "nl": "werkgroep",
+    "ru": "семинар",
+    "level": "A2"
+  },
+  {
+    "nl": "stage",
+    "ru": "стажировка",
+    "level": "A2"
+  },
+  {
+    "nl": "scriptie",
+    "ru": "дипломная",
+    "level": "A2"
+  },
+  {
+    "nl": "bachelor",
+    "ru": "бакалавр",
+    "level": "A2"
+  },
+  {
+    "nl": "master",
+    "ru": "магистр",
+    "level": "A2"
+  },
+  {
+    "nl": "promotie",
+    "ru": "защита PhD / продвижение",
+    "level": "A2"
+  },
+  {
+    "nl": "onderzoek (уч.)",
+    "ru": "исследование",
+    "level": "A2"
+  },
+  {
+    "nl": "project",
+    "ru": "проект",
+    "level": "A2"
+  },
+  {
+    "nl": "artikel",
+    "ru": "статья",
+    "level": "A2"
+  },
+  {
+    "nl": "rapport",
+    "ru": "отчёт",
+    "level": "A2"
+  },
+  {
+    "nl": "verslag",
+    "ru": "доклад",
+    "level": "A2"
+  },
+  {
+    "nl": "notitie",
+    "ru": "заметка",
+    "level": "A2"
+  },
+  {
+    "nl": "samenvatting",
+    "ru": "краткое содержание",
+    "level": "A2"
+  },
+  {
+    "nl": "inhoud",
+    "ru": "содержание",
+    "level": "A2"
+  },
+  {
+    "nl": "hoofdstuk",
+    "ru": "глава",
+    "level": "A2"
+  },
+  {
+    "nl": "pagina",
+    "ru": "страница",
+    "level": "A2"
+  },
+  {
+    "nl": "paragraaf",
+    "ru": "параграф",
+    "level": "A2"
+  },
+  {
+    "nl": "inleiding",
+    "ru": "введение",
+    "level": "A2"
+  },
+  {
+    "nl": "conclusie",
+    "ru": "вывод",
+    "level": "A2"
+  },
+  {
+    "nl": "bron",
+    "ru": "источник",
+    "level": "A2"
+  },
+  {
+    "nl": "voorbeeld (acad.)",
+    "ru": "пример",
+    "level": "A2"
+  },
+  {
+    "nl": "citaat",
+    "ru": "цитата",
+    "level": "A2"
+  },
+  {
+    "nl": "betekenis",
+    "ru": "значение",
+    "level": "A2"
+  },
+  {
+    "nl": "uitdrukking",
+    "ru": "выражение",
+    "level": "A2"
+  },
+  {
+    "nl": "woordenboek",
+    "ru": "словарь",
+    "level": "A2"
+  },
+  {
+    "nl": "grammatica",
+    "ru": "грамматика",
+    "level": "A2"
+  },
+  {
+    "nl": "spelling",
+    "ru": "орфография",
+    "level": "A2"
+  },
+  {
+    "nl": "uitspraak",
+    "ru": "произношение",
+    "level": "A2"
+  },
+  {
+    "nl": "accent",
+    "ru": "акцент",
+    "level": "A2"
+  },
+  {
+    "nl": "taalcursus",
+    "ru": "языковой курс",
+    "level": "A2"
+  },
+  {
+    "nl": "moedertaal",
+    "ru": "родной язык",
+    "level": "A2"
+  },
+  {
+    "nl": "vreemde taal",
+    "ru": "иностранный язык",
+    "level": "A2"
+  },
+  {
+    "nl": "niveau",
+    "ru": "уровень",
+    "level": "A2"
+  },
+  {
+    "nl": "beginner",
+    "ru": "начинающий",
+    "level": "A2"
+  },
+  {
+    "nl": "gevorderd",
+    "ru": "продвинутый",
+    "level": "A2"
+  },
+  {
+    "nl": "vaardigheden",
+    "ru": "навыки",
+    "level": "A2"
+  },
+  {
+    "nl": "luistervaardigheid",
+    "ru": "аудирование",
+    "level": "A2"
+  },
+  {
+    "nl": "leesvaardigheid",
+    "ru": "чтение (навык)",
+    "level": "A2"
+  },
+  {
+    "nl": "spreekvaardigheid",
+    "ru": "говорение",
+    "level": "A2"
+  },
+  {
+    "nl": "schrijfvaardigheid",
+    "ru": "письмо (навык)",
+    "level": "A2"
+  },
+  {
+    "nl": "vocabulaire",
+    "ru": "словарный запас",
+    "level": "A2"
+  },
+  {
+    "nl": "zelfstudie",
+    "ru": "самоподготовка",
+    "level": "A2"
+  },
+  {
+    "nl": "boodschap",
+    "ru": "сообщение / поручение",
+    "level": "A2"
+  },
+  {
+    "nl": "boodschappen doen",
+    "ru": "делать покупки (продукты)",
+    "level": "A2"
+  },
+  {
+    "nl": "winkelen",
+    "ru": "ходить по магазинам",
+    "level": "A2"
+  },
+  {
+    "nl": "kledingwinkel",
+    "ru": "магазин одежды",
+    "level": "A2"
+  },
+  {
+    "nl": "warenhuis",
+    "ru": "универмаг",
+    "level": "A2"
+  },
+  {
+    "nl": "slager",
+    "ru": "мясной магазин",
+    "level": "A2"
+  },
+  {
+    "nl": "groenteboer",
+    "ru": "овощной магазин",
+    "level": "A2"
+  },
+  {
+    "nl": "kaaswinkel",
+    "ru": "сырная лавка",
+    "level": "A2"
+  },
+  {
+    "nl": "delicatessenwinkel",
+    "ru": "деликатесы",
+    "level": "A2"
+  },
+  {
+    "nl": "drogist",
+    "ru": "аптекарский магазин",
+    "level": "A2"
+  },
+  {
+    "nl": "kapper",
+    "ru": "парикмахер",
+    "level": "A2"
+  },
+  {
+    "nl": "schoenenwinkel",
+    "ru": "обувной магазин",
+    "level": "A2"
+  },
+  {
+    "nl": "elektronica",
+    "ru": "электроника",
+    "level": "A2"
+  },
+  {
+    "nl": "meubelwinkel",
+    "ru": "мебельный",
+    "level": "A2"
+  },
+  {
+    "nl": "boekwinkel",
+    "ru": "книжный",
+    "level": "A2"
+  },
+  {
+    "nl": "bloemist",
+    "ru": "цветочный",
+    "level": "A2"
+  },
+  {
+    "nl": "speelgoedwinkel",
+    "ru": "магазин игрушек",
+    "level": "A2"
+  },
+  {
+    "nl": "winkelcentrum",
+    "ru": "торговый центр",
+    "level": "A2"
+  },
+  {
+    "nl": "opening",
+    "ru": "открытие",
+    "level": "A2"
+  },
+  {
+    "nl": "sluiting",
+    "ru": "закрытие",
+    "level": "A2"
+  },
+  {
+    "nl": "openingstijd",
+    "ru": "часы работы",
+    "level": "A2"
+  },
+  {
+    "nl": "koopavond",
+    "ru": "длинный покупательский вечер",
+    "level": "A2"
+  },
+  {
+    "nl": "koopzondag",
+    "ru": "воскресенье для покупок",
+    "level": "A2"
+  },
+  {
+    "nl": "uitverkoop",
+    "ru": "распродажа",
+    "level": "A2"
+  },
+  {
+    "nl": "tweedehands",
+    "ru": "подержанный",
+    "level": "A2"
+  },
+  {
+    "nl": "nieuwstaat",
+    "ru": "новое состояние",
+    "level": "A2"
+  },
+  {
+    "nl": "aanbiedingsactie",
+    "ru": "акция",
+    "level": "A2"
+  },
+  {
+    "nl": "merk",
+    "ru": "бренд",
+    "level": "A2"
+  },
+  {
+    "nl": "reclame",
+    "ru": "реклама",
+    "level": "A2"
+  },
+  {
+    "nl": "folder",
+    "ru": "рекламный буклет",
+    "level": "A2"
+  },
+  {
+    "nl": "kwaliteit",
+    "ru": "качество",
+    "level": "A2"
+  },
+  {
+    "nl": "hoeveelheid",
+    "ru": "количество",
+    "level": "A2"
+  },
+  {
+    "nl": "portie",
+    "ru": "порция",
+    "level": "A2"
+  },
+  {
+    "nl": "deel",
+    "ru": "часть",
+    "level": "A2"
+  },
+  {
+    "nl": "stuk",
+    "ru": "кусок",
+    "level": "A2"
+  },
+  {
+    "nl": "kilo",
+    "ru": "килограмм",
+    "level": "A2"
+  },
+  {
+    "nl": "gram",
+    "ru": "грамм",
+    "level": "A2"
+  },
+  {
+    "nl": "liter",
+    "ru": "литр",
+    "level": "A2"
+  },
+  {
+    "nl": "meter",
+    "ru": "метр",
+    "level": "A2"
+  },
+  {
+    "nl": "centimeter",
+    "ru": "сантиметр",
+    "level": "A2"
+  },
+  {
+    "nl": "kilometer",
+    "ru": "километр",
+    "level": "A2"
+  },
+  {
+    "nl": "snelheid",
+    "ru": "скорость",
+    "level": "A2"
+  },
+  {
+    "nl": "afstand",
+    "ru": "расстояние",
+    "level": "A2"
+  },
+  {
+    "nl": "gewicht",
+    "ru": "вес",
+    "level": "A2"
+  },
+  {
+    "nl": "lengte",
+    "ru": "длина, рост",
+    "level": "A2"
+  },
+  {
+    "nl": "breedte",
+    "ru": "ширина",
+    "level": "A2"
+  },
+  {
+    "nl": "hoogte",
+    "ru": "высота",
+    "level": "A2"
+  },
+  {
+    "nl": "diepte",
+    "ru": "глубина",
+    "level": "A2"
+  },
+  {
+    "nl": "maat",
+    "ru": "размер",
+    "level": "A2"
+  },
+  {
+    "nl": "formaat",
+    "ru": "формат",
+    "level": "A2"
+  },
+  {
+    "nl": "model",
+    "ru": "модель",
+    "level": "A2"
+  },
+  {
+    "nl": "versie",
+    "ru": "версия",
+    "level": "A2"
+  },
+  {
+    "nl": "kleurstelling",
+    "ru": "цветовая гамма",
+    "level": "A2"
+  },
+  {
+    "nl": "materiaal",
+    "ru": "материал",
+    "level": "A2"
+  },
+  {
+    "nl": "plastic",
+    "ru": "пластик",
+    "level": "A2"
+  },
+  {
+    "nl": "hout",
+    "ru": "дерево (материал)",
+    "level": "A2"
+  },
+  {
+    "nl": "metaal",
+    "ru": "металл",
+    "level": "A2"
+  },
+  {
+    "nl": "ijzer",
+    "ru": "железо",
+    "level": "A2"
+  },
+  {
+    "nl": "goud",
+    "ru": "золото",
+    "level": "A2"
+  },
+  {
+    "nl": "zilver",
+    "ru": "серебро",
+    "level": "A2"
+  },
+  {
+    "nl": "glas",
+    "ru": "стекло",
+    "level": "A2"
+  },
+  {
+    "nl": "papier",
+    "ru": "бумага",
+    "level": "A2"
+  },
+  {
+    "nl": "karton",
+    "ru": "картон",
+    "level": "A2"
+  },
+  {
+    "nl": "stof",
+    "ru": "ткань / вещество",
+    "level": "A2"
+  },
+  {
+    "nl": "leer",
+    "ru": "кожа (материал)",
+    "level": "A2"
+  },
+  {
+    "nl": "wol",
+    "ru": "шерсть",
+    "level": "A2"
+  },
+  {
+    "nl": "katoen",
+    "ru": "хлопок",
+    "level": "A2"
+  },
+  {
+    "nl": "zijde",
+    "ru": "шёлк",
+    "level": "A2"
+  },
+  {
+    "nl": "vloerkleed",
+    "ru": "ковёр",
+    "level": "A2"
+  },
+  {
+    "nl": "gordijn",
+    "ru": "штора",
+    "level": "A2"
+  },
+  {
+    "nl": "kussen",
+    "ru": "подушка",
+    "level": "A2"
+  },
+  {
+    "nl": "deken",
+    "ru": "одеяло",
+    "level": "A2"
+  },
+  {
+    "nl": "laken",
+    "ru": "простыня",
+    "level": "A2"
+  },
+  {
+    "nl": "handdoek",
+    "ru": "полотенце",
+    "level": "A2"
+  },
+  {
+    "nl": "schort",
+    "ru": "фартук",
+    "level": "A2"
+  },
+  {
+    "nl": "schaar",
+    "ru": "ножницы",
+    "level": "A2"
+  },
+  {
+    "nl": "lijm",
+    "ru": "клей",
+    "level": "A2"
+  },
+  {
+    "nl": "touw",
+    "ru": "верёвка",
+    "level": "A2"
+  },
+  {
+    "nl": "naald",
+    "ru": "игла",
+    "level": "A2"
+  },
+  {
+    "nl": "draad",
+    "ru": "нить, провод",
+    "level": "A2"
+  },
+  {
+    "nl": "potlood",
+    "ru": "карандаш",
+    "level": "A2"
+  },
+  {
+    "nl": "pen",
+    "ru": "ручка",
+    "level": "A2"
+  },
+  {
+    "nl": "inkt",
+    "ru": "чернила",
+    "level": "A2"
+  },
+  {
+    "nl": "gum",
+    "ru": "ластик",
+    "level": "A2"
+  },
+  {
+    "nl": "liniaal",
+    "ru": "линейка",
+    "level": "A2"
+  },
+  {
+    "nl": "schrift",
+    "ru": "тетрадь / почерк",
+    "level": "A2"
+  },
+  {
+    "nl": "agenda",
+    "ru": "ежедневник",
+    "level": "A2"
+  },
+  {
+    "nl": "kalender",
+    "ru": "календарь",
+    "level": "A2"
+  },
+  {
+    "nl": "klok",
+    "ru": "часы настенные",
+    "level": "A2"
+  },
+  {
+    "nl": "wekker",
+    "ru": "будильник",
+    "level": "A2"
+  },
+  {
+    "nl": "alarmtoestel",
+    "ru": "сигнализация",
+    "level": "A2"
+  },
+  {
+    "nl": "koelkast",
+    "ru": "холодильник",
+    "level": "A2"
+  },
+  {
+    "nl": "vriezer",
+    "ru": "морозильник",
+    "level": "A2"
+  },
+  {
+    "nl": "magnetron",
+    "ru": "микроволновка",
+    "level": "A2"
+  },
+  {
+    "nl": "oven",
+    "ru": "духовка",
+    "level": "A2"
+  },
+  {
+    "nl": "fornuis",
+    "ru": "плита",
+    "level": "A2"
+  },
+  {
+    "nl": "afzuigkap",
+    "ru": "вытяжка",
+    "level": "A2"
+  },
+  {
+    "nl": "wasmachine",
+    "ru": "стиральная машина",
+    "level": "A2"
+  },
+  {
+    "nl": "droger",
+    "ru": "сушильная машина",
+    "level": "A2"
+  },
+  {
+    "nl": "stofzuiger",
+    "ru": "пылесос",
+    "level": "A2"
+  },
+  {
+    "nl": "strijkijzer",
+    "ru": "утюг",
+    "level": "A2"
+  },
+  {
+    "nl": "radiator",
+    "ru": "радиатор",
+    "level": "A2"
+  },
+  {
+    "nl": "cv-ketel",
+    "ru": "газовый котёл",
+    "level": "A2"
+  },
+  {
+    "nl": "kraan",
+    "ru": "кран (воды)",
+    "level": "A2"
+  },
+  {
+    "nl": "wastafel",
+    "ru": "раковина",
+    "level": "A2"
+  },
+  {
+    "nl": "douchekop",
+    "ru": "душевая лейка",
+    "level": "A2"
+  },
+  {
+    "nl": "wc",
+    "ru": "туалет",
+    "level": "A2"
+  },
+  {
+    "nl": "spiegel",
+    "ru": "зеркало",
+    "level": "A2"
+  },
+  {
+    "nl": "kast (гардероб)",
+    "ru": "шкаф для одежды",
+    "level": "A2"
+  },
+  {
+    "nl": "plank",
+    "ru": "полка",
+    "level": "A2"
+  },
+  {
+    "nl": "lade",
+    "ru": "ящик (комода)",
+    "level": "A2"
+  },
+  {
+    "nl": "bureau",
+    "ru": "письменный стол",
+    "level": "A2"
+  },
+  {
+    "nl": "fauteuil",
+    "ru": "кресло",
+    "level": "A2"
+  },
+  {
+    "nl": "ligstoel",
+    "ru": "шезлонг",
+    "level": "A2"
+  },
+  {
+    "nl": "zetel",
+    "ru": "кресло / место",
+    "level": "A2"
+  },
+  {
+    "nl": "matras",
+    "ru": "матрас",
+    "level": "A2"
+  },
+  {
+    "nl": "bedtafeltje",
+    "ru": "прикроватный столик",
+    "level": "A2"
+  },
+  {
+    "nl": "bord",
+    "ru": "тарелка / вывеска",
+    "level": "A2"
+  },
+  {
+    "nl": "bordjes",
+    "ru": "тарелки (мн.)",
+    "level": "A2"
+  },
+  {
+    "nl": "kom",
+    "ru": "миска",
+    "level": "A2"
+  },
+  {
+    "nl": "beker",
+    "ru": "кружка",
+    "level": "A2"
+  },
+  {
+    "nl": "glas (стакан)",
+    "ru": "стакан",
+    "level": "A2"
+  },
+  {
+    "nl": "mes",
+    "ru": "нож",
+    "level": "A2"
+  },
+  {
+    "nl": "vork",
+    "ru": "вилка",
+    "level": "A2"
+  },
+  {
+    "nl": "lepel",
+    "ru": "ложка",
+    "level": "A2"
+  },
+  {
+    "nl": "theelepel",
+    "ru": "чайная ложка",
+    "level": "A2"
+  },
+  {
+    "nl": "pan",
+    "ru": "сковорода",
+    "level": "A2"
+  },
+  {
+    "nl": "kookpot",
+    "ru": "кастрюля",
+    "level": "A2"
+  },
+  {
+    "nl": "ketel",
+    "ru": "чайник",
+    "level": "A2"
+  },
+  {
+    "nl": "broodrooster",
+    "ru": "тостер",
+    "level": "A2"
+  },
+  {
+    "nl": "koffiezetapparaat",
+    "ru": "кофемашина",
+    "level": "A2"
+  },
+  {
+    "nl": "waterkoker",
+    "ru": "электрочайник",
+    "level": "A2"
+  },
+  {
+    "nl": "servet",
+    "ru": "салфетка",
+    "level": "A2"
+  },
+  {
+    "nl": "tafelkleed",
+    "ru": "скатерть",
+    "level": "A2"
+  },
+  {
+    "nl": "placemat",
+    "ru": "подстилка",
+    "level": "A2"
+  },
+  {
+    "nl": "slaapkamer-/vloerpantoffel",
+    "ru": "домашние тапочки",
+    "level": "A2"
+  },
+  {
+    "nl": "pyjama",
+    "ru": "пижама",
+    "level": "A2"
+  },
+  {
+    "nl": "ondergoed",
+    "ru": "нижнее бельё",
+    "level": "A2"
+  },
+  {
+    "nl": "hemd",
+    "ru": "майка",
+    "level": "A2"
+  },
+  {
+    "nl": "nachtjapon",
+    "ru": "ночная рубашка",
+    "level": "A2"
+  },
+  {
+    "nl": "peuterstoel",
+    "ru": "детский стульчик",
+    "level": "A2"
+  },
+  {
+    "nl": "kinderwagen",
+    "ru": "коляска",
+    "level": "A2"
+  },
+  {
+    "nl": "speelgoed",
+    "ru": "игрушка/игрушки",
+    "level": "A2"
+  },
+  {
+    "nl": "bal",
+    "ru": "мяч",
+    "level": "A2"
+  },
+  {
+    "nl": "pop",
+    "ru": "кукла",
+    "level": "A2"
+  },
+  {
+    "nl": "blokjes",
+    "ru": "кубики",
+    "level": "A2"
+  },
+  {
+    "nl": "puzzel",
+    "ru": "пазл",
+    "level": "A2"
+  },
+  {
+    "nl": "bordspel",
+    "ru": "настольная игра",
+    "level": "A2"
+  },
+  {
+    "nl": "dierenriem",
+    "ru": "ошейник",
+    "level": "A2"
+  },
+  {
+    "nl": "leiband",
+    "ru": "поводок",
+    "level": "A2"
+  },
+  {
+    "nl": "hok",
+    "ru": "клетка / вольер",
+    "level": "A2"
+  },
+  {
+    "nl": "manege",
+    "ru": "манеж",
+    "level": "A2"
+  },
+  {
+    "nl": "stal",
+    "ru": "конюшня",
+    "level": "A2"
+  },
+  {
+    "nl": "boerderij",
+    "ru": "ферма",
+    "level": "A2"
+  },
+  {
+    "nl": "landbouw",
+    "ru": "сельское хозяйство",
+    "level": "A2"
+  },
+  {
+    "nl": "oogst",
+    "ru": "урожай",
+    "level": "A2"
+  },
+  {
+    "nl": "graan",
+    "ru": "зерно",
+    "level": "A2"
+  },
+  {
+    "nl": "tarwe",
+    "ru": "пшеница",
+    "level": "A2"
+  },
+  {
+    "nl": "suikerbiet",
+    "ru": "сахарная свёкла",
+    "level": "A2"
+  },
+  {
+    "nl": "tulp",
+    "ru": "тюльпан",
+    "level": "A2"
+  },
+  {
+    "nl": "roos",
+    "ru": "роза",
+    "level": "A2"
+  },
+  {
+    "nl": "paardenbloem",
+    "ru": "одуванчик",
+    "level": "A2"
+  },
+  {
+    "nl": "struik",
+    "ru": "куст",
+    "level": "A2"
+  },
+  {
+    "nl": "bank (парк)",
+    "ru": "скамейка",
+    "level": "A2"
+  },
+  {
+    "nl": "vuilnisbak",
+    "ru": "мусорный бак",
+    "level": "A2"
+  },
+  {
+    "nl": "container",
+    "ru": "контейнер",
+    "level": "A2"
+  },
+  {
+    "nl": "afvalbak",
+    "ru": "урна",
+    "level": "A2"
+  },
+  {
+    "nl": "straatlantaarn",
+    "ru": "фонарь",
+    "level": "A2"
+  },
+  {
+    "nl": "verkeerslicht",
+    "ru": "светофор",
+    "level": "A2"
+  },
+  {
+    "nl": "zebrapad",
+    "ru": "зебра (пешеход.)",
+    "level": "A2"
+  },
+  {
+    "nl": "stoplicht",
+    "ru": "светофор",
+    "level": "A2"
+  },
+  {
+    "nl": "rotonde",
+    "ru": "круговое движение",
+    "level": "A2"
+  },
+  {
+    "nl": "kruispunt",
+    "ru": "перекрёсток",
+    "level": "A2"
+  },
+  {
+    "nl": "fietspad",
+    "ru": "велодорожка",
+    "level": "A2"
+  },
+  {
+    "nl": "voetpad",
+    "ru": "тротуар",
+    "level": "A2"
+  },
+  {
+    "nl": "stoep",
+    "ru": "тротуар (разг.)",
+    "level": "A2"
+  },
+  {
+    "nl": "parkeerplaats",
+    "ru": "парковка",
+    "level": "A2"
+  },
+  {
+    "nl": "tunnel",
+    "ru": "тоннель",
+    "level": "A2"
+  },
+  {
+    "nl": "brug",
+    "ru": "мост",
+    "level": "A2"
+  },
+  {
+    "nl": "haven",
+    "ru": "порт",
+    "level": "A2"
+  },
+  {
+    "nl": "luchthaven",
+    "ru": "аэропорт",
+    "level": "A2"
+  },
+  {
+    "nl": "loket",
+    "ru": "касса-окно",
+    "level": "A2"
+  },
+  {
+    "nl": "wachtkamer",
+    "ru": "приёмная / зал ожидания",
+    "level": "A2"
+  },
+  {
+    "nl": "rij",
+    "ru": "очередь / ряд",
+    "level": "A2"
+  },
+  {
+    "nl": "vertraging",
+    "ru": "задержка",
+    "level": "A2"
+  },
+  {
+    "nl": "vertrek",
+    "ru": "отправление",
+    "level": "A2"
+  },
+  {
+    "nl": "aankomst",
+    "ru": "прибытие",
+    "level": "A2"
+  },
+  {
+    "nl": "reisschema",
+    "ru": "расписание поездки",
+    "level": "A2"
+  },
+  {
+    "nl": "dienstregeling",
+    "ru": "расписание движения",
+    "level": "A2"
+  },
+  {
+    "nl": "perron",
+    "ru": "платформа",
+    "level": "A2"
+  },
+  {
+    "nl": "spoor",
+    "ru": "путь, рельсы",
+    "level": "A2"
+  },
+  {
+    "nl": "conducteur",
+    "ru": "проводник",
+    "level": "A2"
+  },
+  {
+    "nl": "chauffeur",
+    "ru": "водитель",
+    "level": "A2"
+  },
+  {
+    "nl": "passagier",
+    "ru": "пассажир",
+    "level": "A2"
+  },
+  {
+    "nl": "inchecken",
+    "ru": "регистрировать(ся) на рейс",
+    "level": "A2"
+  },
+  {
+    "nl": "uitchecken",
+    "ru": "выписываться",
+    "level": "A2"
+  },
+  {
+    "nl": "ov",
+    "ru": "общественный транспорт",
+    "level": "A2"
+  },
+  {
+    "nl": "enkele reis",
+    "ru": "в один конец",
+    "level": "A2"
+  },
+  {
+    "nl": "retour",
+    "ru": "туда-обратно",
+    "level": "A2"
+  },
+  {
+    "nl": "abonnement",
+    "ru": "абонемент",
+    "level": "A2"
+  },
+  {
+    "nl": "kortingskaart",
+    "ru": "карта скидок",
+    "level": "A2"
+  },
+  {
+    "nl": "grondbeleid",
+    "ru": "политика в отн. земли",
+    "level": "A2"
+  },
+  {
+    "nl": "regering",
+    "ru": "правительство",
+    "level": "A2"
+  },
+  {
+    "nl": "minister",
+    "ru": "министр",
+    "level": "A2"
+  },
+  {
+    "nl": "premier",
+    "ru": "премьер",
+    "level": "A2"
+  },
+  {
+    "nl": "koning",
+    "ru": "король",
+    "level": "A2"
+  },
+  {
+    "nl": "koningin",
+    "ru": "королева",
+    "level": "A2"
+  },
+  {
+    "nl": "parlement",
+    "ru": "парламент",
+    "level": "A2"
+  },
+  {
+    "nl": "verkiezingen",
+    "ru": "выборы",
+    "level": "A2"
+  },
+  {
+    "nl": "stemmen",
+    "ru": "голосовать",
+    "level": "A2"
+  },
+  {
+    "nl": "partij",
+    "ru": "партия",
+    "level": "A2"
+  },
+  {
+    "nl": "wet",
+    "ru": "закон",
+    "level": "A2"
+  },
+  {
+    "nl": "regel",
+    "ru": "правило",
+    "level": "A2"
+  },
+  {
+    "nl": "rechter",
+    "ru": "судья",
+    "level": "A2"
+  },
+  {
+    "nl": "advocaat",
+    "ru": "адвокат",
+    "level": "A2"
+  },
+  {
+    "nl": "rechtbank",
+    "ru": "суд",
+    "level": "A2"
+  },
+  {
+    "nl": "rechtszaak",
+    "ru": "судебное дело",
+    "level": "A2"
+  },
+  {
+    "nl": "misdaad",
+    "ru": "преступление",
+    "level": "A2"
+  },
+  {
+    "nl": "straf",
+    "ru": "наказание",
+    "level": "A2"
+  },
+  {
+    "nl": "boete",
+    "ru": "штраф",
+    "level": "A2"
+  },
+  {
+    "nl": "gevangenis",
+    "ru": "тюрьма",
+    "level": "A2"
+  },
+  {
+    "nl": "veiligheid",
+    "ru": "безопасность",
+    "level": "A2"
+  },
+  {
+    "nl": "veilig",
+    "ru": "безопасный",
+    "level": "A2"
+  },
+  {
+    "nl": "gevaar",
+    "ru": "опасность",
+    "level": "A2"
+  },
+  {
+    "nl": "gevaarlijk",
+    "ru": "опасный",
+    "level": "A2"
+  },
+  {
+    "nl": "waarschuwing",
+    "ru": "предупреждение",
+    "level": "A2"
+  },
+  {
+    "nl": "let op",
+    "ru": "внимание!",
+    "level": "A2"
+  },
+  {
+    "nl": "verboden",
+    "ru": "запрещено",
+    "level": "A2"
+  },
+  {
+    "nl": "toegestaan",
+    "ru": "разрешено",
+    "level": "A2"
+  },
+  {
+    "nl": "verplicht",
+    "ru": "обязательно",
+    "level": "A2"
+  },
+  {
+    "nl": "vrijwillig",
+    "ru": "добровольно",
+    "level": "A2"
+  },
+  {
+    "nl": "nood",
+    "ru": "нужда",
+    "level": "A2"
+  },
+  {
+    "nl": "hulp nodig hebben",
+    "ru": "нуждаться в помощи",
+    "level": "A2"
+  },
+  {
+    "nl": "vrijwilliger",
+    "ru": "волонтёр",
+    "level": "A2"
+  },
+  {
+    "nl": "buurthuis",
+    "ru": "общественный дом",
+    "level": "A2"
+  },
+  {
+    "nl": "kerk",
+    "ru": "церковь",
+    "level": "A2"
+  },
+  {
+    "nl": "moskee",
+    "ru": "мечеть",
+    "level": "A2"
+  },
+  {
+    "nl": "synagoge",
+    "ru": "синагога",
+    "level": "A2"
+  },
+  {
+    "nl": "religie",
+    "ru": "религия",
+    "level": "A2"
+  },
+  {
+    "nl": "geloof",
+    "ru": "вера",
+    "level": "A2"
+  },
+  {
+    "nl": "gelovig",
+    "ru": "верующий",
+    "level": "A2"
+  },
+  {
+    "nl": "atheïst",
+    "ru": "атеист",
+    "level": "A2"
+  },
+  {
+    "nl": "feestdag",
+    "ru": "праздничный день",
+    "level": "A2"
+  },
+  {
+    "nl": "Kerst",
+    "ru": "Рождество",
+    "level": "A2"
+  },
+  {
+    "nl": "Pasen",
+    "ru": "Пасха",
+    "level": "A2"
+  },
+  {
+    "nl": "Sinterklaas",
+    "ru": "Синтерклаас",
+    "level": "A2"
+  },
+  {
+    "nl": "Koningsdag",
+    "ru": "День короля",
+    "level": "A2"
+  },
+  {
+    "nl": "Bevrijdingsdag",
+    "ru": "День освобождения",
+    "level": "A2"
+  },
+  {
+    "nl": "Hemelvaart",
+    "ru": "Вознесение",
+    "level": "A2"
+  },
+  {
+    "nl": "Pinksteren",
+    "ru": "Пятидесятница",
+    "level": "A2"
+  },
+  {
+    "nl": "carnaval",
+    "ru": "карнавал",
+    "level": "A2"
+  },
+  {
+    "nl": "oud en nieuw",
+    "ru": "Новый год (праздн.)",
+    "level": "A2"
+  },
+  {
+    "nl": "verjaardagsfeest",
+    "ru": "день рождения (пр.)",
+    "level": "A2"
+  },
+  {
+    "nl": "bruiloft",
+    "ru": "свадьба",
+    "level": "A2"
+  },
+  {
+    "nl": "begrafenis",
+    "ru": "похороны",
+    "level": "A2"
+  },
+  {
+    "nl": "jubileum",
+    "ru": "юбилей",
+    "level": "A2"
+  },
+  {
+    "nl": "feliciteren",
+    "ru": "поздравлять",
+    "level": "A2"
+  },
+  {
+    "nl": "cadeau geven",
+    "ru": "дарить подарок",
+    "level": "A2"
+  },
+  {
+    "nl": "wensen",
+    "ru": "желать",
+    "level": "A2"
+  },
+  {
+    "nl": "drinken op",
+    "ru": "пить за",
+    "level": "A2"
+  },
+  {
+    "nl": "proost",
+    "ru": "будем здоровы!",
+    "level": "A2"
+  },
+  {
+    "nl": "gelukkige verjaardag",
+    "ru": "с днём рождения",
+    "level": "A2"
+  },
+  {
+    "nl": "prettige kerst",
+    "ru": "счастливого Рождества",
+    "level": "A2"
+  },
+  {
+    "nl": "gelukkig nieuwjaar",
+    "ru": "с Новым годом",
+    "level": "A2"
+  },
+  {
+    "nl": "beterschap",
+    "ru": "выздоравливайте",
+    "level": "A2"
+  },
+  {
+    "nl": "sterkte",
+    "ru": "держись, сил!",
+    "level": "A2"
+  },
+  {
+    "nl": "veel succes",
+    "ru": "удачи",
+    "level": "A2"
+  },
+  {
+    "nl": "veel plezier",
+    "ru": "приятно провести время",
+    "level": "A2"
+  },
+  {
+    "nl": "eet smakelijk",
+    "ru": "приятного аппетита",
+    "level": "A2"
+  },
+  {
+    "nl": "gezondheid",
+    "ru": "будь здоров!",
+    "level": "A2"
+  },
+  {
+    "nl": "condoleren",
+    "ru": "соболезновать",
+    "level": "A2"
+  },
+  {
+    "nl": "gecondoleerd",
+    "ru": "соболезнования",
+    "level": "A2"
+  },
+  {
+    "nl": "gefeliciteerd",
+    "ru": "поздравляю",
+    "level": "A2"
+  },
+  {
+    "nl": "cultuur",
+    "ru": "культура",
+    "level": "A2"
+  },
+  {
+    "nl": "traditie",
+    "ru": "традиция",
+    "level": "A2"
+  },
+  {
+    "nl": "gewoonte",
+    "ru": "привычка, обычай",
+    "level": "A2"
+  },
+  {
+    "nl": "etiquette",
+    "ru": "этикет",
+    "level": "A2"
+  },
+  {
+    "nl": "beleefd",
+    "ru": "вежливый",
+    "level": "A2"
+  },
+  {
+    "nl": "onbeleefd",
+    "ru": "невежливый",
+    "level": "A2"
+  },
+  {
+    "nl": "respect",
+    "ru": "уважение",
+    "level": "A2"
+  },
+  {
+    "nl": "respecteren",
+    "ru": "уважать",
+    "level": "A2"
+  },
+  {
+    "nl": "tolerant",
+    "ru": "терпимый",
+    "level": "A2"
+  },
+  {
+    "nl": "tolerantie",
+    "ru": "терпимость",
+    "level": "A2"
+  },
+  {
+    "nl": "vooroordeel",
+    "ru": "предрассудок",
+    "level": "A2"
+  },
+  {
+    "nl": "discriminatie",
+    "ru": "дискриминация",
+    "level": "A2"
+  },
+  {
+    "nl": "gelijkheid",
+    "ru": "равенство",
+    "level": "A2"
+  },
+  {
+    "nl": "integratie",
+    "ru": "интеграция",
+    "level": "A2"
+  },
+  {
+    "nl": "inburgering",
+    "ru": "гражданская адаптация",
+    "level": "A2"
+  },
+  {
+    "nl": "buitenlander",
+    "ru": "иностранец",
+    "level": "A2"
+  },
+  {
+    "nl": "vluchteling",
+    "ru": "беженец",
+    "level": "A2"
+  },
+  {
+    "nl": "migrant",
+    "ru": "мигрант",
+    "level": "A2"
+  },
+  {
+    "nl": "toerist",
+    "ru": "турист",
+    "level": "A2"
+  },
+  {
+    "nl": "inwoner",
+    "ru": "житель",
+    "level": "A2"
+  },
+  {
+    "nl": "bevolking",
+    "ru": "население",
+    "level": "A2"
+  },
+  {
+    "nl": "samenleving",
+    "ru": "общество",
+    "level": "A2"
+  },
+  {
+    "nl": "maatschappij",
+    "ru": "общество, компания",
+    "level": "A2"
+  },
+  {
+    "nl": "werkgever",
+    "ru": "работодатель",
+    "level": "A2"
+  },
+  {
+    "nl": "werknemer",
+    "ru": "работник",
+    "level": "A2"
+  },
+  {
+    "nl": "ZZP'er",
+    "ru": "самозанятый",
+    "level": "A2"
+  },
+  {
+    "nl": "eigen bedrijf",
+    "ru": "собственный бизнес",
+    "level": "A2"
+  },
+  {
+    "nl": "onderneming",
+    "ru": "предприятие",
+    "level": "A2"
+  },
+  {
+    "nl": "concurrent",
+    "ru": "конкурент",
+    "level": "A2"
+  },
+  {
+    "nl": "markt (рынок)",
+    "ru": "рынок, маркет",
+    "level": "A2"
+  },
+  {
+    "nl": "branche",
+    "ru": "отрасль",
+    "level": "A2"
+  },
+  {
+    "nl": "sector",
+    "ru": "сектор",
+    "level": "A2"
+  },
+  {
+    "nl": "handel",
+    "ru": "торговля",
+    "level": "A2"
+  },
+  {
+    "nl": "export",
+    "ru": "экспорт",
+    "level": "A2"
+  },
+  {
+    "nl": "import",
+    "ru": "импорт",
+    "level": "A2"
+  },
+  {
+    "nl": "product",
+    "ru": "продукт",
+    "level": "A2"
+  },
+  {
+    "nl": "dienst",
+    "ru": "услуга / служба",
+    "level": "A2"
+  },
+  {
+    "nl": "service",
+    "ru": "сервис",
+    "level": "A2"
+  },
+  {
+    "nl": "klantenservice",
+    "ru": "служба поддержки",
+    "level": "A2"
+  },
+  {
+    "nl": "winst",
+    "ru": "прибыль",
+    "level": "A2"
+  },
+  {
+    "nl": "verlies",
+    "ru": "убыток",
+    "level": "A2"
+  },
+  {
+    "nl": "omzet",
+    "ru": "оборот",
+    "level": "A2"
+  },
+  {
+    "nl": "budget",
+    "ru": "бюджет",
+    "level": "A2"
+  },
+  {
+    "nl": "investering",
+    "ru": "инвестиция",
+    "level": "A2"
+  },
+  {
+    "nl": "lening",
+    "ru": "кредит",
+    "level": "A2"
+  },
+  {
+    "nl": "hypotheek",
+    "ru": "ипотека",
+    "level": "A2"
+  },
+  {
+    "nl": "rente",
+    "ru": "процент (%)",
+    "level": "A2"
+  },
+  {
+    "nl": "spaarrekening",
+    "ru": "сберегательный счёт",
+    "level": "A2"
+  },
+  {
+    "nl": "pensioen",
+    "ru": "пенсия",
+    "level": "A2"
+  },
+  {
+    "nl": "AOW",
+    "ru": "гос. пенсия",
+    "level": "A2"
+  },
+  {
+    "nl": "erfenis",
+    "ru": "наследство",
+    "level": "A2"
+  },
+  {
+    "nl": "verzekering",
+    "ru": "страховка",
+    "level": "A2"
+  },
+  {
+    "nl": "aansprakelijkheid",
+    "ru": "ответственность (страх.)",
+    "level": "A2"
+  },
+  {
+    "nl": "schadevergoeding",
+    "ru": "компенсация ущерба",
+    "level": "A2"
+  },
+  {
+    "nl": "bewijs",
+    "ru": "доказательство",
+    "level": "A2"
+  },
+  {
+    "nl": "getuige",
+    "ru": "свидетель",
+    "level": "A2"
+  },
+  {
+    "nl": "slachtoffer",
+    "ru": "жертва",
+    "level": "A2"
+  },
+  {
+    "nl": "dader",
+    "ru": "виновник",
+    "level": "A2"
+  },
+  {
+    "nl": "verdachte",
+    "ru": "подозреваемый",
+    "level": "A2"
+  },
+  {
+    "nl": "onschuldig",
+    "ru": "невиновный",
+    "level": "A2"
+  },
+  {
+    "nl": "schuldig",
+    "ru": "виновный",
+    "level": "A2"
+  },
+  {
+    "nl": "opletten",
+    "ru": "быть внимательным",
+    "level": "A2"
+  },
+  {
+    "nl": "voorzichtig",
+    "ru": "осторожный",
+    "level": "A2"
+  },
+  {
+    "nl": "haast",
+    "ru": "спешка",
+    "level": "A2"
+  },
+  {
+    "nl": "rust",
+    "ru": "покой, отдых",
+    "level": "A2"
+  },
+  {
+    "nl": "moe worden",
+    "ru": "уставать",
+    "level": "A2"
+  },
+  {
+    "nl": "uitrusten",
+    "ru": "отдыхать",
+    "level": "A2"
+  },
+  {
+    "nl": "genieten van",
+    "ru": "наслаждаться",
+    "level": "A2"
+  },
+  {
+    "nl": "lachen",
+    "ru": "смеяться",
+    "level": "A2"
+  },
+  {
+    "nl": "huilen",
+    "ru": "плакать",
+    "level": "A2"
+  },
+  {
+    "nl": "glimlachen",
+    "ru": "улыбаться",
+    "level": "A2"
+  },
+  {
+    "nl": "zuchten",
+    "ru": "вздыхать",
+    "level": "A2"
+  },
+  {
+    "nl": "knikken",
+    "ru": "кивать",
+    "level": "A2"
+  },
+  {
+    "nl": "schudden",
+    "ru": "качать (головой)",
+    "level": "A2"
+  },
+  {
+    "nl": "zwaaien",
+    "ru": "махать",
+    "level": "A2"
+  },
+  {
+    "nl": "knuffelen",
+    "ru": "обнимать",
+    "level": "A2"
+  },
+  {
+    "nl": "kussen (глаг.)",
+    "ru": "целовать",
+    "level": "A2"
+  },
+  {
+    "nl": "een hand geven",
+    "ru": "подавать руку",
+    "level": "A2"
+  },
+  {
+    "nl": "opbellen",
+    "ru": "звонить по телефону",
+    "level": "A2"
+  },
+  {
+    "nl": "bellen",
+    "ru": "звонить",
+    "level": "A2"
+  },
+  {
+    "nl": "sms'en",
+    "ru": "слать SMS",
+    "level": "A2"
+  },
+  {
+    "nl": "appen",
+    "ru": "писать в WhatsApp",
+    "level": "A2"
+  },
+  {
+    "nl": "whatsappen",
+    "ru": "писать в WhatsApp",
+    "level": "A2"
+  },
+  {
+    "nl": "mailen",
+    "ru": "отправлять email",
+    "level": "A2"
+  },
+  {
+    "nl": "downloaden",
+    "ru": "скачивать",
+    "level": "A2"
+  },
+  {
+    "nl": "uploaden",
+    "ru": "загружать",
+    "level": "A2"
+  },
+  {
+    "nl": "surfen",
+    "ru": "сёрфить по интернету",
+    "level": "A2"
+  },
+  {
+    "nl": "zoekmachine",
+    "ru": "поисковик",
+    "level": "A2"
+  },
+  {
+    "nl": "wachtwoord",
+    "ru": "пароль",
+    "level": "A2"
+  },
+  {
+    "nl": "account",
+    "ru": "аккаунт",
+    "level": "A2"
+  },
+  {
+    "nl": "inloggen",
+    "ru": "входить в систему",
+    "level": "A2"
+  },
+  {
+    "nl": "uitloggen",
+    "ru": "выходить из системы",
+    "level": "A2"
+  },
+  {
+    "nl": "aanmaken",
+    "ru": "создавать (аккаунт)",
+    "level": "A2"
+  },
+  {
+    "nl": "verwijderen",
+    "ru": "удалять",
+    "level": "A2"
+  },
+  {
+    "nl": "opslaan",
+    "ru": "сохранять",
+    "level": "A2"
+  },
+  {
+    "nl": "bestand",
+    "ru": "файл",
+    "level": "A2"
+  },
+  {
+    "nl": "map",
+    "ru": "папка / карта",
+    "level": "A2"
+  },
+  {
+    "nl": "printer",
+    "ru": "принтер",
+    "level": "A2"
+  },
+  {
+    "nl": "toetsenbord",
+    "ru": "клавиатура",
+    "level": "A2"
+  },
+  {
+    "nl": "muis",
+    "ru": "мышь",
+    "level": "A2"
+  },
+  {
+    "nl": "scherm",
+    "ru": "экран",
+    "level": "A2"
+  },
+  {
+    "nl": "beeldscherm",
+    "ru": "монитор",
+    "level": "A2"
+  },
+  {
+    "nl": "batterij",
+    "ru": "батарея",
+    "level": "A2"
+  },
+  {
+    "nl": "oplader",
+    "ru": "зарядка",
+    "level": "A2"
+  },
+  {
+    "nl": "stekker",
+    "ru": "вилка (электр.)",
+    "level": "A2"
+  },
+  {
+    "nl": "stopcontact",
+    "ru": "розетка",
+    "level": "A2"
+  },
+  {
+    "nl": "draadloos",
+    "ru": "беспроводной",
+    "level": "A2"
+  },
+  {
+    "nl": "signaal",
+    "ru": "сигнал",
+    "level": "A2"
+  },
+  {
+    "nl": "dekking",
+    "ru": "покрытие связи",
+    "level": "A2"
+  },
+  {
+    "nl": "bellen over de grens",
+    "ru": "звонить за границу",
+    "level": "A2"
+  },
+  {
+    "nl": "online",
+    "ru": "онлайн",
+    "level": "A2"
+  },
+  {
+    "nl": "offline",
+    "ru": "офлайн",
+    "level": "A2"
+  },
+  {
+    "nl": "social media",
+    "ru": "соцсети",
+    "level": "A2"
+  },
+  {
+    "nl": "bericht plaatsen",
+    "ru": "публиковать пост",
+    "level": "A2"
+  },
+  {
+    "nl": "delen",
+    "ru": "делить / шерить",
+    "level": "A2"
+  },
+  {
+    "nl": "liken",
+    "ru": "ставить лайк",
+    "level": "A2"
+  },
+  {
+    "nl": "reageren",
+    "ru": "комментировать",
+    "level": "A2"
+  },
+  {
+    "nl": "volgen",
+    "ru": "подписываться / следовать",
+    "level": "A2"
+  },
+  {
+    "nl": "blokkeren",
+    "ru": "блокировать",
+    "level": "A2"
+  },
+  {
+    "nl": "privé",
+    "ru": "частный",
+    "level": "A2"
+  },
+  {
+    "nl": "openbaar",
+    "ru": "общественный, публичный",
+    "level": "A2"
+  },
+  {
+    "nl": "vertrouwen",
+    "ru": "доверять / доверие",
+    "level": "A2"
+  },
+  {
+    "nl": "wantrouwen",
+    "ru": "недоверие",
+    "level": "A2"
+  },
+  {
+    "nl": "eerlijk",
+    "ru": "честный",
+    "level": "A2"
+  },
+  {
+    "nl": "oneerlijk",
+    "ru": "нечестный",
+    "level": "A2"
+  },
+  {
+    "nl": "leugen",
+    "ru": "ложь",
+    "level": "A2"
+  },
+  {
+    "nl": "waarheid",
+    "ru": "правда",
+    "level": "A2"
+  },
+  {
+    "nl": "geheim",
+    "ru": "секрет",
+    "level": "A2"
+  },
+  {
+    "nl": "belofte",
+    "ru": "обещание",
+    "level": "A2"
+  },
+  {
+    "nl": "afspraak nakomen",
+    "ru": "держать слово",
+    "level": "A2"
+  },
+  {
+    "nl": "ruzie",
+    "ru": "ссора",
+    "level": "A2"
+  },
+  {
+    "nl": "verzoening",
+    "ru": "примирение",
+    "level": "A2"
+  },
+  {
+    "nl": "vergeven",
+    "ru": "прощать",
+    "level": "A2"
+  },
+  {
+    "nl": "excuses aanbieden",
+    "ru": "приносить извинения",
+    "level": "A2"
+  },
+  {
+    "nl": "begrip",
+    "ru": "понимание",
+    "level": "A2"
+  },
+  {
+    "nl": "misverstand",
+    "ru": "недоразумение",
+    "level": "A2"
+  },
+  {
+    "nl": "verrassing",
+    "ru": "сюрприз",
+    "level": "A2"
+  },
+  {
+    "nl": "geluk",
+    "ru": "счастье, удача",
+    "level": "A2"
+  },
+  {
+    "nl": "pech",
+    "ru": "неудача",
+    "level": "A2"
+  },
+  {
+    "nl": "lot",
+    "ru": "судьба / лот",
+    "level": "A2"
+  },
+  {
+    "nl": "toeval",
+    "ru": "случайность",
+    "level": "A2"
+  },
+  {
+    "nl": "plotseling",
+    "ru": "внезапно",
+    "level": "A2"
+  },
+  {
+    "nl": "meestal",
+    "ru": "обычно",
+    "level": "A2"
+  },
+  {
+    "nl": "normaal",
+    "ru": "нормально / обычно",
+    "level": "A2"
+  },
+  {
+    "nl": "bijzonder",
+    "ru": "особенный",
+    "level": "A2"
+  },
+  {
+    "nl": "speciaal",
+    "ru": "особенный, специальный",
+    "level": "A2"
+  },
+  {
+    "nl": "algemeen",
+    "ru": "общий",
+    "level": "A2"
+  },
+  {
+    "nl": "specifiek",
+    "ru": "конкретный",
+    "level": "A2"
+  },
+  {
+    "nl": "waarschijnlijk",
+    "ru": "вероятно",
+    "level": "A2"
+  },
+  {
+    "nl": "zeker weten",
+    "ru": "точно знать",
+    "level": "A2"
+  },
+  {
+    "nl": "onzeker",
+    "ru": "неуверенный",
+    "level": "A2"
+  },
+  {
+    "nl": "rustig aan",
+    "ru": "спокойно",
+    "level": "A2"
+  },
+  {
+    "nl": "hardop",
+    "ru": "вслух",
+    "level": "A2"
+  },
+  {
+    "nl": "stil",
+    "ru": "тихий",
+    "level": "A2"
+  },
+  {
+    "nl": "luid",
+    "ru": "громкий",
+    "level": "A2"
+  },
+  {
+    "nl": "geluid",
+    "ru": "звук",
+    "level": "A2"
+  },
+  {
+    "nl": "stilte",
+    "ru": "тишина",
+    "level": "A2"
+  },
+  {
+    "nl": "lawaai",
+    "ru": "шум",
+    "level": "A2"
+  },
+  {
+    "nl": "ritme",
+    "ru": "ритм",
+    "level": "A2"
+  },
+  {
+    "nl": "toon",
+    "ru": "тон / нота",
+    "level": "A2"
+  },
+  {
+    "nl": "stem",
+    "ru": "голос",
+    "level": "A2"
+  },
+  {
+    "nl": "fluisteren",
+    "ru": "шептать",
+    "level": "A2"
+  },
+  {
+    "nl": "schreeuwen",
+    "ru": "кричать",
+    "level": "A2"
+  },
+  {
+    "nl": "roepen",
+    "ru": "звать",
+    "level": "A2"
+  },
+  {
+    "nl": "mompelen",
+    "ru": "бормотать",
+    "level": "A2"
+  },
+  {
+    "nl": "duidelijk",
+    "ru": "ясный, чёткий",
+    "level": "A2"
+  },
+  {
+    "nl": "onduidelijk",
+    "ru": "неясный",
+    "level": "A2"
+  },
+  {
+    "nl": "logisch",
+    "ru": "логичный",
+    "level": "A2"
+  },
+  {
+    "nl": "onlogisch",
+    "ru": "нелогичный",
+    "level": "A2"
+  },
+  {
+    "nl": "correct",
+    "ru": "правильный",
+    "level": "A2"
+  },
+  {
+    "nl": "fout",
+    "ru": "ошибка / неправильный",
+    "level": "A2"
+  },
+  {
+    "nl": "verbeteren",
+    "ru": "улучшать, исправлять",
+    "level": "A2"
+  },
+  {
+    "nl": "corrigeren",
+    "ru": "корректировать",
+    "level": "A2"
+  },
+  {
+    "nl": "controleren",
+    "ru": "проверять",
+    "level": "A2"
+  },
+  {
+    "nl": "nakijken",
+    "ru": "перепроверять",
+    "level": "A2"
+  },
+  {
+    "nl": "checken",
+    "ru": "проверять (разг.)",
+    "level": "A2"
+  },
+  {
+    "nl": "verzorgen",
+    "ru": "заботиться / обеспечивать",
+    "level": "A2"
+  },
+  {
+    "nl": "verzorging",
+    "ru": "уход",
+    "level": "A2"
+  },
+  {
+    "nl": "zorg",
+    "ru": "забота / беспокойство",
+    "level": "A2"
+  },
+  {
+    "nl": "bijdrage",
+    "ru": "вклад, участие",
+    "level": "A2"
+  },
+  {
+    "nl": "meedoen",
+    "ru": "участвовать",
+    "level": "A2"
+  },
+  {
+    "nl": "meehelpen",
+    "ru": "помогать вместе",
+    "level": "A2"
+  },
+  {
+    "nl": "aantrekken",
+    "ru": "привлекать / надевать",
+    "level": "A2"
+  },
+  {
+    "nl": "uittrekken",
+    "ru": "снимать (одежду)",
+    "level": "A2"
+  },
+  {
+    "nl": "uitproberen",
+    "ru": "пробовать",
+    "level": "A2"
+  },
+  {
+    "nl": "opzoeken",
+    "ru": "искать (в словаре) / навещать",
+    "level": "A2"
+  },
+  {
+    "nl": "oppakken",
+    "ru": "подбирать",
+    "level": "A2"
+  },
+  {
+    "nl": "neerzetten",
+    "ru": "ставить, класть",
+    "level": "A2"
+  },
+  {
+    "nl": "weggooien",
+    "ru": "выбрасывать",
+    "level": "A2"
+  },
+  {
+    "nl": "bewaren",
+    "ru": "хранить",
+    "level": "A2"
+  },
+  {
+    "nl": "verbergen",
+    "ru": "прятать",
+    "level": "A2"
+  },
+  {
+    "nl": "tonen",
+    "ru": "показывать",
+    "level": "A2"
+  },
+  {
+    "nl": "laten zien",
+    "ru": "показывать",
+    "level": "A2"
+  },
+  {
+    "nl": "laten weten",
+    "ru": "сообщать",
+    "level": "A2"
+  },
+  {
+    "nl": "laten horen",
+    "ru": "давать услышать",
+    "level": "A2"
+  },
+  {
+    "nl": "laten vallen",
+    "ru": "уронить",
+    "level": "A2"
+  },
+  {
+    "nl": "schoonhouden",
+    "ru": "держать в чистоте",
+    "level": "A2"
+  },
+  {
+    "nl": "bijhouden",
+    "ru": "следить, поспевать",
+    "level": "A2"
+  },
+  {
+    "nl": "afmaken",
+    "ru": "заканчивать, доделать",
+    "level": "A2"
+  },
+  {
+    "nl": "meemaken",
+    "ru": "переживать, испытывать",
+    "level": "A2"
+  },
+  {
+    "nl": "terugkomen",
+    "ru": "возвращаться",
+    "level": "A2"
+  },
+  {
+    "nl": "terugsturen",
+    "ru": "возвращать (отправлять)",
+    "level": "A2"
+  },
+  {
+    "nl": "omgaan met",
+    "ru": "ладить / общаться",
+    "level": "A2"
+  },
+  {
+    "nl": "omdraaien",
+    "ru": "оборачиваться / перевернуть",
+    "level": "A2"
+  },
+  {
+    "nl": "omringen",
+    "ru": "окружать",
+    "level": "A2"
+  },
+  {
+    "nl": "oppassen",
+    "ru": "остерегаться / присматривать",
+    "level": "A2"
+  },
+  {
+    "nl": "opletten op",
+    "ru": "обращать внимание",
+    "level": "A2"
+  },
+  {
+    "nl": "rondkijken",
+    "ru": "осматриваться",
+    "level": "A2"
+  },
+  {
+    "nl": "rondrijden",
+    "ru": "кататься",
+    "level": "A2"
+  },
+  {
+    "nl": "rondlopen",
+    "ru": "ходить по (месту)",
+    "level": "A2"
+  },
+  {
+    "nl": "uitstappen",
+    "ru": "выходить (транспорт)",
+    "level": "A2"
+  },
+  {
+    "nl": "instappen",
+    "ru": "входить (в транспорт)",
+    "level": "A2"
+  },
+  {
+    "nl": "overstappen",
+    "ru": "пересаживаться",
+    "level": "A2"
+  },
+  {
+    "nl": "oversteken",
+    "ru": "переходить через",
+    "level": "A2"
+  },
+  {
+    "nl": "wegbrengen",
+    "ru": "отвозить",
+    "level": "A2"
+  },
+  {
+    "nl": "afleveren",
+    "ru": "доставлять (и сдавать)",
+    "level": "A2"
+  },
+  {
+    "nl": "aanleveren",
+    "ru": "поставлять",
+    "level": "A2"
+  },
+  {
+    "nl": "nakijken (проверка)",
+    "ru": "перепроверить",
+    "level": "A2"
+  },
+  {
+    "nl": "nagaan",
+    "ru": "проверять, устанавливать",
+    "level": "A2"
+  },
+  {
+    "nl": "aantonen",
+    "ru": "доказывать",
+    "level": "A2"
+  },
+  {
+    "nl": "verklaren",
+    "ru": "объявлять, объяснять",
+    "level": "A2"
+  },
+  {
+    "nl": "verwachten",
+    "ru": "ожидать",
+    "level": "A2"
+  },
+  {
+    "nl": "inleveren",
+    "ru": "сдавать (бумаги, работу)",
+    "level": "A2"
+  },
+  {
+    "nl": "opsturen",
+    "ru": "отправить",
+    "level": "A2"
+  },
+  {
+    "nl": "opsturen naar",
+    "ru": "отправить кому-то",
+    "level": "A2"
+  },
+  {
+    "nl": "toezenden",
+    "ru": "направлять (форм.)",
+    "level": "A2"
+  },
+  {
+    "nl": "opvragen",
+    "ru": "запрашивать",
+    "level": "A2"
+  },
+  {
+    "nl": "raadplegen",
+    "ru": "консультироваться",
+    "level": "A2"
+  },
+  {
+    "nl": "adviseren",
+    "ru": "советовать",
+    "level": "A2"
+  },
+  {
+    "nl": "advies",
+    "ru": "совет",
+    "level": "A2"
+  },
+  {
+    "nl": "aanbevelen",
+    "ru": "рекомендовать",
+    "level": "A2"
+  },
+  {
+    "nl": "aanbeveling",
+    "ru": "рекомендация",
+    "level": "A2"
+  },
+  {
+    "nl": "verzoek",
+    "ru": "просьба",
+    "level": "A2"
+  },
+  {
+    "nl": "verzoeken",
+    "ru": "просить (форм.)",
+    "level": "A2"
+  },
+  {
+    "nl": "verplichten",
+    "ru": "обязывать",
+    "level": "A2"
+  },
+  {
+    "nl": "toestemming",
+    "ru": "разрешение",
+    "level": "A2"
+  },
+  {
+    "nl": "vergunning",
+    "ru": "лицензия",
+    "level": "A2"
+  },
+  {
+    "nl": "bezwaar",
+    "ru": "возражение",
+    "level": "A2"
+  },
+  {
+    "nl": "beroep (apel)",
+    "ru": "апелляция",
+    "level": "A2"
+  },
+  {
+    "nl": "aanvraag",
+    "ru": "заявка",
+    "level": "A2"
+  },
+  {
+    "nl": "aanvragen",
+    "ru": "подавать заявку",
+    "level": "A2"
+  },
+  {
+    "nl": "ontwerp",
+    "ru": "дизайн, проект",
+    "level": "A2"
+  },
+  {
+    "nl": "schets",
+    "ru": "эскиз",
+    "level": "A2"
+  },
+  {
+    "nl": "aanpassing",
+    "ru": "корректировка",
+    "level": "A2"
+  },
+  {
+    "nl": "aanpassen",
+    "ru": "корректировать, подгонять",
+    "level": "A2"
+  },
+  {
+    "nl": "verandering",
+    "ru": "изменение",
+    "level": "A2"
+  },
+  {
+    "nl": "veranderen",
+    "ru": "менять",
+    "level": "A2"
+  },
+  {
+    "nl": "ontwikkeling",
+    "ru": "развитие",
+    "level": "A2"
+  },
+  {
+    "nl": "ontwikkelen",
+    "ru": "развивать",
+    "level": "A2"
+  },
+  {
+    "nl": "verbetering",
+    "ru": "улучшение",
+    "level": "A2"
+  },
+  {
+    "nl": "groei",
+    "ru": "рост",
+    "level": "A2"
+  },
+  {
+    "nl": "groeien",
+    "ru": "расти",
+    "level": "A2"
+  },
+  {
+    "nl": "vooruitgang",
+    "ru": "прогресс",
+    "level": "A2"
+  },
+  {
+    "nl": "achterstand",
+    "ru": "отставание",
+    "level": "A2"
+  },
+  {
+    "nl": "samen werken aan",
+    "ru": "работать сообща над",
+    "level": "A2"
+  },
+  {
+    "nl": "inzet",
+    "ru": "усилие, ставка",
+    "level": "A2"
+  },
+  {
+    "nl": "motivatie",
+    "ru": "мотивация",
+    "level": "A2"
+  },
+  {
+    "nl": "doelstelling",
+    "ru": "цель, задача",
+    "level": "A2"
+  },
+  {
+    "nl": "visie",
+    "ru": "видение",
+    "level": "A2"
+  },
+  {
+    "nl": "strategie",
+    "ru": "стратегия",
+    "level": "A2"
+  },
+  {
+    "nl": "aanpak",
+    "ru": "подход",
+    "level": "A2"
+  },
+  {
+    "nl": "methode",
+    "ru": "метод",
+    "level": "A2"
+  },
+  {
+    "nl": "plan van aanpak",
+    "ru": "план действий",
+    "level": "A2"
+  },
+  {
+    "nl": "kosten",
+    "ru": "затраты, расходы",
+    "level": "A2"
+  },
+  {
+    "nl": "uitgaven",
+    "ru": "расходы",
+    "level": "A2"
+  },
+  {
+    "nl": "inkomsten",
+    "ru": "доходы",
+    "level": "A2"
+  },
+  {
+    "nl": "begroting",
+    "ru": "смета, бюджет",
+    "level": "A2"
+  },
+  {
+    "nl": "planning",
+    "ru": "планирование",
+    "level": "A2"
+  },
+  {
+    "nl": "deadline",
+    "ru": "дедлайн",
+    "level": "A2"
+  },
+  {
+    "nl": "termijn",
+    "ru": "срок",
+    "level": "A2"
+  },
+  {
+    "nl": "op tijd",
+    "ru": "вовремя",
+    "level": "A2"
+  },
+  {
+    "nl": "te laat",
+    "ru": "с опозданием",
+    "level": "A2"
+  },
+  {
+    "nl": "uitdaging",
+    "ru": "вызов",
+    "level": "A2"
+  },
+  {
+    "nl": "spannend",
+    "ru": "волнующий",
+    "level": "A2"
+  },
+  {
+    "nl": "gezellig",
+    "ru": "уютно, приятно",
+    "level": "A2"
+  },
+  {
+    "nl": "saai",
+    "ru": "скучный",
+    "level": "A2"
+  },
+  {
+    "nl": "vermakelijk",
+    "ru": "развлекательный",
+    "level": "A2"
+  },
+  {
+    "nl": "hobbyruimte",
+    "ru": "место для хобби",
+    "level": "A2"
+  },
+  {
+    "nl": "vrije tijd",
+    "ru": "свободное время",
+    "level": "A2"
+  },
+  {
+    "nl": "uitrusten (отдых)",
+    "ru": "отдыхать",
+    "level": "A2"
+  },
+  {
+    "nl": "weekendje weg",
+    "ru": "выходные на выезде",
+    "level": "A2"
+  },
+  {
+    "nl": "stedentrip",
+    "ru": "поездка в город",
+    "level": "A2"
+  },
+  {
+    "nl": "excursie",
+    "ru": "экскурсия",
+    "level": "A2"
+  },
+  {
+    "nl": "rondleiding",
+    "ru": "экскурсия/обход",
+    "level": "A2"
+  },
+  {
+    "nl": "reisbureau",
+    "ru": "турагентство",
+    "level": "A2"
+  },
+  {
+    "nl": "gids",
+    "ru": "гид",
+    "level": "A2"
+  },
+  {
+    "nl": "paspoortcontrole",
+    "ru": "паспортный контроль",
+    "level": "A2"
+  },
+  {
+    "nl": "douane",
+    "ru": "таможня",
+    "level": "A2"
+  },
+  {
+    "nl": "bagage",
+    "ru": "багаж",
+    "level": "A2"
+  },
+  {
+    "nl": "handbagage",
+    "ru": "ручная кладь",
+    "level": "A2"
+  },
+  {
+    "nl": "koffer",
+    "ru": "чемодан",
+    "level": "A2"
+  },
+  {
+    "nl": "boardingpass",
+    "ru": "посадочный талон",
+    "level": "A2"
+  },
+  {
+    "nl": "gate",
+    "ru": "выход на посадку",
+    "level": "A2"
+  },
+  {
+    "nl": "vertraging (рейс)",
+    "ru": "задержка рейса",
+    "level": "A2"
+  },
+  {
+    "nl": "annulering",
+    "ru": "отмена (рейса)",
+    "level": "A2"
+  },
+  {
+    "nl": "tijdzone",
+    "ru": "часовой пояс",
+    "level": "A2"
+  },
+  {
+    "nl": "jetlag",
+    "ru": "джетлаг",
+    "level": "A2"
+  },
+  {
+    "nl": "souvenir",
+    "ru": "сувенир",
+    "level": "A2"
+  },
+  {
+    "nl": "ansichtkaart",
+    "ru": "открытка",
+    "level": "A2"
+  },
+  {
+    "nl": "buitenland",
+    "ru": "заграница",
+    "level": "A2"
+  },
+  {
+    "nl": "binnenland",
+    "ru": "внутри страны",
+    "level": "A2"
+  },
+  {
+    "nl": "grensoverschrijdend",
+    "ru": "трансграничный",
+    "level": "A2"
+  },
+  {
+    "nl": "valuta",
+    "ru": "валюта",
+    "level": "A2"
+  },
+  {
+    "nl": "wisselen",
+    "ru": "менять (валюту)",
+    "level": "A2"
+  },
+  {
+    "nl": "wisselkantoor",
+    "ru": "обменный пункт",
+    "level": "A2"
+  },
+  {
+    "nl": "geldautomaat",
+    "ru": "банкомат",
+    "level": "A2"
+  },
+  {
+    "nl": "bankpas",
+    "ru": "банковская карта",
+    "level": "A2"
+  },
+  {
+    "nl": "creditcard",
+    "ru": "кредитная карта",
+    "level": "A2"
+  },
+  {
+    "nl": "betaalrekening",
+    "ru": "расчётный счёт",
+    "level": "A2"
+  },
+  {
+    "nl": "overschrijven",
+    "ru": "переводить (деньги)",
+    "level": "A2"
+  },
+  {
+    "nl": "storten",
+    "ru": "вносить (деньги)",
+    "level": "A2"
+  },
+  {
+    "nl": "opnemen",
+    "ru": "снимать (деньги) / записывать",
+    "level": "A2"
+  },
+  {
+    "nl": "rood staan",
+    "ru": "быть в овердрафте",
+    "level": "A2"
+  },
+  {
+    "nl": "saldo",
+    "ru": "баланс",
+    "level": "A2"
+  },
+  {
+    "nl": "afschrift bankrekening",
+    "ru": "выписка со счёта",
+    "level": "A2"
+  },
+  {
+    "nl": "internetbankieren",
+    "ru": "интернет-банкинг",
+    "level": "A2"
+  },
+  {
+    "nl": "iDEAL",
+    "ru": "iDEAL",
+    "level": "A2"
+  },
+  {
+    "nl": "DigiD",
+    "ru": "DigiD (гос. ID)",
+    "level": "A2"
+  },
+  {
+    "nl": "MijnOverheid",
+    "ru": "личный кабинет гражданина",
+    "level": "A2"
+  },
+  {
+    "nl": "overheidsdienst",
+    "ru": "государственная служба",
+    "level": "A2"
+  },
+  {
+    "nl": "ambtenaar",
+    "ru": "чиновник",
+    "level": "A2"
+  },
+  {
+    "nl": "formeel",
+    "ru": "формальный",
+    "level": "A2"
+  },
+  {
+    "nl": "informeel",
+    "ru": "неформальный",
+    "level": "A2"
+  },
+  {
+    "nl": "procedure",
+    "ru": "процедура",
+    "level": "A2"
+  },
+  {
+    "nl": "wachttijd",
+    "ru": "время ожидания",
+    "level": "A2"
+  },
+  {
+    "nl": "deadline halen",
+    "ru": "уложиться в срок",
+    "level": "A2"
+  },
+  {
+    "nl": "invullen (бланк)",
+    "ru": "заполнить",
+    "level": "A2"
+  },
+  {
+    "nl": "bijlage",
+    "ru": "приложение (в письме)",
+    "level": "A2"
+  },
+  {
+    "nl": "attachment",
+    "ru": "вложение",
+    "level": "A2"
+  },
+  {
+    "nl": "onderwerp (письма)",
+    "ru": "тема письма",
+    "level": "A2"
+  },
+  {
+    "nl": "antwoord per mail",
+    "ru": "ответ по почте",
+    "level": "A2"
+  },
+  {
+    "nl": "reageer svp",
+    "ru": "пожалуйста, ответьте",
+    "level": "A2"
+  },
+  {
+    "nl": "bijvoorbeeld",
+    "ru": "например",
+    "level": "A2"
+  },
+  {
+    "nl": "in het bijzonder",
+    "ru": "в частности",
+    "level": "A2"
+  },
+  {
+    "nl": "met name",
+    "ru": "в особенности",
+    "level": "A2"
+  },
+  {
+    "nl": "onder andere",
+    "ru": "в том числе",
+    "level": "A2"
+  },
+  {
+    "nl": "zoals",
+    "ru": "как, например",
+    "level": "A2"
+  },
+  {
+    "nl": "volgens mij",
+    "ru": "по-моему",
+    "level": "A2"
+  },
+  {
+    "nl": "ik vind",
+    "ru": "я считаю",
+    "level": "A2"
+  },
+  {
+    "nl": "ik denk",
+    "ru": "я думаю",
+    "level": "A2"
+  },
+  {
+    "nl": "mijn indruk is",
+    "ru": "мне кажется",
+    "level": "A2"
+  },
+  {
+    "nl": "ergens van overtuigd zijn",
+    "ru": "быть уверенным",
+    "level": "A2"
+  },
+  {
+    "nl": "graag willen",
+    "ru": "хотеть / хотеться",
+    "level": "A2"
+  },
+  {
+    "nl": "zin hebben in",
+    "ru": "иметь настроение на",
+    "level": "A2"
+  },
+  {
+    "nl": "geen zin hebben",
+    "ru": "не хотеть",
+    "level": "A2"
+  },
+  {
+    "nl": "moe zijn van",
+    "ru": "устать от",
+    "level": "A2"
+  },
+  {
+    "nl": "trots zijn op",
+    "ru": "гордиться",
+    "level": "A2"
+  },
+  {
+    "nl": "schamen voor",
+    "ru": "стыдиться за",
+    "level": "A2"
+  },
+  {
+    "nl": "wennen aan",
+    "ru": "привыкать к",
+    "level": "A2"
+  },
+  {
+    "nl": "vergelijken met",
+    "ru": "сравнивать с",
+    "level": "A2"
+  },
+  {
+    "nl": "rekening houden met",
+    "ru": "учитывать",
+    "level": "A2"
+  },
+  {
+    "nl": "te maken hebben met",
+    "ru": "быть связанным с",
+    "level": "A2"
+  },
+  {
+    "nl": "afhankelijk van",
+    "ru": "зависимо от",
+    "level": "A2"
+  },
+  {
+    "nl": "onafhankelijk",
+    "ru": "независимый",
+    "level": "A2"
+  },
+  {
+    "nl": "onderweg",
+    "ru": "в пути",
+    "level": "A2"
+  },
+  {
+    "nl": "onderweg naar",
+    "ru": "на пути к",
+    "level": "A2"
+  },
+  {
+    "nl": "bij de hand",
+    "ru": "под рукой",
+    "level": "A2"
+  },
+  {
+    "nl": "ter plekke",
+    "ru": "на месте",
+    "level": "A2"
+  },
+  {
+    "nl": "aan de telefoon",
+    "ru": "по телефону",
+    "level": "A2"
+  },
+  {
+    "nl": "aan de lijn",
+    "ru": "на связи",
+    "level": "A2"
+  },
+  {
+    "nl": "op kantoor",
+    "ru": "в офисе",
+    "level": "A2"
+  },
+  {
+    "nl": "op vakantie",
+    "ru": "в отпуске",
+    "level": "A2"
+  },
+  {
+    "nl": "in dienst",
+    "ru": "на службе, при исполнении",
+    "level": "A2"
+  },
+  {
+    "nl": "met pensioen",
+    "ru": "на пенсии",
+    "level": "A2"
+  },
+  {
+    "nl": "in staking",
+    "ru": "на забастовке",
+    "level": "A2"
+  },
+  {
+    "nl": "in bedrijf",
+    "ru": "в работе, запущен",
+    "level": "A2"
+  },
+  {
+    "nl": "buiten gebruik",
+    "ru": "не работает",
+    "level": "A2"
+  },
+  {
+    "nl": "tijdelijk",
+    "ru": "временный",
+    "level": "A2"
+  },
+  {
+    "nl": "permanent",
+    "ru": "постоянный",
+    "level": "A2"
+  },
+  {
+    "nl": "voorlopig",
+    "ru": "пока что",
+    "level": "A2"
+  },
+  {
+    "nl": "definitief",
+    "ru": "окончательно",
+    "level": "A2"
+  },
+  {
+    "nl": "voorlopige versie",
+    "ru": "черновая версия",
+    "level": "A2"
+  },
+  {
+    "nl": "definitieve versie",
+    "ru": "финальная версия",
+    "level": "A2"
+  },
+  {
+    "nl": "op zijn minst",
+    "ru": "как минимум",
+    "level": "A2"
+  },
+  {
+    "nl": "hooguit",
+    "ru": "максимум",
+    "level": "A2"
+  },
+  {
+    "nl": "ongeveer",
+    "ru": "примерно",
+    "level": "A2"
+  },
+  {
+    "nl": "precies",
+    "ru": "точно",
+    "level": "A2"
+  },
+  {
+    "nl": "minstens",
+    "ru": "по крайней мере",
+    "level": "A2"
+  },
+  {
+    "nl": "maximaal",
+    "ru": "максимально",
+    "level": "A2"
+  },
+  {
+    "nl": "minimaal",
+    "ru": "минимально",
+    "level": "A2"
+  },
+  {
+    "nl": "gemiddeld",
+    "ru": "в среднем",
+    "level": "A2"
+  },
+  {
+    "nl": "bijna",
+    "ru": "почти",
+    "level": "A2"
+  },
+  {
+    "nl": "nauwelijks",
+    "ru": "едва",
+    "level": "A2"
+  },
+  {
+    "nl": "veel te",
+    "ru": "слишком",
+    "level": "A2"
+  },
+  {
+    "nl": "vrijwel",
+    "ru": "практически",
+    "level": "A2"
+  },
+  {
+    "nl": "helemaal",
+    "ru": "совсем, полностью",
+    "level": "A2"
+  },
+  {
+    "nl": "gedeeltelijk",
+    "ru": "частично",
+    "level": "A2"
+  },
+  {
+    "nl": "volledig",
+    "ru": "полностью",
+    "level": "A2"
+  },
+  {
+    "nl": "perfect",
+    "ru": "идеальный",
+    "level": "A2"
+  },
+  {
+    "nl": "prima",
+    "ru": "отлично",
+    "level": "A2"
+  },
+  {
+    "nl": "uitstekend",
+    "ru": "превосходно",
+    "level": "A2"
+  },
+  {
+    "nl": "redelijk",
+    "ru": "разумный, сносный",
+    "level": "A2"
+  },
+  {
+    "nl": "matig",
+    "ru": "средний, умеренный",
+    "level": "A2"
+  },
+  {
+    "nl": "onvoldoende",
+    "ru": "недостаточный",
+    "level": "A2"
+  },
+  {
+    "nl": "voldoende",
+    "ru": "достаточный",
+    "level": "A2"
+  },
+  {
+    "nl": "zwakjes",
+    "ru": "слабоватый",
+    "level": "A2"
+  },
+  {
+    "nl": "sterk punt",
+    "ru": "сильная сторона",
+    "level": "A2"
+  },
+  {
+    "nl": "zwak punt",
+    "ru": "слабая сторона",
+    "level": "A2"
+  },
+  {
+    "nl": "voordeel",
+    "ru": "преимущество",
+    "level": "A2"
+  },
+  {
+    "nl": "nadeel",
+    "ru": "недостаток",
+    "level": "A2"
+  },
+  {
+    "nl": "winst- en verliesrekening",
+    "ru": "отчёт о прибылях и убытках",
+    "level": "A2"
+  },
+  {
+    "nl": "samenvatten",
+    "ru": "подытоживать",
+    "level": "A2"
+  },
+  {
+    "nl": "uitwerken",
+    "ru": "разрабатывать",
+    "level": "A2"
+  },
+  {
+    "nl": "verder uitwerken",
+    "ru": "детализировать",
+    "level": "A2"
+  },
+  {
+    "nl": "doorwerken",
+    "ru": "проработать дальше",
+    "level": "A2"
+  },
+  {
+    "nl": "meedenken",
+    "ru": "помогать думать",
+    "level": "A2"
+  },
+  {
+    "nl": "uitgaan van",
+    "ru": "исходить из",
+    "level": "A2"
+  },
+  {
+    "nl": "rekenen op",
+    "ru": "рассчитывать на",
+    "level": "A2"
+  },
+  {
+    "nl": "letten op",
+    "ru": "следить за",
+    "level": "A2"
+  },
+  {
+    "nl": "wachten op",
+    "ru": "ждать чего-то",
+    "level": "A2"
+  },
+  {
+    "nl": "kijken naar",
+    "ru": "смотреть на",
+    "level": "A2"
+  },
+  {
+    "nl": "denken aan",
+    "ru": "думать о",
+    "level": "A2"
+  },
+  {
+    "nl": "denken over",
+    "ru": "обдумывать",
+    "level": "A2"
+  },
+  {
+    "nl": "spreken over",
+    "ru": "говорить о",
+    "level": "A2"
+  },
+  {
+    "nl": "lijken op",
+    "ru": "походить на",
+    "level": "A2"
+  },
+  {
+    "nl": "vragen naar",
+    "ru": "спрашивать о",
+    "level": "A2"
+  },
+  {
+    "nl": "zoeken naar",
+    "ru": "искать что-то",
+    "level": "A2"
+  },
+  {
+    "nl": "hopen op",
+    "ru": "надеяться на",
+    "level": "A2"
+  },
+  {
+    "nl": "rekening houden met",
+    "ru": "принимать в расчёт",
+    "level": "A2"
+  },
+  {
+    "nl": "houden van",
+    "ru": "любить (что-то)",
+    "level": "A2"
+  }
+]

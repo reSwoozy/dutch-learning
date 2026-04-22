@@ -1,0 +1,617 @@
+{
+  "id": "B1-test-3",
+  "level": "B1",
+  "variant": 3,
+  "minutes": 40,
+  "maxPoints": 55,
+  "passPercent": 70,
+  "lessons": "25-36",
+  "sections": [
+    {
+      "id": "deel-1",
+      "title": "Deel 1: Lezen (Чтение)",
+      "points": 15,
+      "questions": [
+        {
+          "num": 1,
+          "text": "Wat is het doel van de nieuwe regeling?",
+          "options": [
+            { "letter": "a", "text": "Meer parkeerplaatsen in het centrum" },
+            { "letter": "b", "text": "Minder auto's in het centrum" },
+            { "letter": "c", "text": "Goedkoper parkeren" }
+          ],
+          "context": "Vanaf 1 januari 2026 mogen er geen dieselauto's meer het centrum van Den Haag in. Deze maatregel is genomen om de luchtkwaliteit te verbeteren en het aantal auto's in de binnenstad te verminderen. Inwoners met een oude dieselauto kunnen subsidie aanvragen voor een elektrische auto of fiets. Bezoekers kunnen gebruik maken van park-and-ride-locaties aan de rand van de stad. De nieuwe regeling geldt elke dag van 7:00 tot 19:00.",
+          "correctLetter": "b",
+          "explanation": "Minder auto's in het centrum (и лучше качество воздуха)"
+        },
+        {
+          "num": 2,
+          "text": "Wat kunnen inwoners met een oude dieselauto doen?",
+          "options": [
+            { "letter": "a", "text": "Een boete betalen" },
+            { "letter": "b", "text": "Subsidie aanvragen voor een alternatief" },
+            { "letter": "c", "text": "Niets -- de regels zijn verplicht" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Subsidie aanvragen voor een alternatief"
+        },
+        {
+          "num": 3,
+          "text": "Wanneer geldt de regeling?",
+          "options": [
+            { "letter": "a", "text": "24 uur per dag" },
+            { "letter": "b", "text": "Alleen in het weekend" },
+            { "letter": "c", "text": "Elke dag van 7 tot 19 uur" }
+          ],
+          "correctLetter": "c",
+          "explanation": "Elke dag van 7:00 tot 19:00"
+        },
+        {
+          "num": 4,
+          "text": "Wat is het hoofdthema van de tekst?",
+          "options": [
+            { "letter": "a", "text": "De voordelen van koffie" },
+            { "letter": "b", "text": "Hoe je meer kunt slapen" },
+            { "letter": "c", "text": "De invloed van slaap op gezondheid" }
+          ],
+          "context": "Veel Nederlanders slapen te weinig. Uit onderzoek blijkt dat een op de drie volwassenen regelmatig minder dan zes uur slaapt. Dat heeft grote gevolgen voor de gezondheid. Mensen die te weinig slapen, hebben meer kans op overgewicht, hart- en vaatziekten en depressie. Slaapexperts adviseren om elke dag op dezelfde tijd naar bed te gaan en minstens een uur voor het slapengaan geen telefoon meer te gebruiken. Ook cafeïne in de middag kan slechter slapen veroorzaken.",
+          "correctLetter": "c",
+          "explanation": "De invloed van slaap op gezondheid"
+        },
+        {
+          "num": 5,
+          "text": "Welk percentage slaapt te weinig?",
+          "options": [
+            { "letter": "a", "text": "Een op de twee" },
+            { "letter": "b", "text": "Een op de drie" },
+            { "letter": "c", "text": "Een op de tien" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Een op de drie"
+        },
+        {
+          "num": 6,
+          "text": "Welk advies wordt gegeven?",
+          "options": [
+            { "letter": "a", "text": "Meer koffie drinken" },
+            { "letter": "b", "text": "Elke dag vroeg opstaan" },
+            { "letter": "c", "text": "Op dezelfde tijd naar bed gaan" }
+          ],
+          "correctLetter": "c",
+          "explanation": "Op dezelfde tijd naar bed gaan"
+        },
+        {
+          "num": 7,
+          "text": "Waarom heeft de school een nieuwe regel?",
+          "options": [
+            { "letter": "a", "text": "Leerlingen worden afgeleid door telefoons" },
+            { "letter": "b", "text": "De school bespaart geld" },
+            { "letter": "c", "text": "Ouders vragen erom" }
+          ],
+          "context": "Beste ouders,\nVanaf volgende maand geldt op onze school een nieuwe regel: leerlingen mogen hun telefoon niet gebruiken tijdens schooluren. De reden is dat veel leerlingen afgeleid raken en moeite hebben met concentreren. Ze moeten hun telefoon bij binnenkomst in een kluisje leggen. Aan het einde van de dag krijgen ze hem terug. Bij nood kunt u altijd de school bellen op 023-555-1234.\nMet vriendelijke groet,\nDe directie",
+          "correctLetter": "a",
+          "explanation": "Leerlingen worden afgeleid door telefoons"
+        },
+        {
+          "num": 8,
+          "text": "Wat moeten leerlingen met hun telefoon doen?",
+          "options": [
+            { "letter": "a", "text": "Hem thuis laten" },
+            { "letter": "b", "text": "Hem in een kluisje leggen" },
+            { "letter": "c", "text": "Hem in hun tas houden" }
+          ],
+          "correctLetter": "b",
+          "explanation": "In een kluisje leggen"
+        },
+        {
+          "num": 9,
+          "text": "Wat kunnen ouders doen in een noodgeval?",
+          "options": [
+            { "letter": "a", "text": "Hun kind direct bellen" },
+            { "letter": "b", "text": "Naar de school komen" },
+            { "letter": "c", "text": "De school bellen" }
+          ],
+          "correctLetter": "c",
+          "explanation": "De school bellen"
+        },
+        {
+          "num": 10,
+          "text": "Voor wie is deze brief bedoeld?",
+          "options": [
+            { "letter": "a", "text": "Voor leerlingen" },
+            { "letter": "b", "text": "Voor ouders" },
+            { "letter": "c", "text": "Voor docenten" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Voor ouders (Beste ouders)"
+        }
+      ],
+      "writingTask": null,
+      "speakingTask": null
+    },
+    {
+      "id": "deel-2",
+      "title": "Deel 2: Grammatica",
+      "points": 25,
+      "questions": [
+        {
+          "num": 11,
+          "text": "Vroeger __ mijn moeder altijd zelf brood. (bakken)",
+          "options": [
+            { "letter": "a", "text": "bakte" },
+            { "letter": "b", "text": "heeft gebakken" },
+            { "letter": "c", "text": "bakt" }
+          ],
+          "correctLetter": "a",
+          "explanation": "bakte (imperfectum, повторяющееся прошлое)"
+        },
+        {
+          "num": 12,
+          "text": "Toen we klein __, __ wij elk jaar naar oma. (zijn, gaan)",
+          "options": [
+            { "letter": "a", "text": "waren ... gingen" },
+            { "letter": "b", "text": "zijn geweest ... zijn gegaan" },
+            { "letter": "c", "text": "waren ... zijn gegaan" }
+          ],
+          "correctLetter": "a",
+          "explanation": "waren ... gingen"
+        },
+        {
+          "num": 13,
+          "text": "Eergisteren __ hij zijn fiets __. (verliezen)",
+          "options": [
+            { "letter": "a", "text": "heeft ... verloren" },
+            { "letter": "b", "text": "is ... verloren" },
+            { "letter": "c", "text": "heeft ... verliest" }
+          ],
+          "correctLetter": "a",
+          "explanation": "heeft ... verloren"
+        },
+        {
+          "num": 14,
+          "text": "Hij vroeg me __ ik tijd had voor een kopje koffie.",
+          "options": [
+            { "letter": "a", "text": "dat" },
+            { "letter": "b", "text": "of" },
+            { "letter": "c", "text": "wanneer" }
+          ],
+          "correctLetter": "b",
+          "explanation": "of (косвенный вопрос да/нет)"
+        },
+        {
+          "num": 15,
+          "text": "De brief __ ik vanochtend heb gekregen, is belangrijk.",
+          "options": [
+            { "letter": "a", "text": "die" },
+            { "letter": "b", "text": "dat" },
+            { "letter": "c", "text": "wat" }
+          ],
+          "correctLetter": "a",
+          "explanation": "die (brief -- de-woord)"
+        },
+        {
+          "num": 16,
+          "text": "De winkel __ in de Hoofdstraat ligt, is nu gesloten.",
+          "options": [
+            { "letter": "a", "text": "die" },
+            { "letter": "b", "text": "dat" },
+            { "letter": "c", "text": "waar" }
+          ],
+          "correctLetter": "a",
+          "explanation": "die (winkel -- de-woord)"
+        },
+        {
+          "num": 17,
+          "text": "Ik blijf binnen __ het regent.",
+          "options": [
+            { "letter": "a", "text": "want" },
+            { "letter": "b", "text": "omdat" },
+            { "letter": "c", "text": "оба, разный порядок" }
+          ],
+          "correctLetter": "c",
+          "explanation": "оба"
+        },
+        {
+          "num": 18,
+          "text": "Als ik morgen vroeg op __, __ ik nog tijd voor ontbijt.",
+          "options": [
+            { "letter": "a", "text": "sta ... heb" },
+            { "letter": "b", "text": "stond ... had" },
+            { "letter": "c", "text": "zou staan ... zou hebben" }
+          ],
+          "correctLetter": "a",
+          "explanation": "sta ... heb (реальное условие)"
+        },
+        {
+          "num": 19,
+          "text": "Als ik rijk __, __ ik een groot huis kopen.",
+          "options": [
+            { "letter": "a", "text": "ben ... koop" },
+            { "letter": "b", "text": "was ... zou" },
+            { "letter": "c", "text": "zou zijn ... koop" }
+          ],
+          "correctLetter": "b",
+          "explanation": "was ... zou (нереальное условие)"
+        },
+        {
+          "num": 20,
+          "text": "De nieuwe brug __ in 2026 __. (bouwen)",
+          "options": [
+            { "letter": "a", "text": "wordt ... gebouwd" },
+            { "letter": "b", "text": "is ... gebouwd" },
+            { "letter": "c", "text": "heeft ... gebouwd" }
+          ],
+          "correctLetter": "a",
+          "explanation": "wordt ... gebouwd (будущий/продолжающийся процесс)"
+        },
+        {
+          "num": 21,
+          "text": "De kerk __ in de 15e eeuw __. (bouwen)",
+          "options": [
+            { "letter": "a", "text": "is ... gebouwd" },
+            { "letter": "b", "text": "werd ... gebouwd" },
+            { "letter": "c", "text": "оба" }
+          ],
+          "correctLetter": "c",
+          "explanation": "оба (процесс/результат в прошлом)"
+        },
+        {
+          "num": 22,
+          "text": "\"Ik ga naar huis.\" -> Hij zegt __ hij naar huis __.",
+          "options": [
+            { "letter": "a", "text": "dat ... gaat" },
+            { "letter": "b", "text": "of ... gaat" },
+            { "letter": "c", "text": "dat ... ga" }
+          ],
+          "correctLetter": "a",
+          "explanation": "dat ... gaat"
+        },
+        {
+          "num": 23,
+          "text": "\"Heb je honger?\" -> Ze vraagt __ ik honger __.",
+          "options": [
+            { "letter": "a", "text": "dat ... heb" },
+            { "letter": "b", "text": "of ... heb" },
+            { "letter": "c", "text": "of ... hebt" }
+          ],
+          "correctLetter": "b",
+          "explanation": "of ... heb"
+        },
+        {
+          "num": 24,
+          "text": "Het is moeilijk __ vroeg __ opstaan.",
+          "options": [
+            { "letter": "a", "text": "om ... te" },
+            { "letter": "b", "text": "voor ... te" },
+            { "letter": "c", "text": "te ... (без om)" }
+          ],
+          "correctLetter": "a",
+          "explanation": "om ... te"
+        },
+        {
+          "num": 25,
+          "text": "Ik ga naar de winkel __ melk __ kopen.",
+          "options": [
+            { "letter": "a", "text": "om ... te" },
+            { "letter": "b", "text": "voor ... te" },
+            { "letter": "c", "text": "om ... (без te)" }
+          ],
+          "correctLetter": "a",
+          "explanation": "om ... te"
+        },
+        {
+          "num": 26,
+          "text": "Morgen __ ik naar de tandarts __. (gaan)",
+          "options": [
+            { "letter": "a", "text": "ga" },
+            { "letter": "b", "text": "zal ... gaan" },
+            { "letter": "c", "text": "оба" }
+          ],
+          "correctLetter": "c",
+          "explanation": "оба"
+        },
+        {
+          "num": 27,
+          "text": "Dat is het restaurant __ we elkaar hebben ontmoet.",
+          "options": [
+            { "letter": "a", "text": "waar" },
+            { "letter": "b", "text": "die" },
+            { "letter": "c", "text": "dat" }
+          ],
+          "correctLetter": "a",
+          "explanation": "waar"
+        },
+        {
+          "num": 28,
+          "text": "Alles __ ik daar heb gezien, was prachtig.",
+          "options": [
+            { "letter": "a", "text": "dat" },
+            { "letter": "b", "text": "wat" },
+            { "letter": "c", "text": "die" }
+          ],
+          "correctLetter": "b",
+          "explanation": "wat (после alles)"
+        },
+        {
+          "num": 29,
+          "text": "Hoeveel appels heb je gekocht? -- Ik heb __ vijf __.",
+          "options": [
+            { "letter": "a", "text": "er ... gekocht" },
+            { "letter": "b", "text": "ze ... gekocht" },
+            { "letter": "c", "text": "het ... gekocht" }
+          ],
+          "correctLetter": "a",
+          "explanation": "er ... gekocht"
+        },
+        {
+          "num": 30,
+          "text": "Ik hou veel __. (= van muziek)",
+          "options": [
+            { "letter": "a", "text": "ervan" },
+            { "letter": "b", "text": "daarvan" },
+            { "letter": "c", "text": "van het" }
+          ],
+          "correctLetter": "a",
+          "explanation": "ervan"
+        },
+        {
+          "num": 31,
+          "text": "__ hij in Nederland kwam, sprak hij geen Nederlands.",
+          "options": [
+            { "letter": "a", "text": "Als" },
+            { "letter": "b", "text": "Toen" },
+            { "letter": "c", "text": "Wanneer" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Toen"
+        },
+        {
+          "num": 32,
+          "text": "__ de zon schijnt, ga ik fietsen.",
+          "options": [
+            { "letter": "a", "text": "Als" },
+            { "letter": "b", "text": "Toen" },
+            { "letter": "c", "text": "Nadat" }
+          ],
+          "correctLetter": "a",
+          "explanation": "Als (повторяющееся)"
+        },
+        {
+          "num": 33,
+          "text": "__ hij was afgestudeerd, kreeg hij een baan.",
+          "options": [
+            { "letter": "a", "text": "Toen" },
+            { "letter": "b", "text": "Nadat" },
+            { "letter": "c", "text": "оба" }
+          ],
+          "correctLetter": "c",
+          "explanation": "оба"
+        },
+        {
+          "num": 34,
+          "text": "__ ik geen tijd had, kwam ik toch langs.",
+          "options": [
+            { "letter": "a", "text": "Omdat" },
+            { "letter": "b", "text": "Hoewel" },
+            { "letter": "c", "text": "Nadat" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Hoewel (уступка)"
+        },
+        {
+          "num": 35,
+          "text": "Ik zet een wekker __ ik niet te laat __ komen.",
+          "options": [
+            { "letter": "a", "text": "zodat ... zou" },
+            { "letter": "b", "text": "zodat ... hoef te" },
+            { "letter": "c", "text": "omdat ... (без modalen)" }
+          ],
+          "correctLetter": "a",
+          "explanation": "zodat ... zou (чтобы не опоздать)"
+        }
+      ],
+      "writingTask": null,
+      "speakingTask": null
+    },
+    {
+      "id": "deel-3",
+      "title": "Deel 3: Woordenschat",
+      "points": 15,
+      "questions": [
+        {
+          "num": 36,
+          "text": "Ik heb een __ afgesloten voor twee jaar.",
+          "options": [
+            { "letter": "a", "text": "abonnement" },
+            { "letter": "b", "text": "kortingskaart" },
+            { "letter": "c", "text": "recept" }
+          ],
+          "correctLetter": "a",
+          "explanation": "abonnement"
+        },
+        {
+          "num": 37,
+          "text": "De __ kwam om mijn meterstand op te nemen.",
+          "options": [
+            { "letter": "a", "text": "monteur" },
+            { "letter": "b", "text": "buurman" },
+            { "letter": "c", "text": "tolk" }
+          ],
+          "correctLetter": "a",
+          "explanation": "monteur"
+        },
+        {
+          "num": 38,
+          "text": "Hij heeft een __ gekregen; over een maand begint hij.",
+          "options": [
+            { "letter": "a", "text": "ontslagbrief" },
+            { "letter": "b", "text": "contract" },
+            { "letter": "c", "text": "vakantie" }
+          ],
+          "correctLetter": "b",
+          "explanation": "contract"
+        },
+        {
+          "num": 39,
+          "text": "De __ voor deze baan is minstens 3 jaar werkervaring.",
+          "options": [
+            { "letter": "a", "text": "vereiste" },
+            { "letter": "b", "text": "voorstel" },
+            { "letter": "c", "text": "afspraak" }
+          ],
+          "correctLetter": "a",
+          "explanation": "vereiste (требование)"
+        },
+        {
+          "num": 40,
+          "text": "De __ verzorgt de uitkeringen.",
+          "options": [
+            { "letter": "a", "text": "gemeente" },
+            { "letter": "b", "text": "school" },
+            { "letter": "c", "text": "bank" }
+          ],
+          "correctLetter": "a",
+          "explanation": "gemeente"
+        },
+        {
+          "num": 41,
+          "text": "slim = `_______`",
+          "options": [
+            { "letter": "a", "text": "knap / intelligent" },
+            { "letter": "b", "text": "dom" },
+            { "letter": "c", "text": "zwak" }
+          ],
+          "correctLetter": "a",
+          "explanation": "knap / intelligent"
+        },
+        {
+          "num": 42,
+          "text": "wegrennen = `_______`",
+          "options": [
+            { "letter": "a", "text": "vluchten" },
+            { "letter": "b", "text": "opvallen" },
+            { "letter": "c", "text": "verschijnen" }
+          ],
+          "correctLetter": "a",
+          "explanation": "vluchten"
+        },
+        {
+          "num": 43,
+          "text": "rustig = `_______`",
+          "options": [
+            { "letter": "a", "text": "druk" },
+            { "letter": "b", "text": "kalm" },
+            { "letter": "c", "text": "luid" }
+          ],
+          "correctLetter": "b",
+          "explanation": "kalm"
+        },
+        {
+          "num": 44,
+          "text": "Er is veel __ op de weg door het ongeluk.",
+          "options": [
+            { "letter": "a", "text": "file" },
+            { "letter": "b", "text": "drukte" },
+            { "letter": "c", "text": "оба" }
+          ],
+          "correctLetter": "c",
+          "explanation": "оба"
+        },
+        {
+          "num": 45,
+          "text": "Ik heb een __ -- ik weet niet wat ik moet doen.",
+          "options": [
+            { "letter": "a", "text": "dilemma" },
+            { "letter": "b", "text": "probleem" },
+            { "letter": "c", "text": "оба" }
+          ],
+          "correctLetter": "c",
+          "explanation": "оба"
+        },
+        {
+          "num": 46,
+          "text": "De chef heeft een __ met zijn medewerker.",
+          "options": [
+            { "letter": "a", "text": "gesprek" },
+            { "letter": "b", "text": "cadeau" },
+            { "letter": "c", "text": "vakantie" }
+          ],
+          "correctLetter": "a",
+          "explanation": "gesprek"
+        },
+        {
+          "num": 47,
+          "text": "De __ was unaniem: het plan gaat door.",
+          "options": [
+            { "letter": "a", "text": "beslissing" },
+            { "letter": "b", "text": "mening" },
+            { "letter": "c", "text": "gedachte" }
+          ],
+          "correctLetter": "a",
+          "explanation": "beslissing"
+        },
+        {
+          "num": 48,
+          "text": "Ik heb een __ voor het feest -- mijn vrouw is ziek.",
+          "options": [
+            { "letter": "a", "text": "uitnodiging" },
+            { "letter": "b", "text": "smoes" },
+            { "letter": "c", "text": "reden" }
+          ],
+          "correctLetter": "c",
+          "explanation": "reden или b) smoes (разговорно) -- c) точнее"
+        },
+        {
+          "num": 49,
+          "text": "Dit boek is heel __.",
+          "options": [
+            { "letter": "a", "text": "leerzaam" },
+            { "letter": "b", "text": "eetbaar" },
+            { "letter": "c", "text": "belastbaar" }
+          ],
+          "correctLetter": "a",
+          "explanation": "leerzaam (поучительный)"
+        },
+        {
+          "num": 50,
+          "text": "Hij is niet __ voor deze functie.",
+          "options": [
+            { "letter": "a", "text": "geschikt" },
+            { "letter": "b", "text": "gerust" },
+            { "letter": "c", "text": "getrouwd" }
+          ],
+          "correctLetter": "a",
+          "explanation": "geschikt (подходящий)"
+        }
+      ],
+      "writingTask": null,
+      "speakingTask": null
+    },
+    {
+      "id": "deel-4",
+      "title": "Deel 4: Spreken (Говорение)",
+      "points": 0,
+      "questions": [],
+      "writingTask": null,
+      "speakingTask": [
+        {
+          "title": "Задание 1: Моя карьера (2 минуты)",
+          "items": [
+            "Vertel over je werkervaring. Wat heb je gedaan? Wat zou je willen doen in de toekomst? Waarom?"
+          ]
+        },
+        {
+          "title": "Задание 2: Ролевая игра (3 минуты)",
+          "items": [
+            "Je hebt een probleem met een aankoop online:",
+            "Leg het probleem uit aan de klantenservice",
+            "Geef details (wanneer, wat, bedrag)",
+            "Vraag om een oplossing (terugbetaling, nieuw product)",
+            "Reageer op een eventueel tegenvoorstel",
+            "---"
+          ]
+        }
+      ]
+    }
+  ]
+}

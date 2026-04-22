@@ -1,0 +1,87 @@
+{
+  "id": "separable-verbs",
+  "title": "Отделяемые глаголы",
+  "titleNL": "Scheidbare werkwoorden",
+  "level": "A2",
+  "summary": "Отделяемые глаголы состоят из приставки + глагол. В главном предложении приставка отделяется и уходит в конец. В придаточном -- глагол остается целым.",
+  "rule": {
+    "formula": "Главное: приставка отделяется -> глагол на 2-м месте, приставка в конце | Придаточное: глагол целиком в конце | Perfectum: приставка + ge + основа + t/d/en",
+    "explanation": "Отделяемые приставки: aan, af, bij, in, mee, na, op, out, terug, toe, uit, voor, weg. Они ударные. Неотделяемые приставки (be-, ver-, ont-, her-, ge-) безударные и не отделяются.",
+    "whenToUse": [
+      "Настоящее время: Ik bel mijn vriend op. (Я звоню другу.)",
+      "Придаточное: ...omdat ik mijn vriend opbel.",
+      "Perfectum: Ik heb mijn vriend opgebeld.",
+      "С модальным: Ik wil mijn vriend opbellen. (инфинитив целиком в конце)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Частые отделяемые глаголы",
+      "headers": ["Глагол", "Перевод", "Пример (настоящее)"],
+      "rows": [
+        ["opstaan", "вставать", "Ik sta om 7 uur op."],
+        ["opbellen", "звонить", "Ik bel mijn moeder op."],
+        ["aankomen", "прибывать", "De trein komt om 9 uur aan."],
+        ["uitgaan", "выходить/гулять", "Wij gaan vanavond uit."],
+        ["meenemen", "брать с собой", "Neem je paraplu mee!"],
+        ["terugkomen", "возвращаться", "Wanneer kom je terug?"],
+        ["aantrekken", "надевать", "Ik trek mijn jas aan."],
+        ["uittrekken", "снимать", "Trek je schoenen uit."],
+        ["binnenkomen", "входить", "Kom binnen!"],
+        ["weggaan", "уходить", "Ik ga om 5 uur weg."],
+        ["afspreken", "договариваться", "Wij spreken om 3 uur af."],
+        ["invullen", "заполнять", "Vul dit formulier in."],
+        ["voorstellen", "представлять", "Ik stel mij voor."],
+        ["opruimen", "убирать", "Ruim je kamer op!"],
+        ["meedoen", "участвовать", "Doe je mee?"]
+      ]
+    },
+    {
+      "title": "Отделяемые vs неотделяемые приставки",
+      "headers": ["Тип", "Приставки", "Ударение", "Пример"],
+      "rows": [
+        ["Отделяемые", "aan, af, bij, in, mee, na, op, out, terug, toe, uit, voor, weg", "На приставке", "OPstaan, UITgaan, AANkomen"],
+        ["Неотделяемые", "be-, ver-, ont-, her-, ge-", "На корне", "beTAlen, verTELlen, ontMOEten"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Как определить: отделяемый или нет?",
+      "items": [
+        "Ударение на приставке -> отделяемый: OPstaan, UITgaan",
+        "Ударение на корне -> неотделяемый: beTAlen, verTELlen",
+        "Если приставка может быть самостоятельным словом (предлогом/наречием) -> обычно отделяемый"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik sta elke dag om 7 uur op.", "ru": "Я встаю каждый день в 7 часов." },
+    { "nl": "De trein komt om 9 uur aan.", "ru": "Поезд прибывает в 9 часов." },
+    { "nl": "Neem je paraplu mee!", "ru": "Возьми зонт с собой!" },
+    { "nl": "Ik moet morgen vroeg opstaan.", "ru": "Я должен завтра рано встать. (с модальным -- целиком)" },
+    { "nl": "...omdat ik elke dag om 7 uur opsta.", "ru": "...потому что я каждый день встаю в 7. (придаточное -- целиком)" },
+    { "nl": "Ik heb mijn moeder opgebeld.", "ru": "Я позвонил маме. (perfectum: op-ge-beld)" },
+    { "nl": "Ik ben om 9 uur aangekomen.", "ru": "Я прибыл в 9 часов. (aan-ge-komen)" }
+  ],
+  "exceptions": [
+    "Некоторые приставки могут быть и отделяемыми, и неотделяемыми с разным значением: doorlopen (пройти мимо, отдел.) vs doorlopen (пройти насквозь, неотдел.)",
+    "over-: overkomen (случаться, неотдел.) vs overkomen (переходить, отдел.)",
+    "В повелительном наклонении приставка тоже отделяется: Sta op! Kom binnen!"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik opsta om 7 uur.", "correct": "Ik sta om 7 uur op.", "why": "Приставка отделяется и уходит в конец" },
+    { "wrong": "Ik heb geop beld.", "correct": "Ik heb opgebeld.", "why": "В perfectum: приставка + ge + основа: op-ge-beld" },
+    { "wrong": "...omdat ik sta om 7 uur op.", "correct": "...omdat ik om 7 uur opsta.", "why": "В придаточном глагол целиком в конце, не разделяется" },
+    { "wrong": "Ik wil op morgen staan.", "correct": "Ik wil morgen opstaan.", "why": "С модальным глаголом инфинитив целиком в конце" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Ik __ elke dag om 8 uur __ (opstaan).", "answer": "sta ... op", "explanation": "Отделяемый: sta на 2-м месте, op в конце" },
+    { "type": "fill-blank", "sentence": "De trein __ om 10 uur __ (aankomen).", "answer": "komt ... aan", "explanation": "Отделяемый: komt на 2-м месте, aan в конце" },
+    { "type": "fill-blank", "sentence": "Ik heb mijn jas __ (aantrekken).", "answer": "aangetrokken", "explanation": "Perfectum: aan + ge + trokken (сильный глагол)" },
+    { "type": "fill-blank", "sentence": "...omdat ik morgen vroeg moet __ (opstaan).", "answer": "opstaan", "explanation": "В придаточном с модальным: инфинитив целиком в конце" },
+    { "type": "choice", "question": "__ je schoenen __ ! (uittrekken, повелительное)", "options": ["Trek ... uit", "Uit ... trek", "Uittrek"], "answer": "Trek ... uit", "explanation": "Повелительное: приставка тоже отделяется" }
+  ],
+  "relatedTopics": ["present-tense", "perfectum", "te-infinitive", "word-order", "modal-verbs"],
+  "inLessons": [14, 17, 20, 24]
+}

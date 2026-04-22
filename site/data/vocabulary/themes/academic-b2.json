@@ -1,0 +1,437 @@
+{
+  "title": "Academische taal B2",
+  "level": "B2",
+  "tags": [
+    "academisch",
+    "schrijven",
+    "nt2-ii"
+  ],
+  "words": [
+    {
+      "nl": "de these formuleren",
+      "ru": "сформулировать тезис",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de stelling onderbouwen",
+      "ru": "обосновать утверждение",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de probleemstelling",
+      "ru": "постановка проблемы",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de onderzoeksvraag formuleren",
+      "ru": "сформулировать исследовательский вопрос",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de deelvragen",
+      "ru": "подвопросы",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de operationalisering",
+      "ru": "операционализация",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de methodologische verantwoording",
+      "ru": "методологическое обоснование",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de dataverzameling",
+      "ru": "сбор данных",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de dataverwerking",
+      "ru": "обработка данных",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het codeerschema",
+      "ru": "схема кодирования",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het conceptueel raamwerk",
+      "ru": "концептуальная рамка",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de empirische basis",
+      "ru": "эмпирическая основа",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de theoretisch kader",
+      "ru": "теоретическая рамка",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de begripsafbakening",
+      "ru": "определение понятий",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de definitie hanteren",
+      "ru": "использовать определение",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de term introduceren",
+      "ru": "ввести термин",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de term definiëren",
+      "ru": "определить термин",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de redeneerketen",
+      "ru": "цепочка рассуждений",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de redeneerlijn",
+      "ru": "линия рассуждения",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de argumentatiestructuur",
+      "ru": "структура аргументации",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de opbouw van het betoog",
+      "ru": "построение доводов",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het kernargument",
+      "ru": "ключевой аргумент",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het subargument",
+      "ru": "подчинённый аргумент",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de ondersteunende claim",
+      "ru": "поддерживающее утверждение",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de weerlegging aanvoeren",
+      "ru": "привести опровержение",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de tegenstelling benadrukken",
+      "ru": "подчеркнуть противопоставление",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de nuance aanbrengen",
+      "ru": "ввести нюанс",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de relevantie aantonen",
+      "ru": "показать релевантность",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de implicaties schetsen",
+      "ru": "очертить последствия",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de conclusies trekken",
+      "ru": "делать выводы",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "een voorbehoud maken",
+      "ru": "сделать оговорку",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "een kanttekening plaatsen",
+      "ru": "внести замечание",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "een voetnoot toevoegen",
+      "ru": "добавить сноску",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de bron citeren",
+      "ru": "цитировать источник",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de citatie verwerken",
+      "ru": "оформить цитирование",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de APA-stijl",
+      "ru": "APA-стиль",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de literatuurlijst samenstellen",
+      "ru": "составить список литературы",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de peer-reviewed bron",
+      "ru": "рецензируемый источник",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de primaire bron",
+      "ru": "первичный источник",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de secundaire bron",
+      "ru": "вторичный источник",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de triangulatie van bronnen",
+      "ru": "триангуляция источников",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de kritische analyse",
+      "ru": "критический анализ",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de kritische reflectie",
+      "ru": "критическая рефлексия",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de zelfreflectie",
+      "ru": "саморефлексия",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de bijdrage aan het vakgebied",
+      "ru": "вклад в область",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de wetenschappelijke relevantie",
+      "ru": "научная значимость",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de maatschappelijke relevantie",
+      "ru": "социальная значимость",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de aanbeveling formuleren",
+      "ru": "сформулировать рекомендацию",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de beleidsimplicatie",
+      "ru": "политическая импликация",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de vervolgonderzoek voorstellen",
+      "ru": "предложить дальнейшее исследование",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de generalisatie vermijden",
+      "ru": "избегать обобщений",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de overhaaste conclusie",
+      "ru": "поспешный вывод",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de voorzichtige formulering",
+      "ru": "осторожная формулировка",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de hedging",
+      "ru": "смягчение утверждения",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de academische integriteit bewaken",
+      "ru": "соблюдать академическую честность",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het plagiaat voorkomen",
+      "ru": "избегать плагиата",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de paraphrase correct uitvoeren",
+      "ru": "правильно пересказывать",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de bronverwerking",
+      "ru": "обработка источников",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de eigen interpretatie",
+      "ru": "собственная интерпретация",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de eigen analyse",
+      "ru": "собственный анализ",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het verweer",
+      "ru": "защита (позиция)",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de repliceerbaarheid",
+      "ru": "воспроизводимость",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de validatie van resultaten",
+      "ru": "валидация результатов",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de falsificeerbaarheid",
+      "ru": "фальсифицируемость",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de intersubjectiviteit",
+      "ru": "интерсубъективность",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de paradigmaverschuiving",
+      "ru": "смена парадигмы",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het wetenschappelijk discours",
+      "ru": "научный дискурс",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het publiek debat voeden",
+      "ru": "подпитывать общественные дебаты",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "de beleidsnota",
+      "ru": "политический меморандум",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het witboek",
+      "ru": "белая книга (документ)",
+      "level": "B2",
+      "theme": "academic-b2"
+    },
+    {
+      "nl": "het groenboek",
+      "ru": "зелёная книга (консультационный документ)",
+      "level": "B2",
+      "theme": "academic-b2"
+    }
+  ]
+}

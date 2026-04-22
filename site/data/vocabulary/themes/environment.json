@@ -1,0 +1,408 @@
+{
+  "title": "Milieu & duurzaamheid",
+  "level": "B1",
+  "tags": [
+    "klimaat",
+    "energie",
+    "natuur",
+    "afval"
+  ],
+  "words": [
+    {
+      "nl": "de klimaatverandering",
+      "ru": "изменение климата",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de opwarming van de aarde",
+      "ru": "глобальное потепление",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de temperatuurstijging",
+      "ru": "рост температуры",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de zeespiegelstijging",
+      "ru": "повышение уровня моря",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de overstromingsgevaar",
+      "ru": "опасность наводнений",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de droogte",
+      "ru": "засуха",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de hittegolf",
+      "ru": "тепловая волна",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de extreme neerslag",
+      "ru": "экстремальные осадки",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de weersextremen",
+      "ru": "экстремальные погодные явления",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "het Parijsakkoord",
+      "ru": "Парижское соглашение",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de CO2-uitstoot",
+      "ru": "выбросы CO2",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de ecologische voetafdruk",
+      "ru": "экологический след",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de carbon footprint",
+      "ru": "углеродный след",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de stikstofcrisis",
+      "ru": "азотный кризис",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de stikstofdepositie",
+      "ru": "отложение азота",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de natuurvergunning",
+      "ru": "разрешение на природоохранную деятельность",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de PFAS",
+      "ru": "ПФАС (химикаты)",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de bodemverontreiniging",
+      "ru": "загрязнение почвы",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de waterverontreiniging",
+      "ru": "загрязнение воды",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de luchtkwaliteit",
+      "ru": "качество воздуха",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "het fijnstof",
+      "ru": "пыль PM",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de smog",
+      "ru": "смог",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de milieuzone",
+      "ru": "экологическая зона",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de uitstootvrije zone",
+      "ru": "зона нулевых выбросов",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de elektrische auto",
+      "ru": "электромобиль",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de hybride auto",
+      "ru": "гибридный автомобиль",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de waterstofauto",
+      "ru": "водородный автомобиль",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "het laadpaal",
+      "ru": "зарядная станция",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de laadpasabonnement",
+      "ru": "абонемент зарядки",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de warmtepompsubsidie",
+      "ru": "субсидия на тепловой насос",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de ISDE-subsidie",
+      "ru": "субсидия ISDE",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de energielabel",
+      "ru": "энергетический класс",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de spouwmuurisolatie",
+      "ru": "изоляция стен",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de vloerisolatie",
+      "ru": "изоляция пола",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de dakisolatie",
+      "ru": "изоляция крыши",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de hoog rendement-ketel",
+      "ru": "котёл высокой эффективности",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de all-electric woning",
+      "ru": "полностью электрический дом",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "van het gas af",
+      "ru": "отказ от газа",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de salderingsregeling",
+      "ru": "сетевой расчёт солнечных панелей",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de energiecoöperatie",
+      "ru": "энергетический кооператив",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de windmolen",
+      "ru": "ветрогенератор",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de windpark",
+      "ru": "ветропарк",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de zonneweide",
+      "ru": "солнечное поле",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de biomassacentrale",
+      "ru": "биомасса-электростанция",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de geothermische energie",
+      "ru": "геотермальная энергия",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de circulaire economie",
+      "ru": "циркулярная экономика",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "het hergebruik",
+      "ru": "повторное использование",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de afvalscheiding",
+      "ru": "раздельный сбор мусора",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de gft-afval",
+      "ru": "пищевые и садовые отходы",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de papiercontainer",
+      "ru": "контейнер для бумаги",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de ondergrondse container",
+      "ru": "подземный контейнер",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de milieustraat",
+      "ru": "пункт приёма мусора",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de grofvuil-ophaaldienst",
+      "ru": "вывоз крупногабаритного мусора",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de pmd",
+      "ru": "пластик, металл, напитки (PMD)",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de statiegeld",
+      "ru": "залог за бутылки",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de plasticvrij",
+      "ru": "без пластика",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de wegwerpplastic",
+      "ru": "одноразовый пластик",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de voedselverspilling",
+      "ru": "пищевые отходы",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de To-Good-To-Go-app",
+      "ru": "приложение Too Good To Go",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "het voedseloverschot",
+      "ru": "пищевой излишек",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de biologisch voedsel",
+      "ru": "органическое питание",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de vleesvervanger",
+      "ru": "заменитель мяса",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de plantaardig dieet",
+      "ru": "растительная диета",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de flexitariër",
+      "ru": "флекситарианец",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de veganist",
+      "ru": "веган",
+      "level": "B1",
+      "theme": "environment"
+    },
+    {
+      "nl": "de veganistisch",
+      "ru": "веганский",
+      "level": "B1",
+      "theme": "environment"
+    }
+  ]
+}

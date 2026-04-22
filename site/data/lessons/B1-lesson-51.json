@@ -1,0 +1,464 @@
+{
+  "id": "B1-lesson-51",
+  "num": 51,
+  "level": "B1",
+  "title": "Простое прошедшее (Imperfectum)",
+  "minutes": 15,
+  "objectives": [
+    "Образовывать Imperfectum слабых глаголов через 't kofschip (-te/-de)",
+    "Запомнить Imperfectum частых сильных глаголов (was, had, ging, kwam, deed)",
+    "Различать, когда использовать Imperfectum, а когда — Perfectum",
+    "Строить рассказы в прошлом с фоновыми описаниями",
+    "Уверенно использовать zijn, hebben и модальные в прошлом"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Простое прошедшее (Imperfectum)",
+      "content": "**Уровень**: B1 Intermediate | **Время**: 15 минут | **Тема**: второе прошедшее время"
+    },
+    {
+      "type": "text",
+      "title": "Почему это важно",
+      "content": "**Imperfectum** (OVT) — второе прошедшее время в голландском. Perfectum (`heb gewerkt`) — для разговорной речи, а Imperfectum (`werkte`) — для:\n- Рассказов и историй\n- Описания фона: 'Шёл дождь. Было холодно.'\n- С глаголами zijn, hebben, модальными — **всегда** используется Imperfectum\n- В письменной речи (книги, газеты)\n- В прошедшем времени с придаточными через 'toen'"
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 1: Слабые глаголы (5 минут)",
+      "content": "**Правило слабых глаголов** — то же 't kofschip, что и для Perfectum:\n- Если основа кончается на `t/k/f/s/ch/p` → `-te` (ед.ч.) / `-ten` (мн.ч.)\n- Всё остальное → `-de` / `-den`\n**Примеры**:\n- `werken → werkte/werkten` (k — из kofschip)\n- `fietsen → fietste/fietsten` (s)\n- `leven → leefde/leefden` (v→f, потом -de)\n- `bouwen → bouwde/bouwden`\n- `regenen → regende/regenden`",
+      "tables": [
+        {
+          "title": "Спряжение слабых глаголов",
+          "headers": [
+            "Лицо",
+            "werken (t kofschip)",
+            "leven (не из kofschip)"
+          ],
+          "rows": [
+            [
+              "ik",
+              "werkte",
+              "leefde"
+            ],
+            [
+              "jij/je",
+              "werkte",
+              "leefde"
+            ],
+            [
+              "u",
+              "werkte",
+              "leefde"
+            ],
+            [
+              "hij/zij/het",
+              "werkte",
+              "leefde"
+            ],
+            [
+              "wij/we",
+              "werkten",
+              "leefden"
+            ],
+            [
+              "jullie",
+              "werkten",
+              "leefden"
+            ],
+            [
+              "zij/ze",
+              "werkten",
+              "leefden"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 2: Сильные (нерегулярные) глаголы — топ-20 (5 минут)",
+      "content": "Сильные глаголы нужно **запоминать**. Это те же глаголы, что и в Perfectum, но с собственной формой Imperfectum — чаще всего с другой гласной.",
+      "tables": [
+        {
+          "title": "Самые частые сильные глаголы в Imperfectum",
+          "headers": [
+            "Инфинитив",
+            "Imperfectum (ед.)",
+            "Imperfectum (мн.)",
+            "Перевод"
+          ],
+          "rows": [
+            [
+              "zijn",
+              "was",
+              "waren",
+              "быть"
+            ],
+            [
+              "hebben",
+              "had",
+              "hadden",
+              "иметь"
+            ],
+            [
+              "gaan",
+              "ging",
+              "gingen",
+              "идти"
+            ],
+            [
+              "komen",
+              "kwam",
+              "kwamen",
+              "приходить"
+            ],
+            [
+              "doen",
+              "deed",
+              "deden",
+              "делать"
+            ],
+            [
+              "zien",
+              "zag",
+              "zagen",
+              "видеть"
+            ],
+            [
+              "geven",
+              "gaf",
+              "gaven",
+              "давать"
+            ],
+            [
+              "nemen",
+              "nam",
+              "namen",
+              "брать"
+            ],
+            [
+              "eten",
+              "at",
+              "aten",
+              "есть"
+            ],
+            [
+              "drinken",
+              "dronk",
+              "dronken",
+              "пить"
+            ],
+            [
+              "lezen",
+              "las",
+              "lazen",
+              "читать"
+            ],
+            [
+              "schrijven",
+              "schreef",
+              "schreven",
+              "писать"
+            ],
+            [
+              "spreken",
+              "sprak",
+              "spraken",
+              "говорить"
+            ],
+            [
+              "vinden",
+              "vond",
+              "vonden",
+              "находить"
+            ],
+            [
+              "staan",
+              "stond",
+              "stonden",
+              "стоять"
+            ],
+            [
+              "zitten",
+              "zat",
+              "zaten",
+              "сидеть"
+            ],
+            [
+              "liggen",
+              "lag",
+              "lagen",
+              "лежать"
+            ],
+            [
+              "lopen",
+              "liep",
+              "liepen",
+              "идти/бежать"
+            ],
+            [
+              "slapen",
+              "sliep",
+              "sliepen",
+              "спать"
+            ],
+            [
+              "rijden",
+              "reed",
+              "reden",
+              "ехать"
+            ]
+          ]
+        },
+        {
+          "title": "Модальные глаголы в Imperfectum — ВСЕГДА в прошлом",
+          "headers": [
+            "Инфинитив",
+            "Imperfectum (ед.)",
+            "Imperfectum (мн.)",
+            "Смысл"
+          ],
+          "rows": [
+            [
+              "kunnen",
+              "kon",
+              "konden",
+              "мог"
+            ],
+            [
+              "moeten",
+              "moest",
+              "moesten",
+              "должен был"
+            ],
+            [
+              "mogen",
+              "mocht",
+              "mochten",
+              "разрешалось"
+            ],
+            [
+              "willen",
+              "wilde/wou",
+              "wilden",
+              "хотел"
+            ],
+            [
+              "zullen",
+              "zou",
+              "zouden",
+              "было/бы"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Ключевые слова и маркеры времени",
+      "words": [
+        {
+          "nl": "toen",
+          "ru": "когда (в прошлом)",
+          "hint": "Toen ik jong was ..."
+        },
+        {
+          "nl": "vroeger",
+          "ru": "раньше",
+          "hint": "Vroeger woonde ik in Moskou."
+        },
+        {
+          "nl": "altijd",
+          "ru": "всегда",
+          "hint": "Altijd was hij moe."
+        },
+        {
+          "nl": "elke dag",
+          "ru": "каждый день",
+          "hint": "Elke dag ging hij naar school."
+        },
+        {
+          "nl": "in die tijd",
+          "ru": "в то время",
+          "hint": "маркер Imperfectum"
+        },
+        {
+          "nl": "gisteren",
+          "ru": "вчера",
+          "hint": "обычно Perfectum, но и Imperfectum"
+        },
+        {
+          "nl": "lang geleden",
+          "ru": "давно",
+          "hint": "Lang geleden leefde er een koning."
+        },
+        {
+          "nl": "was",
+          "ru": "был/была",
+          "hint": "zijn, ед.ч."
+        },
+        {
+          "nl": "waren",
+          "ru": "были",
+          "hint": "zijn, мн.ч."
+        },
+        {
+          "nl": "had",
+          "ru": "имел/имела",
+          "hint": "hebben, ед.ч."
+        },
+        {
+          "nl": "hadden",
+          "ru": "имели",
+          "hint": "hebben, мн.ч."
+        },
+        {
+          "nl": "kon",
+          "ru": "мог/могла",
+          "hint": "kunnen, ед.ч."
+        },
+        {
+          "nl": "moest",
+          "ru": "должен был",
+          "hint": "moeten, ед.ч."
+        },
+        {
+          "nl": "wilde / wou",
+          "ru": "хотел",
+          "hint": "willen, ед.ч."
+        },
+        {
+          "nl": "zou",
+          "ru": "было бы / я бы",
+          "hint": "zullen, условное"
+        },
+        {
+          "nl": "regende",
+          "ru": "шёл дождь",
+          "hint": "regenen → -de"
+        },
+        {
+          "nl": "sneeuwde",
+          "ru": "шёл снег",
+          "hint": "sneeuwen → -de"
+        },
+        {
+          "nl": "woonde",
+          "ru": "жил/жила",
+          "hint": "wonen → -de"
+        },
+        {
+          "nl": "werkte",
+          "ru": "работал/работала",
+          "hint": "werken → -te"
+        },
+        {
+          "nl": "leerde",
+          "ru": "учил/учила",
+          "hint": "leren → -de"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог: Воспоминания",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Waar woonde je vroeger?"
+        },
+        {
+          "speaker": "B",
+          "text": "Toen ik klein was, woonden we in Moskou. Mijn vader werkte daar."
+        },
+        {
+          "speaker": "A",
+          "text": "Was het mooi daar?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ja, in de zomer gingen we altijd naar de dacha. Ik speelde met mijn neef Sasha."
+        },
+        {
+          "speaker": "A",
+          "text": "Kon je al Nederlands?"
+        },
+        {
+          "speaker": "B",
+          "text": "Nee, ik sprak alleen Russisch. Ik begon pas hier met Nederlands."
+        },
+        {
+          "speaker": "A",
+          "text": "Wat deed je vader?"
+        },
+        {
+          "speaker": "B",
+          "text": "Hij was ingenieur. Hij had een druk leven en kwam vaak laat thuis."
+        }
+      ],
+      "translation": "A: Где ты жил раньше?\nB: Когда я был маленьким, мы жили в Москве. Отец там работал.\nA: Там было красиво?\nB: Да, летом мы всегда ездили на дачу. Я играл с двоюродным братом Сашей.\nA: Ты уже знал голландский?\nB: Нет, я говорил только по-русски. Начал учить голландский только здесь.\nA: Кем был твой отец?\nB: Инженером. У него была напряжённая жизнь, он часто приходил поздно."
+    },
+    {
+      "type": "grammar",
+      "title": "Imperfectum vs Perfectum",
+      "content": "**Perfectum** = конкретные завершённые действия в разговоре: `Ik heb gisteren gewerkt.`\n**Imperfectum** = описание, фон, привычные действия в прошлом: `Ik werkte elke dag.`\n**Обязательно Imperfectum** для:\n- `zijn` → was/waren (не 'is geweest' в описаниях)\n- `hebben` → had/hadden\n- модальных: kon, moest, mocht, wilde, zou\n**В рассказе**: фон — Imperfectum, конкретные события — Perfectum или Imperfectum.\n- Фон: `Het regende. Het was koud.`\n- Событие: `Toen hoorde ik een geluid.` (Imperfectum в цепочке событий)"
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 4: Упражнения",
+      "items": [
+        {
+          "question": "Toen ik klein __, __ ik in Utrecht. (zijn + wonen)",
+          "answer": "was / woonde"
+        },
+        {
+          "question": "Hij __ elke dag naar school. (fietsen)",
+          "answer": "fietste"
+        },
+        {
+          "question": "Wij __ een groot huis. (hebben)",
+          "answer": "hadden"
+        },
+        {
+          "question": "Zij __ goed Nederlands spreken. (kunnen)",
+          "answer": "kon"
+        },
+        {
+          "question": "Ik __ de hele avond. (lezen)",
+          "answer": "las"
+        },
+        {
+          "question": "Het __ de hele dag. (regenen)",
+          "answer": "regende"
+        },
+        {
+          "question": "Wij __ gisteren naar de bios. (gaan)",
+          "answer": "gingen"
+        },
+        {
+          "question": "Hij __ een lange brief. (schrijven)",
+          "answer": "schreef"
+        },
+        {
+          "question": "Waar __ je vandaan? (komen — ед.ч.)",
+          "answer": "kwam"
+        },
+        {
+          "question": "Wij __ vroeger veel pannenkoeken. (eten)",
+          "answer": "aten"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Imperfectum в сказках",
+      "content": "Если читать голландские сказки или книги, почти всё основное повествование идёт в **Imperfectum**. Типичное начало: `Er was eens een koning die drie dochters had.` — 'Жил-был король, у которого было три дочери.' Имперфектум создаёт атмосферу рассказа и переносит читателя 'в то время'."
+    },
+    {
+      "type": "text",
+      "title": "Самопроверка",
+      "content": "- [ ] Помню правило 't kofschip для слабых глаголов\n- [ ] Знаю was/waren/had/hadden/kon/moest/wilde/zou наизусть\n- [ ] Различаю Imperfectum (фон) и Perfectum (событие)\n- [ ] Могу рассказать 3 предложения о детстве в Imperfectum"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-51.json"
+}

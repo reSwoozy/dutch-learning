@@ -1,0 +1,42 @@
+{
+  "id": "A2-text-03",
+  "level": "A2",
+  "title": "Gezond leven",
+  "topic": "gezondheid",
+  "readingTime": "3 min",
+  "body": "Veel mensen willen gezonder leven, maar weten niet precies hoe. Deskundigen geven vaak drie tips: goed eten, genoeg bewegen en voldoende slapen.\n\nGoed eten betekent niet dat je nooit meer iets lekkers mag. Het is vooral belangrijk om veel groente en fruit te eten. De regel is: minstens tweehonderdvijftig gram groente per dag en twee stuks fruit. Ook is het verstandig om niet te veel suiker en zout te gebruiken. Drink vooral water in plaats van frisdrank.\n\nBewegen is ook belangrijk. Je hoeft niet elke dag naar de sportschool, maar probeer elke dag een half uur te wandelen of te fietsen. Veel Nederlanders gaan met de fiets naar hun werk. Dat is een goede gewoonte.\n\nTot slot: slapen. Volwassenen hebben ongeveer acht uur slaap per nacht nodig. Te weinig slapen maakt je moe en je kunt je slecht concentreren. Zet daarom de telefoon 's avonds weg en ga op tijd naar bed.",
+  "glossary": [
+    {"nl": "de deskundige", "ru": "эксперт"},
+    {"nl": "bewegen", "ru": "двигаться"},
+    {"nl": "voldoende", "ru": "достаточно"},
+    {"nl": "minstens", "ru": "по крайней мере"},
+    {"nl": "verstandig", "ru": "разумно"},
+    {"nl": "de suiker", "ru": "сахар"},
+    {"nl": "het zout", "ru": "соль"},
+    {"nl": "de frisdrank", "ru": "газировка"},
+    {"nl": "de gewoonte", "ru": "привычка"},
+    {"nl": "zich concentreren", "ru": "концентрироваться"}
+  ],
+  "questions": [
+    {
+      "q": "Welke drie dingen zijn volgens deskundigen belangrijk?",
+      "options": ["Veel werken, vrienden zien, sporten", "Goed eten, bewegen en slapen", "Geen suiker, geen zout, geen koffie"],
+      "answer": 1
+    },
+    {
+      "q": "Hoeveel groente moet je per dag eten?",
+      "options": ["100 gram", "250 gram", "500 gram"],
+      "answer": 1
+    },
+    {
+      "q": "Wat moet je minstens doen qua bewegen?",
+      "options": ["Elke dag 2 uur naar de sportschool", "Elke dag een half uur wandelen of fietsen", "Één keer per week zwemmen"],
+      "answer": 1
+    },
+    {
+      "q": "Wat gebeurt er als je te weinig slaapt?",
+      "options": ["Je wordt sterker", "Je kunt je slecht concentreren", "Je hebt meer honger"],
+      "answer": 1
+    }
+  ]
+}

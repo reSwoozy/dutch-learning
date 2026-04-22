@@ -1,0 +1,247 @@
+{
+  "id": "A2-lesson-14",
+  "num": 14,
+  "level": "A2",
+  "title": "Покупки и деньги",
+  "minutes": 15,
+  "objectives": [
+    "Свободно делать покупки в магазинах и на рынках",
+    "Обсуждать цены, скидки и способы оплаты",
+    "Понимать и использовать денежную лексику",
+    "Сравнивать товары и просить совета",
+    "Понимать голландскую культуру потребления"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Покупки и деньги",
+      "content": "**Уровень**: A2 Элементарный | **Время**: 15 минут | **День**: 14 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Свободно делать покупки в магазинах и на рынках\n- Обсуждать цены, скидки и способы оплаты\n- Понимать и использовать денежную лексику\n- Сравнивать товары и просить совета\n- Понимать голландскую культуру потребления"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Денежная система и цены (4 минуты)",
+      "words": [
+        {
+          "nl": "de euro",
+          "ru": "евро",
+          "pronunciation": "[də ˈøːro]",
+          "hint": "Vijf euro, alstublieft"
+        },
+        {
+          "nl": "de cent",
+          "ru": "цент",
+          "pronunciation": "[də sɛnt]",
+          "hint": "Vijftig cent per stuk"
+        },
+        {
+          "nl": "de prijs",
+          "ru": "цена",
+          "pronunciation": "[də prɛi̯s]",
+          "hint": "Wat is de prijs?"
+        },
+        {
+          "nl": "goedkoop",
+          "ru": "дешевый",
+          "pronunciation": "[ˈɣutkoːp]",
+          "hint": "Deze appels zijn goedkoop"
+        },
+        {
+          "nl": "duur",
+          "ru": "дорогой",
+          "pronunciation": "[dyːr]",
+          "hint": "Die jas is te duur"
+        },
+        {
+          "nl": "de korting",
+          "ru": "скидка",
+          "pronunciation": "[də ˈkɔrtɪŋ]",
+          "hint": "Twintig procent korting"
+        },
+        {
+          "nl": "gratis",
+          "ru": "бесплатно",
+          "pronunciation": "[ˈɣraːtɪs]",
+          "hint": "De koffie is gratis"
+        },
+        {
+          "nl": "betalen",
+          "ru": "платить",
+          "pronunciation": "[bəˈtaːlə]",
+          "hint": "Mag ik met de kaart betalen?"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: В магазинах и на рынке (5 минут)",
+      "words": [
+        {
+          "nl": "de winkel",
+          "ru": "магазин",
+          "pronunciation": "[də ˈʋɪŋkəl]",
+          "hint": "In welke winkel ga je?"
+        },
+        {
+          "nl": "de supermarkt",
+          "ru": "супермаркет",
+          "pronunciation": "[də ˈsyːpərˌmɑrkt]",
+          "hint": "De supermarkt is open"
+        },
+        {
+          "nl": "de markt",
+          "ru": "рынок",
+          "pronunciation": "[də mɑrkt]",
+          "hint": "Op de markt is het goedkoper"
+        },
+        {
+          "nl": "de winkelwagen",
+          "ru": "тележка",
+          "pronunciation": "[də ˈʋɪŋkəlˌʋaːɣə]",
+          "hint": "Neem een winkelwagen"
+        },
+        {
+          "nl": "de kassier",
+          "ru": "кассир",
+          "pronunciation": "[də kɑˈsiːr]",
+          "hint": "De kassier is vriendelijk"
+        },
+        {
+          "nl": "de bon",
+          "ru": "чек",
+          "pronunciation": "[də bɔn]",
+          "hint": "Bewaar de bon"
+        },
+        {
+          "nl": "de tas",
+          "ru": "сумка",
+          "pronunciation": "[də tɑs]",
+          "hint": "Heb je een tas nodig?"
+        },
+        {
+          "nl": "boodschappen",
+          "ru": "покупки",
+          "pronunciation": "[ˈboːtsxɑpə]",
+          "hint": "Ik ga boodschappen doen"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 4: Грамматика - сравнения и количества (2 минуты)",
+      "content": "**Сравнения и количество**:\n**Сравнения**:\n**Количества**:\n---",
+      "examples": [
+        {
+          "nl": "duurder dan",
+          "ru": "дороже чем: \"Deze kaas is duurder dan die\""
+        },
+        {
+          "nl": "goedkoper dan",
+          "ru": "дешевле чем: \"Appels zijn goedkoper dan peren\""
+        },
+        {
+          "nl": "het duurste",
+          "ru": "самый дорогой: \"Dit is het duurste product\""
+        },
+        {
+          "nl": "het goedkoopste",
+          "ru": "самый дешевый: \"Waar is het goedkoopste brood?\""
+        },
+        {
+          "nl": "een kilo",
+          "ru": "килограмм: \"Een kilo appels\""
+        },
+        {
+          "nl": "een pond",
+          "ru": "полкило: \"Een pond kaas\""
+        },
+        {
+          "nl": "een liter",
+          "ru": "литр: \"Een liter melk\""
+        },
+        {
+          "nl": "een pak",
+          "ru": "упаковка: \"Een pak suiker\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "1. Степени сравнения прилагательных",
+      "content": "**Положительная**: goedkoop (дешевый)\n**Сравнительная**: goedkoper (дешевле) + dan\n**Превосходная**: (het) goedkoopst(e) (самый дешевый)\n**Примеры**:\n- Deze winkel is **goedkoop** - Этот магазин дешевый\n- Albert Heijn is **duurder dan** Lidl - Albert Heijn дороже чем Lidl\n- Aldi heeft de **goedkoopste** prijzen - У Aldi самые дешевые цены"
+    },
+    {
+      "type": "text",
+      "title": "2. Способы оплаты",
+      "content": "**Основные конструкции**:\n- **Betalen met** - платить чем-то\n- **Ik betaal met de kaart** - Я плачу картой\n- **Ik betaal contant** - Я плачу наличными\n- **Ik betaal met de telefoon** - Я плачу телефоном"
+    },
+    {
+      "type": "text",
+      "title": "3. Количества и меры",
+      "content": "**Структура**: aantal + maat + van + product\n- **Een kilo van de appels** - Килограмм яблок\n- **Twee liter van de melk** - Два литра молока\n- **Een pak van de koekjes** - Упаковка печенья\n**Подробнее**: [A2 Грамматика: Сравнения](../../../REFERENCE/grammar/A2-grammar/comparisons.md)"
+    },
+    {
+      "type": "text",
+      "title": "В супермаркете:",
+      "content": "- **Waar is...?** - Где...?\n- **Hoeveel kost dit?** - Сколько это стоит?\n- **Hebben jullie...?** - У вас есть...?\n- **Is dit in de aanbieding?** - Это по акции?\n- **Kan ik een tas krijgen?** - Можно пакет?"
+    },
+    {
+      "type": "text",
+      "title": "На рынке:",
+      "content": "- **Wat kost een kilo?** - Сколько стоит килограмм?\n- **Mag ik proeven?** - Можно попробовать?\n- **Deze zijn rijp?** - Эти спелые?\n- **Heeft u korting?** - У вас есть скидка?\n- **Doet u wat van de prijs af?** - Сделаете скидку?"
+    },
+    {
+      "type": "text",
+      "title": "При оплате:",
+      "content": "- **Mag ik met de kaart betalen?** - Можно картой?\n- **Accepteert u contant geld?** - Принимаете наличные?\n- **Kan ik de bon krijgen?** - Можно чек?\n- **Hoeveel krijg ik terug?** - Сколько сдачи?"
+    },
+    {
+      "type": "culture",
+      "title": "Голландская культура покупок",
+      "content": "Понимание покупательских привычек поможет в ежедневной жизни:\n**Супермаркеты**:\n- **Albert Heijn** - премиум, дорого, качественно\n- **Jumbo** - средний сегмент, хорошие акции\n- **Lidl/Aldi** - дискаунтеры, очень дешево\n- **Plus/Coop** - местные, удобное расположение\n**Особенности шоппинга**:\n- **Fietstas** - сумки для велосипеда обязательны\n- **Statiegeld** - залог за бутылки (0,15-0,25€)\n- **Zelfscanning** - самостоятельное сканирование популярно\n- **Pinterminal** - карточные терминалы везде\n**Рыночная культура**:\n- **Marktdag** - рыночные дни (обычно суббота)\n- **Versmarkt** - свежие продукты дешевле\n- **Afdingen** - торговаться можно в конце дня\n- **Biologisch** - органические продукты очень популярны\n**Время работы**:\n- **Koopzondag** - воскресные покупки ограничены\n- **Maandagochtend** - понедельник утром многие закрыты\n- **Koopavond** - четверг до 21:00 (поздние покупки)\n**Для интеграции**: Знание магазинов и их особенностей поможет экономить и делать правильный выбор."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Ролевая игра \"В супермаркете\"",
+      "content": "**Персонажи**: Покупатель и продавец\n**Ситуация**: Ты ищешь молоко, хлеб и сыр. Спроси где это найти и сколько стоит.\n**Dialogue starter**:\n- Покупатель: \"Pardon, waar vind ik...\"\n- Продавец: \"Dat vindt u in gang...\""
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Сравнения цен",
+      "items": [
+        {
+          "question": "Appels €2/kg, peren €3/kg"
+        },
+        {
+          "question": "Albert Heijn vs Lidl"
+        },
+        {
+          "question": "Biologische melk €1,50 vs gewone melk €1,00"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: На рынке",
+      "items": [
+        {
+          "question": "Спроси цену томатов"
+        },
+        {
+          "question": "Попроси попробовать"
+        },
+        {
+          "question": "Купи 1 кило"
+        },
+        {
+          "question": "Заплати и получи сдачу"
+        }
+      ]
+    }
+  ],
+  "vocabularyFile": "A2-lesson-14.json"
+}

@@ -1,0 +1,297 @@
+{
+  "id": "A1-lesson-10",
+  "num": 10,
+  "level": "A1",
+  "title": "Работа и профессии",
+  "minutes": 15,
+  "objectives": [
+    "Называть основные профессии",
+    "Рассказывать о своей работе",
+    "Описывать рабочее место",
+    "Понимать голландскую рабочую культуру"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Работа и профессии",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 10 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "- Называть основные профессии\n- Рассказывать о своей работе\n- Описывать рабочее место\n- Понимать голландскую рабочую культуру"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Профессии (6 минут)",
+      "words": [
+        {
+          "nl": "de leraar",
+          "ru": "учитель",
+          "pronunciation": "[də ləˈraːr]"
+        },
+        {
+          "nl": "de dokter",
+          "ru": "врач",
+          "pronunciation": "[də ˈdɔktər]"
+        },
+        {
+          "nl": "de verpleegster",
+          "ru": "медсестра",
+          "pronunciation": "[də vərˈpleːxstər]"
+        },
+        {
+          "nl": "de politieagent",
+          "ru": "полицейский",
+          "pronunciation": "[də poˈlitsiɑɣɛnt]"
+        },
+        {
+          "nl": "de kok",
+          "ru": "повар",
+          "pronunciation": "[də kɔk]"
+        },
+        {
+          "nl": "de verkoper",
+          "ru": "продавец",
+          "pronunciation": "[də vərˈkoːpər]"
+        },
+        {
+          "nl": "de chauffeur",
+          "ru": "водитель",
+          "pronunciation": "[də ʃoˈføːr]"
+        },
+        {
+          "nl": "de advocaat",
+          "ru": "адвокат",
+          "pronunciation": "[də ˌɑdvoˈkaːt]"
+        },
+        {
+          "nl": "de accountant",
+          "ru": "бухгалтер",
+          "pronunciation": "[də ˌɑkɑu̯nˈtɑnt]"
+        },
+        {
+          "nl": "de ingenieur",
+          "ru": "инженер",
+          "pronunciation": "[də ˌɪnʒəˈnøːr]"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Фаза 2: О работе (5 минут)",
+      "content": "**Рабочие фразы**:\n- **Wat is uw beroep?** - Какая у вас профессия?\n- **Ik ben leraar** - Я учитель\n- **Ik werk in een ziekenhuis** - Я работаю в больнице\n- **Waar werkt u?** - Где вы работаете?\n- **Ik ga naar kantoor** - Я иду в офис\n- **Het werk is interessant** - Работа интересная"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Рабочее место (3 минуты)",
+      "words": [
+        {
+          "nl": "het kantoor",
+          "ru": "офис",
+          "pronunciation": "[ɦət kɑnˈtoːr]"
+        },
+        {
+          "nl": "het ziekenhuis",
+          "ru": "больница",
+          "pronunciation": "[ɦət ˈzikənɦœy̯s]"
+        },
+        {
+          "nl": "de school",
+          "ru": "школа",
+          "pronunciation": "[də sxoːl]"
+        },
+        {
+          "nl": "de winkel",
+          "ru": "магазин",
+          "pronunciation": "[də ˈʋɪŋkəl]"
+        },
+        {
+          "nl": "de fabriek",
+          "ru": "фабрика",
+          "pronunciation": "[də faːˈbrik]"
+        },
+        {
+          "nl": "het restaurant",
+          "ru": "ресторан",
+          "pronunciation": "[ɦət rɛstoˈrɑnt]"
+        },
+        {
+          "nl": "de universiteit",
+          "ru": "университет",
+          "pronunciation": "[də ˌynivɛrsiˈtɛi̯t]"
+        },
+        {
+          "nl": "het bedrijf",
+          "ru": "компания/фирма",
+          "pronunciation": "[ɦət bəˈdrɛi̯f]"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Hallo, ik ben Peter. Wat is jouw beroep?"
+        },
+        {
+          "speaker": "B",
+          "text": "Hallo Peter! Ik ben Anna. Ik ben verpleegster."
+        },
+        {
+          "speaker": "A",
+          "text": "Waar werk je?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik werk in het ziekenhuis. En jij?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik ben ingenieur. Ik werk bij een groot bedrijf."
+        },
+        {
+          "speaker": "B",
+          "text": "Leuk! Werk je al lang daar?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ja, al drie jaar."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Goedemorgen! Hoe gaat het op het werk?"
+        },
+        {
+          "speaker": "B",
+          "text": "Goed, maar druk. Ik heb veel te doen vandaag."
+        },
+        {
+          "speaker": "A",
+          "text": "Hoe laat begin je?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik begin om negen uur en ik stop om vijf uur."
+        },
+        {
+          "speaker": "A",
+          "text": "Werk je ook in het weekend?"
+        },
+        {
+          "speaker": "B",
+          "text": "Nee, in het weekend ben ik vrij."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "1. Ik ben + профессия (без артикля!)",
+      "content": "В нидерландском профессия после zijn используется **без артикля**:\n- Ik ben **leraar**. (не: Ik ben een leraar.)\n- Zij is **dokter**. (не: Zij is een dokter.)\n- Hij is **kok**. (не: Hij is een kok.)\nНо с прилагательным -- артикль нужен:\n- Zij is **een goede** dokter."
+    },
+    {
+      "type": "text",
+      "title": "2. Werken bij / werken in",
+      "content": "- **werken bij** + компания/организация: Ik werk **bij** Philips. Ik werk **bij** de politie.\n- **werken in** + место: Ik werk **in** een ziekenhuis. Ik werk **in** een winkel.\n- **werken als** + профессия: Ik werk **als** leraar. Ik werk **als** verkoper."
+    },
+    {
+      "type": "vocabulary",
+      "title": "3. Мужские и женские формы профессий",
+      "words": [
+        {
+          "nl": "de leraar",
+          "ru": "de lerares",
+          "hint": "учитель/учительница"
+        },
+        {
+          "nl": "de verkoper",
+          "ru": "de verkoopster",
+          "hint": "продавец/продавщица"
+        },
+        {
+          "nl": "de kok",
+          "ru": "de kokkin",
+          "hint": "повар"
+        },
+        {
+          "nl": "de dokter",
+          "ru": "de dokter",
+          "hint": "врач (одинаково)"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Заполни пропуски",
+      "items": [
+        {
+          "question": "Ik ben __. Ik werk __ een ziekenhuis. (врач)"
+        },
+        {
+          "question": "Zij werkt __ Philips __ ingenieur."
+        },
+        {
+          "question": "__ is uw beroep?"
+        },
+        {
+          "question": "Hij werkt __ een school. Hij is __.",
+          "answers": [
+            "1. dokter ... in",
+            "2. bij ... als",
+            "3. Wat",
+            "4. in ... leraar"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Переведи на нидерландский",
+      "items": [
+        {
+          "question": "Какая у тебя профессия?"
+        },
+        {
+          "question": "Я работаю в офисе."
+        },
+        {
+          "question": "Она медсестра в больнице.",
+          "answers": [
+            "1. Wat is jouw beroep? / Wat doe je voor werk?",
+            "2. Ik werk in een kantoor. / Ik werk op kantoor.",
+            "3. Zij is verpleegster in een ziekenhuis."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Говорение",
+      "items": [
+        {
+          "question": "Wat is jouw beroep? (Ik ben... / Ik werk als...)"
+        },
+        {
+          "question": "Waar werk je? (Ik werk in/bij...)"
+        },
+        {
+          "question": "Hoe laat begin je met werken? (Ik begin om...)"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Голландская рабочая культура",
+      "content": "- **Work-life balance**: голландцы строго разделяют работу и личную жизнь. Работать после 17:00 -- не норма.\n- **Прямое общение**: на работе говорят прямо. Это не грубость, а эффективность.\n- **Пунктуальность**: опоздание даже на 5 минут считается неуважением.\n- **Borrel**: пятничные посиделки с коллегами после работы с напитками -- важная традиция.\n- **Overleg**: голландцы любят обсуждать решения коллективно. Много совещаний.\n- **Deeltijdwerk**: Нидерланды -- мировой лидер по частичной занятости. Работать 4 дня в неделю -- нормально.\n- **BSN-nummer**: для работы нужен BSN (Burgerservicenummer) -- социальный номер. Получаешь при регистрации в gemeente."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-10.json"
+}

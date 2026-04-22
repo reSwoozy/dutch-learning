@@ -1,0 +1,126 @@
+{
+  "id": "register-and-style",
+  "title": "Регистр: формальный vs разговорный",
+  "titleNL": "Formeel en informeel taalgebruik",
+  "level": "B1",
+  "summary": "Различие формального (u / geachte / mij) и разговорного (jij / hoi / me) регистра — критичный навык для экзаменов. NT2 II, письма в гос. органы, собеседования — всё формальный регистр. Чат с коллегой, соцсети — неформальный. Смешение регистров выдаёт не-носителя сильнее ошибок в падежах.",
+  "rule": {
+    "formula": "[Ситуация] → выбор U-form или Je-form, + соответствующая лексика и фразеология.",
+    "explanation": "В письменной коммуникации почти всегда используется U (с большой буквы в официальных письмах). 'Je' — только если адресат прямо попросил 'jij' или в очень неформальной среде. Глагол после 'u' спрягается как 3-е лицо: 'u heeft' (часто также 'u hebt' — оба корректны).",
+    "whenToUse": [
+      "U + полные формы местоимений (mij, mijn, zijn) — формально.",
+      "Je + сокращённые формы (me, m'n, z'n) — неформально.",
+      "Формальные связки (derhalve, voorts, niettemin) — только в письменной речи B2.",
+      "В молодёжном чате: 'iig' (in ieder geval), 'mss' (misschien), 'lol' — только между равными."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Местоимения: u-форма vs jij-форма",
+      "headers": ["Формально", "Неформально", "Значение"],
+      "rows": [
+        ["u", "je / jij", "ты / вы"],
+        ["u (объект)", "je / jou", "тебя / вас"],
+        ["uw", "je / jouw", "твой / ваш"],
+        ["mij / mijn", "me / m'n", "мне / мой"],
+        ["hem / zijn", "'m / z'n", "его"],
+        ["men", "je / iemand", "можно / кто-то (обобщённо)"]
+      ]
+    },
+    {
+      "title": "Приветствия и прощания",
+      "headers": ["Формально", "Нейтрально", "Разговорно"],
+      "rows": [
+        ["Goedemorgen / Goedendag", "Hallo / Dag", "Hoi / Hee / Yo"],
+        ["Geachte heer / mevrouw", "Beste Jan", "Hoi Jan"],
+        ["Met vriendelijke groet,", "Groetjes,", "Groetjes / Xx"],
+        ["Tot ziens / Vaarwel", "Doei / Tot later", "Doei / Tot kees"],
+        ["Hoogachtend,", "—", "—"]
+      ]
+    },
+    {
+      "title": "Глаголы и синонимы: формальный vs разговорный",
+      "headers": ["Формально", "Разговорно", "Перевод"],
+      "rows": [
+        ["aanvangen", "beginnen", "начинать"],
+        ["bespreken", "het over ... hebben", "обсуждать"],
+        ["zich bevinden", "zijn", "находиться"],
+        ["geschieden / plaatsvinden", "gebeuren", "происходить"],
+        ["ontvangen", "krijgen", "получать"],
+        ["verzoeken", "vragen", "просить"],
+        ["verwerven", "krijgen / halen", "приобретать"],
+        ["vervaardigen", "maken", "производить"],
+        ["dienen te", "moeten", "должен"],
+        ["vermelden", "noemen / zeggen", "упоминать"]
+      ]
+    },
+    {
+      "title": "Формулы писем",
+      "headers": ["Функция", "Формально", "Неформально"],
+      "rows": [
+        ["открытие", "Geachte heer De Vries,", "Hoi Jan,"],
+        ["ссылка на причину", "Naar aanleiding van uw brief...", "Ik wil even reageren op..."],
+        ["просьба", "Zou u zo vriendelijk willen zijn om...", "Kun je ... doen?"],
+        ["извинение", "Ik bied u mijn welgemeende excuses aan.", "Sorry hoor!"],
+        ["приложение", "Bijgevoegd vindt u ...", "Ik stuur het mee."],
+        ["закрытие", "Met vriendelijke groet,\\n[Имя]", "Groetjes, [Имя]"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Когда использовать какой регистр",
+      "items": [
+        "Gemeente, UWV, банк, полиция, работодатель (если не сказано иначе) → формально.",
+        "Университет: преподаватель до начала знакомства — 'u', между студентами — 'je'.",
+        "Вакансии: в Нидерландах многие стартапы пишут 'je' уже в объявлении — это разрешение на 'je'.",
+        "Сомневаетесь — начните с 'u'; собеседник сам предложит перейти на 'je'."
+      ]
+    },
+    {
+      "title": "Опасности смешения",
+      "items": [
+        "'Hallo meneer! Kun je me helpen?' → грубо звучит: 'meneer' формально, 'kun je' — нет.",
+        "В письме к UWV: 'Hoi, ik heb een vraagje' → недопустимо.",
+        "В чате с коллегой 'Geachte heer' → звучит пассивно-агрессивно."
+      ]
+    },
+    {
+      "title": "Разговорные сокращения",
+      "items": [
+        "d'r = er / haar ('d'r is iemand aan de deur')",
+        "'t = het ('t is koud)",
+        "ff = even ('bel me ff')",
+        "xxx / xoxo — только в близких сообщениях"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Geachte mevrouw De Jong, hierbij verzoek ik u om een gesprek.", "ru": "Уважаемая г-жа Де Йонг, настоящим прошу вас о разговоре." },
+    { "nl": "Hoi Anne, zullen we zondag afspreken?", "ru": "Привет Анна, договоримся на воскресенье?" },
+    { "nl": "Het college vangt aan om 9 uur.", "ru": "Лекция начинается в 9." },
+    { "nl": "De les begint om 9 uur.", "ru": "Урок начинается в 9." },
+    { "nl": "Naar aanleiding van uw e-mail wil ik het volgende opmerken.", "ru": "В связи с вашим письмом хочу заметить следующее." },
+    { "nl": "Ik vind het lastig, maar ik ga het proberen.", "ru": "Мне сложно, но я попробую." }
+  ],
+  "exceptions": [
+    "'U' с большой буквы — только в самых формальных письмах (нотариус, юридические документы). Обычно строчное.",
+    "Во Фландрии 'u' употребляется чаще как объектное местоимение ('Ik heb u gezien' — 'Я тебя видел'), а не только вежливое.",
+    "'Mevrouw' всегда, независимо от замужества; 'juffrouw' устарело.",
+    "В SMS/WhatsApp голландцы пишут без заглавных букв и точек даже в полуформальных сообщениях."
+  ],
+  "commonMistakes": [
+    { "wrong": "Hoi meneer Jansen, kun je me even helpen?", "correct": "Geachte heer Jansen, zou u mij kunnen helpen?", "why": "смешение регистров." },
+    { "wrong": "Beste Anne, hierbij verzoek ik u ...", "correct": "Hoi Anne, kun je ...", "why": "Если 'Beste Anne' — переходите на 'je'." },
+    { "wrong": "Ik dien morgen te komen.", "correct": "Ik moet morgen komen.", "why": "'dienen te' в разговорной речи звучит напыщенно." }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "Как начать письмо в UWV?", "options": ["Hoi", "Geachte heer/mevrouw,", "Beste UWV"], "answer": "Geachte heer/mevrouw,", "explanation": "Госорган = формальное обращение." },
+    { "type": "choice", "question": "Коллега пишет 'Hoi, zullen we ...'. Как ответить?", "options": ["Geachte heer, ...", "Hoi, laten we ...", "U moet ..."], "answer": "Hoi, laten we ...", "explanation": "Сохраняйте регистр собеседника." },
+    { "type": "fill-blank", "sentence": "Met ___ groet, Anton (форма для заключения)", "answer": "vriendelijke", "explanation": "Стандартное формальное закрытие: 'Met vriendelijke groet'." },
+    { "type": "choice", "question": "Какой глагол подойдёт для формального текста вместо 'gebeuren'?", "options": ["plaatsvinden", "zijn", "doen"], "answer": "plaatsvinden", "explanation": "'plaatsvinden / geschieden' — формальные эквиваленты." },
+    { "type": "choice", "question": "Что НЕ подходит в письме адвокату?", "options": ["Hoogachtend,", "Met vriendelijke groet,", "Doei!"], "answer": "Doei!", "explanation": "'doei' — разговорное прощание." }
+  ],
+  "relatedTopics": ["personal-pronouns", "modal-particles", "discourse-markers", "zou-usage"],
+  "inLessons": [26, 32, 38, 44, 50]
+}

@@ -1,0 +1,365 @@
+{
+  "title": "Media & journalistiek",
+  "level": "B1",
+  "tags": [
+    "nieuws",
+    "sociale-media",
+    "kritisch-lezen"
+  ],
+  "words": [
+    {
+      "nl": "de hoofdredacteur",
+      "ru": "главный редактор",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de eindredacteur",
+      "ru": "ответственный редактор",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de redactieraad",
+      "ru": "редакционный совет",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de freelancejournalist",
+      "ru": "внештатный журналист",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de correspondent",
+      "ru": "корреспондент",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de commentator",
+      "ru": "комментатор",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de opinie-artikel",
+      "ru": "статья-мнение",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "het hoofdartikel",
+      "ru": "передовица",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de achtergrondartikel",
+      "ru": "обзорная статья",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de reportage",
+      "ru": "репортаж",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de duiding",
+      "ru": "интерпретация",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "het interview",
+      "ru": "интервью",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de persconferentie",
+      "ru": "пресс-конференция",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de embargo",
+      "ru": "эмбарго (на новость)",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de primeur",
+      "ru": "эксклюзив",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de kop",
+      "ru": "заголовок",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de lead",
+      "ru": "лид (первый абзац)",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de kernzin",
+      "ru": "ключевое предложение",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de bronvermelding",
+      "ru": "указание источника",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "het feitencheck",
+      "ru": "проверка фактов",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de factchecker",
+      "ru": "фактчекер",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de hoor en wederhoor",
+      "ru": "выслушивание обеих сторон",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de rectificatie",
+      "ru": "опровержение, уточнение",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de Raad voor de Journalistiek",
+      "ru": "Совет по журналистике",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de mediacode",
+      "ru": "журналистский кодекс",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de journalistieke integriteit",
+      "ru": "журналистская этика",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de open bron",
+      "ru": "открытый источник",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de gesloten bron",
+      "ru": "закрытый источник",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de anonieme bron",
+      "ru": "анонимный источник",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "het lek",
+      "ru": "утечка",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de klokkenluider",
+      "ru": "информатор",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de onderzoeksjournalistiek",
+      "ru": "журналистские расследования",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de politieke verslaggeving",
+      "ru": "политическая журналистика",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de Kamerverslaggever",
+      "ru": "парламентский корреспондент",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de uitzendgemachtigde omroep",
+      "ru": "публичный вещатель",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de publieke omroep",
+      "ru": "общественное вещание",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de commerciële omroep",
+      "ru": "коммерческое вещание",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de streamingdienst",
+      "ru": "стриминговая служба",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "het podcastkanaal",
+      "ru": "подкаст",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de aflevering",
+      "ru": "эпизод",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de abonnee",
+      "ru": "подписчик",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de paywall",
+      "ru": "пейволл",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de krantenabonnement",
+      "ru": "подписка на газету",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de digitale krant",
+      "ru": "цифровая газета",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "het papieren abonnement",
+      "ru": "бумажная подписка",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de advertentie-inkomsten",
+      "ru": "доходы от рекламы",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de native advertising",
+      "ru": "нативная реклама",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de sponsored content",
+      "ru": "спонсорский контент",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "het branded journalism",
+      "ru": "брендовая журналистика",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de nepnieuws",
+      "ru": "фейковые новости",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de deepfake",
+      "ru": "дипфейк",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de complottheorie",
+      "ru": "теория заговора",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de pseudowetenschap",
+      "ru": "псевдонаука",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de algoritmische filter",
+      "ru": "алгоритмический фильтр",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de trending topic",
+      "ru": "тренд",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de viral video",
+      "ru": "вирусное видео",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de shitstorm",
+      "ru": "медиа-шторм",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de cancelcultuur",
+      "ru": "культура отмены",
+      "level": "B1",
+      "theme": "media"
+    },
+    {
+      "nl": "de online trollen",
+      "ru": "онлайн-тролли",
+      "level": "B1",
+      "theme": "media"
+    }
+  ]
+}

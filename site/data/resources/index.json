@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "luisteren",
+      "titleRu": "Аудирование (luisteren)",
+      "titleNl": "Luisteren",
+      "description": "Подкасты, новости и видео для тренировки восприятия на слух. Начинайте с медленных ресурсов (A1–A2) и постепенно переходите к обычной скорости.",
+      "items": [
+        {"title": "Easy Dutch (YouTube)", "url": "https://www.youtube.com/@EasyDutch", "level": "A2-B1", "note": "Уличные интервью с субтитрами NL/EN — отличный старт для восприятия живой речи."},
+        {"title": "NOS Jeugdjournaal", "url": "https://jeugdjournaal.nl/", "level": "B1", "note": "Новости для школьников: короткие сюжеты, простой язык, актуальные темы."},
+        {"title": "NOS Journaal", "url": "https://nos.nl/uitzendingen/journaal", "level": "B1-B2", "note": "Главные выпуски новостей NL. Хорошо сочетать с чтением стенограммы на сайте NOS."},
+        {"title": "NPO Radio 1 — Dit is de dag", "url": "https://www.nporadio1.nl/podcasts/dit-is-de-dag", "level": "B2", "note": "Ежедневный подкаст об актуальных событиях. Отлично тренирует восприятие аналитической речи."},
+        {"title": "De Correspondent (podcasts)", "url": "https://decorrespondent.nl/podcast", "level": "B2", "note": "Качественная журналистика, длинные интервью — для продвинутого уровня."},
+        {"title": "Spraakmakers (NPO Radio 1)", "url": "https://www.nporadio1.nl/spraakmakers", "level": "B2", "note": "Дискуссионный подкаст с гостями — хорошее упражнение на аргументацию."},
+        {"title": "Een beetje Nederlands (podcast)", "url": "https://eenbeetjenederlands.nl/", "level": "A2-B1", "note": "Подкаст для изучающих NL, с транскриптами."},
+        {"title": "Zeg Het in het Nederlands (podcast)", "url": "https://open.spotify.com/show/7zFMJnT1Y3OnfT5iwOMRQG", "level": "B1", "note": "Истории на нидерландском от преподавателя NT2."},
+        {"title": "BNR Nieuwsradio", "url": "https://www.bnr.nl/", "level": "B2", "note": "Деловая радиостанция: экономика, технологии, политика."}
+      ]
+    },
+    {
+      "id": "lezen",
+      "titleRu": "Чтение (lezen)",
+      "titleNl": "Lezen",
+      "description": "От упрощённых текстов до качественной прессы. Подберите издание под свой уровень.",
+      "items": [
+        {"title": "Wablieft", "url": "https://www.wablieft.be/nl", "level": "A2-B1", "note": "Газета на простом языке (Бельгия), по-прежнему полезна для NL."},
+        {"title": "NOS.nl", "url": "https://nos.nl/", "level": "B1-B2", "note": "Новости NL, часто с видео + текстом."},
+        {"title": "NOS op 3", "url": "https://nos.nl/op3", "level": "B1", "note": "Новости для молодёжи: доступный язык, актуальная повестка."},
+        {"title": "nu.nl", "url": "https://www.nu.nl/", "level": "B1-B2", "note": "Крупнейший новостной портал NL, короткие заметки."},
+        {"title": "de Volkskrant", "url": "https://www.volkskrant.nl/", "level": "B2", "note": "Качественная левоцентристская газета — пригодится для NT2 II."},
+        {"title": "NRC", "url": "https://www.nrc.nl/", "level": "B2", "note": "Авторитетная вечерняя газета, часто задаваемый формат для NT2 II."},
+        {"title": "Trouw", "url": "https://www.trouw.nl/", "level": "B2", "note": "Тёмы общества, морали, религии, устойчивого развития."},
+        {"title": "De Correspondent", "url": "https://decorrespondent.nl/", "level": "B2", "note": "Длинные статьи / лонгриды, часть по подписке."},
+        {"title": "Onze Taal — журнал и подкаст", "url": "https://onzetaal.nl/", "level": "B1-B2", "note": "О нидерландском языке: этимология, правописание, споры о языке."}
+      ]
+    },
+    {
+      "id": "woordenschat",
+      "titleRu": "Словарь и фразы",
+      "titleNl": "Woordenschat",
+      "description": "Основные онлайн-словари, тезаурусы и частотные базы.",
+      "items": [
+        {"title": "Van Dale — online woordenboek", "url": "https://www.vandale.nl/opzoeken", "level": "all", "note": "Самый авторитетный нидерландский словарь. Бесплатные основные запросы."},
+        {"title": "Woorden.org", "url": "https://www.woorden.org/", "level": "all", "note": "Быстрый онлайн-словарь с синонимами."},
+        {"title": "Mijnwoordenboek.nl", "url": "https://www.mijnwoordenboek.nl/", "level": "all", "note": "NL ↔ многие языки, включая русский."},
+        {"title": "Interglot", "url": "https://www.interglot.com/dictionary", "level": "all", "note": "Полезен для проверки NL-EN-RU."},
+        {"title": "Reverso Context (NL)", "url": "https://context.reverso.net/translation/dutch-english/", "level": "all", "note": "Параллельные контексты — очень удобно для словосочетаний."},
+        {"title": "Etymologiebank", "url": "https://etymologiebank.nl/", "level": "B2", "note": "Этимология нидерландских слов (для углублённого изучения)."},
+        {"title": "Woordfrequentielijsten — SUBTLEX-NL", "url": "https://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-nl", "level": "B1-B2", "note": "Частотный список по субтитрам — полезно для приоритизации."}
+      ]
+    },
+    {
+      "id": "oefenen",
+      "titleRu": "Упражнения и тесты",
+      "titleNl": "Oefenen",
+      "description": "Сайты с интерактивной практикой, симуляторами экзаменов и упражнениями по грамматике.",
+      "items": [
+        {"title": "Oefenen.nl", "url": "https://oefenen.nl/", "level": "A1-B1", "note": "Государственная платформа упражнений: чтение, письмо, счёт, цифровая грамотность."},
+        {"title": "Staatsexamensnt2.nl", "url": "https://www.staatsexamensnt2.nl/", "level": "B1-B2", "note": "Официальный сайт экзаменов NT2: примеры всех частей (luisteren, lezen, schrijven, spreken)."},
+        {"title": "Inburgeren.nl — proefexamens", "url": "https://www.inburgeren.nl/examen-doen/", "level": "A2-B1", "note": "Пробные задания к инбургерингу."},
+        {"title": "DuoLingvo — Dutch", "url": "https://www.duolingo.com/course/nl/en/Learn-Dutch", "level": "A1-A2", "note": "Быстрые ежедневные упражнения, хороший начальный тренажёр."},
+        {"title": "Clozemaster NL", "url": "https://www.clozemaster.com/languages/nl-en-dutch-from-english", "level": "A2-B2", "note": "Тренировка слов в контексте (cloze-задания)."},
+        {"title": "Taalblokken (RTV NH / Studio NL)", "url": "https://www.taalblokken.nl/", "level": "A1-B1", "note": "Программы и тренажёры по грамматике и словарю."},
+        {"title": "E-learning Zichtbaar Nederlands", "url": "https://www.zichtbaarnederlands.nl/", "level": "A1-B1", "note": "Визуальный словарь с произношением."}
+      ]
+    },
+    {
+      "id": "grammatica",
+      "titleRu": "Грамматика и справочники",
+      "titleNl": "Grammatica",
+      "description": "Онлайн-грамматики, справочники и блоги по нидерландскому языку.",
+      "items": [
+        {"title": "Dutch Grammar (dutchgrammar.com)", "url": "https://www.dutchgrammar.com/en/", "level": "A1-B2", "note": "Полный курс грамматики на английском — чистая объяснительная справка."},
+        {"title": "Taalportaal", "url": "https://www.taalportaal.org/", "level": "B2", "note": "Академический ресурс по грамматике NL/FR."},
+        {"title": "Algemene Nederlandse Spraakkunst (ANS)", "url": "https://e-ans.ivdnt.org/", "level": "B2", "note": "Самый подробный справочник по нидерландской грамматике."},
+        {"title": "Onze Taal — taalartikelen", "url": "https://onzetaal.nl/taaladvies", "level": "B1-B2", "note": "Статьи о частых трудностях, ошибках и нюансах."}
+      ]
+    },
+    {
+      "id": "video",
+      "titleRu": "Видео и сериалы",
+      "titleNl": "Video & series",
+      "description": "NL-контент для просмотра с субтитрами.",
+      "items": [
+        {"title": "NPO Start", "url": "https://npo.nl/start", "level": "B1-B2", "note": "Бесплатно: документальные фильмы, новости, сериалы. Часть контента — по VPN в NL."},
+        {"title": "Zapp & Zappelin (NPO)", "url": "https://www.zapp.nl/", "level": "A2-B1", "note": "Детское и подростковое ТВ — простой язык."},
+        {"title": "De Ideale Wereld", "url": "https://www.canvas.be/de-ideale-wereld", "level": "B2", "note": "Бельгийское политико-сатирическое шоу (важно: бельгийский акцент)."},
+        {"title": "Nieuwsuur", "url": "https://nos.nl/nieuwsuur", "level": "B2", "note": "Ежевечерняя политическая передача NOS — темп и лексика сопоставимы с NT2 II."},
+        {"title": "Zondag met Lubach (YouTube)", "url": "https://www.youtube.com/@ZondagmetLubach", "level": "B2", "note": "Сатирическая политическая передача (до 2023). Хорош для разбора актуальной лексики."}
+      ]
+    },
+    {
+      "id": "apps",
+      "titleRu": "Приложения",
+      "titleNl": "Apps",
+      "description": "Мобильные приложения для NL.",
+      "items": [
+        {"title": "Drops — Dutch vocabulary", "url": "https://languagedrops.com/", "level": "A1-A2", "note": "Визуальный словарь, 5 минут в день."},
+        {"title": "Anki (с колодами NL)", "url": "https://apps.ankiweb.net/", "level": "all", "note": "Универсальный SRS. Готовые колоды для NT2 есть на AnkiWeb."},
+        {"title": "Lingohut Dutch", "url": "https://www.lingohut.com/en/l41/dutch", "level": "A1-A2", "note": "Бесплатные уроки для начинающих."},
+        {"title": "LingQ (Dutch)", "url": "https://www.lingq.com/en/learn-dutch-online/", "level": "B1-B2", "note": "Чтение и аудио с встроенным трекингом слов."},
+        {"title": "Readlang", "url": "https://readlang.com/", "level": "A2-B2", "note": "Браузерное расширение для перевода кликом на любой NL-странице."}
+      ]
+    }
+  ]
+}

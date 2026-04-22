@@ -1,0 +1,112 @@
+{
+  "id": "plusquamperfectum",
+  "title": "Давнопрошедшее время (Plusquamperfectum)",
+  "titleNL": "Voltooid verleden tijd (VVT)",
+  "level": "B2",
+  "summary": "Plusquamperfectum (VVT) описывает действие, которое произошло ДО другого прошедшего действия. Образуется: had/waren (imperfectum от hebben/zijn) + voltooid deelwoord.",
+  "rule": {
+    "formula": "had/hadden (или was/waren) + voltooid deelwoord в конце",
+    "explanation": "Plusquamperfectum — это 'past perfect' (had done). Используется, когда нужно показать последовательность: сначала случилось A, потом B. A ставится в VVT, B — в Imperfectum или Perfectum. Вспомогательный глагол (hebben или zijn) выбирается по тем же правилам, что и в Perfectum, но в форме imperfectum: had/hadden или was/waren.",
+    "whenToUse": [
+      "Действие ДО другого прошедшего: Toen ik aankwam, was hij al vertrokken.",
+      "В косвенной речи — сдвиг времени: Hij zei dat hij het had gedaan. (Прямая речь: 'Ik heb het gedaan.')",
+      "С союзами nadat, voordat: Nadat ik gegeten had, ging ik wandelen.",
+      "В рассказах — для справки о предыстории: Hij was moe. Hij had de hele dag gewerkt."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Спряжение вспомогательных глаголов (VVT)",
+      "headers": ["Лицо", "hebben (had)", "zijn (was)"],
+      "rows": [
+        ["ik", "had", "was"],
+        ["jij/je", "had", "was"],
+        ["u", "had", "was"],
+        ["hij/zij/het", "had", "was"],
+        ["wij/we", "hadden", "waren"],
+        ["jullie", "hadden", "waren"],
+        ["zij/ze", "hadden", "waren"]
+      ]
+    },
+    {
+      "title": "Примеры VVT",
+      "headers": ["Глагол", "Perfectum (VTT)", "Plusquamperfectum (VVT)"],
+      "rows": [
+        ["werken", "heb gewerkt", "had gewerkt"],
+        ["gaan", "is gegaan", "was gegaan"],
+        ["eten", "heb gegeten", "had gegeten"],
+        ["komen", "is gekomen", "was gekomen"],
+        ["zien", "heb gezien", "had gezien"],
+        ["worden", "is geworden", "was geworden"],
+        ["doen", "heb gedaan", "had gedaan"]
+      ]
+    },
+    {
+      "title": "VVT в последовательности действий",
+      "headers": ["Сначала (VVT)", "Потом (Imperfectum/Perfectum)"],
+      "rows": [
+        ["Hij had gegeten.", "Toen ging hij slapen."],
+        ["Ze had de brief gelezen.", "Ze gooide hem weg."],
+        ["Ik was nog niet klaar.", "Jij belde al."],
+        ["Nadat ik had gewerkt,", "ging ik naar huis."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Три прошедших времени в одной шкале",
+      "items": [
+        "Plusquamperfectum (VVT): самое раннее — 'had gedaan'",
+        "Imperfectum (OVT): описание, фон — 'deed/deden'",
+        "Perfectum (VTT): разговорное прошлое — 'heeft gedaan'",
+        "В одном рассказе: фон = OVT, завершённые действия = VTT, предыстория = VVT."
+      ]
+    },
+    {
+      "title": "Союзы-триггеры VVT",
+      "items": [
+        "nadat — 'после того как': главное действие позже, nadat-часть раньше → VVT",
+        "voordat — 'прежде чем' (реже с VVT)",
+        "toen — 'когда': с точечными событиями; одно действие может быть в VVT",
+        "В главном предложении — VVT почти не используется, обычно в придаточном или в рассказе как справка."
+      ]
+    },
+    {
+      "title": "Выбор hebben или zijn",
+      "items": [
+        "Те же правила, что в Perfectum: движение/изменение → zijn (was/waren)",
+        "Действие, результат → hebben (had/hadden)",
+        "Hij had gewerkt. / Hij was gekomen."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Toen ik aankwam, was hij al vertrokken.", "ru": "Когда я приехал, он уже ушёл." },
+    { "nl": "Nadat we hadden gegeten, gingen we wandelen.", "ru": "После того как мы поели, пошли гулять." },
+    { "nl": "Hij was moe, want hij had de hele dag gewerkt.", "ru": "Он был уставший, потому что работал весь день." },
+    { "nl": "Zij zei dat ze het boek al had gelezen.", "ru": "Она сказала, что уже прочитала книгу." },
+    { "nl": "Voordat de film begon, had ik al popcorn gekocht.", "ru": "Прежде чем фильм начался, я уже купил попкорн." },
+    { "nl": "Ik herinnerde me dat ik de sleutel was vergeten.", "ru": "Я вспомнил, что забыл ключ." }
+  ],
+  "exceptions": [
+    "В разговорной речи VVT часто заменяется на Perfectum — но в экзаменах и письменной речи VVT необходим для ясности.",
+    "С модальными глаголами VVT редок; используется 'had kunnen/moeten + инфинитив': Ik had kunnen komen. (Я мог бы прийти.)",
+    "В условных предложениях типа II/III: Als ik het had geweten, was ik gekomen. (Если бы я знал, я бы пришёл.)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Toen ik kwam, hij heeft al vertrokken.", "correct": "Toen ik kwam, was hij al vertrokken.", "why": "Действие ДО 'kwam' → VVT: was vertrokken." },
+    { "wrong": "Nadat ik gegeten heb, ging ik slapen.", "correct": "Nadat ik gegeten had, ging ik slapen.", "why": "После nadat обычно VVT, если главное — в прошлом." },
+    { "wrong": "Ik heb gewerkt, daarom was ik moe.", "correct": "Ik had gewerkt, daarom was ik moe.", "why": "Причина ДО следствия — VVT (если всё в прошлом)." },
+    { "wrong": "Hij was gegaan zonder iets zeggen.", "correct": "Hij was gegaan zonder iets te zeggen.", "why": "После zonder нужен 'te + инфинитив'. Ошибка в te-конструкции, не VVT." },
+    { "wrong": "Zij had gekomen.", "correct": "Zij was gekomen.", "why": "komen — глагол движения, VVT с was/waren, не had." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Toen ik thuiskwam, __ hij al __ (vertrekken).", "answer": "was vertrokken", "explanation": "vertrekken — движение, VVT = was vertrokken." },
+    { "type": "fill-blank", "sentence": "Nadat we __ __ (eten), gingen we naar de bios.", "answer": "hadden gegeten", "explanation": "nadat → VVT: hadden gegeten." },
+    { "type": "fill-blank", "sentence": "Zij zei dat ze het al __ __ (doen).", "answer": "had gedaan", "explanation": "Косвенная речь в прошлом + завершённое действие → VVT." },
+    { "type": "choice", "question": "Hij __ moe, want hij __ de hele dag __.", "options": ["was / had / gewerkt", "is / heeft / gewerkt", "was / was / gewerkt", "had / was / gewerkt"], "answer": "was / had / gewerkt", "explanation": "Imperfectum + VVT (hebben как aux для werken)." },
+    { "type": "fill-blank", "sentence": "Voordat de trein __ (vertrekken), __ iedereen al __ (instappen).", "answer": "vertrok / was / ingestapt", "explanation": "Imperfectum + VVT (instappen — движение, was)." }
+  ],
+  "relatedTopics": ["perfectum", "past-simple", "conjunctions", "indirect-speech", "conditional"],
+  "inLessons": [42, 53]
+}

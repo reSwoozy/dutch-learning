@@ -1,0 +1,257 @@
+{
+  "id": "A1-lesson-02",
+  "num": 2,
+  "level": "A1",
+  "title": "Артикли de/het и род существительных",
+  "minutes": 15,
+  "objectives": [
+    "Различать артикли `de` и `het`",
+    "Использовать неопределенный артикль `een`",
+    "Понимать систему рода в голландском языке",
+    "Запомнить основные правила для выбора артикля",
+    "Применять артикли в предложениях"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Артикли de/het и род существительных",
+      "content": "**Уровень**: A1 Beginner | **Время**: 15 минут | **День**: 2 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Различать артикли `de` и `het`\n- Использовать неопределенный артикль `een`\n- Понимать систему рода в голландском языке\n- Запомнить основные правила для выбора артикля\n- Применять артикли в предложениях"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Новые слова (5 минут)",
+      "words": [
+        {
+          "nl": "de man",
+          "ru": "мужчина",
+          "pronunciation": "[də mɑn]",
+          "hint": "de"
+        },
+        {
+          "nl": "de vrouw",
+          "ru": "женщина",
+          "pronunciation": "[də vrɑu̯]",
+          "hint": "de"
+        },
+        {
+          "nl": "het kind",
+          "ru": "ребенок",
+          "pronunciation": "[ɦət kɪnt]",
+          "hint": "het"
+        },
+        {
+          "nl": "de jongen",
+          "ru": "мальчик",
+          "pronunciation": "[də ˈjɔŋən]",
+          "hint": "de"
+        },
+        {
+          "nl": "het meisje",
+          "ru": "девочка",
+          "pronunciation": "[ɦət ˈmɛi̯sjə]",
+          "hint": "het"
+        },
+        {
+          "nl": "de dochter",
+          "ru": "дочь",
+          "pronunciation": "[də ˈdɔxtər]",
+          "hint": "de"
+        },
+        {
+          "nl": "de zoon",
+          "ru": "сын",
+          "pronunciation": "[də soːn]",
+          "hint": "de"
+        },
+        {
+          "nl": "het huis",
+          "ru": "дом",
+          "pronunciation": "[ɦət ɦœy̯s]",
+          "hint": "het"
+        },
+        {
+          "nl": "de auto",
+          "ru": "машина",
+          "pronunciation": "[də ˈɑu̯to]",
+          "hint": "de"
+        },
+        {
+          "nl": "het boek",
+          "ru": "книга",
+          "pronunciation": "[ɦət buk]",
+          "hint": "het"
+        },
+        {
+          "nl": "de tafel",
+          "ru": "стол",
+          "pronunciation": "[də ˈtaːfəl]",
+          "hint": "de"
+        },
+        {
+          "nl": "de stoel",
+          "ru": "стул",
+          "pronunciation": "[də stul]",
+          "hint": "de"
+        },
+        {
+          "nl": "het bed",
+          "ru": "кровать",
+          "pronunciation": "[ɦət bɛt]",
+          "hint": "het"
+        },
+        {
+          "nl": "de keuken",
+          "ru": "кухня",
+          "pronunciation": "[də ˈkøːkən]",
+          "hint": "de"
+        },
+        {
+          "nl": "het water",
+          "ru": "вода",
+          "pronunciation": "[ɦət ˈʋaːtər]",
+          "hint": "het"
+        },
+        {
+          "nl": "de koffie",
+          "ru": "кофе",
+          "pronunciation": "[də ˈkɔfi]",
+          "hint": "de"
+        },
+        {
+          "nl": "het bier",
+          "ru": "пиво",
+          "pronunciation": "[ɦət bir]",
+          "hint": "het"
+        },
+        {
+          "nl": "de hond",
+          "ru": "собака",
+          "pronunciation": "[də ɦɔnt]",
+          "hint": "de"
+        },
+        {
+          "nl": "de kat",
+          "ru": "кот",
+          "pronunciation": "[də kɑt]",
+          "hint": "de"
+        },
+        {
+          "nl": "het dier",
+          "ru": "животное",
+          "pronunciation": "[ɦət dir]",
+          "hint": "het"
+        },
+        {
+          "nl": "een",
+          "ru": "один/одна/одно",
+          "pronunciation": "[ən]",
+          "hint": "-"
+        },
+        {
+          "nl": "deze",
+          "ru": "этот/эта (de-слова)",
+          "pronunciation": "[ˈdeːzə]",
+          "hint": "-"
+        },
+        {
+          "nl": "dit",
+          "ru": "это (het-слова)",
+          "pronunciation": "[dɪt]",
+          "hint": "-"
+        },
+        {
+          "nl": "die",
+          "ru": "тот/та (de-слова)",
+          "pronunciation": "[di]",
+          "hint": "-"
+        },
+        {
+          "nl": "dat",
+          "ru": "то (het-слова)",
+          "pronunciation": "[dɑt]",
+          "hint": "-"
+        },
+        {
+          "nl": "alle",
+          "ru": "все",
+          "pronunciation": "[ˈɑlə]",
+          "hint": "-"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Фаза 2: Система артиклей (5 минут)",
+      "content": "**Пойми логику голландских артиклей**:\n#### Определенные артикли (the)\n- **DE** (~75% слов): de man, de vrouw, de auto, de hond\n- **HET** (~25% слов): het kind, het huis, het boek, het water\n#### Неопределенный артикль (a/an)\n- **EEN** (для всех слов): een man, een huis, een boek, een auto\n#### Простые правила для DE:\n1. **Люди** (кроме уменьшительных): de man, de vrouw, de jongen\n2. **Множественное число** (ВСЕГДА!): de mannen, de huizen, de boeken\n3. **Большинство предметов**: de tafel, de stoel, de auto\n#### Простые правила для HET:\n1. **Уменьшительные формы** (-je, -tje, -pje): het meisje, het huisje\n2. **Некоторые основные слова**: het kind, het huis, het water, het bier\n3. **Инфинитивы как существительные**: het eten, het drinken"
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 3: Практические упражнения (4 минуты)",
+      "items": [
+        {
+          "question": "___ man (de/het) → `___________`"
+        },
+        {
+          "question": "___ meisje (de/het) → `___________`"
+        },
+        {
+          "question": "___ huis (de/het) → `___________`"
+        },
+        {
+          "question": "___ auto (de/het) → `___________`"
+        },
+        {
+          "question": "___ water (de/het) → `___________`"
+        },
+        {
+          "question": "___ boek (de/het) → `___________`"
+        },
+        {
+          "question": "___ man is groot (Мужчина большой) → `___________`"
+        },
+        {
+          "question": "___ huis is mooi (Дом красивый) → `___________`"
+        },
+        {
+          "question": "___ meisje heeft ___ boek (У девочки есть книга) → `___________`"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 4: Самопроверка (1 минута)",
+      "content": "#### Чек-лист урока:\n- [ ] Понял разницу между de и het\n- [ ] Запомнил основные правила\n- [ ] Выучил новые слова с артиклями\n- [ ] Сделал упражнения\n- [ ] Могу выбрать правильный артикль"
+    },
+    {
+      "type": "text",
+      "title": "1. Почему артикли важны?",
+      "content": "В голландском языке артикль - это **часть слова**. Голландец никогда не скажет просто \"huis\", он всегда скажет \"het huis\" или \"een huis\"."
+    },
+    {
+      "type": "text",
+      "title": "2. Множественное число = ВСЕГДА DE",
+      "content": "- het huis → **de huizen**\n- het boek → **de boeken**\n- het kind → **de kinderen**\n**Запомни**: Неважно, какой артикль в единственном числе - во множественном всегда DE!"
+    },
+    {
+      "type": "text",
+      "title": "3. Уменьшительные формы = ВСЕГДА HET",
+      "content": "- de man → **het mannetje** (мужичок)\n- de hond → **het hondje** (собачка)\n- het huis → **het huisje** (домик)"
+    },
+    {
+      "type": "grammar",
+      "title": "4. Указательные местоимения",
+      "content": "- **deze** + de-слова: deze man, deze auto\n- **dit** + het-слова: dit huis, dit boek\n- **die** + de-слова: die vrouw daar\n- **dat** + het-слова: dat water daar\n---"
+    },
+    {
+      "type": "culture",
+      "title": "Формальность в голландском общении",
+      "content": "В Нидерландах **очень важно** правильно использовать язык. Неправильный артикль сразу выдает иностранца.\n**Полезно знать**:\n- Голландцы **терпеливы** к ошибкам в артиклях - это самая сложная часть языка\n- **Не бойся ошибаться** - даже носители иногда колеблются с новыми словами\n- **Слушай внимательно** - голландцы автоматически используют правильные артикли\n**Для интеграционного экзамена**: Правильные артикли показывают серьезность изучения языка и уважение к голландской культуре."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-02.json"
+}

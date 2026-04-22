@@ -1,0 +1,430 @@
+{
+  "id": "A2-lesson-18",
+  "num": 18,
+  "level": "A2",
+  "title": "Модальные глаголы",
+  "minutes": 15,
+  "objectives": [
+    "Правильно использовать модальные глаголы kunnen, moeten, willen, mogen",
+    "Выражать возможность, необходимость, желание и разрешение",
+    "Строить предложения с модальными глаголами",
+    "Понимать различия в значении и использовании",
+    "Использовать модальные глаголы в разных временах"
+  ],
+  "sections": [
+    {
+      "type": "grammar",
+      "title": "Модальные глаголы",
+      "content": "**Уровень**: A2 Элементарный | **Время**: 15 минут | **День**: 18 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Правильно использовать модальные глаголы kunnen, moeten, willen, mogen\n- Выражать возможность, необходимость, желание и разрешение\n- Строить предложения с модальными глаголами\n- Понимать различия в значении и использовании\n- Использовать модальные глаголы в разных временах"
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 1: Основные модальные глаголы (4 минуты)",
+      "content": "**Четыре основных модальных глагола**:\n**KUNNEN** - мочь, уметь:\n**MOETEN** - должен, надо:",
+      "tables": [
+        {
+          "headers": [
+            "Лицо",
+            "Настоящее время",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "ik",
+              "kan",
+              "Ik kan zwemmen"
+            ],
+            [
+              "jij/je",
+              "kunt/kan",
+              "Jij kunt goed koken"
+            ],
+            [
+              "hij/zij/het",
+              "kan",
+              "Hij kan Nederlands spreken"
+            ],
+            [
+              "wij/we",
+              "kunnen",
+              "We kunnen morgen komen"
+            ],
+            [
+              "jullie",
+              "kunnen",
+              "Jullie kunnen hier blijven"
+            ],
+            [
+              "zij/ze",
+              "kunnen",
+              "Zij kunnen hard werken"
+            ],
+            [
+              "Лицо",
+              "Настоящее время",
+              "Пример"
+            ],
+            [
+              "ik",
+              "moet",
+              "Ik moet werken"
+            ],
+            [
+              "jij/je",
+              "moet",
+              "Je moet huiswerk maken"
+            ],
+            [
+              "hij/zij/het",
+              "moet",
+              "Hij moet naar de dokter"
+            ],
+            [
+              "wij/we",
+              "moeten",
+              "We moeten boodschappen doen"
+            ],
+            [
+              "jullie",
+              "moeten",
+              "Jullie moeten luisteren"
+            ],
+            [
+              "zij/ze",
+              "moeten",
+              "Ze moeten vroeg opstaan"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Willen и Mogen (4 минуты)",
+      "words": [
+        {
+          "nl": "ik",
+          "ru": "wil",
+          "hint": "Ik wil koffie drinken"
+        },
+        {
+          "nl": "jij/je",
+          "ru": "wilt/wil",
+          "hint": "Jij wilt naar huis"
+        },
+        {
+          "nl": "hij/zij/het",
+          "ru": "wil",
+          "hint": "Ze wil Nederlands leren"
+        },
+        {
+          "nl": "wij/we",
+          "ru": "willen",
+          "hint": "We willen een huis kopen"
+        },
+        {
+          "nl": "jullie",
+          "ru": "willen",
+          "hint": "Jullie willen uitslapen"
+        },
+        {
+          "nl": "zij/ze",
+          "ru": "willen",
+          "hint": "Ze willen op vakantie"
+        },
+        {
+          "nl": "Лицо",
+          "ru": "Настоящее время",
+          "hint": "Пример"
+        },
+        {
+          "nl": "ik",
+          "ru": "mag",
+          "hint": "Ik mag hier parkeren"
+        },
+        {
+          "nl": "jij/je",
+          "ru": "mag",
+          "hint": "Je mag binnen roken"
+        },
+        {
+          "nl": "hij/zij/het",
+          "ru": "mag",
+          "hint": "Hij mag morgen vrij"
+        },
+        {
+          "nl": "wij/we",
+          "ru": "mogen",
+          "hint": "We mogen laat blijven"
+        },
+        {
+          "nl": "jullie",
+          "ru": "mogen",
+          "hint": "Jullie mogen tv kijken"
+        },
+        {
+          "nl": "zij/ze",
+          "ru": "mogen",
+          "hint": "Ze mogen mee naar het feest"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Фаза 3: Значения и использование (5 минут)",
+      "content": "**Различия в значениях**:\n**KUNNEN - способность/возможность**:\n- **Физическая способность**: \"Ik kan rennen\" - Я могу бегать\n- **Умение**: \"Hij kan piano spelen\" - Он умеет играть на пианино\n- **Возможность**: \"We kunnen morgen gaan\" - Мы можем пойти завтра\n- **Вежливая просьба**: \"Kun je me helpen?\" - Можешь помочь?\n**MOETEN - необходимость/обязанность**:\n- **Сильная необходимость**: \"Ik moet naar de dokter\" - Мне надо к врачу\n- **Правила/законы**: \"Je moet een helm dragen\" - Ты должен носить шлем\n- **Логическая необходимость**: \"Het moet waar zijn\" - Это должно быть правдой\n- **Совет**: \"Je moet dit boek lezen\" - Тебе стоит прочитать эту книгу\n**WILLEN - желание/намерение**:\n- **Желание**: \"Ik wil een ijsje\" - Я хочу мороженое\n- **Намерение**: \"We willen verhuizen\" - Мы хотим переехать\n- **Вежливая просьба**: \"Wil je alsjeblief helpen?\" - Поможешь, пожалуйста?\n**MOGEN - разрешение/вежливость**:\n- **Разрешение**: \"Je mag hier zitten\" - Можешь здесь сидеть\n- **Запрет (отрицание)**: \"Je mag niet roken\" - Нельзя курить\n- **Вежливая просьба**: \"Mag ik een vraag stellen?\" - Можно вопрос?"
+    },
+    {
+      "type": "grammar",
+      "title": "1. Структура предложений с модальными глаголами",
+      "content": "**Формула**:\nПодлежащее + модальный глагол + дополнения + инфинитив (в конце)\n**Примеры**:",
+      "examples": [
+        {
+          "nl": "Ik kan goed zwemmen",
+          "ru": "Я хорошо умею плавать"
+        },
+        {
+          "nl": "Hij moet morgen vroeg opstaan",
+          "ru": "Он должен завтра рано вставать"
+        },
+        {
+          "nl": "We willen een nieuwe auto kopen",
+          "ru": "Мы хотим купить новую машину"
+        }
+      ],
+      "codeExamples": [
+        "Подлежащее + модальный глагол + дополнения + инфинитив (в конце)"
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "2. Отрицание модальных глаголов",
+      "content": "**Niet стоит перед инфинитивом**:",
+      "examples": [
+        {
+          "nl": "Ik kan niet komen",
+          "ru": "Я не могу прийти"
+        },
+        {
+          "nl": "Hij wil niet werken",
+          "ru": "Он не хочет работать"
+        },
+        {
+          "nl": "We mogen niet roken",
+          "ru": "Нам нельзя курить"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "3. Вопросы с модальными глаголами",
+      "content": "**Ja/nee вопросы**:\n**Wh-вопросы**:",
+      "examples": [
+        {
+          "nl": "Kun je zwemmen?",
+          "ru": "Умеешь плавать?"
+        },
+        {
+          "nl": "Moet hij werken?",
+          "ru": "Он должен работать?"
+        },
+        {
+          "nl": "Willen jullie koffie?",
+          "ru": "Хотите кофе?"
+        },
+        {
+          "nl": "Wat wil je eten?",
+          "ru": "Что хочешь есть?"
+        },
+        {
+          "nl": "Wanneer moet je vertrekken?",
+          "ru": "Когда тебе нужно уезжать?"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "4. Модальные глаголы в прошедшем времени",
+      "content": "**Perfectum**:\n---",
+      "examples": [
+        {
+          "nl": "kunnen** → **gekund",
+          "ru": "\"Ik heb het niet gekund\""
+        },
+        {
+          "nl": "moeten** → **gemoeten",
+          "ru": "\"Hij heeft gemoeten\""
+        },
+        {
+          "nl": "willen** → **gewild",
+          "ru": "\"Ze heeft het niet gewild\""
+        },
+        {
+          "nl": "mogen** → **gemocht",
+          "ru": "\"We hebben niet gemocht\""
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Полезные выражения с модальными глаголами"
+    },
+    {
+      "type": "text",
+      "title": "Ежедневные ситуации:",
+      "content": "- **Kun je me helpen?** - Можешь помочь?\n- **Ik moet gaan** - Мне нужно идти\n- **Wil je koffie?** - Хочешь кофе?\n- **Mag ik binnenkomen?** - Можно войти?\n- **Je kunt hier parkeren** - Здесь можно парковаться\n- **We moeten boodschappen doen** - Нам нужно за покупками"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Вежливые фразы:",
+      "words": [
+        {
+          "nl": "Zou je kunnen...?",
+          "ru": "Мог бы ты...? (очень вежливо)"
+        },
+        {
+          "nl": "Mag ik u iets vragen?",
+          "ru": "Можно вас спросить?"
+        },
+        {
+          "nl": "Kunt u mij helpen?",
+          "ru": "Можете помочь?"
+        },
+        {
+          "nl": "Wilt u alsjeblief...",
+          "ru": "Пожалуйста..."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Выражение необходимости:",
+      "content": "- **Ik moet naar de tandarts** - Мне к зубному\n- **Je moet dit proberen** - Тебе стоит попробовать\n- **We moeten opschieden** - Нам нужно поторопиться\n- **Hij moet studeren** - Ему нужно учиться"
+    },
+    {
+      "type": "grammar",
+      "title": "Модальные глаголы в голландской культуре",
+      "content": "Правильное использование модальных глаголов важно для вежливого общения:\n**Вежливость и directheid**:\n- Голландцы прямолинейны, но остаются вежливыми\n**В деловой среде**:\n**В обслуживании**:\n**Семейные отношения**:\n**Для интеграции**: Правильное использование модальных глаголов поможет звучать естественно и вежливо в любых ситуациях.\n---",
+      "examples": [
+        {
+          "nl": "\"Kun je...?\"",
+          "ru": "более мягко чем **\"Doe dit!\"**"
+        },
+        {
+          "nl": "\"Mag ik...?\"",
+          "ru": "очень вежливая форма запроса"
+        },
+        {
+          "nl": "\"Je moet dit doen\"",
+          "ru": "четкое указание"
+        },
+        {
+          "nl": "\"Je kunt dit proberen\"",
+          "ru": "предложение"
+        },
+        {
+          "nl": "\"We willen dit bereiken\"",
+          "ru": "цель команды"
+        },
+        {
+          "nl": "\"Wat wilt u?\"",
+          "ru": "стандартный вопрос в магазинах"
+        },
+        {
+          "nl": "\"Kunt u betalen?\"",
+          "ru": "вежливая просьба об оплате"
+        },
+        {
+          "nl": "\"U mag hier niet parkeren\"",
+          "ru": "формальный запрет"
+        },
+        {
+          "nl": "\"Je moet je huiswerk maken\"",
+          "ru": "родители детям"
+        },
+        {
+          "nl": "\"Mogen we tv kijken?\"",
+          "ru": "дети родителям"
+        },
+        {
+          "nl": "\"Willen jullie eten?\"",
+          "ru": "приглашение к столу"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 1: Выбор модального глагола",
+      "content": "Выбери правильный модальный глагол:\n1. Ik _____ Nederlands spreken. (kunnen/moeten)\n2. Je _____ hier niet roken. (mogen/willen)\n3. We _____ naar de winkel. (kunnen/moeten)\n4. Zij _____ koffie drinken. (willen/moeten)"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Построение предложений",
+      "items": [
+        {
+          "question": "ik / kunnen / zwemmen / goed"
+        },
+        {
+          "question": "hij / moeten / werken / morgen"
+        },
+        {
+          "question": "wij / willen / vakantie / op / gaan"
+        },
+        {
+          "question": "jullie / mogen / hier / blijven"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Перевод",
+      "items": [
+        {
+          "question": "Можно войти?"
+        },
+        {
+          "question": "Я должен работать завтра."
+        },
+        {
+          "question": "Ты умеешь готовить?"
+        },
+        {
+          "question": "Мы хотим купить дом."
+        },
+        {
+          "question": "Здесь нельзя курить."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Частые ошибки с модальными глаголами"
+    },
+    {
+      "type": "text",
+      "title": "Неправильно → Правильно",
+      "content": "**Спряжение**:\n- Ik kunne → Ik kan\n- Jij moet → Jij moet ✓\n- Hij willen → Hij wil\n**Порядок слов**:\n- Ik kan niet gaan morgen → Ik kan morgen niet gaan\n- Hij moet werken hard → Hij moet hard werken\n- Wil je helpen me? → Wil je me helpen?\n**Выбор глагола**:\n- Ik wil naar de WC (физическая нужда) → Ik moet naar de WC\n- Mag je Nederlands? (умение) → Kun je Nederlands?\n- Ik moet koffie (желание) → Ik wil koffie"
+    },
+    {
+      "type": "text",
+      "title": "Ситуация 1: В магазине",
+      "content": "**Роли**: Продавец и покупатель\n- Покупатель хочет что-то купить\n- Спрашивает разрешение посмотреть товар\n- Продавец объясняет что можно/нельзя"
+    },
+    {
+      "type": "text",
+      "title": "Ситуация 2: В офисе",
+      "content": "**Роли**: Начальник и сотрудник\n- Сотрудник спрашивает разрешение уйти пораньше\n- Начальник объясняет что нужно сделать сначала\n- Договариваются о компромиссе"
+    },
+    {
+      "type": "text",
+      "title": "Ситуация 3: Дома",
+      "content": "**Роли**: Родители и дети\n- Дети хотят смотреть телевизор\n- Родители говорят что сначала нужно сделать уроки\n- Обсуждают планы на вечер"
+    }
+  ],
+  "vocabularyFile": "A2-lesson-18.json"
+}

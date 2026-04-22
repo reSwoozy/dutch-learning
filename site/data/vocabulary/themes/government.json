@@ -1,0 +1,366 @@
+{
+  "title": "Overheid & gemeente",
+  "level": "B1",
+  "tags": [
+    "gemeente",
+    "loket",
+    "vergunning",
+    "digid"
+  ],
+  "words": [
+    {
+      "nl": "het stadhuis",
+      "ru": "ратуша",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het gemeentehuis",
+      "ru": "здание муниципалитета",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het gemeenteloket",
+      "ru": "окошко муниципалитета",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het publieksbalie",
+      "ru": "стойка приёма",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de baliemedewerker",
+      "ru": "сотрудник стойки приёма",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de burgerzaken",
+      "ru": "отдел гражданских дел",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de basisregistratie personen",
+      "ru": "реестр BRP",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de inschrijving BRP",
+      "ru": "регистрация в BRP",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de uitschrijving BRP",
+      "ru": "снятие с регистрации",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het adreswijziging doorgeven",
+      "ru": "подать изменение адреса",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het uittreksel BRP",
+      "ru": "выписка из BRP",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het uittreksel burgerlijke stand",
+      "ru": "выписка из ЗАГС",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de geboorteaangifte",
+      "ru": "заявление о рождении",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de overlijdensaangifte",
+      "ru": "заявление о смерти",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de huwelijksaangifte",
+      "ru": "заявление о браке",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het geregistreerd partnerschap",
+      "ru": "зарегистрированное партнёрство",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de erkenning kind",
+      "ru": "признание отцовства",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de naamswijziging",
+      "ru": "смена имени",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de nationaliteit aanvragen",
+      "ru": "подать на гражданство",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de naturalisatie",
+      "ru": "натурализация",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de optieprocedure",
+      "ru": "процедура выбора гражданства",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het inburgeringsexamen",
+      "ru": "экзамен инбюргеринг",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het inburgeringsdiploma",
+      "ru": "диплом инбюргеринг",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de inburgeringstermijn",
+      "ru": "срок инбюргеринга",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de ontheffing inburgering",
+      "ru": "освобождение от инбюргеринга",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de IND",
+      "ru": "иммиграционная служба (IND)",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de verblijfsvergunning aanvragen",
+      "ru": "подать на ВНЖ",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de verblijfstitel",
+      "ru": "тип ВНЖ",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de MVV",
+      "ru": "виза для длительного пребывания",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de kennismigrant",
+      "ru": "высококвалифицированный специалист",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de 30%-regeling",
+      "ru": "льгота 30% для экспатов",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de gemeenteraad",
+      "ru": "муниципальный совет",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de wethouder",
+      "ru": "член коллегии мэра",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de burgemeester",
+      "ru": "бургомистр",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de raadsvergadering",
+      "ru": "заседание совета",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de gemeenteraadsverkiezingen",
+      "ru": "выборы в муниципалитет",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de verkiezingscampagne",
+      "ru": "предвыборная кампания",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de stempas",
+      "ru": "приглашение на голосование",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het stembureau",
+      "ru": "избирательный участок",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de volmacht",
+      "ru": "доверенность (на голосование)",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de stemhulp",
+      "ru": "онлайн-помощник голосования",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de nieuwsbrief gemeente",
+      "ru": "рассылка муниципалитета",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de gemeenteberichten",
+      "ru": "сообщения муниципалитета",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de omgevingsvergunning",
+      "ru": "разрешение на перестройку",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de terrasvergunning",
+      "ru": "разрешение на террасу",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de horecavergunning",
+      "ru": "лицензия общепита",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de evenementenvergunning",
+      "ru": "разрешение на мероприятие",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de kapvergunning",
+      "ru": "разрешение на вырубку",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de parkeervergunning",
+      "ru": "разрешение на парковку",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de leges",
+      "ru": "пошлина (за услугу)",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "het WOB-verzoek",
+      "ru": "запрос по закону Woo (FOIA)",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de ombudsman",
+      "ru": "омбудсмен",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de bezwaarprocedure",
+      "ru": "процедура возражения",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de beroepsprocedure",
+      "ru": "процедура обжалования",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de hoorzitting",
+      "ru": "слушание",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de adviescommissie",
+      "ru": "консультативный комитет",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de beslistermijn",
+      "ru": "срок принятия решения",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de Wet dwangsom",
+      "ru": "закон о пене за задержку",
+      "level": "B1",
+      "theme": "government"
+    },
+    {
+      "nl": "de Nationale Ombudsman",
+      "ru": "национальный омбудсмен",
+      "level": "B1",
+      "theme": "government"
+    }
+  ]
+}

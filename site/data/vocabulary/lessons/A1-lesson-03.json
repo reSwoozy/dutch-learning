@@ -1,0 +1,226 @@
+[
+  {
+    "nl": "ik",
+    "ru": "я",
+    "example": "Ik ben leraar.",
+    "pronunciation": "ɪk",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "jij",
+    "ru": "ты",
+    "example": "Jij bent mooi.",
+    "pronunciation": "jɛi̯",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "je",
+    "ru": "ты (короткая форма)",
+    "example": "Hoe heet je?",
+    "pronunciation": "jə",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "u",
+    "ru": "Вы (формально)",
+    "example": "Waar woont u?",
+    "pronunciation": "y",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "hij",
+    "ru": "он",
+    "example": "Hij is mijn broer.",
+    "pronunciation": "ɦɛi̯",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "zij",
+    "ru": "она",
+    "example": "Zij werkt in Amsterdam.",
+    "pronunciation": "zɛi̯",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "ze",
+    "ru": "она (короткая форма)",
+    "example": "Ze is erg aardig.",
+    "pronunciation": "zə",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "het",
+    "ru": "оно",
+    "example": "Het huis is groot.",
+    "pronunciation": "ɦət",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "wij",
+    "ru": "мы",
+    "example": "Wij zijn vrienden.",
+    "pronunciation": "ʋɛi̯",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "we",
+    "ru": "мы (короткая форма)",
+    "example": "We gaan naar huis.",
+    "pronunciation": "ʋə",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "jullie",
+    "ru": "вы (множ. число)",
+    "example": "Jullie zijn welkom.",
+    "pronunciation": "ˈjʏli",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "zijn",
+    "ru": "быть (инфинитив)",
+    "example": "Ik wil gelukkig zijn.",
+    "pronunciation": "zɛi̯n",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "ben",
+    "ru": "есть (с ik)",
+    "example": "Ik ben 25 jaar oud.",
+    "pronunciation": "bɛn",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "bent",
+    "ru": "есть (с jij/u)",
+    "example": "Jij bent zeer vriendelijk.",
+    "pronunciation": "bɛnt",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "is",
+    "ru": "есть (с hij/zij/het)",
+    "example": "Hij is thuis vandaag.",
+    "pronunciation": "ɪs",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "niet",
+    "ru": "не",
+    "example": "Ik ben niet moe.",
+    "pronunciation": "nit",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "wel",
+    "ru": "да/действительно",
+    "example": "Dat is wel leuk!",
+    "pronunciation": "ʋɛl",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "ook",
+    "ru": "тоже",
+    "example": "Ik ga ook mee.",
+    "pronunciation": "oːk",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "hier",
+    "ru": "здесь",
+    "example": "Kom hier, alsjeblieft.",
+    "pronunciation": "ɦir",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "daar",
+    "ru": "там",
+    "example": "Mijn auto staat daar.",
+    "pronunciation": "daːr",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "waar",
+    "ru": "где",
+    "example": "Waar woon je?",
+    "pronunciation": "ʋaːr",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "wie",
+    "ru": "кто",
+    "example": "Wie is die man?",
+    "pronunciation": "ʋi",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "wat",
+    "ru": "что",
+    "example": "Wat doe je vandaag?",
+    "pronunciation": "ʋɑt",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "hoe",
+    "ru": "как",
+    "example": "Hoe gaat het met je?",
+    "pronunciation": "ɦu",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "oud",
+    "ru": "старый",
+    "example": "Mijn opa is erg oud.",
+    "pronunciation": "ɑu̯t",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "jong",
+    "ru": "молодой",
+    "example": "Hun dochter is nog jong.",
+    "pronunciation": "jɔŋ",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "groot",
+    "ru": "большой",
+    "example": "Dit huis is erg groot.",
+    "pronunciation": "ɣroːt",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "klein",
+    "ru": "маленький",
+    "example": "De auto is klein maar praktisch.",
+    "pronunciation": "klɛi̯n",
+    "level": "A1",
+    "lesson": 3
+  }
+]

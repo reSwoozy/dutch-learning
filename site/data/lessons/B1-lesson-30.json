@@ -1,0 +1,471 @@
+{
+  "id": "B1-lesson-30",
+  "num": 30,
+  "level": "B1",
+  "title": "Жильё и аренда",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Жильё и аренда",
+      "content": "**Освоить все аспекты жилищной сферы в Нидерландах: поиск жилья, аренда, права и обязанности, коммунальные услуги.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Основные типы домов",
+      "words": [
+        {
+          "nl": "Частный дом",
+          "ru": "vrijstaand huis",
+          "hint": "Отдельно стоящий дом"
+        },
+        {
+          "nl": "Рядный дом",
+          "ru": "rijtjeshuis",
+          "hint": "Дом в ряду домов"
+        },
+        {
+          "nl": "Канальный дом",
+          "ru": "grachtenpand",
+          "hint": "Исторический дом у канала"
+        },
+        {
+          "nl": "Квартира",
+          "ru": "appartement",
+          "hint": "Квартира в многоэтажке"
+        },
+        {
+          "nl": "Мезонет",
+          "ru": "maisonnette",
+          "hint": "Двухуровневая квартира"
+        },
+        {
+          "nl": "Студия",
+          "ru": "studio",
+          "hint": "Однокомнатная квартира"
+        },
+        {
+          "nl": "Пентхаус",
+          "ru": "penthouse",
+          "hint": "Квартира на верхнем этаже"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Планировка жилья",
+      "words": [
+        {
+          "nl": "Гостиная",
+          "ru": "woonkamer",
+          "hint": "Основная комната"
+        },
+        {
+          "nl": "Спальня",
+          "ru": "slaapkamer",
+          "hint": "Для сна"
+        },
+        {
+          "nl": "Кухня",
+          "ru": "keuken",
+          "hint": "Приготовление еды"
+        },
+        {
+          "nl": "Ванная",
+          "ru": "badkamer",
+          "hint": "Ванна/душ"
+        },
+        {
+          "nl": "Туалет",
+          "ru": "toilet / WC",
+          "hint": "Отдельный или совмещенный"
+        },
+        {
+          "nl": "Прихожая",
+          "ru": "hal",
+          "hint": "Входная зона"
+        },
+        {
+          "nl": "Балкон",
+          "ru": "balkon",
+          "hint": "Открытое пространство"
+        },
+        {
+          "nl": "Сад",
+          "ru": "tuin",
+          "hint": "Частный сад"
+        },
+        {
+          "nl": "Гараж",
+          "ru": "garage",
+          "hint": "Для автомобиля"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Основные сайты для поиска",
+      "words": [
+        {
+          "nl": "Funda.nl",
+          "ru": "Покупка и аренда"
+        },
+        {
+          "nl": "Kamernet.nl",
+          "ru": "Комнаты для студентов"
+        },
+        {
+          "nl": "Pararius.nl",
+          "ru": "Частная аренда"
+        },
+        {
+          "nl": "Jaap.nl",
+          "ru": "Покупка недвижимости"
+        },
+        {
+          "nl": "Rentals.com",
+          "ru": "Международная аренда"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Что указывать в заявке",
+      "content": "```\nMotivatiebrief (Мотивационное письмо)\n- Wie ben je? (Кто ты?)\n- Wat doe je? (Чем занимаешься?)\n- Waarom wil je dit huis? (Почему хочешь этот дом?)\n- Financiële situatie (Финансовое положение)\n- Referenties (Рекомендации)\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Стоимость аренды по городам (2024)",
+      "words": [
+        {
+          "nl": "Amsterdam",
+          "ru": "€1400-1800",
+          "hint": "€2500-3500"
+        },
+        {
+          "nl": "Utrecht",
+          "ru": "€1200-1600",
+          "hint": "€2200-3000"
+        },
+        {
+          "nl": "Rotterdam",
+          "ru": "€1000-1400",
+          "hint": "€1900-2600"
+        },
+        {
+          "nl": "Den Haag",
+          "ru": "€1100-1500",
+          "hint": "€2000-2700"
+        },
+        {
+          "nl": "Eindhoven",
+          "ru": "€900-1200",
+          "hint": "€1700-2300"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Типы арендных договоров",
+      "words": [
+        {
+          "nl": "Срочный",
+          "ru": "tijdelijk contract",
+          "hint": "Легче расторгнуть"
+        },
+        {
+          "nl": "Бессрочный",
+          "ru": "contract voor onbepaalde tijd",
+          "hint": "Сильная защита арендатора"
+        },
+        {
+          "nl": "Студенческий",
+          "ru": "studentenkamer",
+          "hint": "Особые условия"
+        },
+        {
+          "nl": "Antikraak",
+          "ru": "antikraak",
+          "hint": "Охрана пустующих зданий"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Финансовые условия аренды",
+      "words": [
+        {
+          "nl": "Залог",
+          "ru": "borg / waarborgsom",
+          "hint": "1-3 месяца аренды"
+        },
+        {
+          "nl": "Первый месяц",
+          "ru": "eerste maand huur",
+          "hint": "100%"
+        },
+        {
+          "nl": "Комиссия агента",
+          "ru": "makelaarskosten",
+          "hint": "1 месяц + НДС"
+        },
+        {
+          "nl": "Коммунальные",
+          "ru": "servicekosten",
+          "hint": "€50-200/месяц"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Необходимые документы",
+      "content": "```\nДокументы для аренды:\n✓ Справка о доходах (inkomensverklaring)\n✓ Выписка из банка (bankafschrift)\n✓ Копия паспорта (kopie paspoort)\n✓ BSN номер\n✓ Справка от работодателя (werkgeversverklaring)\n✓ Рекомендации от предыдущих арендодателей\n```"
+    },
+    {
+      "type": "text",
+      "title": "Диалог: Осмотр квартиры",
+      "content": "**Makelaar (Риелтор)**: Welkom! Dit is het appartement dat u wilde bekijken.\n**Huurder (Арендатор)**: Dank je wel! Hoeveel kamers heeft het?\n**Makelaar**: Het heeft twee slaapkamers, een woonkamer, keuken en badkamer. Ook een klein balkon.\n**Huurder**: Prachtig! Wat is de huurprijs?\n**Makelaar**: €1.650 per maand, exclusief gas, water en licht. Servicekosten zijn €75 per maand.\n**Huurder**: Zijn huisdieren toegestaan?\n**Makelaar**: Helaas niet. Dat staat in het huurcontract.\n**Huurder**: Wanneer kan ik erin?\n**Makelaar**: Per 1 maart. U moet wel eerst een borgsom betalen van twee maanden huur.\n**Huurder**: Dat klinkt goed. Wanneer kan ik de papieren tekenen?"
+    },
+    {
+      "type": "text",
+      "title": "Диалог: Проблемы с арендодателем",
+      "content": "**Huurder**: Goedemorgen, ik bel over de verwarming in mijn appartement.\n**Verhuurder (Арендодатель)**: Wat is het probleem?\n**Huurder**: De verwarming werkt al drie dagen niet. Het is erg koud.\n**Verhuurder**: Heeft u de thermostaat gecontroleerd?\n**Huurder**: Ja, alles geprobeerd. Ik denk dat de cv-ketel kapot is.\n**Verhuurder**: Oké, ik stuur morgen een monteur.\n**Huurder**: Kan het niet vandaag? We hebben kleine kinderen.\n**Verhuurder**: Ik zal het proberen. Ik bel u terug binnen een uur.\n**Huurder**: Dank je wel. Als het niet wordt opgelost, moet ik de huurprijs verminderen.\n**Verhuurder**: Dat begrijp ik. We lossen dit vandaag op."
+    },
+    {
+      "type": "vocabulary",
+      "title": "Rechten van de huurder",
+      "words": [
+        {
+          "nl": "Bewoonbaarheid",
+          "ru": "Recht op een leefbare woning"
+        },
+        {
+          "nl": "Privacy",
+          "ru": "Verhuurder mag niet zomaar binnen"
+        },
+        {
+          "nl": "Huurverhoging",
+          "ru": "Maximaal eens per jaar, wettelijk begrensd"
+        },
+        {
+          "nl": "Reparaties",
+          "ru": "Verhuurder moet gebreken repareren"
+        },
+        {
+          "nl": "Opzegtermijn",
+          "ru": "Minimaal 1 maand opzegtermijn"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Plichten van de huurder",
+      "words": [
+        {
+          "nl": "Huur betalen",
+          "ru": "Tijdig en volledig"
+        },
+        {
+          "nl": "Onderhoud",
+          "ru": "Klein onderhoud zelf doen"
+        },
+        {
+          "nl": "Schade melden",
+          "ru": "Direct melden bij de verhuurder"
+        },
+        {
+          "nl": "Huurcontract",
+          "ru": "Alle voorwaarden naleven"
+        },
+        {
+          "nl": "Normaal gebruik",
+          "ru": "Geen overlast voor buren"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Социальное жилье (sociale huur)",
+      "content": "**Voorwaarden voor sociale huur**:\n- Inkomen onder €47.699 (2024)\n- Inschrijving bij woningcorporatie\n- Wachttijd (vaak 5-15 jaar)\n- Nederlandse nationaliteit of verblijfsvergunning"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Основные коммунальные услуги",
+      "words": [
+        {
+          "nl": "Электричество",
+          "ru": "elektriciteit",
+          "hint": "€50-80/месяц"
+        },
+        {
+          "nl": "Газ",
+          "ru": "gas",
+          "hint": "€70-120/месяц"
+        },
+        {
+          "nl": "Вода",
+          "ru": "water",
+          "hint": "€35-50/месяц"
+        },
+        {
+          "nl": "Интернет",
+          "ru": "internet",
+          "hint": "€25-50/месяц"
+        },
+        {
+          "nl": "Телефон",
+          "ru": "telefoon",
+          "hint": "€20-40/месяц"
+        },
+        {
+          "nl": "Мусор",
+          "ru": "afval",
+          "hint": "€20-35/месяц"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Поставщики энергии",
+      "words": [
+        {
+          "nl": "Vattenfall",
+          "ru": "Электричество и газ"
+        },
+        {
+          "nl": "Eneco",
+          "ru": "Возобновляемая энергия"
+        },
+        {
+          "nl": "Essent",
+          "ru": "Традиционные тарифы"
+        },
+        {
+          "nl": "Budget Energie",
+          "ru": "Низкие цены"
+        },
+        {
+          "nl": "Greenchoice",
+          "ru": "Зеленая энергия"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Энергосбережение",
+      "words": [
+        {
+          "nl": "LED лампы",
+          "ru": "80% электричества"
+        },
+        {
+          "nl": "Изоляция",
+          "ru": "30% отопления"
+        },
+        {
+          "nl": "Умный термостат",
+          "ru": "15% отопления"
+        },
+        {
+          "nl": "Экономичная техника",
+          "ru": "25% электричества"
+        },
+        {
+          "nl": "Солнечные панели",
+          "ru": "50-70% электричества"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Описание жилья",
+      "items": [
+        {
+          "question": "Ищу двухкомнатную квартиру с балконом."
+        },
+        {
+          "question": "Дом имеет большой сад и гараж."
+        },
+        {
+          "question": "Квартира находится на третьем этаже."
+        },
+        {
+          "question": "В ванной есть душ и ванна."
+        },
+        {
+          "question": "Кухня полностью оборудована."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Расчет расходов на жилье",
+      "content": "**Ситуация**: Квартира €1.500/месяц + servicekosten €80\nРассчитайте общие месячные расходы:\n- Аренда: €1.500\n- Servicekosten: €80\n- Газ и электричество: €100\n- Интернет: €35\n- Муниципальные налоги: €120\n**Общая сумма**: _______"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Жалоба арендодателю",
+      "content": "Напишите письмо арендодателю о проблеме:\n**Ситуация**: Протекает кран в ванной уже неделю\n```\nGeachte heer/mevrouw [Naam],\nIk schrijf u over een probleem in mijn appartement...\n[Опишите проблему]\n[Попросите о ремонте]\n[Укажите срок]\nMet vriendelijke groet,\n[Uw naam]\n```"
+    },
+    {
+      "type": "culture",
+      "title": "Особенности голландского жилья",
+      "content": "** Архитектурные особенности**:\n- Узкие высокие дома (для экономии налогов)\n- Большие окна (максимум света)\n- Крутые лестницы (экономия пространства)\n- Отсутствие штор (традиция открытости)\n** Велосипедная инфраструктура**:\n- Обязательное место для велосипедов\n- Велопарковки в подвалах\n- Специальные велогаражи\n** Экологичность**:\n- Энергоэффективные дома\n- Солнечные панели на крышах\n- Раздельный сбор мусора\n- Зеленые крыши"
+    },
+    {
+      "type": "text",
+      "title": "Советы для новичков",
+      "content": "1. **Начните поиск заранее** - хорошее жилье быстро разбирается\n2. **Подготовьте документы** - полный пакет увеличивает шансы\n3. **Изучите район** - транспорт, магазины, безопасность\n4. **Читайте договор внимательно** - все условия важны\n5. **Делайте фото при заселении** - защита от неправомерных вычетов"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые фразы урока",
+      "words": [
+        {
+          "nl": "Ik zoek een appartement",
+          "ru": "Я ищу квартиру"
+        },
+        {
+          "nl": "Hoeveel is de huur per maand?",
+          "ru": "Сколько стоит аренда в месяц?"
+        },
+        {
+          "nl": "Zijn huisdieren toegestaan?",
+          "ru": "Разрешены ли домашние животные?"
+        },
+        {
+          "nl": "Wanneer kan ik erin?",
+          "ru": "Когда можно заселиться?"
+        },
+        {
+          "nl": "De verwarming werkt niet",
+          "ru": "Отопление не работает"
+        },
+        {
+          "nl": "Ik wil de huur opzeggen",
+          "ru": "Я хочу расторгнуть аренду"
+        },
+        {
+          "nl": "Waar kan ik me inschrijven?",
+          "ru": "Где можно зарегистрироваться?"
+        },
+        {
+          "nl": "Het huis is te duur",
+          "ru": "Дом слишком дорогой"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 29** (Банки и финансы): Ипотека и финансирование жилья\n- **Урок 28** (Работа и карьера): Доход влияет на возможность аренды\n- **Урок 27** (Пассивный залог): \"Het huis wordt verhuurd\" (Дом сдается)"
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 31: Правительство и законы (Overheid en wetten)**\n- Структура власти в Нидерландах\n- Права и обязанности граждан\n- Взаимодействие с государственными органами\n- Правовая система\n**Подготовка**: Подумайте о том, какие государственные услуги вам могут понадобиться!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-30.json"
+}

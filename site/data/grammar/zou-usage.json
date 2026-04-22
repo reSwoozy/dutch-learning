@@ -1,0 +1,127 @@
+{
+  "id": "zou-usage",
+  "title": "Zou / zouden: вежливость и пожелания",
+  "titleNL": "Gebruik van 'zou / zouden'",
+  "level": "B1",
+  "summary": "Форма 'zou' (ед.ч.) / 'zouden' (мн.ч.) — это imperfectum от глагола 'zullen'. Помимо условных предложений, она активно используется для вежливых просьб, выражения желаний, предложений и гипотез. Этот регистр обязателен в магазинах, офисах, e-mail и при общении с чиновниками.",
+  "rule": {
+    "formula": "zou/zouden + infinitief (в конце) | вежливая просьба: Zou je ... kunnen + inf? | желание: Ik zou graag ... (willen) + inf | предположение: Het zou kunnen dat ...",
+    "explanation": "'zou' — это условная форма 'zullen'. Она смягчает высказывание: 'kun je?' прямо → 'zou je kunnen?' вежливо. В комбинации с 'graag' и 'willen' выражает желание: Ik zou graag een kop koffie willen. В комбинации с 'kunnen / moeten' строит предположение: Dat zou kunnen. Во всех случаях 'zou/zouden' занимает 2-ю позицию, а инфинитив(ы) — в конце.",
+    "whenToUse": [
+      "Вежливая просьба: Zou je het raam willen openen? (Не мог бы ты открыть окно?)",
+      "Вежливое желание: Ik zou graag een kopje thee willen.",
+      "Предложение / совет: Je zou beter moeten slapen. (Тебе стоит лучше спать.)",
+      "Гипотеза / предположение: Hij zou vandaag komen, zei hij.",
+      "Условное следствие (с условным предл.): Als ik tijd had, zou ik komen."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Спряжение 'zullen' → 'zou/zouden'",
+      "headers": ["Лицо", "Presens", "Forma zou", "Пример"],
+      "rows": [
+        ["ik", "zal", "zou", "Ik zou het doen."],
+        ["jij/je", "zult / zal", "zou", "Zou je kunnen helpen?"],
+        ["u", "zult / zal", "zou", "Zou u dat willen herhalen?"],
+        ["hij/zij/het", "zal", "zou", "Zij zou komen, maar is ziek."],
+        ["wij/we", "zullen", "zouden", "Wij zouden graag willen reserveren."],
+        ["jullie", "zullen", "zouden", "Jullie zouden moeten gaan."],
+        ["zij/ze (мн.)", "zullen", "zouden", "Ze zouden morgen komen."]
+      ]
+    },
+    {
+      "title": "Функции 'zou/zouden'",
+      "headers": ["Функция", "Схема", "Пример"],
+      "rows": [
+        ["Вежливая просьба", "Zou + S + kunnen/willen + inf?", "Zou je even kunnen wachten?"],
+        ["Вежливое желание", "Ik zou graag + (willen) + inf", "Ik zou graag een koffie bestellen."],
+        ["Совет / рекомендация", "S + zou + moeten + inf", "Je zou meer moeten rusten."],
+        ["Гипотеза", "S + zou + kunnen + inf", "Dat zou kunnen kloppen."],
+        ["Условное следствие", "Als ... + S + zou + inf", "Als ik rijk was, zou ik reizen."],
+        ["Непрямая информация", "S + zou + inf (молва)", "Hij zou ziek zijn, zeggen ze."]
+      ]
+    },
+    {
+      "title": "Уровни вежливости",
+      "headers": ["Уровень", "Формулировка", "Контекст"],
+      "rows": [
+        ["Прямо", "Open het raam.", "близкие, императив"],
+        ["Нейтрально", "Kun je het raam openen?", "обычный разговор"],
+        ["Вежливо", "Zou je het raam kunnen openen?", "незнакомый/старший/клиент"],
+        ["Очень вежливо", "Zou u zo vriendelijk willen zijn het raam te openen?", "формальные ситуации"],
+        ["Письменно (email)", "Zou u mij kunnen laten weten of ...?", "деловое общение"]
+      ]
+    },
+    {
+      "title": "zou vs другие формы",
+      "headers": ["Форма", "Смысл", "Тон"],
+      "rows": [
+        ["Ik wil koffie.", "Я хочу кофе.", "прямо, местами невежливо"],
+        ["Ik zou graag koffie willen.", "Я хотел бы кофе.", "вежливо"],
+        ["Mag ik koffie?", "Можно мне кофе?", "разговорно, дружелюбно"],
+        ["Kunt u mij koffie brengen?", "Могли бы вы принести кофе?", "вежливо, делово"],
+        ["Zou u mij een koffie willen brengen?", "Не могли бы вы принести мне кофе?", "максимально вежливо"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Магическое 'zou graag (willen)'",
+      "items": [
+        "Запомни шаблон: 'Ik zou graag + (willen) + inf' — работает почти в любой просьбе.",
+        "С 'willen' — полный формальный вариант: Ik zou graag een afspraak willen maken.",
+        "Без 'willen' — короче и тоже уместно: Ik zou graag een afspraak maken."
+      ]
+    },
+    {
+      "title": "В условных предложениях",
+      "items": [
+        "В главном предложении после 'als ...' — 'zou + inf' или imperfectum.",
+        "Als ik tijd had, zou ik komen. / Als ik tijd had, kwam ik.",
+        "В придаточном 'als'-части 'zou' обычно не ставят (грамматика строгая)."
+      ]
+    },
+    {
+      "title": "'zou' в косвенной информации",
+      "items": [
+        "Когда передаёшь непроверенную информацию, 'zou' сигнализирует 'якобы, по слухам': Hij zou ziek zijn.",
+        "Часто в новостях: De prijs zou stijgen. (Цена якобы вырастет.)",
+        "Русский аналог — 'якобы, по слухам, согласно данным'."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Zou je me even kunnen helpen?", "ru": "Ты не мог бы мне немного помочь?" },
+    { "nl": "Ik zou graag een tafel voor twee reserveren.", "ru": "Я хотел бы зарезервировать столик на двоих." },
+    { "nl": "U zou beter met de trein kunnen gaan.", "ru": "Вам лучше поехать на поезде." },
+    { "nl": "Dat zou kunnen kloppen, maar ik weet het niet zeker.", "ru": "Это может быть так, но я не уверен." },
+    { "nl": "Als ik rijk was, zou ik een huis aan zee kopen.", "ru": "Если бы я был богат, я бы купил дом у моря." },
+    { "nl": "Hij zou vandaag komen, maar is ziek geworden.", "ru": "Он должен был прийти сегодня, но заболел." },
+    { "nl": "Zou u mij kunnen laten weten wanneer het klaar is?", "ru": "Не могли бы вы сообщить мне, когда всё будет готово?" },
+    { "nl": "Volgens de krant zou de minister aftreden.", "ru": "По сообщению газеты, министр якобы уйдёт в отставку." }
+  ],
+  "exceptions": [
+    "В современной разговорной речи 'Ik zou wel willen' звучит менее формально и подходит для дружеского 'было бы неплохо'.",
+    "В императивных вежливых просьбах часто используют 'zou je even ...' — 'even' смягчает ещё сильнее.",
+    "'zou' не комбинируется с 'moeten' одновременно для желания ('Ik zou moeten willen' — странно); используют 'zou willen' или 'zou moeten' по отдельности.",
+    "В формальном письме вместо 'zou je' пишут 'zou u' и добавляют 'zo vriendelijk / mij laten weten / mij berichten'."
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik zou een koffie graag.", "correct": "Ik zou graag een koffie (willen).", "why": "'graag' ставится сразу после 'zou', перед дополнением." },
+    { "wrong": "Zou je het raam openen willen?", "correct": "Zou je het raam willen openen?", "why": "Порядок инфинитивов в конце: сначала модальный, потом смысловой: 'willen openen'." },
+    { "wrong": "Ik zou ga naar huis.", "correct": "Ik zou naar huis gaan.", "why": "После 'zou' — инфинитив, не спряжённая форма." },
+    { "wrong": "Als ik geld zou hebben, ik zou reizen.", "correct": "Als ik geld had, zou ik reizen.", "why": "В 'als'-части — imperfectum, в главном — 'zou + inf' с инверсией." },
+    { "wrong": "Zou je kan me helpen?", "correct": "Zou je me kunnen helpen?", "why": "В конструкции с 'zou + модальный' модальный — в инфинитиве ('kunnen')." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "___ je me even kunnen helpen? (вежливо)", "answer": "Zou", "explanation": "Zou + je + модальный + inf = вежливая просьба." },
+    { "type": "word-order", "words": ["ik", "graag", "een", "kopje", "koffie", "zou", "willen"], "answer": "Ik zou graag een kopje koffie willen.", "explanation": "Шаблон 'Ik zou graag ... willen'." },
+    { "type": "choice", "question": "Наиболее вежливая форма 'открой окно':", "options": ["Open het raam.", "Kun je het raam openen?", "Zou u het raam willen openen?"], "answer": "Zou u het raam willen openen?", "explanation": "Zou u + willen + inf = максимально вежливо." },
+    { "type": "fill-blank", "sentence": "Als ik tijd had, ___ ik komen.", "answer": "zou", "explanation": "В главном предложении условия — 'zou + inf'." },
+    { "type": "choice", "question": "Dat ___ kloppen, maar ik weet het niet zeker. (предположение)", "options": ["zou", "zal", "moet"], "answer": "zou", "explanation": "'zou kunnen kloppen' — предположение, 'возможно так'." },
+    { "type": "fill-blank", "sentence": "Volgens de krant ___ de minister aftreden. (якобы)", "answer": "zou", "explanation": "'zou' как маркер непроверенной информации." },
+    { "type": "choice", "question": "Правильный порядок инфинитивов:", "options": ["Zou je helpen kunnen?", "Zou je kunnen helpen?"], "answer": "Zou je kunnen helpen?", "explanation": "Модальный инфинитив ('kunnen') стоит перед смысловым ('helpen')." }
+  ],
+  "relatedTopics": ["conditional", "modal-verbs", "indirect-speech", "register-and-style"],
+  "inLessons": [26, 29, 40, 44]
+}

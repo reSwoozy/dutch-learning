@@ -1,0 +1,73 @@
+{
+  "id": "B2-text-04",
+  "level": "B2",
+  "title": "Polarisatie in het publieke debat",
+  "topic": "maatschappij-politiek",
+  "readingTime": "5 min",
+  "body": "De toon van het Nederlandse publieke debat is de afgelopen jaren merkbaar scherper geworden. Op sociale media, in talkshows en soms ook in de Tweede Kamer worden standpunten feller geformuleerd dan voorheen. Sociologen spreken van een toenemende polarisatie, een proces waarbij meningen niet alleen uiteenlopen, maar groepen zich ook steeds meer tegenover elkaar plaatsen.\n\nDe oorzaken zijn complex. Algoritmes van sociale mediaplatformen belonen inhoud die emoties oproept, waardoor extreme standpunten meer zichtbaarheid krijgen dan genuanceerde bijdragen. Daarnaast speelt een gevoel van onbehagen een rol: niet iedereen ervaart dat zijn stem gehoord wordt in Den Haag. Historisch kent Nederland een cultuur van overleg en compromis, maar juist die 'poldercultuur' wordt door critici soms als traag en ontoegankelijk ervaren.\n\nPolarisatie kan positieve én negatieve gevolgen hebben. Aan de ene kant stimuleert het debat en zorgt het ervoor dat onderwerpen die lang onbesproken bleven – zoals racisme, klimaat, inkomensongelijkheid – op de politieke agenda belanden. Aan de andere kant ondermijnt aanhoudende polarisatie het vertrouwen in instituties: de rechtspraak, de pers, de overheid. Wanneer iedere poging tot nuance wordt afgedaan als 'weggekeken probleem' of 'elitair geleuter', wordt zinvol debat nagenoeg onmogelijk.\n\nOnderzoekers pleiten voor een actieve rol van journalistiek en onderwijs. Kwaliteitsjournalistiek – met hoor en wederhoor, feitenchecks en toegankelijke analyses – kan een tegenwicht bieden aan kortstondige sociale-mediastormen. Onderwijs moet jongeren leren kritisch te kijken naar informatiebronnen en respectvol om te gaan met andere meningen. Mediawijsheid is daarbij een essentiële vaardigheid, geen luxe.\n\nOok politici dragen verantwoordelijkheid. Het is verleidelijk om op korte termijn te scoren met scherpe oneliners, maar langdurige polarisatie schaadt uiteindelijk iedereen – inclusief het vertrouwen in de democratie zelf. Breder gezien vraagt de democratische samenleving om burgers die bereid zijn te luisteren, zichzelf ter discussie te stellen en de menselijke waardigheid van andersdenkenden te erkennen.",
+  "glossary": [
+    {"nl": "de toon", "ru": "тон"},
+    {"nl": "merkbaar", "ru": "заметно"},
+    {"nl": "het standpunt", "ru": "позиция"},
+    {"nl": "de polarisatie", "ru": "поляризация"},
+    {"nl": "het onbehagen", "ru": "недовольство, беспокойство"},
+    {"nl": "de poldercultuur", "ru": "культура согласия (нидерл.)"},
+    {"nl": "ontoegankelijk", "ru": "недоступный"},
+    {"nl": "de rechtspraak", "ru": "правосудие"},
+    {"nl": "de instituties", "ru": "институты"},
+    {"nl": "elitair", "ru": "элитарный"},
+    {"nl": "het geleuter", "ru": "болтовня, пустая трепля"},
+    {"nl": "hoor en wederhoor", "ru": "заслушать обе стороны"},
+    {"nl": "de feitencheck", "ru": "проверка фактов"},
+    {"nl": "mediawijsheid", "ru": "медиаграмотность"},
+    {"nl": "de oneliner", "ru": "хлёсткая фраза"},
+    {"nl": "de menselijke waardigheid", "ru": "человеческое достоинство"}
+  ],
+  "questions": [
+    {
+      "q": "Wat bedoelen sociologen met polarisatie?",
+      "options": [
+        "Meningen komen steeds meer overeen",
+        "Meningen lopen uiteen en groepen staan tegenover elkaar",
+        "Iedereen denkt hetzelfde"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Welke rol spelen algoritmes?",
+      "options": [
+        "Ze bevorderen genuanceerde standpunten",
+        "Ze belonen emotie, waardoor extreme standpunten meer zichtbaarheid krijgen",
+        "Ze hebben geen effect"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat is een mogelijk positief effect van polarisatie?",
+      "options": [
+        "Minder vertrouwen in instituties",
+        "Onderwerpen als racisme en klimaat komen op de agenda",
+        "Meer onbehagen bij burgers"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat moet onderwijs volgens onderzoekers doen?",
+      "options": [
+        "Alleen feiten aanleren",
+        "Kritisch denken en respectvol omgaan met andere meningen aanleren",
+        "Sociale media verbieden"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat wordt van burgers gevraagd?",
+      "options": [
+        "Afwachten en niets doen",
+        "Luisteren, zichzelf ter discussie stellen, waardigheid van anderen erkennen",
+        "Meer oneliners gebruiken"
+      ],
+      "answer": 1
+    }
+  ]
+}

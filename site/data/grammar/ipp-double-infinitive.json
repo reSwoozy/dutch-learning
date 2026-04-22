@@ -1,0 +1,139 @@
+{
+  "id": "ipp-double-infinitive",
+  "title": "IPP / двойной инфинитив в перфектуме",
+  "titleNL": "Infinitivus pro participio (IPP)",
+  "level": "B2",
+  "summary": "Когда модальный или позиционный глагол сочетается со смысловым в перфектуме, вместо причастия (voltooid deelwoord) используется инфинитив. Это правило IPP (infinitivus pro participio): 'Ik heb het niet kunnen doen' (не 'gekund gedaan'). Строгое правило для B2 и экзамена inburgering.",
+  "rule": {
+    "formula": "hebben (спряг.) + ... + модальный инф. + смысловой инф. (в конце) | в придаточном: hebben + оба инф. все в самом конце",
+    "explanation": "В перфекте модальный глагол (kunnen, moeten, mogen, willen, zullen, laten) не образует причастие (gekund, gemoeten), а остаётся в инфинитиве. То же касается глаголов восприятия (zien, horen, voelen) и позиционных (staan, zitten, liggen, lopen, hangen). Получается 'двойной инфинитив': 'heeft kunnen doen', 'heeft zien vertrekken', 'heeft zitten lezen'. Вспомогательный — почти всегда 'hebben'.",
+    "whenToUse": [
+      "Модальные в перфекте: Ik heb moeten werken. (пришлось работать)",
+      "Модальные с смысловым: Hij heeft niet kunnen komen.",
+      "Глаголы восприятия: Ik heb hem zien vertrekken.",
+      "'laten' (пускать, велеть): Ik heb mijn haar laten knippen.",
+      "Позиционные глаголы: Wij hebben de hele avond zitten praten."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Глаголы, подверженные IPP",
+      "headers": ["Группа", "Глаголы", "Пример"],
+      "rows": [
+        ["Модальные", "kunnen, moeten, mogen, willen, zullen", "Ik heb willen helpen."],
+        ["Каузативный 'laten'", "laten + inf", "Ik heb mijn auto laten repareren."],
+        ["Восприятия", "zien, horen, voelen, kijken", "Ik heb hem horen zingen."],
+        ["Позиционные", "staan, zitten, liggen, lopen, hangen", "Hij heeft staan wachten."],
+        ["'blijven'", "blijven (продолжать)", "Ze is blijven slapen. (с 'zijn'!)"],
+        ["'gaan' + inf (реже)", "gaan in перфекте", "Ik ben wezen eten. (диалект) / обычно: Ik ben gaan eten."]
+      ]
+    },
+    {
+      "title": "Обычное vs IPP",
+      "headers": ["Глагол", "Обычный перфект (один гл.)", "IPP (с двумя гл.)"],
+      "rows": [
+        ["kunnen", "Ik heb het gekund. (очень редко, 'я смог это')", "Ik heb het kunnen doen."],
+        ["moeten", "Ik heb het gemoeten. (редко)", "Ik heb moeten werken."],
+        ["willen", "Ik heb het gewild. (редко)", "Ik heb willen komen."],
+        ["zien", "Ik heb hem gezien. (обычный перфект!)", "Ik heb hem zien vertrekken. (IPP)"],
+        ["horen", "Ik heb muziek gehoord.", "Ik heb hem horen zingen."],
+        ["staan", "Ik heb daar gestaan.", "Ik heb staan wachten."]
+      ]
+    },
+    {
+      "title": "Порядок слов в главном и придаточном",
+      "headers": ["Тип", "Схема", "Пример"],
+      "rows": [
+        ["Главное", "hebben (2) ... модальн. inf + смысл. inf (конец)", "Ik heb gisteren niet kunnen komen."],
+        ["Главное с доп.", "hebben (2) + obj + модальн. inf + смысл. inf", "Ik heb mijn haar laten knippen."],
+        ["Придаточное", "...dat/omdat S + obj + hebben + оба inf", "...omdat ik niet heb kunnen komen."],
+        ["Придаточное с 3 глаголами", "...dat S + hebben + модальн. + смысл.", "...dat hij had moeten werken."]
+      ]
+    },
+    {
+      "title": "Спец. случай: 'blijven' с 'zijn'",
+      "headers": ["Глагол", "Вспомогательный", "Пример"],
+      "rows": [
+        ["blijven + inf", "zijn", "Hij is blijven wachten."],
+        ["gaan + inf", "zijn", "Wij zijn gaan eten."],
+        ["komen + inf", "zijn", "Zij is komen logeren."],
+        ["leren + inf", "hebben", "Ik heb leren zwemmen."],
+        ["helpen + inf", "hebben", "Hij heeft me helpen opruimen."]
+      ]
+    },
+    {
+      "title": "Типичные конструкции",
+      "headers": ["Контекст", "Пример", "Перевод"],
+      "rows": [
+        ["Невозможность", "Ik heb het niet kunnen vinden.", "Я не смог это найти."],
+        ["Долженствование в прошлом", "Wij hebben moeten wachten.", "Нам пришлось ждать."],
+        ["Желание в прошлом", "Hij heeft willen helpen.", "Он хотел помочь."],
+        ["Каузатив", "Zij heeft haar fiets laten maken.", "Она отдала велосипед в ремонт."],
+        ["Восприятие", "Ik heb hen zien gaan.", "Я видел, как они уходили."],
+        ["Длительность+поза", "De kinderen hebben liggen slapen.", "Дети лежали и спали."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Проверь себя: может ли быть причастие?",
+      "items": [
+        "Если у глагола есть дополнение-инфинитив (рядом стоит другой глагол в инфинитиве) — почти всегда IPP.",
+        "Если глагол стоит один как смысловой — обычный перфект с причастием: 'Ik heb hem gezien' (я его видел).",
+        "Сравни: Ik heb hem gezien. vs Ik heb hem zien komen. — во втором 'zien' остаётся в инфинитиве."
+      ]
+    },
+    {
+      "title": "Порядок в придаточном",
+      "items": [
+        "В придаточном все глагольные формы уходят в самый конец, в порядке: вспомогательный → модальный инф. → смысловой инф.",
+        "...omdat ik niet heb kunnen komen.",
+        "Иногда допустим и обратный порядок 'смысловой → модальный' (особенно во Фландрии): ...omdat ik niet komen heb kunnen — в Нидерландах звучит архаично.",
+        "Стандарт: heb kunnen komen."
+      ]
+    },
+    {
+      "title": "IPP с 'laten' — каузатив",
+      "items": [
+        "'laten + inf' = 'давать/поручать/велеть сделать'.",
+        "В перфектуме: hebben + laten + инф.: Ik heb mijn kleren laten wassen.",
+        "Смысл: я отдал одежду в стирку (кто-то сделал это для меня).",
+        "Не путай с 'gelaten' (редкое причастие от 'laten' в значении 'оставил')."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik heb gisteren niet kunnen komen.", "ru": "Я вчера не смог прийти." },
+    { "nl": "Wij hebben moeten wachten op de trein.", "ru": "Нам пришлось ждать поезд." },
+    { "nl": "Zij heeft haar haar laten knippen.", "ru": "Она подстриглась (у парикмахера)." },
+    { "nl": "Ik heb hem zien vertrekken.", "ru": "Я видел, как он уезжал." },
+    { "nl": "Wij hebben de hele avond zitten praten.", "ru": "Мы весь вечер просидели и проговорили." },
+    { "nl": "Hij is blijven slapen bij een vriend.", "ru": "Он остался ночевать у друга. (с 'zijn')" },
+    { "nl": "...omdat ik niet heb kunnen komen.", "ru": "...потому что я не смог прийти. (придаточное)" },
+    { "nl": "Ze heeft de kinderen horen lachen.", "ru": "Она слышала, как дети смеялись." }
+  ],
+  "exceptions": [
+    "Обычное причастие у модальных редко, но возможно, когда модальный сам — главный и смысла: 'Ik heb het gekund' (я это смог) — очень редко.",
+    "'blijven', 'gaan', 'komen' с инфинитивом используют 'zijn' в перфекте, не 'hebben'.",
+    "В разговорном нидерландском часто опускают дополнение-инфинитив: 'Ik heb niet gekund' (вместо 'ik heb niet kunnen gaan') — стилистически нестрого.",
+    "'wezen' — разговорный вариант 'zijn' в перфекте: Ik ben wezen eten (= ik ben gaan eten). Стандарт предпочитает 'gaan'."
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik heb gisteren niet gekund komen.", "correct": "Ik heb gisteren niet kunnen komen.", "why": "При IPP модальный остаётся в инфинитиве, причастие 'gekund' не используется." },
+    { "wrong": "Hij heeft mijn haar gelaten knippen.", "correct": "Hij heeft mijn haar laten knippen.", "why": "'laten' в каузативной конструкции — в инфинитиве, не в причастии." },
+    { "wrong": "Ik ben moeten werken.", "correct": "Ik heb moeten werken.", "why": "Модальные в перфекте берут 'hebben'." },
+    { "wrong": "...omdat ik niet kunnen komen heb.", "correct": "...omdat ik niet heb kunnen komen.", "why": "Стандартный порядок в придаточном: вспомогательный → модальный → смысловой." },
+    { "wrong": "Ik heb hem gezien komen.", "correct": "Ik heb hem zien komen.", "why": "Когда 'zien' управляет инфинитивом, причастие 'gezien' не используется — IPP." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Ik heb gisteren niet ___ komen. (смочь)", "answer": "kunnen", "explanation": "IPP: модальный в инфинитиве." },
+    { "type": "word-order", "words": ["wij", "hebben", "moeten", "wachten", "op", "de", "trein"], "answer": "Wij hebben moeten wachten op de trein.", "explanation": "Порядок: hebben + модальн. + смысл. + обстоятельство." },
+    { "type": "choice", "question": "'Я подстригся (у парикмахера)' — перфект:", "options": ["Ik heb mijn haar gelaten knippen.", "Ik heb mijn haar laten knippen."], "answer": "Ik heb mijn haar laten knippen.", "explanation": "'laten + inf' — IPP, без 'ge-' и без причастия." },
+    { "type": "fill-blank", "sentence": "Ik heb hem ___ vertrekken. (видеть как)", "answer": "zien", "explanation": "Глагол восприятия 'zien' + инф. → IPP." },
+    { "type": "choice", "question": "Правильный порядок в придаточном:", "options": ["...omdat ik niet heb kunnen komen.", "...omdat ik niet kunnen komen heb."], "answer": "...omdat ik niet heb kunnen komen.", "explanation": "Стандарт: вспомогательный → модальный inf → смысловой inf." },
+    { "type": "fill-blank", "sentence": "Hij ___ blijven slapen bij zijn vriend. (вспомог. глагол)", "answer": "is", "explanation": "'blijven + inf' берёт 'zijn', не 'hebben'." },
+    { "type": "choice", "question": "Перфект от 'Ik moet werken':", "options": ["Ik heb gemoeten werken.", "Ik heb moeten werken.", "Ik ben moeten werken."], "answer": "Ik heb moeten werken.", "explanation": "'hebben + moeten (inf) + werken (inf)'." }
+  ],
+  "relatedTopics": ["perfectum", "modal-verbs", "posture-te-infinitive", "passive-voice"],
+  "inLessons": [41, 42, 48]
+}

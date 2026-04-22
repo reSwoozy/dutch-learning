@@ -1,0 +1,96 @@
+{
+  "id": "word-order",
+  "title": "Порядок слов",
+  "titleNL": "Woordvolgorde",
+  "level": "A1",
+  "summary": "Нидерландский имеет строгие правила порядка слов. Глагол в главном предложении всегда на 2-м месте (V2-правило). В придаточном -- на последнем месте.",
+  "rule": {
+    "formula": "Главное: S-V-O (подлежащее-глагол-дополнение) | Инверсия: X-V-S-O | Придаточное: союз-S-...-V",
+    "explanation": "Главное правило: спрягаемый глагол ВСЕГДА на 2-й позиции в главном предложении. Если предложение начинается не с подлежащего (а с наречия, дополнения и т.д.), подлежащее и глагол меняются местами (инверсия).",
+    "whenToUse": [
+      "Прямой порядок (S-V): Ik werk elke dag.",
+      "Инверсия (X-V-S): Elke dag werk ik. / Morgen ga ik naar school.",
+      "Придаточное (...V): ...omdat ik in Amsterdam woon.",
+      "Два глагола: второй глагол в конце: Ik wil Nederlands leren."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Позиции в главном предложении",
+      "headers": ["Позиция 1", "Позиция 2 (глагол!)", "Середина", "Конец"],
+      "rows": [
+        ["Ik", "werk", "elke dag", "in Amsterdam."],
+        ["Elke dag", "werk", "ik", "in Amsterdam."],
+        ["In Amsterdam", "werk", "ik", "elke dag."],
+        ["Morgen", "ga", "ik", "naar school."],
+        ["Het boek", "heb", "ik gisteren", "gelezen."]
+      ]
+    },
+    {
+      "title": "Порядок в придаточном предложении",
+      "headers": ["Союз", "Подлежащее", "...", "Глагол (в конце!)"],
+      "rows": [
+        ["omdat", "ik", "in Amsterdam", "woon"],
+        ["dat", "hij", "Nederlands", "spreekt"],
+        ["als", "het", "morgen mooi weer", "is"],
+        ["wanneer", "je", "klaar", "bent"]
+      ]
+    },
+    {
+      "title": "Место наречий (время-способ-место)",
+      "headers": ["Подлежащее", "Глагол", "Время", "Способ", "Место"],
+      "rows": [
+        ["Ik", "ga", "morgen", "met de trein", "naar Utrecht."],
+        ["Zij", "werkt", "elke dag", "hard", "op kantoor."],
+        ["Wij", "fietsen", "'s ochtends", "graag", "door het park."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Правило V2 -- самое важное",
+      "items": [
+        "Спрягаемый глагол ВСЕГДА на 2-й позиции",
+        "Позиция 1 может быть: подлежащее, наречие времени, дополнение, придаточное предложение",
+        "Если позиция 1 занята чем-то кроме подлежащего -> инверсия"
+      ]
+    },
+    {
+      "title": "Два глагола в предложении",
+      "items": [
+        "Спрягаемый глагол на 2-м месте, второй глагол (инфинитив/причастие) -- в конце",
+        "Ik wil een boek lezen. (wil на 2-м месте, lezen в конце)",
+        "Hij heeft een brief geschreven. (heeft на 2-м месте, geschreven в конце)"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik leer Nederlands.", "ru": "Я учу нидерландский. (прямой порядок: S-V-O)" },
+    { "nl": "Nederlands leer ik elke dag.", "ru": "Нидерландский я учу каждый день. (инверсия: O-V-S)" },
+    { "nl": "Morgen ga ik naar de dokter.", "ru": "Завтра я иду к врачу. (инверсия: время-V-S)" },
+    { "nl": "Ik wil een kopje koffie drinken.", "ru": "Я хочу выпить чашку кофе. (два глагола: wil на 2-м, drinken в конце)" },
+    { "nl": "Hij zegt dat hij morgen komt.", "ru": "Он говорит, что он завтра придет. (придаточное: глагол в конце)" },
+    { "nl": "Omdat het regent, blijf ik thuis.", "ru": "Потому что идет дождь, я остаюсь дома. (придаточное + инверсия в главном)" },
+    { "nl": "Ik heb gisteren een film gekeken.", "ru": "Я вчера посмотрел фильм. (два глагола: heb на 2-м, gekeken в конце)" }
+  ],
+  "exceptions": [
+    "Повелительное наклонение: глагол на 1-м месте -- Kom hier! Ga zitten!",
+    "Да/нет вопросы: глагол на 1-м месте -- Spreek jij Nederlands?",
+    "Wh-вопросы: вопросительное слово на 1-м, глагол на 2-м -- Waar woon je?"
+  ],
+  "commonMistakes": [
+    { "wrong": "Morgen ik ga naar school.", "correct": "Morgen ga ik naar school.", "why": "После наречия на 1-й позиции -- инверсия (глагол перед подлежащим)" },
+    { "wrong": "Ik wil drinken een kopje koffie.", "correct": "Ik wil een kopje koffie drinken.", "why": "Второй глагол (инфинитив) идет в конец предложения" },
+    { "wrong": "...omdat ik woon in Amsterdam.", "correct": "...omdat ik in Amsterdam woon.", "why": "В придаточном предложении глагол стоит в конце" },
+    { "wrong": "Gisteren ik heb gewerkt.", "correct": "Gisteren heb ik gewerkt.", "why": "Инверсия: после наречия времени глагол перед подлежащим" }
+  ],
+  "exercises": [
+    { "type": "word-order", "words": ["ik", "morgen", "ga", "naar", "Amsterdam"], "answer": "Morgen ga ik naar Amsterdam.", "explanation": "Время на 1-й позиции -> инверсия" },
+    { "type": "word-order", "words": ["hij", "wil", "Nederlands", "leren"], "answer": "Hij wil Nederlands leren.", "explanation": "Два глагола: wil на 2-м, leren в конце" },
+    { "type": "fill-blank", "sentence": "Elke dag __ ik naar mijn werk. (fietsen)", "answer": "fiets", "explanation": "Инверсия: глагол на 2-й позиции" },
+    { "type": "choice", "question": "...omdat hij goed Nederlands __.", "options": ["spreekt", "spreken", "spreek"], "answer": "spreekt", "explanation": "В придаточном глагол в конце, спрягается по лицу (hij -> spreekt)" },
+    { "type": "word-order", "words": ["ik", "heb", "een", "boek", "gisteren", "gelezen"], "answer": "Ik heb gisteren een boek gelezen.", "explanation": "heb на 2-м месте, gelezen в конце, время перед дополнением" }
+  ],
+  "relatedTopics": ["questions", "conjunctions", "present-tense", "perfectum", "relative-pronouns", "adverbs"],
+  "inLessons": [1, 6, 13, 25, 26]
+}

@@ -1,0 +1,597 @@
+{
+  "categories": [
+    {
+      "id": "lexicon-and-phonetics",
+      "title": "Лексика и фонетика",
+      "topics": [
+        "alphabet-and-sounds",
+        "pronunciation",
+        "spelling-rules",
+        "numbers-dates",
+        "word-formation"
+      ]
+    },
+    {
+      "id": "nouns",
+      "title": "Существительные",
+      "topics": [
+        "articles",
+        "nouns-plurals",
+        "diminutives",
+        "quantifiers"
+      ]
+    },
+    {
+      "id": "pronouns",
+      "title": "Местоимения",
+      "topics": [
+        "personal-pronouns",
+        "possessive-pronouns",
+        "demonstrative-pronouns",
+        "indefinite-pronouns",
+        "relative-pronouns"
+      ]
+    },
+    {
+      "id": "verbs",
+      "title": "Глаголы",
+      "topics": [
+        "present-tense",
+        "imperative",
+        "modal-verbs",
+        "separable-verbs",
+        "future-tense",
+        "perfectum",
+        "progressive-aan-het",
+        "te-infinitive",
+        "past-simple",
+        "reflexive-verbs",
+        "passive-voice",
+        "verb-preposition",
+        "posture-te-infinitive",
+        "zou-usage",
+        "conditional",
+        "plusquamperfectum",
+        "ipp-double-infinitive",
+        "verb-valency-reference"
+      ]
+    },
+    {
+      "id": "adjectives-adverbs",
+      "title": "Прилагательные и наречия",
+      "topics": [
+        "adjectives",
+        "comparatives",
+        "adverbs",
+        "te-adjective"
+      ]
+    },
+    {
+      "id": "sentence-structure",
+      "title": "Структура предложения",
+      "topics": [
+        "word-order",
+        "questions",
+        "negation",
+        "conjunctions",
+        "er-construction",
+        "indirect-speech",
+        "discourse-markers"
+      ]
+    },
+    {
+      "id": "prepositions-and-particles",
+      "title": "Предлоги и частицы",
+      "topics": [
+        "prepositions"
+      ]
+    },
+    {
+      "id": "style-and-speech",
+      "title": "Стиль и речь",
+      "topics": [
+        "modal-particles",
+        "register-and-style",
+        "fixed-expressions"
+      ]
+    }
+  ],
+  "topics": {
+    "alphabet-and-sounds": {
+      "title": "Алфавит и звуки (старт)",
+      "level": "A1",
+      "file": "alphabet-and-sounds.json",
+      "inLessons": [
+        1,
+        2
+      ]
+    },
+    "pronunciation": {
+      "title": "Фонетика для русскоговорящих",
+      "level": "A1",
+      "file": "pronunciation.json",
+      "inLessons": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ]
+    },
+    "spelling-rules": {
+      "title": "Правила орфографии",
+      "level": "A1",
+      "file": "spelling-rules.json",
+      "inLessons": [
+        2,
+        3,
+        6,
+        13
+      ]
+    },
+    "numbers-dates": {
+      "title": "Числа, даты, время, деньги",
+      "level": "A1",
+      "file": "numbers-dates.json",
+      "inLessons": [
+        2,
+        3,
+        5,
+        7,
+        11
+      ]
+    },
+    "word-formation": {
+      "title": "Словообразование: приставки и суффиксы",
+      "level": "B2",
+      "file": "word-formation.json",
+      "inLessons": [
+        30,
+        38,
+        42,
+        47,
+        50
+      ]
+    },
+    "articles": {
+      "title": "Артикли de/het",
+      "level": "A1",
+      "file": "articles.json",
+      "inLessons": [
+        2,
+        5,
+        12
+      ]
+    },
+    "nouns-plurals": {
+      "title": "Множественное число",
+      "level": "A1",
+      "file": "nouns-plurals.json",
+      "inLessons": [
+        2,
+        5,
+        7,
+        12
+      ]
+    },
+    "diminutives": {
+      "title": "Уменьшительные формы (-je)",
+      "level": "A2",
+      "file": "diminutives.json",
+      "inLessons": [
+        6,
+        7,
+        14
+      ]
+    },
+    "quantifiers": {
+      "title": "Количественные слова и определители",
+      "level": "A2",
+      "file": "quantifiers.json",
+      "inLessons": [
+        14,
+        16,
+        20,
+        24
+      ]
+    },
+    "personal-pronouns": {
+      "title": "Личные местоимения",
+      "level": "A1",
+      "file": "personal-pronouns.json",
+      "inLessons": [
+        1,
+        3,
+        5
+      ]
+    },
+    "possessive-pronouns": {
+      "title": "Притяжательные местоимения",
+      "level": "A1",
+      "file": "possessive-pronouns.json",
+      "inLessons": [
+        3,
+        5,
+        12
+      ]
+    },
+    "demonstrative-pronouns": {
+      "title": "Указательные местоимения",
+      "level": "A2",
+      "file": "demonstrative-pronouns.json",
+      "inLessons": [
+        8,
+        14,
+        19
+      ]
+    },
+    "indefinite-pronouns": {
+      "title": "Неопределённые местоимения",
+      "level": "A2",
+      "file": "indefinite-pronouns.json",
+      "inLessons": [
+        14,
+        18,
+        24
+      ]
+    },
+    "relative-pronouns": {
+      "title": "Относительные местоимения (die/dat/wat)",
+      "level": "B1",
+      "file": "relative-pronouns.json",
+      "inLessons": [
+        25,
+        52
+      ]
+    },
+    "present-tense": {
+      "title": "Настоящее время (OTT)",
+      "level": "A1",
+      "file": "present-tense.json",
+      "inLessons": [
+        3,
+        6,
+        12,
+        13
+      ]
+    },
+    "imperative": {
+      "title": "Повелительное наклонение (Imperatief)",
+      "level": "A1",
+      "file": "imperative.json",
+      "inLessons": [
+        1,
+        4,
+        49
+      ]
+    },
+    "modal-verbs": {
+      "title": "Модальные глаголы",
+      "level": "A2",
+      "file": "modal-verbs.json",
+      "inLessons": [
+        7,
+        18,
+        24
+      ]
+    },
+    "separable-verbs": {
+      "title": "Отделяемые глаголы",
+      "level": "A2",
+      "file": "separable-verbs.json",
+      "inLessons": [
+        14,
+        17,
+        20,
+        24
+      ]
+    },
+    "future-tense": {
+      "title": "Будущее время",
+      "level": "A2",
+      "file": "future-tense.json",
+      "inLessons": [
+        21,
+        24
+      ]
+    },
+    "perfectum": {
+      "title": "Прошедшее время (Perfectum)",
+      "level": "A2",
+      "file": "perfectum.json",
+      "inLessons": [
+        17,
+        24,
+        36
+      ]
+    },
+    "progressive-aan-het": {
+      "title": "Прогрессив: aan het + инфинитив",
+      "level": "A2",
+      "file": "progressive-aan-het.json",
+      "inLessons": [
+        13,
+        15,
+        23
+      ]
+    },
+    "te-infinitive": {
+      "title": "Инфинитив с te (om te, zonder te, door te)",
+      "level": "A2",
+      "file": "te-infinitive.json",
+      "inLessons": [
+        18,
+        50
+      ]
+    },
+    "past-simple": {
+      "title": "Простое прошедшее (Imperfectum)",
+      "level": "B1",
+      "file": "past-simple.json",
+      "inLessons": [
+        17,
+        25,
+        30,
+        36,
+        51
+      ]
+    },
+    "reflexive-verbs": {
+      "title": "Возвратные глаголы",
+      "level": "B1",
+      "file": "reflexive-verbs.json",
+      "inLessons": [
+        15,
+        20,
+        28
+      ]
+    },
+    "passive-voice": {
+      "title": "Пассивный залог",
+      "level": "B1",
+      "file": "passive-voice.json",
+      "inLessons": [
+        27,
+        36,
+        41
+      ]
+    },
+    "verb-preposition": {
+      "title": "Глагол + фиксированный предлог",
+      "level": "B1",
+      "file": "verb-preposition.json",
+      "inLessons": [
+        28,
+        30,
+        34,
+        40,
+        46
+      ]
+    },
+    "posture-te-infinitive": {
+      "title": "Позиционные глаголы + te + инфинитив",
+      "level": "B1",
+      "file": "posture-te-infinitive.json",
+      "inLessons": [
+        26,
+        28,
+        30
+      ]
+    },
+    "zou-usage": {
+      "title": "Zou / zouden: вежливость и пожелания",
+      "level": "B1",
+      "file": "zou-usage.json",
+      "inLessons": [
+        26,
+        29,
+        40,
+        44
+      ]
+    },
+    "conditional": {
+      "title": "Условные предложения",
+      "level": "B1",
+      "file": "conditional.json",
+      "inLessons": [
+        26,
+        36,
+        40
+      ]
+    },
+    "plusquamperfectum": {
+      "title": "Давнопрошедшее (Plusquamperfectum)",
+      "level": "B2",
+      "file": "plusquamperfectum.json",
+      "inLessons": [
+        42,
+        53
+      ]
+    },
+    "ipp-double-infinitive": {
+      "title": "IPP / двойной инфинитив в перфектуме",
+      "level": "B2",
+      "file": "ipp-double-infinitive.json",
+      "inLessons": [
+        41,
+        42,
+        48
+      ]
+    },
+    "verb-valency-reference": {
+      "title": "Валентность глаголов",
+      "level": "B2",
+      "file": "verb-valency-reference.json",
+      "inLessons": [
+        35,
+        40,
+        45,
+        48,
+        50
+      ]
+    },
+    "adjectives": {
+      "title": "Прилагательные (склонение)",
+      "level": "A2",
+      "file": "adjectives.json",
+      "inLessons": [
+        5,
+        8,
+        19
+      ]
+    },
+    "comparatives": {
+      "title": "Сравнительная и превосходная степень",
+      "level": "A2",
+      "file": "comparatives.json",
+      "inLessons": [
+        19,
+        24
+      ]
+    },
+    "adverbs": {
+      "title": "Наречия и их позиция",
+      "level": "A2",
+      "file": "adverbs.json",
+      "inLessons": [
+        13,
+        15,
+        19,
+        20
+      ]
+    },
+    "te-adjective": {
+      "title": "Te + прилагательное (слишком)",
+      "level": "A2",
+      "file": "te-adjective.json",
+      "inLessons": [
+        14,
+        19,
+        20
+      ]
+    },
+    "word-order": {
+      "title": "Порядок слов",
+      "level": "A1",
+      "file": "word-order.json",
+      "inLessons": [
+        1,
+        6,
+        13,
+        25,
+        26
+      ]
+    },
+    "questions": {
+      "title": "Вопросительные предложения",
+      "level": "A1",
+      "file": "questions.json",
+      "inLessons": [
+        1,
+        4,
+        8,
+        13
+      ]
+    },
+    "negation": {
+      "title": "Отрицание (niet/geen)",
+      "level": "A1",
+      "file": "negation.json",
+      "inLessons": [
+        4,
+        6,
+        12
+      ]
+    },
+    "conjunctions": {
+      "title": "Союзы и сложные предложения",
+      "level": "A2",
+      "file": "conjunctions.json",
+      "inLessons": [
+        13,
+        25,
+        26,
+        35
+      ]
+    },
+    "er-construction": {
+      "title": "Конструкция с er",
+      "level": "B1",
+      "file": "er-construction.json",
+      "inLessons": [
+        20,
+        27,
+        33
+      ]
+    },
+    "indirect-speech": {
+      "title": "Косвенная речь",
+      "level": "B2",
+      "file": "indirect-speech.json",
+      "inLessons": [
+        35,
+        42,
+        46
+      ]
+    },
+    "discourse-markers": {
+      "title": "Связки и signaalwoorden",
+      "level": "B2",
+      "file": "discourse-markers.json",
+      "inLessons": [
+        36,
+        42,
+        46,
+        50,
+        53
+      ]
+    },
+    "prepositions": {
+      "title": "Предлоги",
+      "level": "A2",
+      "file": "prepositions.json",
+      "inLessons": [
+        9,
+        16,
+        20,
+        28
+      ]
+    },
+    "modal-particles": {
+      "title": "Модальные частицы (wel, toch, eens)",
+      "level": "B1",
+      "file": "modal-particles.json",
+      "inLessons": [
+        22,
+        25,
+        37,
+        39,
+        44
+      ]
+    },
+    "register-and-style": {
+      "title": "Регистр: формальный vs разговорный",
+      "level": "B1",
+      "file": "register-and-style.json",
+      "inLessons": [
+        26,
+        32,
+        38,
+        44,
+        50
+      ]
+    },
+    "fixed-expressions": {
+      "title": "Устойчивые выражения и идиомы",
+      "level": "B2",
+      "file": "fixed-expressions.json",
+      "inLessons": [
+        34,
+        40,
+        46,
+        48,
+        52
+      ]
+    }
+  }
+}

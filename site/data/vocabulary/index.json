@@ -1,0 +1,588 @@
+{
+  "totalWords": 5900,
+  "lessonsWordCount": 1656,
+  "levels": {
+    "A1": 1054,
+    "A2": 1556,
+    "B1": 1953,
+    "B2": 1337
+  },
+  "themes": [
+    "academic-b2",
+    "collocations",
+    "education",
+    "environment",
+    "false-friends-ru",
+    "finance",
+    "government",
+    "health",
+    "housing",
+    "media",
+    "work"
+  ],
+  "tiers": {
+    "lessons": [
+      {
+        "id": "A1-lesson-01",
+        "level": "A1",
+        "lesson": 1,
+        "wordCount": 22,
+        "file": "lessons/A1-lesson-01.json"
+      },
+      {
+        "id": "A1-lesson-02",
+        "level": "A1",
+        "lesson": 2,
+        "wordCount": 26,
+        "file": "lessons/A1-lesson-02.json"
+      },
+      {
+        "id": "A1-lesson-03",
+        "level": "A1",
+        "lesson": 3,
+        "wordCount": 28,
+        "file": "lessons/A1-lesson-03.json"
+      },
+      {
+        "id": "A1-lesson-04",
+        "level": "A1",
+        "lesson": 4,
+        "wordCount": 44,
+        "file": "lessons/A1-lesson-04.json"
+      },
+      {
+        "id": "A1-lesson-05",
+        "level": "A1",
+        "lesson": 5,
+        "wordCount": 46,
+        "file": "lessons/A1-lesson-05.json"
+      },
+      {
+        "id": "A1-lesson-06",
+        "level": "A1",
+        "lesson": 6,
+        "wordCount": 40,
+        "file": "lessons/A1-lesson-06.json"
+      },
+      {
+        "id": "A1-lesson-07",
+        "level": "A1",
+        "lesson": 7,
+        "wordCount": 33,
+        "file": "lessons/A1-lesson-07.json"
+      },
+      {
+        "id": "A1-lesson-08",
+        "level": "A1",
+        "lesson": 8,
+        "wordCount": 30,
+        "file": "lessons/A1-lesson-08.json"
+      },
+      {
+        "id": "A1-lesson-09",
+        "level": "A1",
+        "lesson": 9,
+        "wordCount": 25,
+        "file": "lessons/A1-lesson-09.json"
+      },
+      {
+        "id": "A1-lesson-10",
+        "level": "A1",
+        "lesson": 10,
+        "wordCount": 30,
+        "file": "lessons/A1-lesson-10.json"
+      },
+      {
+        "id": "A1-lesson-11",
+        "level": "A1",
+        "lesson": 11,
+        "wordCount": 30,
+        "file": "lessons/A1-lesson-11.json"
+      },
+      {
+        "id": "A1-lesson-12",
+        "level": "A1",
+        "lesson": 12,
+        "wordCount": 31,
+        "file": "lessons/A1-lesson-12.json"
+      },
+      {
+        "id": "A2-lesson-13",
+        "level": "A2",
+        "lesson": 13,
+        "wordCount": 40,
+        "file": "lessons/A2-lesson-13.json"
+      },
+      {
+        "id": "A2-lesson-14",
+        "level": "A2",
+        "lesson": 14,
+        "wordCount": 36,
+        "file": "lessons/A2-lesson-14.json"
+      },
+      {
+        "id": "A2-lesson-15",
+        "level": "A2",
+        "lesson": 15,
+        "wordCount": 36,
+        "file": "lessons/A2-lesson-15.json"
+      },
+      {
+        "id": "A2-lesson-16",
+        "level": "A2",
+        "lesson": 16,
+        "wordCount": 37,
+        "file": "lessons/A2-lesson-16.json"
+      },
+      {
+        "id": "A2-lesson-17",
+        "level": "A2",
+        "lesson": 17,
+        "wordCount": 36,
+        "file": "lessons/A2-lesson-17.json"
+      },
+      {
+        "id": "A2-lesson-18",
+        "level": "A2",
+        "lesson": 18,
+        "wordCount": 37,
+        "file": "lessons/A2-lesson-18.json"
+      },
+      {
+        "id": "A2-lesson-19",
+        "level": "A2",
+        "lesson": 19,
+        "wordCount": 37,
+        "file": "lessons/A2-lesson-19.json"
+      },
+      {
+        "id": "A2-lesson-20",
+        "level": "A2",
+        "lesson": 20,
+        "wordCount": 39,
+        "file": "lessons/A2-lesson-20.json"
+      },
+      {
+        "id": "A2-lesson-21",
+        "level": "A2",
+        "lesson": 21,
+        "wordCount": 31,
+        "file": "lessons/A2-lesson-21.json"
+      },
+      {
+        "id": "A2-lesson-22",
+        "level": "A2",
+        "lesson": 22,
+        "wordCount": 31,
+        "file": "lessons/A2-lesson-22.json"
+      },
+      {
+        "id": "A2-lesson-23",
+        "level": "A2",
+        "lesson": 23,
+        "wordCount": 30,
+        "file": "lessons/A2-lesson-23.json"
+      },
+      {
+        "id": "A2-lesson-24",
+        "level": "A2",
+        "lesson": 24,
+        "wordCount": 30,
+        "file": "lessons/A2-lesson-24.json"
+      },
+      {
+        "id": "B1-lesson-25",
+        "level": "B1",
+        "lesson": 25,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-25.json"
+      },
+      {
+        "id": "B1-lesson-26",
+        "level": "B1",
+        "lesson": 26,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-26.json"
+      },
+      {
+        "id": "B1-lesson-27",
+        "level": "B1",
+        "lesson": 27,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-27.json"
+      },
+      {
+        "id": "B1-lesson-28",
+        "level": "B1",
+        "lesson": 28,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-28.json"
+      },
+      {
+        "id": "B1-lesson-29",
+        "level": "B1",
+        "lesson": 29,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-29.json"
+      },
+      {
+        "id": "B1-lesson-30",
+        "level": "B1",
+        "lesson": 30,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-30.json"
+      },
+      {
+        "id": "B1-lesson-31",
+        "level": "B1",
+        "lesson": 31,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-31.json"
+      },
+      {
+        "id": "B1-lesson-32",
+        "level": "B1",
+        "lesson": 32,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-32.json"
+      },
+      {
+        "id": "B1-lesson-33",
+        "level": "B1",
+        "lesson": 33,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-33.json"
+      },
+      {
+        "id": "B1-lesson-34",
+        "level": "B1",
+        "lesson": 34,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-34.json"
+      },
+      {
+        "id": "B1-lesson-35",
+        "level": "B1",
+        "lesson": 35,
+        "wordCount": 32,
+        "file": "lessons/B1-lesson-35.json"
+      },
+      {
+        "id": "B1-lesson-36",
+        "level": "B1",
+        "lesson": 36,
+        "wordCount": 31,
+        "file": "lessons/B1-lesson-36.json"
+      },
+      {
+        "id": "B2-lesson-37",
+        "level": "B2",
+        "lesson": 37,
+        "wordCount": 24,
+        "file": "lessons/B2-lesson-37.json"
+      },
+      {
+        "id": "B2-lesson-38",
+        "level": "B2",
+        "lesson": 38,
+        "wordCount": 25,
+        "file": "lessons/B2-lesson-38.json"
+      },
+      {
+        "id": "B2-lesson-39",
+        "level": "B2",
+        "lesson": 39,
+        "wordCount": 26,
+        "file": "lessons/B2-lesson-39.json"
+      },
+      {
+        "id": "B2-lesson-40",
+        "level": "B2",
+        "lesson": 40,
+        "wordCount": 52,
+        "file": "lessons/B2-lesson-40.json"
+      },
+      {
+        "id": "B2-lesson-41",
+        "level": "B2",
+        "lesson": 41,
+        "wordCount": 21,
+        "file": "lessons/B2-lesson-41.json"
+      },
+      {
+        "id": "B2-lesson-42",
+        "level": "B2",
+        "lesson": 42,
+        "wordCount": 23,
+        "file": "lessons/B2-lesson-42.json"
+      },
+      {
+        "id": "B2-lesson-43",
+        "level": "B2",
+        "lesson": 43,
+        "wordCount": 24,
+        "file": "lessons/B2-lesson-43.json"
+      },
+      {
+        "id": "B2-lesson-44",
+        "level": "B2",
+        "lesson": 44,
+        "wordCount": 24,
+        "file": "lessons/B2-lesson-44.json"
+      },
+      {
+        "id": "B2-lesson-45",
+        "level": "B2",
+        "lesson": 45,
+        "wordCount": 23,
+        "file": "lessons/B2-lesson-45.json"
+      },
+      {
+        "id": "B2-lesson-46",
+        "level": "B2",
+        "lesson": 46,
+        "wordCount": 22,
+        "file": "lessons/B2-lesson-46.json"
+      },
+      {
+        "id": "B2-lesson-47",
+        "level": "B2",
+        "lesson": 47,
+        "wordCount": 21,
+        "file": "lessons/B2-lesson-47.json"
+      },
+      {
+        "id": "B2-lesson-48",
+        "level": "B2",
+        "lesson": 48,
+        "wordCount": 20,
+        "file": "lessons/B2-lesson-48.json"
+      },
+      {
+        "id": "A1-lesson-49",
+        "level": "A1",
+        "lesson": 49,
+        "wordCount": 32,
+        "file": "lessons/A1-lesson-49.json"
+      },
+      {
+        "id": "A2-lesson-50",
+        "level": "A2",
+        "lesson": 50,
+        "wordCount": 30,
+        "file": "lessons/A2-lesson-50.json"
+      },
+      {
+        "id": "B1-lesson-51",
+        "level": "B1",
+        "lesson": 51,
+        "wordCount": 46,
+        "file": "lessons/B1-lesson-51.json"
+      },
+      {
+        "id": "B1-lesson-52",
+        "level": "B1",
+        "lesson": 52,
+        "wordCount": 30,
+        "file": "lessons/B1-lesson-52.json"
+      },
+      {
+        "id": "B2-lesson-53",
+        "level": "B2",
+        "lesson": 53,
+        "wordCount": 35,
+        "file": "lessons/B2-lesson-53.json"
+      }
+    ],
+    "core": [
+      {
+        "id": "core-A1",
+        "level": "A1",
+        "wordCount": 637,
+        "file": "core/A1.json"
+      },
+      {
+        "id": "core-A2",
+        "level": "A2",
+        "wordCount": 1106,
+        "file": "core/A2.json"
+      },
+      {
+        "id": "core-B1",
+        "level": "B1",
+        "wordCount": 602,
+        "file": "core/B1.json"
+      },
+      {
+        "id": "core-B2",
+        "level": "B2",
+        "wordCount": 603,
+        "file": "core/B2.json"
+      }
+    ],
+    "extended": [
+      {
+        "id": "extended-B1",
+        "level": "B1",
+        "wordCount": 270,
+        "file": "extended/B1.json"
+      },
+      {
+        "id": "extended-B2",
+        "level": "B2",
+        "wordCount": 323,
+        "file": "extended/B2.json"
+      }
+    ],
+    "themes": [
+      {
+        "id": "themes-academic-b2",
+        "slug": "academic-b2",
+        "title": "Academische taal B2",
+        "level": "B2",
+        "tags": [
+          "academisch",
+          "schrijven",
+          "nt2-ii"
+        ],
+        "wordCount": 71,
+        "file": "themes/academic-b2.json"
+      },
+      {
+        "id": "themes-collocations",
+        "slug": "collocations",
+        "title": "Vaste combinaties (collocations)",
+        "level": "B1",
+        "tags": [
+          "collocaties",
+          "vaste-verbinding"
+        ],
+        "wordCount": 76,
+        "file": "themes/collocations.json"
+      },
+      {
+        "id": "themes-education",
+        "slug": "education",
+        "title": "Onderwijs & studie",
+        "level": "B1",
+        "tags": [
+          "school",
+          "universiteit",
+          "studie",
+          "diploma"
+        ],
+        "wordCount": 59,
+        "file": "themes/education.json"
+      },
+      {
+        "id": "themes-environment",
+        "slug": "environment",
+        "title": "Milieu & duurzaamheid",
+        "level": "B1",
+        "tags": [
+          "klimaat",
+          "energie",
+          "natuur",
+          "afval"
+        ],
+        "wordCount": 66,
+        "file": "themes/environment.json"
+      },
+      {
+        "id": "themes-false-friends-ru",
+        "slug": "false-friends-ru",
+        "title": "False friends (Nederlands-Russisch)",
+        "level": "B1",
+        "tags": [
+          "valse-vrienden",
+          "veelgemaakte-fouten"
+        ],
+        "wordCount": 70,
+        "file": "themes/false-friends-ru.json"
+      },
+      {
+        "id": "themes-finance",
+        "slug": "finance",
+        "title": "Geld & financiën",
+        "level": "B1",
+        "tags": [
+          "bank",
+          "belasting",
+          "sparen",
+          "toeslagen"
+        ],
+        "wordCount": 65,
+        "file": "themes/finance.json"
+      },
+      {
+        "id": "themes-government",
+        "slug": "government",
+        "title": "Overheid & gemeente",
+        "level": "B1",
+        "tags": [
+          "gemeente",
+          "loket",
+          "vergunning",
+          "digid"
+        ],
+        "wordCount": 59,
+        "file": "themes/government.json"
+      },
+      {
+        "id": "themes-health",
+        "slug": "health",
+        "title": "Gezondheid & zorg",
+        "level": "B1",
+        "tags": [
+          "zorg",
+          "ziekte",
+          "huisarts",
+          "medicijn"
+        ],
+        "wordCount": 62,
+        "file": "themes/health.json"
+      },
+      {
+        "id": "themes-housing",
+        "slug": "housing",
+        "title": "Wonen & huisvesting",
+        "level": "B1",
+        "tags": [
+          "huren",
+          "kopen",
+          "woning",
+          "vve"
+        ],
+        "wordCount": 61,
+        "file": "themes/housing.json"
+      },
+      {
+        "id": "themes-media",
+        "slug": "media",
+        "title": "Media & journalistiek",
+        "level": "B1",
+        "tags": [
+          "nieuws",
+          "sociale-media",
+          "kritisch-lezen"
+        ],
+        "wordCount": 59,
+        "file": "themes/media.json"
+      },
+      {
+        "id": "themes-work",
+        "slug": "work",
+        "title": "Werk & sollicitatie",
+        "level": "B1",
+        "tags": [
+          "sollicitatie",
+          "arbeidsmarkt",
+          "cao",
+          "salaris"
+        ],
+        "wordCount": 55,
+        "file": "themes/work.json"
+      }
+    ]
+  }
+}

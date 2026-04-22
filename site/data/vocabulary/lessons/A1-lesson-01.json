@@ -1,0 +1,178 @@
+[
+  {
+    "nl": "Hallo",
+    "ru": "Привет",
+    "example": "Hallo! Hoe gaat het?",
+    "pronunciation": "['ɦɑloː]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Goedemorgen",
+    "ru": "Доброе утро",
+    "example": "Goedemorgen! Heb je goed geslapen?",
+    "pronunciation": "['xuːdəmɔrɣən]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Goedemiddag",
+    "ru": "Добрый день",
+    "example": "Goedemiddag! Fijne dag verder.",
+    "pronunciation": "['xuːdəmɪdɑx]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Goedenavond",
+    "ru": "Добрый вечер",
+    "example": "Goedenavond! Welkom in ons restaurant.",
+    "pronunciation": "['xuːdənaːvɔnt]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Welterusten",
+    "ru": "Спокойной ночи",
+    "example": "Welterusten! Slaap lekker.",
+    "pronunciation": "['ʋɛltəˌrʏstən]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Dag",
+    "ru": "Пока",
+    "example": "Dag! Tot morgen!",
+    "pronunciation": "[dɑx]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Tot ziens",
+    "ru": "До свидания",
+    "example": "Tot ziens! Het was leuk je te ontmoeten.",
+    "pronunciation": "[tɔt ˈsins]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Dank je wel",
+    "ru": "Спасибо",
+    "example": "Dank je wel voor je hulp!",
+    "pronunciation": "[dɑŋk jə ʋɛl]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Alsjeblieft",
+    "ru": "Пожалуйста",
+    "example": "Hier is je koffie. Alsjeblieft!",
+    "pronunciation": "[ɑlsjəˈblift]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Graag gedaan",
+    "ru": "Пожалуйста (не за что)",
+    "example": "Dank je wel! - Graag gedaan!",
+    "pronunciation": "[ɣraːx ɣəˈdaːn]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Sorry",
+    "ru": "Извините",
+    "example": "Sorry! Ik ben te laat.",
+    "pronunciation": "['sɔri]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Excuseer me",
+    "ru": "Простите",
+    "example": "Excuseer me, waar is het station?",
+    "pronunciation": "[ɛkskuˈseːr mə]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Ik heet",
+    "ru": "Меня зовут",
+    "example": "Ik heet Lisa. Hoe heet jij?",
+    "pronunciation": "[ɪk ˈɦeːt]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Mijn naam is",
+    "ru": "Мое имя",
+    "example": "Mijn naam is Anton Petrov.",
+    "pronunciation": "[mɛin ˈnaːm ɪs]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Hoe heet je?",
+    "ru": "Как тебя зовут?",
+    "example": "Hallo! Hoe heet je?",
+    "pronunciation": "[ɦu ˈɦeːt jə]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Waar kom je vandaan?",
+    "ru": "Откуда ты?",
+    "example": "Waar kom je vandaan? Uit Rusland?",
+    "pronunciation": "[ʋaːr kɔm jə vɑnˈdaːn]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Ik kom uit",
+    "ru": "Я из",
+    "example": "Ik kom uit Moskou.",
+    "pronunciation": "[ɪk kɔm ˈœyt]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Rusland",
+    "ru": "Россия",
+    "example": "Ik kom uit Rusland.",
+    "pronunciation": "['rʏslɑnt]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Spreek je Nederlands?",
+    "ru": "Говоришь по-голландски?",
+    "example": "Spreek je Nederlands of Engels?",
+    "pronunciation": "[spreːk jə ˈneːdərlɑnts]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Ik spreek een beetje Nederlands",
+    "ru": "Я говорю немного по-голландски",
+    "example": "Ik spreek een beetje Nederlands.",
+    "pronunciation": "[ɪk spreːk ən ˈbeːtjə ˈneːdərlɑnts]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Ja",
+    "ru": "Да",
+    "example": "Spreek je Nederlands? Ja, een beetje.",
+    "pronunciation": "[jaː]",
+    "level": "A1",
+    "lesson": 1
+  },
+  {
+    "nl": "Nee",
+    "ru": "Нет",
+    "example": "Ben je Nederlands? Nee, ik ben Russisch.",
+    "pronunciation": "[neː]",
+    "level": "A1",
+    "lesson": 1
+  }
+]

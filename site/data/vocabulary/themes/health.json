@@ -1,0 +1,384 @@
+{
+  "title": "Gezondheid & zorg",
+  "level": "B1",
+  "tags": [
+    "zorg",
+    "ziekte",
+    "huisarts",
+    "medicijn"
+  ],
+  "words": [
+    {
+      "nl": "de afspraak maken",
+      "ru": "записаться на приём",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de verwijzing",
+      "ru": "направление",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "het consult",
+      "ru": "консультация",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de intake",
+      "ru": "первичный приём",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "het spreekuur",
+      "ru": "приёмные часы",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de anamnese",
+      "ru": "анамнез",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de klachtvraag",
+      "ru": "жалоба (цель визита)",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "het onderzoek",
+      "ru": "обследование",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de bloeddruk",
+      "ru": "давление",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de hartslag",
+      "ru": "пульс",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de temperatuur meten",
+      "ru": "измерять температуру",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de koorts",
+      "ru": "высокая температура",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de ontsteking",
+      "ru": "воспаление",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de infectie",
+      "ru": "инфекция",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de bacterie",
+      "ru": "бактерия",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "het virus",
+      "ru": "вирус",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de allergie",
+      "ru": "аллергия",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de huidaandoening",
+      "ru": "кожное заболевание",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de rugklachten",
+      "ru": "боли в спине",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de hoofdpijn",
+      "ru": "головная боль",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de migraine",
+      "ru": "мигрень",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de buikpijn",
+      "ru": "боль в животе",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de misselijkheid",
+      "ru": "тошнота",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "het overgeven",
+      "ru": "рвота",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de diarree",
+      "ru": "диарея",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de verstopping",
+      "ru": "запор",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de slapeloosheid",
+      "ru": "бессонница",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de vermoeidheid",
+      "ru": "усталость",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de depressie",
+      "ru": "депрессия",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de angststoornis",
+      "ru": "тревожное расстройство",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de burn-outklachten",
+      "ru": "симптомы выгорания",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de ziekteverzekering",
+      "ru": "больничное страхование",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de polis",
+      "ru": "страховой полис",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de premie",
+      "ru": "премия (страховка)",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de basisverzekering",
+      "ru": "базовая страховка",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de aanvullende verzekering",
+      "ru": "дополнительная страховка",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de eigen bijdrage",
+      "ru": "доля собственных расходов",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "het generiek medicijn",
+      "ru": "дженерик",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "het merkmedicijn",
+      "ru": "оригинальный препарат",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de dosering",
+      "ru": "дозировка",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de bijsluiter",
+      "ru": "инструкция к лекарству",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de bijwerking",
+      "ru": "побочный эффект",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de contra-indicatie",
+      "ru": "противопоказание",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de second opinion",
+      "ru": "второе мнение",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de ziekenhuisopname",
+      "ru": "госпитализация",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de polikliniek",
+      "ru": "поликлиника",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de chirurgie",
+      "ru": "хирургия",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de kinderarts",
+      "ru": "педиатр",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de internist",
+      "ru": "терапевт-специалист",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de cardioloog",
+      "ru": "кардиолог",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de neuroloog",
+      "ru": "невролог",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de dermatoloog",
+      "ru": "дерматолог",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de gynaecoloog",
+      "ru": "гинеколог",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de oncoloog",
+      "ru": "онколог",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de chronische aandoening",
+      "ru": "хроническое заболевание",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de revalidatie",
+      "ru": "реабилитация",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de preventieve check",
+      "ru": "профилактический осмотр",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de griepprik",
+      "ru": "прививка от гриппа",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de mantelzorg",
+      "ru": "неформальный уход",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de thuiszorg aanvragen",
+      "ru": "оформить уход на дому",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "de indicatiestelling",
+      "ru": "определение показаний (CIZ)",
+      "level": "B1",
+      "theme": "health"
+    },
+    {
+      "nl": "het persoonsgebonden budget",
+      "ru": "индивидуальный бюджет (PGB)",
+      "level": "B1",
+      "theme": "health"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "id": "A1-lesson-11",
+  "num": 11,
+  "level": "A1",
+  "title": "Хобби и свободное время",
+  "minutes": 15,
+  "objectives": [
+    "Называть популярные хобби",
+    "Рассказывать о своих интересах",
+    "Планировать свободное время",
+    "Понимать голландские развлечения"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Хобби и свободное время",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 11 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "- Называть популярные хобби\n- Рассказывать о своих интересах\n- Планировать свободное время\n- Понимать голландские развлечения"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Хобби и интересы (6 минут)",
+      "words": [
+        {
+          "nl": "lezen",
+          "ru": "читать",
+          "pronunciation": "[ˈleːzə]"
+        },
+        {
+          "nl": "fietsen",
+          "ru": "ездить на велосипеде",
+          "pronunciation": "[ˈfitsə]"
+        },
+        {
+          "nl": "zwemmen",
+          "ru": "плавать",
+          "pronunciation": "[ˈzʋɛmə]"
+        },
+        {
+          "nl": "koken",
+          "ru": "готовить",
+          "pronunciation": "[ˈkoːkə]"
+        },
+        {
+          "nl": "tuinieren",
+          "ru": "заниматься садом",
+          "pronunciation": "[ˌtœy̯niˈreːrə]"
+        },
+        {
+          "nl": "muziek luisteren",
+          "ru": "слушать музыку",
+          "pronunciation": "[myˈzik ˈlœy̯stərə]"
+        },
+        {
+          "nl": "sport",
+          "ru": "спорт",
+          "pronunciation": "[spɔrt]"
+        },
+        {
+          "nl": "reizen",
+          "ru": "путешествовать",
+          "pronunciation": "[ˈrɛi̯zə]"
+        },
+        {
+          "nl": "fotograferen",
+          "ru": "фотографировать",
+          "pronunciation": "[ˌfoːtoɣraˈfeːrə]"
+        },
+        {
+          "nl": "schilderen",
+          "ru": "рисовать",
+          "pronunciation": "[ˈsxɪldərə]"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Фаза 2: Планы и активности (5 минут)",
+      "content": "**Планируем время**:\n- **Wat doe je graag?** - Что ты любишь делать?\n- **Ik houd van lezen** - Я люблю читать\n- **In het weekend ga ik fietsen** - В выходные я езжу на велосипеде\n- **Heb je tijd vanavond?** - У тебя есть время сегодня вечером?\n- **Zullen we samen gaan?** - Пойдем вместе?"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Места развлечений (3 минуты)",
+      "words": [
+        {
+          "nl": "het museum",
+          "ru": "музей",
+          "pronunciation": "[ɦət myˈzeːjɵm]"
+        },
+        {
+          "nl": "de bioscoop",
+          "ru": "кинотеатр",
+          "pronunciation": "[də ˈbijoːskoːp]"
+        },
+        {
+          "nl": "het theater",
+          "ru": "театр",
+          "pronunciation": "[ɦət teːˈjaːtər]"
+        },
+        {
+          "nl": "het café",
+          "ru": "кафе",
+          "pronunciation": "[ɦət kaˈfeː]"
+        },
+        {
+          "nl": "het park",
+          "ru": "парк",
+          "pronunciation": "[ɦət pɑrk]"
+        },
+        {
+          "nl": "het strand",
+          "ru": "пляж",
+          "pronunciation": "[ɦət strɑnt]"
+        },
+        {
+          "nl": "het zwembad",
+          "ru": "бассейн",
+          "pronunciation": "[ɦət ˈzʋɛmbɑt]"
+        },
+        {
+          "nl": "de sportschool",
+          "ru": "спортзал",
+          "pronunciation": "[də ˈspɔrtsxoːl]"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Wat doe je in het weekend?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik ga naar het museum. En jij?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik ga fietsen in het park. Wil je meegaan?"
+        },
+        {
+          "speaker": "B",
+          "text": "Leuk! Hoe laat?"
+        },
+        {
+          "speaker": "A",
+          "text": "Om tien uur?"
+        },
+        {
+          "speaker": "B",
+          "text": "Prima! Tot zaterdag!"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Wat doe je graag in je vrije tijd?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik houd van koken en lezen. En jij?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik zwem graag. Ik ga drie keer per week naar het zwembad."
+        },
+        {
+          "speaker": "B",
+          "text": "Wauw, dat is sportief! Ik sport niet zo veel."
+        },
+        {
+          "speaker": "A",
+          "text": "Zullen we samen naar de sportschool gaan?"
+        },
+        {
+          "speaker": "B",
+          "text": "Goed idee! Wanneer?"
+        },
+        {
+          "speaker": "A",
+          "text": "Volgende week dinsdag?"
+        },
+        {
+          "speaker": "B",
+          "text": "Afgesproken!"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "1. Graag / houden van (нравиться / любить)",
+      "content": "Два способа сказать \"я люблю делать что-то\":\n- **Ik lees graag.** -- Я люблю читать. (graag после глагола)\n- **Ik houd van lezen.** -- Я люблю читать. (houden van + инфинитив)\nДля предпочтений:\n- **Ik fiets liever.** -- Я предпочитаю ездить на велосипеде.\n- **Ik kook het liefst.** -- Больше всего я люблю готовить."
+    },
+    {
+      "type": "grammar",
+      "title": "2. Частота (hoe vaak?)",
+      "content": "Место в предложении: **Ik ga vaak naar het park.** (после глагола)",
+      "tables": [
+        {
+          "headers": [
+            "Nederlands",
+            "Русский"
+          ],
+          "rows": [
+            [
+              "altijd",
+              "всегда"
+            ],
+            [
+              "vaak",
+              "часто"
+            ],
+            [
+              "soms",
+              "иногда"
+            ],
+            [
+              "zelden",
+              "редко"
+            ],
+            [
+              "nooit",
+              "никогда"
+            ],
+            [
+              "elke dag",
+              "каждый день"
+            ],
+            [
+              "drie keer per week",
+              "три раза в неделю"
+            ],
+            [
+              "in het weekend",
+              "в выходные"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "3. Meegaan / meekomen / meenemen",
+      "content": "Приставка **mee-** означает \"вместе/с собой\":\n- **meegaan** -- пойти вместе: Wil je meegaan?\n- **meekomen** -- прийти вместе: Kom je mee?\n- **meenemen** -- взять с собой: Neem je paraplu mee!"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Заполни пропуски",
+      "items": [
+        {
+          "question": "Ik __ van zwemmen."
+        },
+        {
+          "question": "Zij fietst __. Ze fietst elke dag."
+        },
+        {
+          "question": "Wil je __? We gaan naar de bioscoop."
+        },
+        {
+          "question": "Ik ga __ keer per week naar de sportschool.",
+          "answers": [
+            "1. houd",
+            "2. graag",
+            "3. meegaan / mee",
+            "4. (свой ответ: twee/drie/vier...)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Переведи на нидерландский",
+      "items": [
+        {
+          "question": "Что ты любишь делать в свободное время?"
+        },
+        {
+          "question": "Я хожу в бассейн два раза в неделю."
+        },
+        {
+          "question": "Пойдем вместе в кино в субботу?",
+          "answers": [
+            "1. Wat doe je graag in je vrije tijd?",
+            "2. Ik ga twee keer per week naar het zwembad.",
+            "3. Zullen we zaterdag samen naar de bioscoop gaan?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Говорение",
+      "items": [
+        {
+          "question": "Wat doe je graag in je vrije tijd? (Ik ... graag. / Ik houd van...)"
+        },
+        {
+          "question": "Hoe vaak sport je? (Ik sport ... keer per week.)"
+        },
+        {
+          "question": "Wat ga je dit weekend doen? (Ik ga...)"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Голландское свободное время",
+      "content": "- **Gezelligheid**: ключевое голландское понятие -- уютное, приятное времяпрепровождение с друзьями или семьей. Кафе, ужин дома, прогулка -- все это gezellig.\n- **Велосипед**: не только транспорт, но и хобби. Голландцы ездят на велосипеде в любую погоду.\n- **Музеи**: Нидерланды -- страна музеев. Rijksmuseum, Van Gogh Museum, Anne Frank Huis -- обязательны к посещению.\n- **Verjaardag (день рождения)**: голландцы поздравляют не только именинника, но и всех его родственников! \"Gefeliciteerd met je moeder!\" (Поздравляю с днем рождения твоей мамы!)\n- **Borrel**: неформальная встреча с напитками и закусками (bitterballen!). Важная часть социальной жизни."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-11.json"
+}

@@ -1,0 +1,127 @@
+{
+  "id": "discourse-markers",
+  "title": "Связки и signaalwoorden (связный текст B2)",
+  "titleNL": "Signaalwoorden en tekstverbanden",
+  "level": "B2",
+  "summary": "Для B2 и NT2 Programma II критично уметь строить связный текст и узнавать структуру чужого. Signaalwoorden — слова-маркеры, которые показывают отношение между частями текста: причина, контраст, следствие, цель, уточнение. Это основа письменного раздела Schrijven и вопросов Leesvaardigheid.",
+  "rule": {
+    "formula": "[фрагмент 1] + [signaalwoord] + [фрагмент 2]",
+    "explanation": "Signaalwoorden делятся на подчинительные (влияют на порядок слов — глагол в конец) и сочинительные/наречия (оставляют порядок или вызывают инверсию). Во введении/абзаце используют переходы (ten eerste, vervolgens, ten slotte), внутри абзаца — логические (daardoor, bovendien, echter), в заключении — обобщающие (kortom, al met al).",
+    "whenToUse": [
+      "В эссе B2 (betoog/beschouwing): по 1-2 связки на абзац — избегайте 'en' и 'maar' без разнообразия.",
+      "В чтении: подчёркивайте связки при первом прочтении — они подсказывают структуру аргумента.",
+      "Для NT2 Programma II важно знать формальные связки 'derhalve', 'voorts', 'niettemin'."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Причина и следствие",
+      "headers": ["Связка", "Регистр", "Функция", "Пример"],
+      "rows": [
+        ["omdat / want", "нейтр.", "причина", "Ik blijf thuis, omdat ik ziek ben."],
+        ["doordat", "нейтр.", "причина-факт", "Doordat het regende, bleven we binnen."],
+        ["aangezien", "формальный", "поскольку", "Aangezien u niet aanwezig was..."],
+        ["dus / daarom", "нейтр.", "следствие", "Het regent, dus ik neem een paraplu."],
+        ["daardoor", "нейтр.", "результат", "De trein had vertraging. Daardoor kwam ik te laat."],
+        ["derhalve / bijgevolg", "формальный", "следовательно", "Het voorstel is afgewezen, derhalve..."],
+        ["zodoende", "нейтр.", "таким образом", "We hadden haast, zodoende vergaten we het."]
+      ]
+    },
+    {
+      "title": "Контраст и уступка",
+      "headers": ["Связка", "Регистр", "Пример"],
+      "rows": [
+        ["maar", "нейтр.", "Ik wilde komen, maar ik had geen tijd."],
+        ["echter", "формально", "Het plan was goed. Het werd echter afgewezen."],
+        ["daarentegen", "формально", "Hij is stil; zij daarentegen praat veel."],
+        ["toch / desondanks", "нейтр./форм.", "Het regende. Toch gingen we wandelen."],
+        ["hoewel / ofschoon", "подчин.", "Hoewel het koud was, fietsten we door."],
+        ["terwijl", "подчин.", "Hij leest, terwijl ik kook."],
+        ["in tegenstelling tot", "формально", "In tegenstelling tot hem ben ik positief."]
+      ]
+    },
+    {
+      "title": "Дополнение и последовательность",
+      "headers": ["Связка", "Функция", "Пример"],
+      "rows": [
+        ["bovendien / daarnaast", "вдобавок", "Het is duur. Bovendien is het slecht."],
+        ["ook", "тоже", "Hij is slim. Hij is ook aardig."],
+        ["verder / voorts (форм.)", "далее", "Verder wil ik opmerken dat..."],
+        ["ten eerste / ten tweede / ten slotte", "нумерация", "Ten eerste... ten tweede... ten slotte..."],
+        ["eerst / daarna / vervolgens", "порядок", "Eerst studeer ik, daarna werk ik."],
+        ["tegelijkertijd", "одновременно", "Ik werk; tegelijkertijd studeer ik."]
+      ]
+    },
+    {
+      "title": "Цель, условие, сравнение",
+      "headers": ["Связка", "Функция", "Пример"],
+      "rows": [
+        ["zodat", "цель", "Ik leg het uit, zodat je het begrijpt."],
+        ["om ... te + inf.", "чтобы", "Ik studeer om een diploma te halen."],
+        ["als / indien (форм.)", "условие", "Als het regent, blijf ik thuis."],
+        ["mits", "при условии", "Je mag gaan, mits je belt."],
+        ["zoals", "как", "Doe het zoals ik het uitleg."],
+        ["net als / evenals", "аналогично", "Net als jij ben ik bang voor examens."]
+      ]
+    },
+    {
+      "title": "Обобщение и заключение",
+      "headers": ["Связка", "Функция", "Пример"],
+      "rows": [
+        ["kortom / samenvattend", "короче, подводя итог", "Kortom: het werkt niet."],
+        ["al met al", "в целом", "Al met al was het een leerzame ervaring."],
+        ["om te concluderen", "чтобы подвести итог", "Om te concluderen: ..."],
+        ["dit wil zeggen / oftewel", "иными словами", "Dit wil zeggen dat we verliezen."],
+        ["met andere woorden", "другими словами", "Hij is te laat. M.a.w. hij komt niet."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Порядок слов: запомнить!",
+      "items": [
+        "После подчинительных (omdat, hoewel, aangezien, terwijl, mits, zodat) — глагол в конец.",
+        "После наречий (dus, echter, bovendien, daarom, zodoende) — инверсия S↔V.",
+        "После сочинительных (want, en, maar) — порядок S-V не меняется.",
+        "Echter и daarentegen часто стоят внутри предложения: 'Hij kwam echter niet.'"
+      ]
+    },
+    {
+      "title": "Формальный регистр для NT2 II",
+      "items": [
+        "aangezien > omdat · derhalve > dus · niettemin > toch · voorts > verder.",
+        "Не начинайте эссе с 'en' или 'maar' — замените на 'daarnaast', 'echter'.",
+        "В deelvaardigheid Schrijven за 5-6 связок на текст 250-300 слов дают балл за cohesie."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Hoewel het lastig is, ga ik ermee door.", "ru": "Хотя это трудно, я продолжаю." },
+    { "nl": "Het is gezond; bovendien is het lekker.", "ru": "Это полезно; кроме того, это вкусно." },
+    { "nl": "Ik studeer Nederlands, om mijn kansen op de arbeidsmarkt te vergroten.", "ru": "Я учу нидерландский, чтобы увеличить шансы на рынке труда." },
+    { "nl": "Ten eerste is het goedkoper, ten tweede is het sneller.", "ru": "Во-первых, это дешевле, во-вторых, быстрее." },
+    { "nl": "Het regende; toch gingen we fietsen.", "ru": "Шёл дождь; тем не менее мы поехали кататься." },
+    { "nl": "Kortom, de plannen moeten aangepast worden.", "ru": "Словом, планы нужно скорректировать." }
+  ],
+  "exceptions": [
+    "Нельзя ставить 'daardoor' и 'daarom' подряд — выберите одно.",
+    "'Want' и 'omdat' оба значат 'потому что', но порядок слов разный.",
+    "После 'toch' возможны обе конструкции: с инверсией (формально) и без (в прямой речи)."
+  ],
+  "commonMistakes": [
+    { "wrong": "Omdat ik ben moe.", "correct": "Omdat ik moe ben.", "why": "После omdat глагол в конец." },
+    { "wrong": "Dus ik ga naar huis.", "correct": "Dus ga ik naar huis.", "why": "dus вызывает инверсию." },
+    { "wrong": "Hoewel het was koud, fietsten we.", "correct": "Hoewel het koud was, fietsten we.", "why": "После hoewel — глагол в конец." },
+    { "wrong": "Maar ook bovendien is het duur.", "correct": "Bovendien is het duur.", "why": "не дублируйте связки." }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "___ het regende, gingen we toch fietsen.", "options": ["Omdat", "Hoewel", "Daarom"], "answer": "Hoewel", "explanation": "уступка → hoewel" },
+    { "type": "choice", "question": "Het is koud. ___ ga ik binnen zitten.", "options": ["Daarom", "Hoewel", "Omdat"], "answer": "Daarom", "explanation": "следствие → daarom (+ инверсия)" },
+    { "type": "word-order", "words": ["dus", "ga", "ik", "naar", "huis"], "answer": "Dus ga ik naar huis.", "explanation": "после dus инверсия" },
+    { "type": "fill-blank", "sentence": "___ u het niet eens bent, kunt u bezwaar maken.", "answer": "Indien", "explanation": "формальное условие = indien" },
+    { "type": "choice", "question": "Hij heeft talent. __ is hij ook ijverig.", "options": ["Kortom", "Bovendien", "Echter"], "answer": "Bovendien", "explanation": "добавление → bovendien" },
+    { "type": "fill-blank", "sentence": "Het plan is afgewezen, ___ moeten we iets anders bedenken.", "answer": "derhalve", "explanation": "формальное 'следовательно'" }
+  ],
+  "relatedTopics": ["conjunctions", "word-order", "register-and-style"],
+  "inLessons": [36, 42, 46, 50, 53]
+}

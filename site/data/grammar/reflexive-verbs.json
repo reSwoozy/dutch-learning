@@ -1,0 +1,73 @@
+{
+  "id": "reflexive-verbs",
+  "title": "Возвратные глаголы",
+  "titleNL": "Wederkerend werkwoorden",
+  "level": "B1",
+  "summary": "Возвратные глаголы используются с возвратным местоимением (zich). Некоторые глаголы всегда возвратные, другие -- опционально.",
+  "rule": {
+    "formula": "Подлежащее + глагол + возвратное местоимение (me/je/zich/ons/je/zich) + ...",
+    "explanation": "Возвратное местоимение стоит после спрягаемого глагола. В придаточном -- после подлежащего. Формы: me (ik), je (jij), zich (hij/zij/het/u), ons (wij), je (jullie), zich (zij).",
+    "whenToUse": [
+      "Обязательно возвратные: zich vergissen (ошибаться), zich herinneren (помнить)",
+      "Опционально возвратные: (zich) wassen (мыть(ся)), (zich) aankleden (одевать(ся))",
+      "Взаимные: elkaar ontmoeten (встречать друг друга)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Возвратные местоимения",
+      "headers": ["Лицо", "Местоимение", "Пример"],
+      "rows": [
+        ["ik", "me/mij", "Ik was me."],
+        ["jij/je", "je/jou", "Jij wast je."],
+        ["u", "zich/u", "U wast zich."],
+        ["hij/zij/het", "zich", "Hij wast zich."],
+        ["wij/we", "ons", "Wij wassen ons."],
+        ["jullie", "je/jullie", "Jullie wassen je."],
+        ["zij/ze", "zich", "Zij wassen zich."]
+      ]
+    },
+    {
+      "title": "Частые возвратные глаголы",
+      "headers": ["Глагол", "Перевод", "Пример"],
+      "rows": [
+        ["zich wassen", "мыться", "Ik was me elke ochtend."],
+        ["zich aankleden", "одеваться", "Zij kleedt zich aan."],
+        ["zich voelen", "чувствовать себя", "Ik voel me goed."],
+        ["zich vergissen", "ошибаться", "Je vergist je!"],
+        ["zich herinneren", "помнить", "Ik herinner me dat niet."],
+        ["zich voorstellen", "представляться", "Mag ik me voorstellen?"],
+        ["zich schamen", "стыдиться", "Hij schaamt zich."],
+        ["zich verheugen op", "радоваться (чему-то)", "Ik verheug me op de vakantie."],
+        ["zich zorgen maken", "беспокоиться", "Maak je geen zorgen!"],
+        ["zich gedragen", "вести себя", "Gedraag je!"]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik voel me vandaag niet lekker.", "ru": "Я сегодня не очень хорошо себя чувствую." },
+    { "nl": "Zij kleedt zich snel aan.", "ru": "Она быстро одевается." },
+    { "nl": "Mag ik me even voorstellen?", "ru": "Можно мне представиться?" },
+    { "nl": "Wij verheugen ons op de vakantie.", "ru": "Мы радуемся предстоящему отпуску." },
+    { "nl": "Maak je geen zorgen!", "ru": "Не беспокойся!" },
+    { "nl": "Hij herinnert zich niets.", "ru": "Он ничего не помнит." }
+  ],
+  "exceptions": [
+    "В повелительном наклонении: Was je! Kleed je aan! Gedraag je!",
+    "С модальным глаголом: Ik wil me wassen. (возвратное после модального)",
+    "В придаточном: ...omdat ik me niet goed voel. (возвратное после подлежащего)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik voel zich goed.", "correct": "Ik voel me goed.", "why": "ik -> me (не zich; zich только для 3-го лица и u)" },
+    { "wrong": "Zij kleedt aan zich.", "correct": "Zij kleedt zich aan.", "why": "Возвратное местоимение перед отделяемой приставкой" },
+    { "wrong": "Ik herinner dat niet.", "correct": "Ik herinner me dat niet.", "why": "zich herinneren -- обязательно возвратный" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Ik voel __ vandaag goed. (возвратное)", "answer": "me", "explanation": "ik -> me" },
+    { "type": "fill-blank", "sentence": "Hij herinnert __ niets.", "answer": "zich", "explanation": "hij -> zich" },
+    { "type": "fill-blank", "sentence": "Wij verheugen __ op de vakantie.", "answer": "ons", "explanation": "wij -> ons" },
+    { "type": "word-order", "words": ["zij", "kleedt", "zich", "snel", "aan"], "answer": "Zij kleedt zich snel aan.", "explanation": "Возвратное после глагола, приставка в конце" }
+  ],
+  "relatedTopics": ["personal-pronouns", "separable-verbs", "present-tense"],
+  "inLessons": [15, 20, 28]
+}

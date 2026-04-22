@@ -1,0 +1,89 @@
+{
+  "id": "adjectives",
+  "title": "Прилагательные (склонение)",
+  "titleNL": "Bijvoeglijke naamwoorden (verbuiging)",
+  "level": "A2",
+  "summary": "Прилагательные перед существительным получают окончание -e. Исключение: перед het-woord в ед.ч. с een/без артикля -- без окончания.",
+  "rule": {
+    "formula": "Почти всегда +e | Без -e: een/geen + прилагательное + het-woord (ед.ч.)",
+    "explanation": "Основное правило простое: прилагательное перед существительным получает -e. Единственное исключение -- когда перед het-woord в единственном числе стоит een, geen или нет артикля вообще.",
+    "whenToUse": [
+      "С -e: de grote man, het grote huis, een grote tafel, grote huizen",
+      "Без -e: een groot huis, geen groot probleem, groot nieuws"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Склонение прилагательных",
+      "headers": ["Артикль", "de-woord", "het-woord", "Мн. число"],
+      "rows": [
+        ["de/het", "de grote man (+e)", "het grote huis (+e)", "de grote mannen (+e)"],
+        ["een", "een grote man (+e)", "een groot huis (без -e!)", "-"],
+        ["geen", "geen grote man (+e)", "geen groot huis (без -e!)", "geen grote mannen (+e)"],
+        ["без артикля", "grote man (+e)", "groot huis (без -e!)", "grote mannen (+e)"]
+      ]
+    },
+    {
+      "title": "Правила орфографии при добавлении -e",
+      "headers": ["Основа", "С -e", "Правило"],
+      "rows": [
+        ["groot", "grote", "Открытый слог: одна o"],
+        ["wit", "witte", "Короткая гласная: удвоение t"],
+        ["lief", "lieve", "f -> v перед -e (между гласными)"],
+        ["boos", "boze", "s -> z перед -e (когда в основе исторически z, как в мн.ч.)"],
+        ["grijs", "grijze", "s -> z перед -e (ср. мн.ч. 'grijze' по аналогии с 'huis/huizen')"],
+        ["lang", "lange", "Просто +e"],
+        ["mooi", "mooie", "Просто +e"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Как запомнить правило",
+      "items": [
+        "Представь: -e добавляется ВСЕГДА, кроме одного случая",
+        "Этот случай: een/geen/- + [прилагательное] + het-woord (ед.ч.)",
+        "Мнемоника: 'een groot huis' -- маленький домик без окончания"
+      ]
+    },
+    {
+      "title": "Предикативное использование (после глагола)",
+      "items": [
+        "После zijn, worden, vinden и т.д. прилагательное НЕ склоняется",
+        "Het huis is groot. (не: Het huis is grote.)",
+        "De man is oud. (не: De man is oude.)"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "De kleine kat slaapt.", "ru": "Маленькая кошка спит. (de-woord -> +e)" },
+    { "nl": "Het kleine kind speelt.", "ru": "Маленький ребенок играет. (het + het-woord -> +e)" },
+    { "nl": "Een klein kind speelt.", "ru": "Маленький ребенок играет. (een + het-woord -> без -e!)" },
+    { "nl": "Ik heb een rode auto.", "ru": "У меня красная машина. (een + de-woord -> +e)" },
+    { "nl": "Het is een mooi huis.", "ru": "Это красивый дом. (een + het-woord -> без -e)" },
+    { "nl": "De oude huizen zijn duur.", "ru": "Старые дома дорогие. (мн.ч. -> +e)" },
+    { "nl": "Het weer is slecht.", "ru": "Погода плохая. (предикативно -> без -e)" },
+    { "nl": "Zij draagt een witte jurk.", "ru": "Она носит белое платье. (wit -> witte, удвоение t)" }
+  ],
+  "exceptions": [
+    "Прилагательные на -en не склоняются: een gouden ring (не: een goudene ring), een houten tafel",
+    "Некоторые устойчивые выражения: een groot man (великий человек) vs een grote man (высокий мужчина)",
+    "Материалы на -en: houten, gouden, zilveren, stenen -- без дополнительного -e"
+  ],
+  "commonMistakes": [
+    { "wrong": "Een grote huis.", "correct": "Een groot huis.", "why": "een + het-woord -> без -e" },
+    { "wrong": "Het groot huis.", "correct": "Het grote huis.", "why": "het (определенный артикль) + het-woord -> +e" },
+    { "wrong": "Het huis is grote.", "correct": "Het huis is groot.", "why": "Предикативно (после zijn) -> без -e" },
+    { "wrong": "Een wite jurk.", "correct": "Een witte jurk.", "why": "Короткая i: удвоение t -> witte" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "De __ man loopt in het park. (oud)", "answer": "oude", "explanation": "de + de-woord -> +e" },
+    { "type": "fill-blank", "sentence": "Een __ huis staat aan de gracht. (mooi)", "answer": "mooi", "explanation": "een + het-woord -> без -e" },
+    { "type": "fill-blank", "sentence": "Het __ meisje lacht. (klein)", "answer": "kleine", "explanation": "het (определенный) + het-woord -> +e" },
+    { "type": "fill-blank", "sentence": "Zij heeft __ ogen. (blauw)", "answer": "blauwe", "explanation": "Мн. число -> +e" },
+    { "type": "choice", "question": "Het is een __ boek. (goed)", "options": ["goede", "goed"], "answer": "goed", "explanation": "een + het-woord -> без -e" },
+    { "type": "choice", "question": "De __ auto is van mij. (rood)", "options": ["rode", "rood", "roode"], "answer": "rode", "explanation": "de + de-woord -> +e; открытый слог: одна o" }
+  ],
+  "relatedTopics": ["articles", "comparatives", "spelling-rules", "adverbs", "te-adjective"],
+  "inLessons": [5, 8, 19]
+}

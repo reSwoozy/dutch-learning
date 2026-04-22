@@ -1,0 +1,322 @@
+[
+  {
+    "nl": "het brood",
+    "ru": "хлеб",
+    "example": "Ik eet brood met boter.",
+    "pronunciation": "ɦət broːt",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de boter",
+    "ru": "масло",
+    "example": "Boter op het brood smaakt lekker.",
+    "pronunciation": "də ˈboːtər",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de melk",
+    "ru": "молоко",
+    "example": "Ik drink melk bij het ontbijt.",
+    "pronunciation": "də mɛlk",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "het ei",
+    "ru": "яйцо",
+    "example": "Gekookt ei is gezond.",
+    "pronunciation": "ɦət ɛi̯",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de suiker",
+    "ru": "сахар",
+    "example": "Doe je suiker in de koffie?",
+    "pronunciation": "də ˈsœy̯kər",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de rijst",
+    "ru": "рис",
+    "example": "Rijst met groenten is lekker.",
+    "pronunciation": "də rɛi̯st",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de kaas",
+    "ru": "сыр",
+    "example": "Nederlandse kaas is beroemd.",
+    "pronunciation": "də kaːs",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "het vlees",
+    "ru": "мясо",
+    "example": "Ik eet weinig vlees.",
+    "pronunciation": "ɦət vleːs",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de vis",
+    "ru": "рыба",
+    "example": "Vis is gezond voor je.",
+    "pronunciation": "də vɪs",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de kip",
+    "ru": "курица",
+    "example": "Kip met rijst voor avondeten.",
+    "pronunciation": "də kɪp",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "het zout",
+    "ru": "соль",
+    "example": "Een beetje zout graag.",
+    "pronunciation": "ɦət zɑu̯t",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de pasta",
+    "ru": "паста",
+    "example": "Pasta met tomatensaus.",
+    "pronunciation": "də ˈpɑstaː",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de appel",
+    "ru": "яблоко",
+    "example": "Een appel per dag.",
+    "pronunciation": "də ˈɑpəl",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de banaan",
+    "ru": "банан",
+    "example": "Bananen zijn geel.",
+    "pronunciation": "də baːˈnaːn",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de sinaasappel",
+    "ru": "апельсин",
+    "example": "Sinaasappelsap is lekker.",
+    "pronunciation": "də ˈsinaːsɑpəl",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de tomaat",
+    "ru": "помидор",
+    "example": "Verse tomaten uit de tuin.",
+    "pronunciation": "də toːˈmaːt",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de ui",
+    "ru": "лук",
+    "example": "Ui maken je aan het huilen.",
+    "pronunciation": "də œy̯",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de aardappel",
+    "ru": "картофель",
+    "example": "Gekookte aardappels met boter.",
+    "pronunciation": "də ˈaːrdɑpəl",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de koffie",
+    "ru": "кофе",
+    "example": "Zwarte koffie zonder suiker.",
+    "pronunciation": "də ˈkɔfi",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de thee",
+    "ru": "чай",
+    "example": "Thee met honing.",
+    "pronunciation": "də teː",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "het water",
+    "ru": "вода",
+    "example": "Kraanwater is drinkbaar.",
+    "pronunciation": "ɦət ˈʋaːtər",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "het sap",
+    "ru": "сок",
+    "example": "Vers geperst sinaasappelsap.",
+    "pronunciation": "ɦət sɑp",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "het bier",
+    "ru": "пиво",
+    "example": "Een koud biertje op terras.",
+    "pronunciation": "ɦət bir",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de wijn",
+    "ru": "вино",
+    "example": "Rode wijn bij het diner.",
+    "pronunciation": "də ʋɛi̯n",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de cola",
+    "ru": "кола",
+    "example": "Cola is zoet.",
+    "pronunciation": "də ˈkoːlaː",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de boterham",
+    "ru": "бутерброд",
+    "example": "Boterham met kaas.",
+    "pronunciation": "də ˈboːtərɦɑm",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de pannenkoek",
+    "ru": "блин",
+    "example": "Pannenkoeken met stroop.",
+    "pronunciation": "də ˈpɑnənkuk",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de kroket",
+    "ru": "крокет",
+    "example": "Kroket uit de muur.",
+    "pronunciation": "də kroːˈkɛt",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de hagelslag",
+    "ru": "шоколадная крошка",
+    "example": "Hagelslag op brood.",
+    "pronunciation": "də ˈɦaːɣəlslɑx",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de stroopwafel",
+    "ru": "вафля с сиропом",
+    "example": "Stroopwafel bij de koffie.",
+    "pronunciation": "də ˈstroːpʋaːfəl",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "eten",
+    "ru": "есть/еда",
+    "example": "Wat gaan we eten?",
+    "pronunciation": "ˈeːtən",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "drinken",
+    "ru": "пить",
+    "example": "Wat wil je drinken?",
+    "pronunciation": "ˈdrɪŋkən",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "lekker",
+    "ru": "вкусный",
+    "example": "Dit eten is lekker!",
+    "pronunciation": "ˈlɛkər",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "vies",
+    "ru": "невкусный",
+    "example": "Deze melk is vies.",
+    "pronunciation": "vis",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "veel",
+    "ru": "много",
+    "example": "Veel groenten eten.",
+    "pronunciation": "veːl",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "weinig",
+    "ru": "мало",
+    "example": "Weinig suiker gebruiken.",
+    "pronunciation": "ˈʋɛi̯nəx",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "geen",
+    "ru": "никакой",
+    "example": "Ik eet geen vlees.",
+    "pronunciation": "ɣeːn",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de menukaart",
+    "ru": "меню",
+    "example": "Mag ik de menukaart?",
+    "pronunciation": "də ˈmeːnykaːrt",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "de rekening",
+    "ru": "счет",
+    "example": "De rekening alstublieft.",
+    "pronunciation": "də ˈreːkənɪŋ",
+    "level": "A1",
+    "lesson": 6
+  },
+  {
+    "nl": "bestellen",
+    "ru": "заказывать",
+    "example": "Ik ga een koffie bestellen.",
+    "pronunciation": "bəˈstɛlən",
+    "level": "A1",
+    "lesson": 6
+  }
+]

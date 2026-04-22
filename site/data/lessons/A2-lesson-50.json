@@ -1,0 +1,299 @@
+{
+  "id": "A2-lesson-50",
+  "num": 50,
+  "level": "A2",
+  "title": "Инфинитив с te (om te, zonder te, door te)",
+  "minutes": 15,
+  "objectives": [
+    "Выражать цель конструкцией om ... te + инфинитив",
+    "Использовать zonder te, door te, na te, in plaats van te",
+    "Правильно ставить te при отделяемых глаголах (op te staan)",
+    "Различать, когда te нужно, а когда нет (модальные vs основные глаголы)",
+    "Строить сложные предложения с te-конструкциями"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Инфинитив с te (om te, zonder te, door te)",
+      "content": "**Уровень**: A2 Elementary | **Время**: 15 минут | **Тема**: инфинитивные обороты"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Сказать цель действия через `om ... te`\n- Использовать сочетания zonder/door/na/in plaats van + te\n- Не ошибаться с te в отделяемых глаголах\n- Запомнить, после каких глаголов te ставится, а после каких — нет"
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 1: Основная формула (5 минут)",
+      "content": "**Формула om...te**: `om + (дополнения) + te + инфинитив в конце`\n`Ik ga naar de winkel om brood te kopen.` — Я иду в магазин, чтобы купить хлеб.\n**Другие союзы с te**:\n- `zonder te` — без того, чтобы: `Hij vertrok zonder iets te zeggen.`\n- `door te` — через/путём: `Je leert door te oefenen.`\n- `na te + hebben/zijn + vd` — после того, как: `Na gegeten te hebben, vertrok hij.`\n- `in plaats van te` — вместо того чтобы: `In plaats van te slapen, werkte hij.`",
+      "tables": [
+        {
+          "title": "Союзы + te",
+          "headers": [
+            "Союз",
+            "Значение",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "om ... te",
+              "чтобы",
+              "Ik bel om te vragen."
+            ],
+            [
+              "zonder ... te",
+              "не делая",
+              "Hij werkt zonder te rusten."
+            ],
+            [
+              "door ... te",
+              "путём",
+              "Door te oefenen leer je snel."
+            ],
+            [
+              "na ... te",
+              "после того как",
+              "Na te eten, ging hij weg."
+            ],
+            [
+              "in plaats van ... te",
+              "вместо того чтобы",
+              "In plaats van te praten, luisterde hij."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Глаголы, требующие te (5 минут)",
+      "words": [
+        {
+          "nl": "proberen te",
+          "ru": "пытаться",
+          "hint": "Ik probeer te begrijpen."
+        },
+        {
+          "nl": "beginnen te",
+          "ru": "начинать",
+          "hint": "Zij begint te zingen."
+        },
+        {
+          "nl": "hopen te",
+          "ru": "надеяться",
+          "hint": "Wij hopen te komen."
+        },
+        {
+          "nl": "beloven te",
+          "ru": "обещать",
+          "hint": "Hij belooft te helpen."
+        },
+        {
+          "nl": "vergeten te",
+          "ru": "забывать",
+          "hint": "Ik vergeet te bellen."
+        },
+        {
+          "nl": "leren te",
+          "ru": "учиться",
+          "hint": "Zij leert te koken."
+        },
+        {
+          "nl": "durven te",
+          "ru": "осмеливаться",
+          "hint": "Hij durft niet te vragen."
+        },
+        {
+          "nl": "weigeren te",
+          "ru": "отказываться",
+          "hint": "Hij weigert te antwoorden."
+        },
+        {
+          "nl": "vragen te",
+          "ru": "просить",
+          "hint": "Ik vraag u te komen."
+        },
+        {
+          "nl": "besluiten te",
+          "ru": "решать",
+          "hint": "We besluiten te vertrekken."
+        },
+        {
+          "nl": "verwachten te",
+          "ru": "ожидать",
+          "hint": "Ik verwacht veel te leren."
+        },
+        {
+          "nl": "zonder",
+          "ru": "без",
+          "hint": "zonder + te + инфинитив"
+        },
+        {
+          "nl": "door",
+          "ru": "путём",
+          "hint": "door + te + инфинитив"
+        },
+        {
+          "nl": "om",
+          "ru": "чтобы",
+          "hint": "om + te + инфинитив (цель)"
+        },
+        {
+          "nl": "in plaats van",
+          "ru": "вместо",
+          "hint": "+ te + инф."
+        },
+        {
+          "nl": "op te staan",
+          "ru": "встать (te внутри)",
+          "hint": "отделяемый: op-te-staan"
+        },
+        {
+          "nl": "mee te gaan",
+          "ru": "пойти с (te внутри)",
+          "hint": "meegaan"
+        },
+        {
+          "nl": "aan te komen",
+          "ru": "приехать (te внутри)",
+          "hint": "aankomen"
+        },
+        {
+          "nl": "uit te leggen",
+          "ru": "объяснить (te внутри)",
+          "hint": "uitleggen"
+        },
+        {
+          "nl": "belangrijk om te",
+          "ru": "важно (что-то сделать)",
+          "hint": "Het is belangrijk om te lezen."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1: Планирование дня",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Waarom ga je naar het park?"
+        },
+        {
+          "speaker": "B",
+          "text": "Om te sporten. En jij?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik ga naar de bibliotheek om een boek te lenen."
+        },
+        {
+          "speaker": "B",
+          "text": "Heb je al ontbeten?"
+        },
+        {
+          "speaker": "A",
+          "text": "Nee, ik vergeet altijd te eten 's ochtends."
+        },
+        {
+          "speaker": "B",
+          "text": "Dat is niet goed. Je moet proberen elke ochtend te ontbijten."
+        },
+        {
+          "speaker": "A",
+          "text": "Ik probeer het, maar het lukt me niet zonder koffie te drinken."
+        }
+      ],
+      "translation": "A: Почему ты идёшь в парк?\nB: Чтобы заниматься спортом. А ты?\nA: Я иду в библиотеку взять книгу.\nB: Ты уже позавтракал?\nA: Нет, я всегда забываю есть по утрам.\nB: Это нехорошо. Нужно стараться завтракать каждое утро.\nA: Я стараюсь, но не получается без того, чтобы выпить кофе."
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2: На собеседовании",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Waarom heeft u besloten hier te solliciteren?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik hoop iets nieuws te leren en te groeien als professional."
+        },
+        {
+          "speaker": "A",
+          "text": "Durft u verantwoordelijkheid te nemen?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ja, ik heb geleerd om in een team samen te werken."
+        },
+        {
+          "speaker": "A",
+          "text": "Goed. Kunt u in plaats van volgende week al deze week beginnen?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ja, dat kan. Ik beloof op tijd te komen."
+        }
+      ],
+      "translation": "A: Почему вы решили подать заявление именно сюда?\nB: Я надеюсь научиться чему-то новому и вырасти как профессионал.\nA: Осмелитесь ли вы брать ответственность?\nB: Да, я научился работать в команде.\nA: Хорошо. Можете начать уже на этой неделе вместо следующей?\nB: Да, могу. Обещаю приходить вовремя."
+    },
+    {
+      "type": "grammar",
+      "title": "Когда te НЕ нужно",
+      "content": "Два правила:\n**1. После модальных глаголов**: kunnen, moeten, willen, mogen, zullen.\n`Ik kan komen.` (не: Ik kan te komen.)\n**2. После gaan, komen, blijven, laten и глаголов восприятия (zien, horen, voelen)**:\n`Ik ga slapen.` / `Ik hoor haar zingen.`\nВ остальных случаях с большинством глаголов и после союзов om/zonder/door/na — **te обязательно**."
+    },
+    {
+      "type": "grammar",
+      "title": "te и отделяемые глаголы",
+      "content": "У отделяемых глаголов `te` встраивается МЕЖДУ приставкой и корнем:\n- `opstaan` → `op te staan`\n- `meegaan` → `mee te gaan`\n- `aankomen` → `aan te komen`\n- `uitleggen` → `uit te leggen`\nПример: `Ik probeer vroeg op te staan.` — Пытаюсь вставать рано.\n**Ошибка**: *Ik probeer te opstaan* — te нельзя ставить перед приставкой."
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 4: Упражнения",
+      "items": [
+        {
+          "question": "Ik ga naar de winkel __ brood __ kopen.",
+          "answer": "om ... te"
+        },
+        {
+          "question": "Hij vertrok __ iets __ zeggen.",
+          "answer": "zonder ... te"
+        },
+        {
+          "question": "Ik probeer vroeg __ __ staan. (opstaan)",
+          "answer": "op te"
+        },
+        {
+          "question": "Ik kan vandaag niet __ (komen). (te нужно?)",
+          "answer": "komen (после модального — без te)"
+        },
+        {
+          "question": "Het is belangrijk __ veel __ lezen.",
+          "answer": "om ... te"
+        },
+        {
+          "question": "Hij hoopt snel __ komen.",
+          "answer": "te"
+        },
+        {
+          "question": "Zij leert Nederlands __ praten.",
+          "answer": "te"
+        },
+        {
+          "question": "Ik ga vanavond __ (naar Amsterdam rijden). (te?)",
+          "answer": "rijden (после gaan — без te)"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "om te в разговорной речи",
+      "content": "В разговорной голландской речи `om` часто опускается: `Ik ga werken` вместо `Ik ga om te werken`. Но на экзамене inburgering и в письменной работе `om te` с целью обязательно — без него смысл становится двусмысленным. Следи за контекстом: там, где без `om` предложение теряет значение 'чтобы', ставь `om te` явно."
+    },
+    {
+      "type": "text",
+      "title": "Самопроверка",
+      "content": "- [ ] Знаю формулу om + (доп.) + te + инф.\n- [ ] Понимаю разницу om te vs te (без om)\n- [ ] Правильно ставлю te внутри отделяемого\n- [ ] Не ставлю te после модальных и gaan/komen/blijven/laten"
+    }
+  ],
+  "vocabularyFile": "A2-lesson-50.json"
+}

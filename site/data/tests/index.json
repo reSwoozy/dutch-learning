@@ -1,0 +1,19 @@
+{
+  "tests": [
+    { "id": "A1-test-1", "level": "A1", "variant": 1, "minutes": 20, "maxPoints": 40, "passPercent": 70, "questionCount": 36 },
+    { "id": "A1-test-2", "level": "A1", "variant": 2, "minutes": 20, "maxPoints": 40, "passPercent": 70, "questionCount": 36 },
+    { "id": "A1-test-3", "level": "A1", "variant": 3, "minutes": 20, "maxPoints": 40, "passPercent": 70, "questionCount": 36 },
+    { "id": "A2-test-1", "level": "A2", "variant": 1, "minutes": 30, "maxPoints": 48, "passPercent": 70, "questionCount": 42 },
+    { "id": "A2-test-2", "level": "A2", "variant": 2, "minutes": 30, "maxPoints": 48, "passPercent": 70, "questionCount": 42 },
+    { "id": "A2-test-3", "level": "A2", "variant": 3, "minutes": 30, "maxPoints": 48, "passPercent": 70, "questionCount": 42 },
+    { "id": "B1-test-1", "level": "B1", "variant": 1, "minutes": 40, "maxPoints": 55, "passPercent": 70, "questionCount": 50 },
+    { "id": "B1-test-2", "level": "B1", "variant": 2, "minutes": 40, "maxPoints": 55, "passPercent": 70, "questionCount": 50 },
+    { "id": "B1-test-3", "level": "B1", "variant": 3, "minutes": 40, "maxPoints": 55, "passPercent": 70, "questionCount": 50 },
+    { "id": "B2-test-1", "level": "B2", "variant": 1, "minutes": 50, "maxPoints": 65, "passPercent": 70, "questionCount": 59 },
+    { "id": "B2-test-2", "level": "B2", "variant": 2, "minutes": 50, "maxPoints": 65, "passPercent": 70, "questionCount": 59 },
+    { "id": "B2-test-3", "level": "B2", "variant": 3, "minutes": 50, "maxPoints": 65, "passPercent": 70, "questionCount": 59 },
+    { "id": "knm-test-1", "level": "KNM", "variant": 1, "minutes": 45, "maxPoints": 43, "passPercent": 70, "questionCount": 43 },
+    { "id": "knm-test-2", "level": "KNM", "variant": 2, "minutes": 45, "maxPoints": 43, "passPercent": 70, "questionCount": 43 },
+    { "id": "knm-test-3", "level": "KNM", "variant": 3, "minutes": 45, "maxPoints": 43, "passPercent": 70, "questionCount": 43 }
+  ]
+}

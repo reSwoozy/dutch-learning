@@ -1,0 +1,341 @@
+{
+  "id": "A1-lesson-04",
+  "num": 4,
+  "level": "A1",
+  "title": "Числа и время",
+  "minutes": 15,
+  "objectives": [
+    "Считать от 0 до 100 на нидерландском",
+    "Говорить время (часы, минуты)",
+    "Называть дни недели и месяцы",
+    "Задавать вопросы о времени и возрасте",
+    "Использовать числа в повседневных ситуациях"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Числа и время",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 4 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Считать от 0 до 100 на нидерландском\n- Говорить время (часы, минуты)\n- Называть дни недели и месяцы\n- Задавать вопросы о времени и возрасте\n- Использовать числа в повседневных ситуациях"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Числа 0-20 (3 минуты)",
+      "words": [
+        {
+          "nl": "nul",
+          "ru": "ноль",
+          "pronunciation": "[nʏl]",
+          "hint": "elf"
+        },
+        {
+          "nl": "elf",
+          "ru": "одиннадцать",
+          "pronunciation": "[ɛlf]"
+        },
+        {
+          "nl": "een",
+          "ru": "один",
+          "pronunciation": "[eːn]",
+          "hint": "twaalf"
+        },
+        {
+          "nl": "twaalf",
+          "ru": "двенадцать",
+          "pronunciation": "[tʋaːlf]"
+        },
+        {
+          "nl": "twee",
+          "ru": "два",
+          "pronunciation": "[tʋeː]",
+          "hint": "dertien"
+        },
+        {
+          "nl": "dertien",
+          "ru": "тринадцать",
+          "pronunciation": "[dɛrˈtin]"
+        },
+        {
+          "nl": "drie",
+          "ru": "три",
+          "pronunciation": "[dri]",
+          "hint": "veertien"
+        },
+        {
+          "nl": "veertien",
+          "ru": "четырнадцать",
+          "pronunciation": "[veːrˈtin]"
+        },
+        {
+          "nl": "vier",
+          "ru": "четыре",
+          "pronunciation": "[vir]",
+          "hint": "vijftien"
+        },
+        {
+          "nl": "vijftien",
+          "ru": "пятнадцать",
+          "pronunciation": "[vɛi̯fˈtin]"
+        },
+        {
+          "nl": "vijf",
+          "ru": "пять",
+          "pronunciation": "[vɛi̯f]",
+          "hint": "zestien"
+        },
+        {
+          "nl": "zestien",
+          "ru": "шестнадцать",
+          "pronunciation": "[zɛsˈtin]"
+        },
+        {
+          "nl": "zes",
+          "ru": "шесть",
+          "pronunciation": "[zɛs]",
+          "hint": "zeventien"
+        },
+        {
+          "nl": "zeventien",
+          "ru": "семнадцать",
+          "pronunciation": "[zeːvə(n)ˈtin]"
+        },
+        {
+          "nl": "zeven",
+          "ru": "семь",
+          "pronunciation": "[ˈzeːvə(n)]",
+          "hint": "achttien"
+        },
+        {
+          "nl": "achttien",
+          "ru": "восемнадцать",
+          "pronunciation": "[ɑxtˈtin]"
+        },
+        {
+          "nl": "acht",
+          "ru": "восемь",
+          "pronunciation": "[ɑxt]",
+          "hint": "negentien"
+        },
+        {
+          "nl": "negentien",
+          "ru": "девятнадцать",
+          "pronunciation": "[neːɣə(n)ˈtin]"
+        },
+        {
+          "nl": "negen",
+          "ru": "девять",
+          "pronunciation": "[ˈneːɣə(n)]",
+          "hint": "twintig"
+        },
+        {
+          "nl": "twintig",
+          "ru": "двадцать",
+          "pronunciation": "[ˈtʋɪntəx]"
+        },
+        {
+          "nl": "tien",
+          "ru": "десять",
+          "pronunciation": "[tin]",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Десятки и время (4 минуты)",
+      "words": [
+        {
+          "nl": "dertig",
+          "ru": "тридцать",
+          "pronunciation": "[ˈdɛrtəx]",
+          "hint": "het uur"
+        },
+        {
+          "nl": "het uur",
+          "ru": "час",
+          "pronunciation": "[ɦət yːr]"
+        },
+        {
+          "nl": "veertig",
+          "ru": "сорок",
+          "pronunciation": "[ˈveːrtəx]",
+          "hint": "de minuut"
+        },
+        {
+          "nl": "de minuut",
+          "ru": "минута",
+          "pronunciation": "[də miˈnyt]"
+        },
+        {
+          "nl": "vijftig",
+          "ru": "пятьдесят",
+          "pronunciation": "[ˈvɛi̯ftəx]",
+          "hint": "de tijd"
+        },
+        {
+          "nl": "de tijd",
+          "ru": "время",
+          "pronunciation": "[də tɛi̯t]"
+        },
+        {
+          "nl": "zestig",
+          "ru": "шестьдесят",
+          "pronunciation": "[ˈzɛstəx]",
+          "hint": "voor"
+        },
+        {
+          "nl": "voor",
+          "ru": "до",
+          "pronunciation": "[voːr]"
+        },
+        {
+          "nl": "zeventig",
+          "ru": "семьдесят",
+          "pronunciation": "[ˈzeːvə(n)təx]",
+          "hint": "over"
+        },
+        {
+          "nl": "over",
+          "ru": "после",
+          "pronunciation": "[ˈoːvər]"
+        },
+        {
+          "nl": "tachtig",
+          "ru": "восемьдесят",
+          "pronunciation": "[ˈtɑxtəx]",
+          "hint": "half"
+        },
+        {
+          "nl": "half",
+          "ru": "половина",
+          "pronunciation": "[ɦɑlf]"
+        },
+        {
+          "nl": "negentig",
+          "ru": "девяносто",
+          "pronunciation": "[ˈneːɣə(n)təx]",
+          "hint": "kwart"
+        },
+        {
+          "nl": "kwart",
+          "ru": "четверть",
+          "pronunciation": "[kʋɑrt]"
+        },
+        {
+          "nl": "honderd",
+          "ru": "сто",
+          "pronunciation": "[ˈɦɔndərt]",
+          "hint": "vandaag"
+        },
+        {
+          "nl": "vandaag",
+          "ru": "сегодня",
+          "pronunciation": "[vɑnˈdaːx]"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Фаза 3: Время в голландском (4 минуты)",
+      "content": "**Особенность голландского времени**:\n| Время | Nederlands | Перевод | Объяснение |\n|-------|-----------|---------|------------|\n| 1:00 | **Het is een uur** | Час | Просто |\n| 1:15 | **Het is kwart over een** | Четверть после часа | over = после |\n| 1:30 | **Het is half twee** | Половина второго | Половина ДО двух! |\n| 1:45 | **Het is kwart voor twee** | Четверть до двух | voor = до |\n| 2:05 | **Het is vijf over twee** | Пять после двух | |\n| 2:50 | **Het is tien voor drie** | Десять до трех | |\n**ВАЖНО**: \"half twee\" = 1:30, НЕ 2:30! (половина ДО двух)"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 4: Дни недели (2 минуты)",
+      "words": [
+        {
+          "nl": "maandag",
+          "ru": "понедельник",
+          "pronunciation": "[ˈmaːndɑx]"
+        },
+        {
+          "nl": "dinsdag",
+          "ru": "вторник",
+          "pronunciation": "[ˈdɪnsdɑx]"
+        },
+        {
+          "nl": "woensdag",
+          "ru": "среда",
+          "pronunciation": "[ˈʋunsdɑx]"
+        },
+        {
+          "nl": "donderdag",
+          "ru": "четверг",
+          "pronunciation": "[ˈdɔndərdɑx]"
+        },
+        {
+          "nl": "vrijdag",
+          "ru": "пятница",
+          "pronunciation": "[ˈvrɛi̯dɑx]"
+        },
+        {
+          "nl": "zaterdag",
+          "ru": "суббота",
+          "pronunciation": "[ˈzaːtərdɑx]"
+        },
+        {
+          "nl": "zondag",
+          "ru": "воскресенье",
+          "pronunciation": "[ˈzɔndɑx]"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 5: Практические упражнения (2 минуты)",
+      "items": [
+        {
+          "question": "3:00 → `_______________`"
+        },
+        {
+          "question": "2:30 → `_______________` (осторожно!)"
+        },
+        {
+          "question": "4:15 → `_______________`"
+        },
+        {
+          "question": "5:45 → `_______________`"
+        },
+        {
+          "question": "Hoe oud ben je? → `Ik ben ___ jaar oud`"
+        },
+        {
+          "question": "Hoe laat is het? → `Het is ___`"
+        },
+        {
+          "question": "Welke dag is het? → `Het is ___`"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "1. Образование сложных чисел",
+      "content": "- **21** = **eenentwintig** (один-и-двадцать)\n- **35** = **vijfendertig** (пять-и-тридцать)\n- **78** = **achtenzeventig** (восемь-и-семьдесят)\n**Правило**: Единицы + EN + десятки (как \"один и двадцать\")"
+    },
+    {
+      "type": "text",
+      "title": "2. Особенности времени",
+      "content": "- **half twee** = 1:30 (половина ДО двух!)\n- **half vijf** = 4:30 (половина ДО пяти!)\n- Голландцы думают о том, ДО какого часа половина"
+    },
+    {
+      "type": "text",
+      "title": "3. Возраст и количество",
+      "content": "- **Ik ben 25 jaar oud** - Мне 25 лет\n- **Hoe oud ben je?** - Сколько тебе лет?\n- **Het kost vijf euro** - Это стоит пять евро"
+    },
+    {
+      "type": "text",
+      "title": "4. Вопросы о времени",
+      "content": "- **Hoe laat is het?** - Который час?\n- **Welke dag is het?** - Какой день?\n- **Wanneer kom je?** - Когда приходишь?\n**Подробнее**: [Полный справочник по числам](../../../REFERENCE/grammar/A1-grammar/numbers.md)"
+    },
+    {
+      "type": "culture",
+      "title": "Пунктуальность в Нидерландах",
+      "content": "В голландской культуре **точность во времени КРИТИЧЕСКИ важна**:\n**В деловой жизни**:\n- Приходи **точно вовремя** или на 5 минут раньше\n- Опоздание на 10+ минут считается **неуважением**\n- Всегда предупреждай, если опаздываешь\n**В социальной жизни**:\n- \"Nederlandse tijd\" = точно вовремя\n- На вечеринки можно прийти на 15 минут позже\n- Но лучше спросить: \"Hoe laat precies?\" (во сколько точно?)\n**Полезные фразы**:\n- \"Ik ben vijf minuten te laat\" - Я опаздываю на 5 минут\n- \"Tot welke tijd duurt het?\" - До какого времени это длится?\n- \"Stipt op tijd\" - Точно вовремя\n**Для интеграционного экзамена**: Пунктуальность - это показатель уважения к голландскому обществу и готовности интегрироваться."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-04.json"
+}

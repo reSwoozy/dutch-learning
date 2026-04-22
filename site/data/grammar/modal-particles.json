@@ -1,0 +1,106 @@
+{
+  "id": "modal-particles",
+  "title": "Модальные частицы (wel, toch, eens, maar, even, nou, hoor)",
+  "titleNL": "Modale partikels",
+  "level": "B1",
+  "summary": "Короткие слова-частицы, которые не несут самостоятельного значения, но придают высказыванию оттенок: смягчение, усиление, контраст, просьбу, сомнение. Без них речь звучит сухо и 'не по-голландски' — это одно из главных отличий B1 от B2.",
+  "rule": {
+    "formula": "[Подлежащее] + [глагол] + [модальная частица] + [остальные члены]",
+    "explanation": "Частицы обычно стоят после глагола и подлежащего, до дополнения. Порядок внутри группы частиц фиксированный: nou > eens > even > maar > toch > wel / niet. Частицы не переводятся дословно — их надо 'чувствовать' по контексту.",
+    "whenToUse": [
+      "Смягчить просьбу или приказ: Kom even hier → Подойди-ка сюда.",
+      "Контраст или возражение: Ik ben toch geen kind! → Я же не ребёнок!",
+      "Выражение уверенности: Ik kom wel → Да приду я (не беспокойся).",
+      "Побуждение попробовать: Probeer het eens → Попробуй-ка.",
+      "Разговорный тёплый оттенок в конце: Dat klopt, hoor! → Всё верно, правда-правда!"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Основные частицы и их функции",
+      "headers": ["Частица", "Функция", "Пример", "Перевод"],
+      "rows": [
+        ["wel", "утверждение вопреки ожидаемому", "Ik heb het wel gedaan.", "Я это всё-таки сделал."],
+        ["toch", "несогласие / напоминание", "Je komt toch morgen?", "Ты же завтра приходишь?"],
+        ["eens", "'разок', попробовать", "Kom eens hier.", "Подойди-ка."],
+        ["maar", "смягчение (разрешение/совет)", "Ga maar naar huis.", "Иди домой, ничего."],
+        ["even", "'на минутку', быстро", "Wacht even.", "Погоди-ка."],
+        ["nou", "призыв к действию, нетерпение", "Nou, vertel!", "Ну, рассказывай!"],
+        ["hoor", "дружелюбное подтверждение (в конце)", "Tot morgen, hoor!", "До завтра, пока!"],
+        ["ook", "вдобавок / 'тоже'", "Hij is ook nog moe.", "Он вдобавок ещё и устал."],
+        ["best", "вполне / 'в принципе'", "Dat kan best.", "Это вполне возможно."],
+        ["juist", "'как раз', именно так", "Dat is juist het probleem.", "Это как раз и есть проблема."]
+      ]
+    },
+    {
+      "title": "Порядок частиц в предложении",
+      "headers": ["Позиция", "Частицы", "Заметка"],
+      "rows": [
+        ["1", "nou", "Разговорный призыв, ближе к началу"],
+        ["2", "eens", "Перед even/maar/toch"],
+        ["3", "even", "Перед maar/toch"],
+        ["4", "maar", "Смягчение — перед toch/wel"],
+        ["5", "toch", "Близко к глаголу/инфинитиву"],
+        ["6", "wel / niet", "В самом конце группы частиц"]
+      ]
+    },
+    {
+      "title": "Комбинации (типовые шаблоны)",
+      "headers": ["Комбинация", "Значение", "Пример"],
+      "rows": [
+        ["eens even", "разок и быстренько", "Kom eens even kijken."],
+        ["maar eens", "'давай-ка попробуй'", "Zeg het maar eens eerlijk."],
+        ["toch wel", "усиление согласия", "Het is toch wel gelukt."],
+        ["toch niet", "'всё-таки нет'", "Hij komt toch niet."],
+        ["maar even", "'быстренько, без церемоний'", "Ik bel je maar even."],
+        ["gewoon even", "нейтральное 'просто быстро'", "Doe het gewoon even."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Как понять частицу",
+      "items": [
+        "Уберите частицу — смысл предложения сохраняется, но пропадает оттенок.",
+        "Читая диалог, обращайте внимание на интонацию: частицы часто произносятся без ударения.",
+        "В разговорной речи 'eens' часто звучит как 'es' ('Kom es kijken')."
+      ]
+    },
+    {
+      "title": "Типичные ошибки русскоязычных",
+      "items": [
+        "Переводят 'wel' как 'хорошо' — это ошибка. 'Wel' здесь = 'да, наоборот, всё-таки'.",
+        "Ставят частицу в конец — чаще всего она стоит сразу после глагола и подлежащего.",
+        "Пытаются перевести дословно — лучше выучить типовые шаблоны (maar even, toch wel, eens kijken)."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Wacht maar even, ik kom zo.", "ru": "Подожди немного, я сейчас приду." },
+    { "nl": "Dat wist ik wel!", "ru": "Я это и так знал!" },
+    { "nl": "Je bent toch niet boos?", "ru": "Ты же не сердишься?" },
+    { "nl": "Laat me eens zien.", "ru": "Дай-ка посмотреть." },
+    { "nl": "Doe nou normaal!", "ru": "Веди себя нормально, ну!" },
+    { "nl": "Het is koud, hoor.", "ru": "Холодно, имей в виду." },
+    { "nl": "Ik heb het gewoon even vergeten.", "ru": "Я просто на минуту забыл." }
+  ],
+  "exceptions": [
+    "'wel' в роли отдельного слова (а не частицы) значит 'хорошо/колодец' — контекст решает.",
+    "В формальном письме избегайте 'hoor', 'nou', 'maar' в роли частиц — это разговорный регистр.",
+    "'even' в значении 'одинаково' (tegelijk, gelijk) не является частицей: 'evenveel'."
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik wel heb het gedaan.", "correct": "Ik heb het wel gedaan.", "why": "Частица стоит после глагола, не перед ним." },
+    { "wrong": "Kom hier eens.", "correct": "Kom eens hier.", "why": "Частица ближе к глаголу, чем обстоятельство места." },
+    { "wrong": "Geachte mevrouw, ik wacht maar even op uw antwoord.", "correct": "Geachte mevrouw, ik wacht op uw antwoord.", "why": "'maar even' — разговорное, в формальном письме не используется." }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "Kom __ even hier, ik wil je iets laten zien.", "options": ["wel", "eens", "toch"], "answer": "eens", "explanation": "'eens even' — 'разок и быстро', типичная дружелюбная просьба." },
+    { "type": "choice", "question": "Je komt __ morgen, toch?", "options": ["hoor", "wel", "maar"], "answer": "wel", "explanation": "'wel' утверждает ожидание: 'ты же приходишь'." },
+    { "type": "fill-blank", "sentence": "Ga __ naar huis, het is al laat.", "answer": "maar", "explanation": "'maar' смягчает совет: 'иди домой, ничего страшного'." },
+    { "type": "choice", "question": "Dat klopt, __.", "options": ["hoor", "nou", "eens"], "answer": "hoor", "explanation": "'hoor' в конце — тёплое подтверждение." },
+    { "type": "word-order", "words": ["ik", "heb", "het", "toch", "gedaan"], "answer": "Ik heb het toch gedaan.", "explanation": "Частица после глагола и подлежащего, перед причастием." }
+  ],
+  "relatedTopics": ["word-order", "register-and-style", "discourse-markers"],
+  "inLessons": [22, 25, 37, 39, 44]
+}

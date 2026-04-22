@@ -1,0 +1,461 @@
+{
+  "id": "A1-test-2",
+  "level": "A1",
+  "variant": 2,
+  "minutes": 20,
+  "maxPoints": 40,
+  "passPercent": 70,
+  "lessons": "1-12",
+  "sections": [
+    {
+      "id": "deel-1",
+      "title": "Deel 1: Lezen (Чтение)",
+      "points": 10,
+      "questions": [
+        {
+          "num": 1,
+          "text": "Waar werkt Tom?",
+          "options": [
+            { "letter": "a", "text": "In een school" },
+            { "letter": "b", "text": "In een bakkerij" },
+            { "letter": "c", "text": "In een kantoor" }
+          ],
+          "context": "Hoi! Ik ben Tom. Ik ben 34 jaar oud en ik woon in Rotterdam. Ik werk in een bakkerij. Ik sta elke dag om 5 uur op. Mijn vrouw heet Emma. Zij is lerares. We hebben twee kinderen: een zoon en een dochter. Ons huis is niet groot, maar het is heel gezellig. Ik speel graag voetbal op zaterdag.",
+          "correctLetter": "b",
+          "explanation": "In een bakkerij"
+        },
+        {
+          "num": 2,
+          "text": "Hoe laat staat Tom op?",
+          "options": [
+            { "letter": "a", "text": "Om 5 uur" },
+            { "letter": "b", "text": "Om 7 uur" },
+            { "letter": "c", "text": "Om 9 uur" }
+          ],
+          "correctLetter": "a",
+          "explanation": "Om 5 uur"
+        },
+        {
+          "num": 3,
+          "text": "Hoeveel kinderen heeft Tom?",
+          "options": [
+            { "letter": "a", "text": "Een" },
+            { "letter": "b", "text": "Twee" },
+            { "letter": "c", "text": "Drie" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Twee (een zoon en een dochter)"
+        },
+        {
+          "num": 4,
+          "text": "Wat is het beroep van Emma?",
+          "options": [
+            { "letter": "a", "text": "Bakster" },
+            { "letter": "b", "text": "Dokter" },
+            { "letter": "c", "text": "Lerares" }
+          ],
+          "correctLetter": "c",
+          "explanation": "Lerares"
+        },
+        {
+          "num": 5,
+          "text": "Wat is gratis op dinsdag?",
+          "options": [
+            { "letter": "a", "text": "Een broodje" },
+            { "letter": "b", "text": "Een koffie bij een cappuccino" },
+            { "letter": "c", "text": "Een taart" }
+          ],
+          "context": "Welkom bij Cafe De Hoek! We zijn open van dinsdag tot zondag, van 9 tot 18 uur. Op maandag zijn we gesloten. Op dinsdag krijg je gratis koffie bij een cappuccino. We hebben ook lekkere taarten en broodjes. Ons adres: Bloemstraat 12, Utrecht. Je kunt ook bellen: 030-444-5678.",
+          "correctLetter": "b",
+          "explanation": "Een koffie bij een cappuccino"
+        },
+        {
+          "num": 6,
+          "text": "Wanneer is het cafe gesloten?",
+          "options": [
+            { "letter": "a", "text": "Op maandag" },
+            { "letter": "b", "text": "Op zondag" },
+            { "letter": "c", "text": "Op dinsdag" }
+          ],
+          "correctLetter": "a",
+          "explanation": "Op maandag"
+        }
+      ],
+      "writingTask": null,
+      "speakingTask": null
+    },
+    {
+      "id": "deel-2",
+      "title": "Deel 2: Grammatica",
+      "points": 20,
+      "questions": [
+        {
+          "num": 7,
+          "text": "__ vrouw leest een boek.",
+          "options": [
+            { "letter": "a", "text": "De" },
+            { "letter": "b", "text": "Het" },
+            { "letter": "c", "text": "Een" }
+          ],
+          "correctLetter": "a",
+          "explanation": "De (vrouw -- de-woord)"
+        },
+        {
+          "num": 8,
+          "text": "__ meisje eet een appel.",
+          "options": [
+            { "letter": "a", "text": "De" },
+            { "letter": "b", "text": "Het" },
+            { "letter": "c", "text": "Een" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Het (meisje -- het-woord)"
+        },
+        {
+          "num": 9,
+          "text": "Ik zie __ hond in het park.",
+          "options": [
+            { "letter": "a", "text": "de" },
+            { "letter": "b", "text": "het" },
+            { "letter": "c", "text": "een" }
+          ],
+          "correctLetter": "c",
+          "explanation": "een (неопределенный артикль)"
+        },
+        {
+          "num": 10,
+          "text": "Jij __ goed Nederlands. (spreken)",
+          "options": [
+            { "letter": "a", "text": "spreekt" },
+            { "letter": "b", "text": "spreek" },
+            { "letter": "c", "text": "spreken" }
+          ],
+          "correctLetter": "a",
+          "explanation": "spreekt (jij/je + -t в прямом порядке)"
+        },
+        {
+          "num": 11,
+          "text": "Zij __ elke ochtend koffie. (drinken)",
+          "options": [
+            { "letter": "a", "text": "drink" },
+            { "letter": "b", "text": "drinkt" },
+            { "letter": "c", "text": "drinken" }
+          ],
+          "correctLetter": "b",
+          "explanation": "drinkt (zij (ед.ч.) + -t)"
+        },
+        {
+          "num": 12,
+          "text": "Zij __ samen naar de film. (gaan)",
+          "options": [
+            { "letter": "a", "text": "ga" },
+            { "letter": "b", "text": "gaat" },
+            { "letter": "c", "text": "gaan" }
+          ],
+          "correctLetter": "c",
+          "explanation": "gaan (zij (мн.ч.) + инфинитив)"
+        },
+        {
+          "num": 13,
+          "text": "__ je mij helpen? (kunnen)",
+          "options": [
+            { "letter": "a", "text": "Kunt" },
+            { "letter": "b", "text": "Kun" },
+            { "letter": "c", "text": "Kan" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Kun (jij/je при инверсии -- без -t)"
+        },
+        {
+          "num": 14,
+          "text": "__ auto is nieuw. (мой)",
+          "options": [
+            { "letter": "a", "text": "Mijn" },
+            { "letter": "b", "text": "Mij" },
+            { "letter": "c", "text": "Me" }
+          ],
+          "correctLetter": "a",
+          "explanation": "Mijn"
+        },
+        {
+          "num": 15,
+          "text": "Ik bel __ morgen. (его)",
+          "options": [
+            { "letter": "a", "text": "hij" },
+            { "letter": "b", "text": "hem" },
+            { "letter": "c", "text": "zijn" }
+          ],
+          "correctLetter": "b",
+          "explanation": "hem (объектная форма)"
+        },
+        {
+          "num": 16,
+          "text": "Ik heb __ fiets. Ik loop naar werk.",
+          "options": [
+            { "letter": "a", "text": "niet" },
+            { "letter": "b", "text": "geen" },
+            { "letter": "c", "text": "nee" }
+          ],
+          "correctLetter": "b",
+          "explanation": "geen (перед существительным без артикля)"
+        },
+        {
+          "num": 17,
+          "text": "Ik ga vandaag __ naar school.",
+          "options": [
+            { "letter": "a", "text": "geen" },
+            { "letter": "b", "text": "niet" },
+            { "letter": "c", "text": "nee" }
+          ],
+          "correctLetter": "b",
+          "explanation": "niet (отрицание действия/места)"
+        },
+        {
+          "num": 18,
+          "text": "Vanavond __ ik thuis.",
+          "options": [
+            { "letter": "a", "text": "blijf" },
+            { "letter": "b", "text": "ik blijf" },
+            { "letter": "c", "text": "blijven" }
+          ],
+          "correctLetter": "a",
+          "explanation": "blijf (инверсия после наречия времени)"
+        },
+        {
+          "num": 19,
+          "text": "Выбери правильный порядок слов:",
+          "options": [
+            { "letter": "a", "text": "Hij speelt elke dag voetbal." },
+            { "letter": "b", "text": "Hij elke dag speelt voetbal." },
+            { "letter": "c", "text": "Elke dag hij speelt voetbal." }
+          ],
+          "correctLetter": "a",
+          "explanation": "Hij speelt elke dag voetbal. (S-V-время-O)"
+        },
+        {
+          "num": 20,
+          "text": "Выбери правильный порядок слов:",
+          "options": [
+            { "letter": "a", "text": "Waar jij woont?" },
+            { "letter": "b", "text": "Waar woon je?" },
+            { "letter": "c", "text": "Waar woont je?" }
+          ],
+          "correctLetter": "b",
+          "explanation": "Waar woon je? (вопрос с инверсией -- jij/je без -t)"
+        },
+        {
+          "num": 21,
+          "text": "Het boek ligt __ de tas.",
+          "options": [
+            { "letter": "a", "text": "in" },
+            { "letter": "b", "text": "op" },
+            { "letter": "c", "text": "om" }
+          ],
+          "correctLetter": "a",
+          "explanation": "in (внутри)"
+        },
+        {
+          "num": 22,
+          "text": "Het feest is __ zaterdag.",
+          "options": [
+            { "letter": "a", "text": "in" },
+            { "letter": "b", "text": "op" },
+            { "letter": "c", "text": "om" }
+          ],
+          "correctLetter": "b",
+          "explanation": "op (день недели)"
+        },
+        {
+          "num": 23,
+          "text": "Ik kom __ de fiets naar school.",
+          "options": [
+            { "letter": "a", "text": "in" },
+            { "letter": "b", "text": "op" },
+            { "letter": "c", "text": "met" }
+          ],
+          "correctLetter": "b",
+          "explanation": "op (op de fiets/op de scooter) или c) met (met de fiets -- тоже встречается)"
+        },
+        {
+          "num": 24,
+          "text": "Ik drink een __ thee. (de thee)",
+          "options": [
+            { "letter": "a", "text": "warme" },
+            { "letter": "b", "text": "warm" },
+            { "letter": "c", "text": "warmen" }
+          ],
+          "correctLetter": "a",
+          "explanation": "warme (een + de-woord -> +e)"
+        },
+        {
+          "num": 25,
+          "text": "Dat is een __ probleem. (het probleem)",
+          "options": [
+            { "letter": "a", "text": "klein" },
+            { "letter": "b", "text": "kleine" },
+            { "letter": "c", "text": "kleinen" }
+          ],
+          "correctLetter": "a",
+          "explanation": "klein (een + het-woord -> без -e)"
+        },
+        {
+          "num": 26,
+          "text": "De __ man is mijn opa.",
+          "options": [
+            { "letter": "a", "text": "oude" },
+            { "letter": "b", "text": "oud" },
+            { "letter": "c", "text": "ouden" }
+          ],
+          "correctLetter": "a",
+          "explanation": "oude (de + ед.ч. -> +e)"
+        }
+      ],
+      "writingTask": null,
+      "speakingTask": null
+    },
+    {
+      "id": "deel-3",
+      "title": "Deel 3: Woordenschat (Словарный запас)",
+      "points": 10,
+      "questions": [
+        {
+          "num": 27,
+          "text": "de tante -> `_______`",
+          "options": [
+            { "letter": "a", "text": "мама" },
+            { "letter": "b", "text": "тётя" },
+            { "letter": "c", "text": "сестра" }
+          ],
+          "correctLetter": "b",
+          "explanation": "тётя"
+        },
+        {
+          "num": 28,
+          "text": "de winkel -> `_______`",
+          "options": [
+            { "letter": "a", "text": "магазин" },
+            { "letter": "b", "text": "окно" },
+            { "letter": "c", "text": "угол" }
+          ],
+          "correctLetter": "a",
+          "explanation": "магазин"
+        },
+        {
+          "num": 29,
+          "text": "moe -> `_______`",
+          "options": [
+            { "letter": "a", "text": "уставший" },
+            { "letter": "b", "text": "весёлый" },
+            { "letter": "c", "text": "голодный" }
+          ],
+          "correctLetter": "a",
+          "explanation": "уставший"
+        },
+        {
+          "num": 30,
+          "text": "de sleutel -> `_______`",
+          "options": [
+            { "letter": "a", "text": "дверь" },
+            { "letter": "b", "text": "ключ" },
+            { "letter": "c", "text": "замок" }
+          ],
+          "correctLetter": "b",
+          "explanation": "ключ"
+        },
+        {
+          "num": 31,
+          "text": "Het regent. Neem een __ mee.",
+          "options": [
+            { "letter": "a", "text": "paraplu" },
+            { "letter": "b", "text": "zonnebril" },
+            { "letter": "c", "text": "muts" }
+          ],
+          "correctLetter": "a",
+          "explanation": "paraplu (дождь -> зонт)"
+        },
+        {
+          "num": 32,
+          "text": "Ik ben ziek. Ik ga naar de __.",
+          "options": [
+            { "letter": "a", "text": "bakker" },
+            { "letter": "b", "text": "huisarts" },
+            { "letter": "c", "text": "kapper" }
+          ],
+          "correctLetter": "b",
+          "explanation": "huisarts (болен -> врач)"
+        },
+        {
+          "num": 33,
+          "text": "Ik __ een boek op tafel.",
+          "options": [
+            { "letter": "a", "text": "leg" },
+            { "letter": "b", "text": "zet" },
+            { "letter": "c", "text": "sta" }
+          ],
+          "correctLetter": "a",
+          "explanation": "leg (leggen -- кладу плашмя)"
+        },
+        {
+          "num": 34,
+          "text": "In de keuken __ wij.",
+          "options": [
+            { "letter": "a", "text": "slapen" },
+            { "letter": "b", "text": "douchen" },
+            { "letter": "c", "text": "koken" }
+          ],
+          "correctLetter": "c",
+          "explanation": "koken (кухня -> готовим)"
+        },
+        {
+          "num": 35,
+          "text": "Ik heb __ -- ik wil drinken.",
+          "options": [
+            { "letter": "a", "text": "honger" },
+            { "letter": "b", "text": "dorst" },
+            { "letter": "c", "text": "slaap" }
+          ],
+          "correctLetter": "b",
+          "explanation": "dorst (жажда)"
+        },
+        {
+          "num": 36,
+          "text": "Op zondag ga ik naar __ om te bidden.",
+          "options": [
+            { "letter": "a", "text": "het museum" },
+            { "letter": "b", "text": "de kerk" },
+            { "letter": "c", "text": "het park" }
+          ],
+          "correctLetter": "b",
+          "explanation": "de kerk (церковь)"
+        }
+      ],
+      "writingTask": null,
+      "speakingTask": null
+    },
+    {
+      "id": "deel-4",
+      "title": "Deel 4: Spreken (Говорение)",
+      "points": 0,
+      "questions": [],
+      "writingTask": null,
+      "speakingTask": [
+        {
+          "title": "Задание 1: Моя семья (1 минута)",
+          "items": [
+            "Vertel over je familie: wie zijn er, waar wonen ze, wat doen ze?"
+          ]
+        },
+        {
+          "title": "Задание 2: In het restaurant (2 минуты)",
+          "items": [
+            "Je bent in een restaurant. Vraag naar:",
+            "De menukaart",
+            "Een tafel voor twee personen",
+            "De rekening",
+            "---"
+          ]
+        }
+      ]
+    }
+  ]
+}

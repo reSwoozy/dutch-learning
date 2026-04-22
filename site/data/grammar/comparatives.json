@@ -1,0 +1,86 @@
+{
+  "id": "comparatives",
+  "title": "Сравнительная и превосходная степень",
+  "titleNL": "Vergrotende en overtreffende trap",
+  "level": "A2",
+  "summary": "Сравнительная степень: +er. Превосходная: +st. Сравнение с dan (чем) и net zo...als (так же...как).",
+  "rule": {
+    "formula": "Сравнительная: прилаг. + -er (+ dan) | Превосходная: het + прилаг. + -st(e) | Равенство: net zo + прилаг. + als",
+    "explanation": "Сравнительная степень образуется добавлением -er. Превосходная -- добавлением -st. При использовании перед существительным превосходная получает -e: de grootste stad. Действуют правила орфографии.",
+    "whenToUse": [
+      "Сравнительная: Amsterdam is groter dan Utrecht.",
+      "Превосходная: Amsterdam is de grootste stad van Nederland.",
+      "Равенство: Rotterdam is net zo groot als Den Haag."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Образование степеней",
+      "headers": ["Положительная", "Сравнительная", "Превосходная", "Перевод"],
+      "rows": [
+        ["groot", "groter", "grootst(e)", "большой"],
+        ["klein", "kleiner", "kleinst(e)", "маленький"],
+        ["mooi", "mooier", "mooist(e)", "красивый"],
+        ["duur", "duurder", "duurst(e)", "дорогой"],
+        ["goedkoop", "goedkoper", "goedkoopst(e)", "дешевый"],
+        ["lang", "langer", "langst(e)", "длинный/высокий"],
+        ["oud", "ouder", "oudst(e)", "старый"],
+        ["jong", "jonger", "jongst(e)", "молодой"],
+        ["snel", "sneller", "snelst(e)", "быстрый"],
+        ["lief", "liever", "liefst(e)", "милый/любимый"]
+      ]
+    },
+    {
+      "title": "Неправильные формы",
+      "headers": ["Положительная", "Сравнительная", "Превосходная", "Перевод"],
+      "rows": [
+        ["goed", "beter", "best(e)", "хороший"],
+        ["veel", "meer", "meest(e)", "много"],
+        ["weinig", "minder", "minst(e)", "мало"],
+        ["graag", "liever", "het liefst", "охотно"]
+      ]
+    },
+    {
+      "title": "Орфографические изменения",
+      "headers": ["Основа", "Сравнительная", "Правило"],
+      "rows": [
+        ["groot", "groter", "Открытый слог: одна o (не grooter)"],
+        ["wit", "witter", "Короткая гласная: удвоение t"],
+        ["lief", "liever", "f -> v перед гласной"],
+        ["duur", "duurder", "Просто +der (после r)"]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Mijn huis is groter dan jouw huis.", "ru": "Мой дом больше, чем твой дом." },
+    { "nl": "Amsterdam is de grootste stad van Nederland.", "ru": "Амстердам -- самый большой город Нидерландов." },
+    { "nl": "Deze film is beter dan die film.", "ru": "Этот фильм лучше, чем тот фильм." },
+    { "nl": "Zij is net zo oud als ik.", "ru": "Она такого же возраста, как я." },
+    { "nl": "Ik vind koffie lekkerder dan thee.", "ru": "Мне кофе вкуснее, чем чай." },
+    { "nl": "Het mooiste park is in het centrum.", "ru": "Самый красивый парк в центре." },
+    { "nl": "Ik eet liever vis dan vlees.", "ru": "Я предпочитаю рыбу мясу. (liever = охотнее)" },
+    { "nl": "Hoe meer je oefent, hoe beter je wordt.", "ru": "Чем больше практикуешься, тем лучше становишься." }
+  ],
+  "exceptions": [
+    "goed -> beter -> best (полностью неправильный)",
+    "veel -> meer -> meest (полностью неправильный)",
+    "graag -> liever -> het liefst (наречие, не прилагательное, но работает так же)",
+    "Прилагательные на -r: +der вместо -er: duur -> duurder, ver -> verder",
+    "Прилагательные на -st: превосходная на -st (не -sst): vast -> vastst -> обычно перефразируют: het meest vast"
+  ],
+  "commonMistakes": [
+    { "wrong": "Amsterdam is grooter dan Utrecht.", "correct": "Amsterdam is groter dan Utrecht.", "why": "Открытый слог: одна o (groter, не grooter)" },
+    { "wrong": "Dit is goeder dan dat.", "correct": "Dit is beter dan dat.", "why": "goed -> beter (неправильная форма)" },
+    { "wrong": "Hij is meer groot dan ik.", "correct": "Hij is groter dan ik.", "why": "В нидерландском всегда -er, не meer + прилагательное (в отличие от английского)" },
+    { "wrong": "Zij is zo oud als ik.", "correct": "Zij is net zo oud als ik.", "why": "Для равенства: net zo...als (не просто zo...als)" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Mijn auto is __ dan jouw auto. (snel)", "answer": "sneller", "explanation": "snel + -ler (удвоение l)" },
+    { "type": "fill-blank", "sentence": "Dit is het __ restaurant van de stad. (goed)", "answer": "beste", "explanation": "goed -> best + e (перед существительным)" },
+    { "type": "fill-blank", "sentence": "Zij is __ dan haar zus. (jong)", "answer": "jonger", "explanation": "jong + -er" },
+    { "type": "choice", "question": "Ik drink __ koffie dan thee. (liever/meer)", "options": ["liever", "meer", "beter"], "answer": "liever", "explanation": "graag -> liever (предпочтение)" },
+    { "type": "fill-blank", "sentence": "Amsterdam is de __ stad van Nederland. (groot)", "answer": "grootste", "explanation": "groot + -ste (перед существительным)" }
+  ],
+  "relatedTopics": ["adjectives", "spelling-rules", "adverbs", "te-adjective"],
+  "inLessons": [19, 24]
+}

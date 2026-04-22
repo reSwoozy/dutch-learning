@@ -1,0 +1,314 @@
+[
+  {
+    "nl": "in",
+    "ru": "в",
+    "example": "Het boek ligt in de kast.",
+    "pronunciation": "ɪn",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "op",
+    "ru": "на",
+    "example": "De lamp staat op de tafel.",
+    "pronunciation": "ɔp",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "aan",
+    "ru": "у/при",
+    "example": "Het schilderij hangt aan de muur.",
+    "pronunciation": "aːn",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "naar",
+    "ru": "к/в",
+    "example": "Ik ga naar school.",
+    "pronunciation": "naːr",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "van",
+    "ru": "от/из",
+    "example": "Ik kom van kantoor.",
+    "pronunciation": "vɑn",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "uit",
+    "ru": "из",
+    "example": "Hij komt uit Nederland.",
+    "pronunciation": "œy̯t",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "onder",
+    "ru": "под",
+    "example": "De kat ligt onder het bed.",
+    "pronunciation": "ˈɔndər",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "boven",
+    "ru": "над",
+    "example": "De lamp hangt boven de tafel.",
+    "pronunciation": "ˈboːvə",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "naast",
+    "ru": "рядом",
+    "example": "De bank staat naast de tafel.",
+    "pronunciation": "naːst",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "tussen",
+    "ru": "между",
+    "example": "Het huis staat tussen twee bomen.",
+    "pronunciation": "ˈtɵsə",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "achter",
+    "ru": "за",
+    "example": "De auto staat achter het huis.",
+    "pronunciation": "ˈɑxtər",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "voor",
+    "ru": "перед",
+    "example": "Voor de deur staat een fiets.",
+    "pronunciation": "voːr",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "tegenover",
+    "ru": "напротив",
+    "example": "Het park ligt tegenover het station.",
+    "pronunciation": "ˈteːɣənoːvər",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "bij",
+    "ru": "у/рядом",
+    "example": "Ik woon bij mijn ouders.",
+    "pronunciation": "bɛi̯",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "door",
+    "ru": "через",
+    "example": "We lopen door het park.",
+    "pronunciation": "doːr",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "over",
+    "ru": "через/о",
+    "example": "We gaan over de brug.",
+    "pronunciation": "ˈoːvər",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "met",
+    "ru": "с",
+    "example": "Ik reis met de trein.",
+    "pronunciation": "mɛt",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "om",
+    "ru": "в (время)",
+    "example": "De les begint om acht uur.",
+    "pronunciation": "ɔm",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "op",
+    "ru": "в (дни)",
+    "example": "Op maandag werk ik niet.",
+    "pronunciation": "ɔp",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "tijdens",
+    "ru": "во время",
+    "example": "Tijdens het eten praten we.",
+    "pronunciation": "ˈtɛi̯dəns",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "gedurende",
+    "ru": "в течение",
+    "example": "Gedurende een week was ik ziek.",
+    "pronunciation": "ɣəˈdyːrəndə",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "sinds",
+    "ru": "с (времени)",
+    "example": "Sinds gisteren regent het.",
+    "pronunciation": "sɪnts",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "na",
+    "ru": "после",
+    "example": "Na het werk ga ik naar huis.",
+    "pronunciation": "naː",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "voor",
+    "ru": "до/перед",
+    "example": "Voor het eten was ik thuis.",
+    "pronunciation": "voːr",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "tot",
+    "ru": "до",
+    "example": "Ik werk tot vijf uur.",
+    "pronunciation": "tɔt",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "de richting",
+    "ru": "направление",
+    "example": "In welke richting is het station?",
+    "pronunciation": "də ˈrɪxtɪŋ",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "de plaats",
+    "ru": "место",
+    "example": "Op deze plaats staat een boom.",
+    "pronunciation": "də plaːts",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "de tijd",
+    "ru": "время",
+    "example": "Wat is de tijd?",
+    "pronunciation": "də tɛi̯t",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "de afspraak",
+    "ru": "встреча",
+    "example": "We hebben een afspraak om drie uur.",
+    "pronunciation": "də ˈɑfspraːk",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "de locatie",
+    "ru": "местоположение",
+    "example": "Wat is de locatie van het restaurant?",
+    "pronunciation": "də loːˈkaːtsi",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "het adres",
+    "ru": "адрес",
+    "example": "Wat is uw adres?",
+    "pronunciation": "ɦət aˈdrɛs",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "de weg",
+    "ru": "дорога",
+    "example": "Kunt u de weg wijzen?",
+    "pronunciation": "də ʋɛx",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "rechtdoor",
+    "ru": "прямо",
+    "example": "Ga rechtdoor tot de kruising.",
+    "pronunciation": "ˈrɛxtdoːr",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "links",
+    "ru": "налево",
+    "example": "Sla links af na de brug.",
+    "pronunciation": "lɪŋks",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "rechts",
+    "ru": "направо",
+    "example": "Het is aan je rechterhand.",
+    "pronunciation": "rɛxts",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "de kruising",
+    "ru": "перекресток",
+    "example": "Stop bij de kruising.",
+    "pronunciation": "də ˈkrœy̯sɪŋ",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "de hoek",
+    "ru": "угол",
+    "example": "Het huis staat op de hoek.",
+    "pronunciation": "də ɦuk",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "dichtbij",
+    "ru": "близко",
+    "example": "De winkel is dichtbij.",
+    "pronunciation": "ˈdɪxtbɛi̯",
+    "level": "A2",
+    "lesson": 20
+  },
+  {
+    "nl": "ver weg",
+    "ru": "далеко",
+    "example": "Het station is ver weg.",
+    "pronunciation": "vɛr ʋɛx",
+    "level": "A2",
+    "lesson": 20
+  }
+]

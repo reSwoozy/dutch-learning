@@ -1,0 +1,250 @@
+[
+  {
+    "nl": "woning",
+    "ru": "жилье",
+    "example": "Ik zoek een nieuwe woning.",
+    "pronunciation": "WOH-ning",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "huren",
+    "ru": "арендовать",
+    "example": "Ik ga een appartement huren.",
+    "pronunciation": "HOO-ren",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "verhuren",
+    "ru": "сдавать в аренду",
+    "example": "Zij verhuren hun huis.",
+    "pronunciation": "ver-HOO-ren",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "huurder",
+    "ru": "арендатор",
+    "example": "De huurder betaalt elke maand.",
+    "pronunciation": "HOOR-der",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "verhuurder",
+    "ru": "арендодатель",
+    "example": "De verhuurder repareert het dak.",
+    "pronunciation": "ver-HOOR-der",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "huurprijs",
+    "ru": "арендная плата",
+    "example": "De huurprijs is €1500.",
+    "pronunciation": "HOOR-preys",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "appartement",
+    "ru": "квартира",
+    "example": "Het appartement heeft twee kamers.",
+    "pronunciation": "a-par-te-MENT",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "huis",
+    "ru": "дом",
+    "example": "Het huis heeft een grote tuin.",
+    "pronunciation": "hoys",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "kamer",
+    "ru": "комната",
+    "example": "Mijn kamer is licht en ruim.",
+    "pronunciation": "KAH-mer",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "woonkamer",
+    "ru": "гостиная",
+    "example": "We zitten in de woonkamer.",
+    "pronunciation": "WOON-kah-mer",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "slaapkamer",
+    "ru": "спальня",
+    "example": "De slaapkamer is op de eerste verdieping.",
+    "pronunciation": "SLAAP-kah-mer",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "keuken",
+    "ru": "кухня",
+    "example": "De keuken is modern ingericht.",
+    "pronunciation": "KOY-ken",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "badkamer",
+    "ru": "ванная комната",
+    "example": "De badkamer heeft een douche.",
+    "pronunciation": "BAD-kah-mer",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "balkon",
+    "ru": "балкон",
+    "example": "Het balkon kijkt uit op de tuin.",
+    "pronunciation": "bal-KON",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "tuin",
+    "ru": "сад",
+    "example": "In de tuin groeien bloemen.",
+    "pronunciation": "toyn",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "garage",
+    "ru": "гараж",
+    "example": "De auto staat in de garage.",
+    "pronunciation": "ga-RAA-zhe",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "verdieping",
+    "ru": "этаж",
+    "example": "Het appartement is op de derde verdieping.",
+    "pronunciation": "ver-DEE-ping",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "lift",
+    "ru": "лифт",
+    "example": "De lift is defect.",
+    "pronunciation": "lift",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "trap",
+    "ru": "лестница",
+    "example": "Ik neem de trap naar boven.",
+    "pronunciation": "trap",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "sleutel",
+    "ru": "ключ",
+    "example": "Ik heb de sleutel vergeten.",
+    "pronunciation": "SLOY-tel",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "slot",
+    "ru": "замок",
+    "example": "Het slot moet worden vervangen.",
+    "pronunciation": "slot",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "borg",
+    "ru": "залог",
+    "example": "De borg is twee maanden huur.",
+    "pronunciation": "borkhd",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "huurcontract",
+    "ru": "договор аренды",
+    "example": "Ik teken het huurcontract morgen.",
+    "pronunciation": "HOOR-kon-trakt",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "opzeggen",
+    "ru": "расторгать",
+    "example": "Ik wil mijn huur opzeggen.",
+    "pronunciation": "OP-zekh-khen",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "verwarming",
+    "ru": "отопление",
+    "example": "De verwarming werkt niet goed.",
+    "pronunciation": "ver-VAR-ming",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "elektriciteit",
+    "ru": "электричество",
+    "example": "De elektriciteit is duur.",
+    "pronunciation": "eh-lek-tri-si-TEYT",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "gas",
+    "ru": "газ",
+    "example": "Het gas wordt gebruikt voor koken.",
+    "pronunciation": "khas",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "water",
+    "ru": "вода",
+    "example": "Het water is schoon en veilig.",
+    "pronunciation": "VAH-ter",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "internet",
+    "ru": "интернет",
+    "example": "Het internet is snel hier.",
+    "pronunciation": "IN-ter-net",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "makelaar",
+    "ru": "риелтор",
+    "example": "De makelaar toont het huis.",
+    "pronunciation": "MAH-ke-laar",
+    "level": "B1",
+    "lesson": 30
+  },
+  {
+    "nl": "bezichtigen",
+    "ru": "осматривать",
+    "example": "We gaan het huis bezichtigen.",
+    "pronunciation": "be-ZIKH-ti-khen",
+    "level": "B1",
+    "lesson": 30
+  }
+]

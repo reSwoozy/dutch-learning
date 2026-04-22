@@ -1,0 +1,42 @@
+{
+  "id": "A2-text-04",
+  "level": "A2",
+  "title": "Ruzie met de buren",
+  "topic": "wonen",
+  "readingTime": "3 min",
+  "body": "Sinds een paar maanden heeft Mieke problemen met haar nieuwe buren. De buren zetten elke avond de muziek heel hard. Ook hebben ze vaak feestjes tot diep in de nacht. Mieke kan daardoor niet goed slapen en is soms ook chagrijnig op haar werk.\n\nEerst probeerde Mieke rustig met de buren te praten. Ze belde aan en vroeg of ze de muziek zachter wilden zetten. De buren zeiden dat dat geen probleem was. Maar na twee dagen was het weer hetzelfde verhaal. Mieke werd boos.\n\nEen collega gaf haar advies. 'Schrijf een vriendelijke brief,' zei ze. 'En bel eventueel de woningcorporatie.' Dat deed Mieke. In de brief legde ze rustig uit wat het probleem was. Ze vroeg om een oplossing.\n\nDe woningcorporatie nam contact op met de buren. Nu is het beter. De muziek gaat om elf uur 's avonds uit. Mieke slaapt weer goed en de sfeer in het huis is vriendelijk. Ze groet haar buren gewoon op straat.",
+  "glossary": [
+    {"nl": "de buren", "ru": "соседи"},
+    {"nl": "chagrijnig", "ru": "в плохом настроении"},
+    {"nl": "aanbellen", "ru": "звонить в дверь"},
+    {"nl": "zachter zetten", "ru": "делать тише"},
+    {"nl": "het advies", "ru": "совет"},
+    {"nl": "de woningcorporatie", "ru": "жилищная корпорация"},
+    {"nl": "uitleggen", "ru": "объяснять"},
+    {"nl": "de oplossing", "ru": "решение"},
+    {"nl": "contact opnemen met", "ru": "связываться с"},
+    {"nl": "de sfeer", "ru": "атмосфера"}
+  ],
+  "questions": [
+    {
+      "q": "Wat is het probleem?",
+      "options": ["De buren koken stinkende eten", "De buren hebben luide muziek en feestjes", "De buren stelen spullen"],
+      "answer": 1
+    },
+    {
+      "q": "Wat doet Mieke als eerste?",
+      "options": ["Ze belt de politie", "Ze praat rustig met de buren", "Ze schrijft meteen een brief"],
+      "answer": 1
+    },
+    {
+      "q": "Wat adviseert haar collega?",
+      "options": ["Verhuizen", "Een brief schrijven en de woningcorporatie bellen", "Luider muziek terug zetten"],
+      "answer": 1
+    },
+    {
+      "q": "Wat is het resultaat?",
+      "options": ["De buren verhuizen", "Het is rustiger, de muziek stopt om 11 uur", "Niets, het probleem blijft"],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": "A1-lesson-06",
+  "num": 6,
+  "level": "A1",
+  "title": "Еда и напитки",
+  "minutes": 15,
+  "objectives": [
+    "Называть основные продукты питания и напитки",
+    "Заказывать еду в ресторане или кафе",
+    "Покупать продукты в магазине",
+    "Говорить о предпочтениях в еде",
+    "Понимать голландскую культуру питания"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Еда и напитки",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 6 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Называть основные продукты питания и напитки\n- Заказывать еду в ресторане или кафе\n- Покупать продукты в магазине\n- Говорить о предпочтениях в еде\n- Понимать голландскую культуру питания"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Основные продукты (4 минуты)",
+      "words": [
+        {
+          "nl": "het brood",
+          "ru": "хлеб",
+          "pronunciation": "[ɦət broːt]",
+          "hint": "de kaas"
+        },
+        {
+          "nl": "de kaas",
+          "ru": "сыр",
+          "pronunciation": "[də kaːs]"
+        },
+        {
+          "nl": "de boter",
+          "ru": "масло",
+          "pronunciation": "[də ˈboːtər]",
+          "hint": "het vlees"
+        },
+        {
+          "nl": "het vlees",
+          "ru": "мясо",
+          "pronunciation": "[ɦət vleːs]"
+        },
+        {
+          "nl": "de melk",
+          "ru": "молоко",
+          "pronunciation": "[də mɛlk]",
+          "hint": "de vis"
+        },
+        {
+          "nl": "de vis",
+          "ru": "рыба",
+          "pronunciation": "[də vɪs]"
+        },
+        {
+          "nl": "het ei",
+          "ru": "яйцо",
+          "pronunciation": "[ɦət ɛi̯]",
+          "hint": "de kip"
+        },
+        {
+          "nl": "de kip",
+          "ru": "курица",
+          "pronunciation": "[də kɪp]"
+        },
+        {
+          "nl": "de suiker",
+          "ru": "сахар",
+          "pronunciation": "[də ˈsœy̯kər]",
+          "hint": "het zout"
+        },
+        {
+          "nl": "het zout",
+          "ru": "соль",
+          "pronunciation": "[ɦət zɑu̯t]"
+        },
+        {
+          "nl": "de rijst",
+          "ru": "рис",
+          "pronunciation": "[də rɛi̯st]",
+          "hint": "de pasta"
+        },
+        {
+          "nl": "de pasta",
+          "ru": "паста",
+          "pronunciation": "[də ˈpɑstaː]"
+        },
+        {
+          "nl": "Nederlands",
+          "ru": "Русский",
+          "hint": "Nederlands"
+        },
+        {
+          "nl": "Nederlands",
+          "ru": "Русский",
+          "hint": "Произношение"
+        },
+        {
+          "nl": "de appel",
+          "ru": "яблоко",
+          "pronunciation": "[də ˈɑpəl]",
+          "hint": "de tomaat"
+        },
+        {
+          "nl": "de tomaat",
+          "ru": "помидор",
+          "pronunciation": "[də toːˈmaːt]"
+        },
+        {
+          "nl": "de banaan",
+          "ru": "банан",
+          "pronunciation": "[də baːˈnaːn]",
+          "hint": "de ui"
+        },
+        {
+          "nl": "de ui",
+          "ru": "лук",
+          "pronunciation": "[də œy̯]"
+        },
+        {
+          "nl": "de sinaasappel",
+          "ru": "апельсин",
+          "pronunciation": "[də ˈsinaːsɑpəl]",
+          "hint": "de aardappel"
+        },
+        {
+          "nl": "de aardappel",
+          "ru": "картофель",
+          "pronunciation": "[də ˈaːrdɑpəl]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Напитки (3 минуты)",
+      "words": [
+        {
+          "nl": "de koffie",
+          "ru": "кофе",
+          "pronunciation": "[də ˈkɔfi]",
+          "hint": "het water"
+        },
+        {
+          "nl": "het water",
+          "ru": "вода",
+          "pronunciation": "[ɦət ˈʋaːtər]"
+        },
+        {
+          "nl": "de thee",
+          "ru": "чай",
+          "pronunciation": "[də teː]",
+          "hint": "het sap"
+        },
+        {
+          "nl": "het sap",
+          "ru": "сок",
+          "pronunciation": "[ɦət sɑp]"
+        },
+        {
+          "nl": "het bier",
+          "ru": "пиво",
+          "pronunciation": "[ɦət bir]",
+          "hint": "de wijn"
+        },
+        {
+          "nl": "de wijn",
+          "ru": "вино",
+          "pronunciation": "[də ʋɛi̯n]"
+        },
+        {
+          "nl": "de cola",
+          "ru": "кола",
+          "pronunciation": "[də ˈkoːlaː]",
+          "hint": "de melk"
+        },
+        {
+          "nl": "de melk",
+          "ru": "молоко",
+          "pronunciation": "[də mɛlk]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: В ресторане (4 минуты)",
+      "words": [
+        {
+          "nl": "de boterham",
+          "ru": "бутерброд",
+          "pronunciation": "[də ˈboːtərɦɑm]"
+        },
+        {
+          "nl": "de pannenkoek",
+          "ru": "блин",
+          "pronunciation": "[də ˈpɑnənkuk]"
+        },
+        {
+          "nl": "de kroket",
+          "ru": "крокет",
+          "pronunciation": "[də kroːˈkɛt]"
+        },
+        {
+          "nl": "de hagelslag",
+          "ru": "шоколадная крошка",
+          "pronunciation": "[də ˈɦaːɣəlslɑx]"
+        },
+        {
+          "nl": "de stroopwafel",
+          "ru": "вафля с сиропом",
+          "pronunciation": "[də ˈstroːpʋaːfəl]"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 4: Упражнения (4 минуты)",
+      "items": [
+        {
+          "question": "Кофе с молоком → `_________________`"
+        },
+        {
+          "question": "Бутерброд с сыром → `_________________`"
+        },
+        {
+          "question": "Апельсиновый сок → `_________________`"
+        },
+        {
+          "question": "Где молоко? → `_________________`"
+        },
+        {
+          "question": "Сколько стоит хлеб? → `_________________`"
+        },
+        {
+          "question": "У вас есть яблоки? → `_________________`"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "1. Количественные слова",
+      "content": "- **veel** - много: \"veel koffie\"\n- **weinig** - мало: \"weinig suiker\"\n- **een beetje** - немного: \"een beetje melk\"\n- **geen** - никакой: \"geen vlees\" (я не ем мясо)"
+    },
+    {
+      "type": "grammar",
+      "title": "2. Глагол eten (есть)",
+      "content": "- **Ik eet** brood - Я ем хлеб\n- **Jij eet** vlees - Ты ешь мясо\n- **Hij eet** veel - Он много ест\n- **Wij eten** samen - Мы едим вместе"
+    },
+    {
+      "type": "text",
+      "title": "3. Предпочтения",
+      "content": "- **Ik hou van...** - Я люблю...\n- **Ik hou niet van...** - Я не люблю...\n- **Lekker!** - Вкусно!\n- **Vies!** - Фу, невкусно!"
+    },
+    {
+      "type": "vocabulary",
+      "title": "4. В магазине",
+      "words": [
+        {
+          "nl": "Hoeveel kost dat?",
+          "ru": "Сколько это стоит?"
+        },
+        {
+          "nl": "Heeft u...?",
+          "ru": "У вас есть...?"
+        },
+        {
+          "nl": "Waar is...?",
+          "ru": "Где...?"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Голландская культура питания",
+      "content": "Понимание голландских пищевых привычек поможет в интеграции:\n**Завтрак (het ontbijt)**:\n- **Boterham met hagelslag** - хлеб с шоколадной крошкой (национальное блюдо!)\n- **Yoghurt met muesli** - йогурт с мюсли\n- **Koffie** - обязательно кофе\n**Обед (de lunch)**:\n- **Простые бутерброды** - основа голландского обеда\n- **12:00-13:00** - традиционное время\n- **Быстро и просто** - голландцы не тратят много времени на обед\n**Ужин (het avondeten)**:\n- **17:30-18:30** - рано по международным стандартам\n- **Aardappels, groente, vlees** - картофель, овощи, мясо (традиционная тройка)\n- **Gezamenlijk eten** - вся семья ест вместе\n**Культурные особенности**:\n- **Directheid** - голландцы прямо скажут, если еда не нравится\n- **Soberness** - простота в еде ценится больше изысканности\n- **Gezelligheid** - важна атмосфера, а не только еда\n**Для интеграции**: Знание пищевых привычек поможет в социальном общении и понимании голландского образа жизни."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-06.json"
+}

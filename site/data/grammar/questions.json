@@ -1,0 +1,94 @@
+{
+  "id": "questions",
+  "title": "Вопросительные предложения",
+  "titleNL": "Vraagzinnen",
+  "level": "A1",
+  "summary": "Два типа вопросов: да/нет-вопросы (глагол на 1-м месте) и wh-вопросы (вопросительное слово + глагол на 2-м месте).",
+  "rule": {
+    "formula": "Да/нет: V-S-...? | Wh-вопрос: Vraagwoord-V-S-...?",
+    "explanation": "В да/нет-вопросах глагол стоит на первом месте, подлежащее -- на втором. В wh-вопросах вопросительное слово на первом месте, глагол на втором, подлежащее на третьем.",
+    "whenToUse": [
+      "Да/нет: Spreek jij Nederlands? Heb je een pen?",
+      "Wh-вопрос: Waar woon je? Hoe heet je? Wat doe je?"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Вопросительные слова",
+      "headers": ["Nederlands", "Русский", "Пример"],
+      "rows": [
+        ["wie", "кто", "Wie is dat? (Кто это?)"],
+        ["wat", "что", "Wat doe je? (Что ты делаешь?)"],
+        ["waar", "где", "Waar woon je? (Где ты живешь?)"],
+        ["wanneer", "когда", "Wanneer kom je? (Когда ты придешь?)"],
+        ["waarom", "почему", "Waarom leer je Nederlands? (Почему ты учишь нидерландский?)"],
+        ["hoe", "как", "Hoe gaat het? (Как дела?)"],
+        ["hoeveel", "сколько", "Hoeveel kost het? (Сколько стоит?)"],
+        ["hoe lang", "как долго", "Hoe lang woon je hier? (Как давно ты здесь живешь?)"],
+        ["hoe laat", "во сколько", "Hoe laat begint de les? (Во сколько начинается урок?)"],
+        ["welk(e)", "какой", "Welke taal spreek je? (На каком языке ты говоришь?)"],
+        ["waar...vandaan", "откуда", "Waar kom je vandaan? (Откуда ты?)"],
+        ["waar...naartoe", "куда", "Waar ga je naartoe? (Куда ты идешь?)"]
+      ]
+    },
+    {
+      "title": "Структура вопросов",
+      "headers": ["Тип", "Поз. 1", "Поз. 2 (глагол)", "Поз. 3", "Остальное"],
+      "rows": [
+        ["Да/нет", "Spreek", "-", "jij", "Nederlands?"],
+        ["Да/нет", "Heb", "-", "je", "een auto?"],
+        ["Wh-вопрос", "Waar", "woon", "je", "?"],
+        ["Wh-вопрос", "Wat", "doe", "je", "vandaag?"],
+        ["Wh-вопрос", "Hoe", "heet", "je", "?"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "waar...vandaan / waar...naartoe",
+      "items": [
+        "Эти вопросительные слова разделяются: waar стоит в начале, vandaan/naartoe -- в конце",
+        "Waar kom je vandaan? (Откуда ты?)",
+        "Waar ga je naartoe? (Куда ты идешь?)",
+        "Аналогично: Waar kijk je naar? (На что ты смотришь?)"
+      ]
+    },
+    {
+      "title": "welk vs welke",
+      "items": [
+        "welk -- перед het-woorden: Welk boek lees je?",
+        "welke -- перед de-woorden и мн.ч.: Welke film heb je gezien? Welke boeken lees je?"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Spreek je Nederlands?", "ru": "Ты говоришь по-нидерландски?" },
+    { "nl": "Heb je zin in koffie?", "ru": "Хочешь кофе?" },
+    { "nl": "Waar woon je?", "ru": "Где ты живешь?" },
+    { "nl": "Hoe laat vertrekt de trein?", "ru": "Во сколько отправляется поезд?" },
+    { "nl": "Waarom ben je te laat?", "ru": "Почему ты опоздал?" },
+    { "nl": "Hoeveel kinderen heb je?", "ru": "Сколько у тебя детей?" },
+    { "nl": "Welke talen spreek je?", "ru": "На каких языках ты говоришь?" },
+    { "nl": "Waar kom je vandaan?", "ru": "Откуда ты?" }
+  ],
+  "exceptions": [
+    "wie может быть и подлежащим: Wie komt er morgen? (Кто придет завтра?) -- тогда глагол сразу после wie",
+    "wat voor (een) -- какого рода/типа: Wat voor werk doe je? (Какую работу ты делаешь?)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Waar je woont?", "correct": "Waar woon je?", "why": "В wh-вопросе глагол на 2-й позиции (после вопросительного слова)" },
+    { "wrong": "Jij spreekt Nederlands?", "correct": "Spreek jij Nederlands?", "why": "В да/нет-вопросе глагол на 1-й позиции; с jij без -t" },
+    { "wrong": "Waar kom je van?", "correct": "Waar kom je vandaan?", "why": "Правильная форма: vandaan (не van)" },
+    { "wrong": "Welk taal spreek je?", "correct": "Welke taal spreek je?", "why": "taal -- de-woord, поэтому welke" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "__ woon je? -- In Amsterdam.", "answer": "Waar", "explanation": "Вопрос о месте -> Waar" },
+    { "type": "fill-blank", "sentence": "__ heet je? -- Ik heet Anna.", "answer": "Hoe", "explanation": "Вопрос об имени -> Hoe" },
+    { "type": "fill-blank", "sentence": "__ kost deze jas?", "answer": "Hoeveel", "explanation": "Вопрос о количестве/цене -> Hoeveel" },
+    { "type": "word-order", "words": ["je", "spreek", "Nederlands"], "answer": "Spreek je Nederlands?", "explanation": "Да/нет-вопрос: глагол на 1-м месте" },
+    { "type": "word-order", "words": ["waar", "je", "kom", "vandaan"], "answer": "Waar kom je vandaan?", "explanation": "waar...vandaan разделяется" },
+    { "type": "choice", "question": "__ boek lees je?", "options": ["Welk", "Welke", "Wat"], "answer": "Welk", "explanation": "boek -- het-woord -> welk" }
+  ],
+  "relatedTopics": ["word-order", "personal-pronouns", "present-tense"],
+  "inLessons": [1, 4, 8, 13]
+}

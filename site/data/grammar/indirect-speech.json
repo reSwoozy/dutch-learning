@@ -1,0 +1,78 @@
+{
+  "id": "indirect-speech",
+  "title": "Косвенная речь",
+  "titleNL": "Indirecte rede",
+  "level": "B2",
+  "summary": "Косвенная речь передает чужие слова. Используются союзы dat (что) и of (ли). Времена могут сдвигаться назад.",
+  "rule": {
+    "formula": "Hij zegt dat... | Hij vraagt of... | Hij zegt + wh-woord + S...V (в конце)",
+    "explanation": "При передаче утверждений используется dat, вопросов да/нет -- of, wh-вопросов -- вопросительное слово. Все это подчинительные союзы, поэтому глагол уходит в конец.",
+    "whenToUse": [
+      "Утверждение: Hij zegt dat hij morgen komt. (Он говорит, что он завтра придет.)",
+      "Да/нет вопрос: Zij vraagt of ik Nederlands spreek. (Она спрашивает, говорю ли я по-нидерландски.)",
+      "Wh-вопрос: Hij vraagt waar ik woon. (Он спрашивает, где я живу.)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Прямая -> косвенная речь",
+      "headers": ["Прямая", "Косвенная", "Тип"],
+      "rows": [
+        ["'Ik kom morgen.'", "Hij zegt dat hij morgen komt.", "Утверждение (dat)"],
+        ["'Spreek je Nederlands?'", "Zij vraagt of ik Nederlands spreek.", "Да/нет вопрос (of)"],
+        ["'Waar woon je?'", "Hij vraagt waar ik woon.", "Wh-вопрос"],
+        ["'Kom morgen!'", "Hij zegt dat ik morgen moet komen.", "Повелительное (dat + moeten)"]
+      ]
+    },
+    {
+      "title": "Сдвиг времен (при глаголе в прошедшем)",
+      "headers": ["Прямая речь", "Косвенная речь", "Пример"],
+      "rows": [
+        ["Настоящее (OTT)", "Imperfectum (OVT)", "'Ik werk.' -> Hij zei dat hij werkte."],
+        ["Perfectum (VTT)", "Plusquamperfectum", "'Ik heb gewerkt.' -> Hij zei dat hij had gewerkt."],
+        ["Будущее (zullen)", "zou/zouden", "'Ik zal komen.' -> Hij zei dat hij zou komen."],
+        ["kunnen", "kon/konden", "'Ik kan komen.' -> Hij zei dat hij kon komen."]
+      ]
+    },
+    {
+      "title": "Изменение местоимений и указателей",
+      "headers": ["Прямая", "Косвенная"],
+      "rows": [
+        ["ik", "hij/zij"],
+        ["mijn", "zijn/haar"],
+        ["hier", "daar"],
+        ["nu", "toen"],
+        ["vandaag", "die dag"],
+        ["morgen", "de volgende dag"],
+        ["gisteren", "de vorige dag"]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Hij zegt dat hij ziek is.", "ru": "Он говорит, что он болен." },
+    { "nl": "Zij vroeg of ik mee wilde gaan.", "ru": "Она спросила, хочу ли я пойти с ней." },
+    { "nl": "De leraar vraagt waar mijn huiswerk is.", "ru": "Учитель спрашивает, где моя домашняя работа." },
+    { "nl": "Hij zei dat hij de volgende dag zou komen.", "ru": "Он сказал, что придет на следующий день." },
+    { "nl": "Zij vertelde dat zij in Amsterdam had gewoond.", "ru": "Она рассказала, что жила в Амстердаме." },
+    { "nl": "De dokter zei dat ik meer moest rusten.", "ru": "Врач сказал, что мне нужно больше отдыхать." }
+  ],
+  "exceptions": [
+    "Если главный глагол в настоящем (zegt, vraagt), времена обычно не сдвигаются",
+    "Если главный глагол в прошедшем (zei, vroeg), времена сдвигаются назад",
+    "Общие истины не сдвигаются: Hij zei dat de aarde rond is. (не: was)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Hij vraagt dat ik kom.", "correct": "Hij vraagt of ik kom.", "why": "Для да/нет вопросов используется of, не dat" },
+    { "wrong": "Hij vraagt waar woon ik.", "correct": "Hij vraagt waar ik woon.", "why": "В косвенном вопросе прямой порядок: S...V (глагол в конце)" },
+    { "wrong": "Hij zei dat hij komt morgen.", "correct": "Hij zei dat hij morgen zou komen.", "why": "Сдвиг времени (zal -> zou) + глагол в конце придаточного" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Hij zegt __ hij morgen komt.", "answer": "dat", "explanation": "Утверждение -> dat" },
+    { "type": "fill-blank", "sentence": "Zij vraagt __ ik Nederlands spreek.", "answer": "of", "explanation": "Да/нет вопрос -> of" },
+    { "type": "word-order", "words": ["hij", "vraagt", "waar", "ik", "woon"], "answer": "Hij vraagt waar ik woon.", "explanation": "Косвенный wh-вопрос: глагол в конце" },
+    { "type": "fill-blank", "sentence": "'Ik zal komen.' -> Hij zei dat hij __ komen.", "answer": "zou", "explanation": "Сдвиг времени: zal -> zou" },
+    { "type": "fill-blank", "sentence": "'Ik heb gewerkt.' -> Hij zei dat hij __ gewerkt.", "answer": "had", "explanation": "Сдвиг: heb -> had (plusquamperfectum)" }
+  ],
+  "relatedTopics": ["conjunctions", "word-order", "past-simple", "questions", "zou-usage"],
+  "inLessons": [35, 42, 46]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "aanhef-afsluiting",
+  "title": "Aanhef en afsluiting",
+  "titleRu": "Обращения и подписи",
+  "level": "A2",
+  "type": "reference",
+  "description": "Стандартные обращения и подписи в нидерландских письмах. Подобраны по уровню формальности.",
+  "structure": [
+    {"title": "Formeel", "note": "Письма в компании, организации, к незнакомым."},
+    {"title": "Half-formeel", "note": "К коллегам, учителям, соседям с которыми на 'u'."},
+    {"title": "Informeel", "note": "Друзья, семья, близкие коллеги."}
+  ],
+  "phrases": [
+    "Formeel: 'Geachte mevrouw De Vries,' / 'Geachte heer Jansen,'",
+    "Formeel, без имени: 'Geachte heer, mevrouw,'",
+    "Formeel — закрытие: 'Met vriendelijke groet,' / 'Hoogachtend,' (очень официально).",
+    "Half-formeel: 'Beste mevrouw Jansen,' / 'Beste collega's,'",
+    "Half-formeel — закрытие: 'Met vriendelijke groet,' / 'Met hartelijke groet,'",
+    "Informeel: 'Hoi Anna,' / 'Hallo Mark,' / 'Lieve mama,'",
+    "Informeel — закрытие: 'Groetjes,' / 'Liefs,' / 'Tot snel,'"
+  ],
+  "model": "Пары 'обращение — подпись' по стилю:\n\nFormeel:\nGeachte heer Bakker,\n...\nMet vriendelijke groet,\nA. Petrova\n\nHalf-formeel:\nBeste Annelies,\n...\nMet vriendelijke groet,\nSergei\n\nInformeel:\nHoi Anna,\n...\nGroetjes,\nNatalia",
+  "tips": [
+    "Если не уверены — выбирайте 'Geachte' и 'Met vriendelijke groet,'.",
+    "'Hoogachtend,' используется редко — только в очень официальных письмах (нотариус, суд).",
+    "После обращения всегда запятая, следующая строка — с заглавной.",
+    "'Dear' — это не 'lieve'! Lieve — только близким."
+  ]
+}

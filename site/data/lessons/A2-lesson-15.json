@@ -1,0 +1,310 @@
+{
+  "id": "A2-lesson-15",
+  "num": 15,
+  "level": "A2",
+  "title": "Здоровье и тело",
+  "minutes": 15,
+  "objectives": [
+    "Называть части тела и описывать симптомы",
+    "Записываться к врачу и объяснять проблемы",
+    "Понимать медицинские инструкции и рецепты",
+    "Говорить о здоровом образе жизни",
+    "Понимать голландскую систему здравоохранения"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Здоровье и тело",
+      "content": "**Уровень**: A2 Элементарный | **Время**: 15 минут | **День**: 15 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Называть части тела и описывать симптомы\n- Записываться к врачу и объяснять проблемы\n- Понимать медицинские инструкции и рецепты\n- Говорить о здоровом образе жизни\n- Понимать голландскую систему здравоохранения"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Части тела и общее здоровье (4 минуты)",
+      "words": [
+        {
+          "nl": "het hoofd",
+          "ru": "голова",
+          "pronunciation": "[ɦət ɦoːft]",
+          "hint": "Mijn hoofd doet pijn"
+        },
+        {
+          "nl": "de ogen",
+          "ru": "глаза",
+          "pronunciation": "[də ˈoːɣə]",
+          "hint": "Ik heb blauwe ogen"
+        },
+        {
+          "nl": "de oren",
+          "ru": "уши",
+          "pronunciation": "[də ˈoːrə]",
+          "hint": "Mijn oren doen zeer"
+        },
+        {
+          "nl": "de neus",
+          "ru": "нос",
+          "pronunciation": "[də nøːs]",
+          "hint": "Mijn neus is verstopt"
+        },
+        {
+          "nl": "de mond",
+          "ru": "рот",
+          "pronunciation": "[də mɔnt]",
+          "hint": "Open je mond"
+        },
+        {
+          "nl": "de tanden",
+          "ru": "зубы",
+          "pronunciation": "[də ˈtɑndə]",
+          "hint": "Ik poets mijn tanden"
+        },
+        {
+          "nl": "de hals",
+          "ru": "шея",
+          "pronunciation": "[də ɦɑls]",
+          "hint": "Mijn hals is stijf"
+        },
+        {
+          "nl": "de arm",
+          "ru": "рука",
+          "pronunciation": "[də ɑrm]",
+          "hint": "Mijn arm is gebroken"
+        },
+        {
+          "nl": "de hand",
+          "ru": "кисть",
+          "pronunciation": "[də ɦɑnt]",
+          "hint": "Geef me je hand"
+        },
+        {
+          "nl": "de buik",
+          "ru": "живот",
+          "pronunciation": "[də bœy̯k]",
+          "hint": "Mijn buik doet pijn"
+        },
+        {
+          "nl": "het been",
+          "ru": "нога",
+          "pronunciation": "[ɦət beːn]",
+          "hint": "Mijn been is blauw"
+        },
+        {
+          "nl": "de voet",
+          "ru": "стопа",
+          "pronunciation": "[də vut]",
+          "hint": "Mijn voet is gezwollen"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Симптомы и проблемы (5 минут)",
+      "words": [
+        {
+          "nl": "ziek",
+          "ru": "больной",
+          "pronunciation": "[zik]",
+          "hint": "Ik ben erg ziek"
+        },
+        {
+          "nl": "de pijn",
+          "ru": "боль",
+          "pronunciation": "[də pɛi̯n]",
+          "hint": "Ik heb veel pijn"
+        },
+        {
+          "nl": "de koorts",
+          "ru": "температура",
+          "pronunciation": "[də koːrts]",
+          "hint": "Ik heb koorts"
+        },
+        {
+          "nl": "hoesten",
+          "ru": "кашлять",
+          "pronunciation": "[ˈɦustə]",
+          "hint": "Ik hoest de hele dag"
+        },
+        {
+          "nl": "niezen",
+          "ru": "чихать",
+          "pronunciation": "[ˈnizə]",
+          "hint": "Ik moet steeds niezen"
+        },
+        {
+          "nl": "misselijk",
+          "ru": "тошнота",
+          "pronunciation": "[ˈmɪsələk]",
+          "hint": "Ik voel me misselijk"
+        },
+        {
+          "nl": "moe",
+          "ru": "усталый",
+          "pronunciation": "[mu]",
+          "hint": "Ik ben heel moe"
+        },
+        {
+          "nl": "duizelig",
+          "ru": "головокружение",
+          "pronunciation": "[ˈdœy̯zələx]",
+          "hint": "Ik ben duizelig"
+        },
+        {
+          "nl": "de verkoudheid",
+          "ru": "простуда",
+          "pronunciation": "[də vərˈkɑu̯tɦɛi̯t]",
+          "hint": "Ik heb een verkoudheid"
+        },
+        {
+          "nl": "de griep",
+          "ru": "грипп",
+          "pronunciation": "[də ɣrip]",
+          "hint": "De griep gaat rond"
+        },
+        {
+          "nl": "de hoofdpijn",
+          "ru": "головная боль",
+          "pronunciation": "[də ˈɦoːftpɛi̯n]",
+          "hint": "Ik heb hoofdpijn"
+        },
+        {
+          "nl": "de buikpijn",
+          "ru": "боль в животе",
+          "pronunciation": "[də ˈbœy̯kpɛi̯n]",
+          "hint": "Kind heeft buikpijn"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Фаза 4: Здоровый образ жизни (2 минуты)",
+      "content": "**Здоровье и профилактика**:\n**Здоровые привычки**:\n- **sporten** - заниматься спортом: \"Ik sport drie keer per week\"\n- **gezond eten** - здоровое питание: \"Veel groenten eten is gezond\"\n- **genoeg slapen** - достаточно спать: \"Acht uur slaap is belangrijk\"\n- **water drinken** - пить воду: \"Drink veel water\"\n**Медицинские инструкции**:\n- **Neem de medicijnen** - Принимайте лекарства\n- **Rust uit** - Отдыхайте\n- **Kom over een week terug** - Приходите через неделю\n- **Bel bij problemen** - Звоните при проблемах"
+    },
+    {
+      "type": "text",
+      "title": "1. Выражение боли и недомогания",
+      "content": "**Структуры для выражения боли**:\n- **Ik heb pijn in** + lichaamsdeel: \"Ik heb pijn in mijn rug\"\n- **Mijn + lichaamsdeel + doet pijn**: \"Mijn hoofd doet pijn\"\n- **Ik heb** + симптом: \"Ik heb koorts\"\n**Примеры**:\n- **Ik heb pijn in mijn buik** - У меня болит живот\n- **Mijn been doet zeer** - Моя нога болит\n- **Ik heb hoofdpijn** - У меня головная боль"
+    },
+    {
+      "type": "grammar",
+      "title": "2. Модальные глаголы в медицинском контексте",
+      "content": "**Необходимость и советы**:",
+      "examples": [
+        {
+          "nl": "Je moet",
+          "ru": "ты должен: \"Je moet medicijnen nemen\""
+        },
+        {
+          "nl": "Je kunt",
+          "ru": "ты можешь: \"Je kunt morgen komen\""
+        },
+        {
+          "nl": "Je mag niet",
+          "ru": "тебе нельзя: \"Je mag niet sporten\""
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "3. Временные выражения",
+      "content": "**Как долго и когда**:\n- **Sinds wanneer?** - С каких пор?\n- **Sinds gisteren** - Со вчерашнего дня\n- **Hoe lang al?** - Как долго уже?\n- **Al drie dagen** - Уже три дня\n**Подробнее**: [A2 Грамматика: Модальные глаголы](../../../REFERENCE/grammar/A2-grammar/modal-verbs.md)"
+    },
+    {
+      "type": "text",
+      "title": "Полезные вопросы врача:",
+      "content": "- **Wat zijn de klachten?** - Какие жалобы?\n- **Sinds wanneer heeft u dit?** - С каких пор у вас это?\n- **Doet dit pijn?** - Это болит?\n- **Neemt u medicijnen?** - Принимаете лекарства?\n- **Bent u allergisch voor iets?** - У вас аллергия на что-то?"
+    },
+    {
+      "type": "text",
+      "title": "Полезные ответы пациента:",
+      "content": "- **Ik heb pijn in...** - У меня болит...\n- **Het doet zeer sinds...** - Болит с...\n- **Ik neem geen medicijnen** - Не принимаю лекарства\n- **Ik ben allergisch voor...** - У меня аллергия на...\n- **Het is begonnen gisteren** - Началось вчера"
+    },
+    {
+      "type": "text",
+      "title": "В аптеке:",
+      "content": "- **Ik heb een recept** - У меня рецепт\n- **Wat kost dit medicijn?** - Сколько стоит это лекарство?\n- **Hoe vaak moet ik dit innemen?** - Как часто это принимать?\n- **Zijn er bijwerkingen?** - Есть побочные эффекты?"
+    },
+    {
+      "type": "culture",
+      "title": "Голландская система здравоохранения",
+      "content": "Понимание медицинской системы критично для жизни в Нидерландах:\n**Основы системы**:\n- **Huisarts** - семейный врач (первый контакт)\n- **Zorgverzekering** - медицинская страховка (обязательна!)\n- **Eigen risico** - собственная доля (€385 в год)\n- **Verwijzing** - направление к специалисту\n**Как работает система**:\n1. **Сначала к huisarts** - всегда через семейного врача\n2. **Afspraak maken** - записываться заранее\n3. **Spoedeisende hulp** - скорая только в экстренных случаях\n4. **Apotheek** - рецептурные лекарства только в аптеке\n**Важные номера**:\n- **112** - экстренная помощь\n- **0900-8844** - медицинская консультация (платно)\n- **Huisartsenpost** - дежурная служба врачей\n**Культурные особенности**:\n- **Paracetamol eerst** - сначала парацетамол от всего\n- **Niet zeuren** - не жаловаться без крайней необходимости\n- **Preventie is belangrijk** - профилактика очень важна\n- **Zelf oplossen** - сначала попробуй решить сам\n**Для интеграции**: Знание медицинской системы поможет получить качественную помощь и избежать проблем со страховкой."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Ролевая игра \"У врача\"",
+      "content": "**Персонажи**: Врач и пациент\n**Ситуация**: У тебя болит горло и температура. Объясни симптомы.\n**Диалог**:\n- Врач: \"Wat zijn de klachten?\"\n- Пациент: \"Ik heb...\""
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Описание симптомов",
+      "items": [
+        {
+          "question": "У тебя болит голова уже два дня"
+        },
+        {
+          "question": "Ты кашляешь и у тебя температура"
+        },
+        {
+          "question": "Твоя нога опухла после падения"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: В аптеке",
+      "items": [
+        {
+          "question": "Покажи рецепт"
+        },
+        {
+          "question": "Спроси о способе приема"
+        },
+        {
+          "question": "Узнай цену"
+        },
+        {
+          "question": "Заплати"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Важные фразы для экстренных случаев:",
+      "words": [
+        {
+          "nl": "Help!",
+          "ru": "Помогите!"
+        },
+        {
+          "nl": "Bel een ambulance",
+          "ru": "Вызовите скорую"
+        },
+        {
+          "nl": "Ik heb een ongeluk gehad",
+          "ru": "У меня был несчастный случай"
+        },
+        {
+          "nl": "Ik ben gevallen",
+          "ru": "Я упал"
+        },
+        {
+          "nl": "Ik kan niet bewegen",
+          "ru": "Не могу двигаться"
+        },
+        {
+          "nl": "Ik heb allergische reactie",
+          "ru": "У меня аллергическая реакция"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "При звонке в 112:",
+      "content": "- **Wat is er aan de hand?** - Что случилось?\n- **Waar bent u?** - Где вы?\n- **Hoeveel gewonden?** - Сколько пострадавших?"
+    }
+  ],
+  "vocabularyFile": "A2-lesson-15.json"
+}

@@ -1,0 +1,123 @@
+{
+  "id": "B2-lesson-42",
+  "num": 42,
+  "level": "B2",
+  "title": "Косвенная речь и согласование времён",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Косвенная речь и согласование времён",
+      "content": "Свободно передавать чужую речь: утверждения, вопросы (да/нет и wh‑), просьбы/приказы, согласование времён и замена указателей времени/места в формальной и нейтральной речи.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "grammar",
+      "title": "Механика косвенной речи"
+    },
+    {
+      "type": "text",
+      "title": "1) Утверждения (dat‑zin)",
+      "content": "- Hij zegt: \"Ik ga naar huis.\" → Hij zegt dat hij naar huis gaat.\n- Hij zei: \"Ik ga naar huis.\" → Hij zei dat hij naar huis ging.\nСдвиги времён (часто):\n- tt → vt (ga → ging), zullen → zouden, kan → kon, moet → moest."
+    },
+    {
+      "type": "text",
+      "title": "2) Вопросы",
+      "content": "- Да/нет: «of» + bijzin:\nHij vraagt: \"Kom je morgen?\" → Hij vraagt of ik morgen kom.\nHij vroeg of ik morgen zou komen.\n- С вопросительным словом: vraagwoord + bijzin:\n\"Waar woon je?\" → Hij vraagt waar ik woon."
+    },
+    {
+      "type": "text",
+      "title": "3) Приказы/просьбы",
+      "content": "- Imperatief → «om + te + infinitief»:\nHij zei: \"Kom op tijd!\" → Hij zei om op tijd te komen.\n- Просьба → «om + te» или verba zoals vragen/verzoeken/advies:\nZij verzocht mij het formulier in te vullen."
+    },
+    {
+      "type": "text",
+      "title": "4) Замены указателей (deixis)",
+      "content": "- vandaag → die dag; morgen → de volgende dag; gisteren → de vorige dag\n- hier → daar; nu → toen; volgend jaar → het jaar daarop\nОтчётный регистр: zeggen, melden, verklaren, beweren, benadrukken, ontkennen, toevoegen, antwoorden."
+    },
+    {
+      "type": "text",
+      "title": "Примеры",
+      "content": "```\nDirect: \"We zullen volgende week starten.\"\nIndirect (heden): Hij zegt dat ze volgende week zullen starten.\nIndirect (verleden): Hij zei dat ze de week daarop zouden starten.\nDirect: \"Wanneer kunt u leveren?\"\nIndirect: Hij vroeg wanneer we konden leveren.\n```"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Прямая -> косвенная речь (утверждения)",
+      "items": [
+        {
+          "question": "Hij zegt: \"Ik werk bij een bank.\" -> Hij zegt dat __."
+        },
+        {
+          "question": "Zij zei: \"Ik ga morgen naar Amsterdam.\" -> Zij zei dat __."
+        },
+        {
+          "question": "De leraar zei: \"De les begint om 9 uur.\" -> De leraar zei dat __."
+        },
+        {
+          "question": "Hij zei: \"Ik zal je bellen.\" -> Hij zei dat __.",
+          "answers": [
+            "1. ...hij bij een bank werkt. (настоящее -> без сдвига, т.к. zegt)",
+            "2. ...zij de volgende dag naar Amsterdam ging. (morgen -> de volgende dag; ga -> ging)",
+            "3. ...de les om 9 uur begon. (begint -> begon)",
+            "4. ...hij me zou bellen. (zal -> zou)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Прямая -> косвенная речь (вопросы)",
+      "items": [
+        {
+          "question": "\"Spreek je Nederlands?\" -> Hij vroeg __."
+        },
+        {
+          "question": "\"Waar woon je?\" -> Zij vroeg __."
+        },
+        {
+          "question": "\"Kun je morgen komen?\" -> Hij vroeg __."
+        },
+        {
+          "question": "\"Hoeveel kost dit?\" -> Zij vroeg __.",
+          "answers": [
+            "1. ...of ik Nederlands sprak.",
+            "2. ...waar ik woonde.",
+            "3. ...of ik de volgende dag kon komen.",
+            "4. ...hoeveel dit kostte."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Приказы/просьбы -> om te + infinitief",
+      "items": [
+        {
+          "question": "\"Kom op tijd!\" -> Hij zei __."
+        },
+        {
+          "question": "\"Vul dit formulier in.\" -> Zij verzocht mij __."
+        },
+        {
+          "question": "\"Bel me morgen terug.\" -> Hij vroeg __.",
+          "answers": [
+            "1. ...om op tijd te komen.",
+            "2. ...dit formulier in te vullen.",
+            "3. ...om hem de volgende dag terug te bellen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 4: Замени указатели",
+      "content": "Verander de directe rede naar indirecte rede (let op de verwijswoorden):\n\"Ik heb gisteren hier een vergadering gehad. Morgen ga ik naar het kantoor.\"\n-> Hij zei dat __. -> `_______`\n<details>\n<summary>Ответ</summary>\nHij zei dat hij de vorige dag daar een vergadering had gehad. De volgende dag zou hij naar het kantoor gaan.\n(gisteren -> de vorige dag, hier -> daar, morgen -> de volgende dag, ga -> zou gaan)\n</details>"
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- indirecte rede — косвенная речь\n- dat‑zin — придаточное с «dat»\n- of‑zin — придаточное с «of»\n- vraagwoord — вопросительное слово\n- imperatief — повелительное наклонение\n- om te + inf. — конструкция для приказов/просьб\n- zouden — «zou» (согласование будущего)\n- beweren/verklaren — утверждать/заявлять\n- benadrukken — подчёркивать\n- ontkennen — отрицать\n- toevoegen — добавлять\n- antwoorden — отвечать\n- de vorige/volgende dag — предыдущий/следующий день\n- daarop/daarna — затем/после этого\n- toen — тогда\n- leverdatum — дата поставки\n- afspraak — договорённость\n- verslag doen — отчитываться\n- samenvatten — подытоживать\n- citeren — цитировать\n- parafraseren — пересказывать/перефразировать"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-42.json"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "email-motivatiebrief",
+  "title": "Motivatiebrief / sollicitatiemail",
+  "titleRu": "Мотивационное письмо / отклик на вакансию",
+  "level": "B2",
+  "type": "email",
+  "description": "Мотивационное письмо к резюме: почему вы подходите на эту роль, что привлекает в компании, какие у вас ключевые навыки.",
+  "structure": [
+    {"title": "Aanhef", "note": "Geachte heer/mevrouw [achternaam], если имя известно."},
+    {"title": "Openingszin", "note": "Указать, на какую вакансию вы откликаетесь и где её увидели."},
+    {"title": "Wie ben ik", "note": "Кратко: образование, опыт, текущая роль."},
+    {"title": "Waarom deze functie", "note": "Что привлекает в должности/компании, связь с вашими целями."},
+    {"title": "Wat breng ik mee", "note": "2–3 релевантных достижения / навыка."},
+    {"title": "Afsluiting", "note": "Предложение встречи / звонка, благодарность, подпись."}
+  ],
+  "phrases": [
+    "Met belangstelling heb ik uw vacature voor ... op [site/LinkedIn] gelezen.",
+    "Graag reageer ik op deze functie, omdat...",
+    "Op dit moment werk ik als ... bij ..., waar ik verantwoordelijk ben voor...",
+    "De combinatie van ... en ... in uw organisatie spreekt mij bijzonder aan.",
+    "Uit mijn ervaring blijkt dat ik in staat ben om...",
+    "Ik zou het op prijs stellen als ik mijn motivatie in een persoonlijk gesprek verder mag toelichten.",
+    "Bij voorbaat dank voor uw reactie.",
+    "Met vriendelijke groet,"
+  ],
+  "model": "Geachte mevrouw Jansen,\n\nMet veel interesse heb ik uw vacature voor Data-analist op de website van TechBV gelezen. Graag solliciteer ik op deze functie.\n\nOp dit moment werk ik ruim drie jaar als junior data-analist bij RetailPlus, waar ik verantwoordelijk ben voor dashboards over klantgedrag en aankoopprognoses. Daarvoor heb ik de master Econometrie aan de Universiteit van Amsterdam afgerond.\n\nDe functie bij TechBV spreekt mij om twee redenen bijzonder aan. Ten eerste richt uw organisatie zich op duurzame energie, een sector waarin ik graag langdurig een bijdrage wil leveren. Ten tweede geeft u aan dat de data-analist binnen kleine, multidisciplinaire teams werkt – precies de werkomgeving waarin ik goed gedij.\n\nIn mijn huidige rol heb ik onder meer:\n- een voorspelmodel gebouwd dat de voorraadkosten met 12% reduceerde;\n- een vernieuwde rapportagestructuur opgezet die wekelijkse besluitvorming versnelt;\n- collega's uit marketing en logistiek getraind in zelfstandig dashboardgebruik.\n\nIk zou het zeer op prijs stellen om mijn motivatie in een persoonlijk gesprek verder toe te lichten. Bij voorbaat dank voor uw reactie.\n\nMet vriendelijke groet,\n\nSergei Volkov\nsergei.volkov@mail.nl\n06-23456789",
+  "tips": [
+    "Один экран текста — достаточно. Не повторяйте CV дословно.",
+    "Используйте активный залог: 'Ik heb ... opgezet' вместо 'Er is ... opgezet.'",
+    "Конкретные цифры и результаты сильно повышают шанс на приглашение.",
+    "Избегайте клише типа 'teamplayer' / 'gedreven' без примеров."
+  ]
+}

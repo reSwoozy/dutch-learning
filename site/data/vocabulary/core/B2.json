@@ -1,0 +1,3017 @@
+[
+  {
+    "nl": "de stelling",
+    "ru": "тезис, утверждение",
+    "level": "B2"
+  },
+  {
+    "nl": "de hypothese",
+    "ru": "гипотеза",
+    "level": "B2"
+  },
+  {
+    "nl": "de these",
+    "ru": "тезис, диссертация",
+    "level": "B2"
+  },
+  {
+    "nl": "de argumentatie",
+    "ru": "аргументация",
+    "level": "B2"
+  },
+  {
+    "nl": "het argument",
+    "ru": "аргумент",
+    "level": "B2"
+  },
+  {
+    "nl": "het tegenargument",
+    "ru": "контраргумент",
+    "level": "B2"
+  },
+  {
+    "nl": "de onderbouwing",
+    "ru": "обоснование",
+    "level": "B2"
+  },
+  {
+    "nl": "de redenering",
+    "ru": "рассуждение",
+    "level": "B2"
+  },
+  {
+    "nl": "de argumentatieve",
+    "ru": "аргументативный",
+    "level": "B2"
+  },
+  {
+    "nl": "de veronderstelling",
+    "ru": "предположение",
+    "level": "B2"
+  },
+  {
+    "nl": "de aanname",
+    "ru": "допущение, предположение",
+    "level": "B2"
+  },
+  {
+    "nl": "de premisse",
+    "ru": "предпосылка, посылка",
+    "level": "B2"
+  },
+  {
+    "nl": "de conclusie",
+    "ru": "заключение, вывод",
+    "level": "B2"
+  },
+  {
+    "nl": "de implicatie",
+    "ru": "импликация, следствие",
+    "level": "B2"
+  },
+  {
+    "nl": "de consequentie",
+    "ru": "последствие",
+    "level": "B2"
+  },
+  {
+    "nl": "de analyse",
+    "ru": "анализ",
+    "level": "B2"
+  },
+  {
+    "nl": "de synthese",
+    "ru": "синтез",
+    "level": "B2"
+  },
+  {
+    "nl": "de kritiek",
+    "ru": "критика",
+    "level": "B2"
+  },
+  {
+    "nl": "de recensie",
+    "ru": "рецензия",
+    "level": "B2"
+  },
+  {
+    "nl": "de evaluatie",
+    "ru": "оценка",
+    "level": "B2"
+  },
+  {
+    "nl": "de interpretatie",
+    "ru": "интерпретация",
+    "level": "B2"
+  },
+  {
+    "nl": "de afweging",
+    "ru": "взвешивание, оценка",
+    "level": "B2"
+  },
+  {
+    "nl": "de nuance",
+    "ru": "нюанс",
+    "level": "B2"
+  },
+  {
+    "nl": "het perspectief",
+    "ru": "перспектива, точка зрения",
+    "level": "B2"
+  },
+  {
+    "nl": "de invalshoek",
+    "ru": "угол рассмотрения",
+    "level": "B2"
+  },
+  {
+    "nl": "de benadering",
+    "ru": "подход",
+    "level": "B2"
+  },
+  {
+    "nl": "het uitgangspunt",
+    "ru": "отправная точка",
+    "level": "B2"
+  },
+  {
+    "nl": "de voorwaarde",
+    "ru": "условие, предпосылка",
+    "level": "B2"
+  },
+  {
+    "nl": "de beperking",
+    "ru": "ограничение",
+    "level": "B2"
+  },
+  {
+    "nl": "het knelpunt",
+    "ru": "проблемная точка",
+    "level": "B2"
+  },
+  {
+    "nl": "het dilemma",
+    "ru": "дилемма",
+    "level": "B2"
+  },
+  {
+    "nl": "het vraagstuk",
+    "ru": "вопрос, проблема",
+    "level": "B2"
+  },
+  {
+    "nl": "de kwestie",
+    "ru": "вопрос, дело",
+    "level": "B2"
+  },
+  {
+    "nl": "de paradox",
+    "ru": "парадокс",
+    "level": "B2"
+  },
+  {
+    "nl": "de tegenstelling",
+    "ru": "противоречие, противоположность",
+    "level": "B2"
+  },
+  {
+    "nl": "de tegenstrijdigheid",
+    "ru": "противоречивость",
+    "level": "B2"
+  },
+  {
+    "nl": "het tegenvoorbeeld",
+    "ru": "контрпример",
+    "level": "B2"
+  },
+  {
+    "nl": "de samenhang",
+    "ru": "взаимосвязь",
+    "level": "B2"
+  },
+  {
+    "nl": "het patroon",
+    "ru": "паттерн, закономерность",
+    "level": "B2"
+  },
+  {
+    "nl": "de regelmaat",
+    "ru": "регулярность",
+    "level": "B2"
+  },
+  {
+    "nl": "de structuur",
+    "ru": "структура",
+    "level": "B2"
+  },
+  {
+    "nl": "de opbouw",
+    "ru": "построение, структура",
+    "level": "B2"
+  },
+  {
+    "nl": "de invulling",
+    "ru": "наполнение, конкретизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de context",
+    "ru": "контекст",
+    "level": "B2"
+  },
+  {
+    "nl": "het kader",
+    "ru": "рамки",
+    "level": "B2"
+  },
+  {
+    "nl": "de reikwijdte",
+    "ru": "сфера охвата",
+    "level": "B2"
+  },
+  {
+    "nl": "de omvang",
+    "ru": "объём, масштаб",
+    "level": "B2"
+  },
+  {
+    "nl": "de schaal",
+    "ru": "масштаб, шкала",
+    "level": "B2"
+  },
+  {
+    "nl": "de dimensie",
+    "ru": "измерение, аспект",
+    "level": "B2"
+  },
+  {
+    "nl": "het aspect",
+    "ru": "аспект",
+    "level": "B2"
+  },
+  {
+    "nl": "de factor",
+    "ru": "фактор",
+    "level": "B2"
+  },
+  {
+    "nl": "de variabele",
+    "ru": "переменная",
+    "level": "B2"
+  },
+  {
+    "nl": "de parameter",
+    "ru": "параметр",
+    "level": "B2"
+  },
+  {
+    "nl": "de criteria",
+    "ru": "критерии",
+    "level": "B2"
+  },
+  {
+    "nl": "de norm",
+    "ru": "норма",
+    "level": "B2"
+  },
+  {
+    "nl": "de standaard",
+    "ru": "стандарт",
+    "level": "B2"
+  },
+  {
+    "nl": "het kenmerk",
+    "ru": "признак, характеристика",
+    "level": "B2"
+  },
+  {
+    "nl": "de eigenschap",
+    "ru": "свойство, качество",
+    "level": "B2"
+  },
+  {
+    "nl": "het fenomeen",
+    "ru": "явление, феномен",
+    "level": "B2"
+  },
+  {
+    "nl": "het verschijnsel",
+    "ru": "явление",
+    "level": "B2"
+  },
+  {
+    "nl": "de werkelijkheid",
+    "ru": "реальность",
+    "level": "B2"
+  },
+  {
+    "nl": "de waarheid",
+    "ru": "правда, истина",
+    "level": "B2"
+  },
+  {
+    "nl": "de leugen",
+    "ru": "ложь",
+    "level": "B2"
+  },
+  {
+    "nl": "het feit",
+    "ru": "факт",
+    "level": "B2"
+  },
+  {
+    "nl": "de fictie",
+    "ru": "вымысел",
+    "level": "B2"
+  },
+  {
+    "nl": "de mythe",
+    "ru": "миф",
+    "level": "B2"
+  },
+  {
+    "nl": "het misverstand",
+    "ru": "недопонимание",
+    "level": "B2"
+  },
+  {
+    "nl": "de misleiding",
+    "ru": "обман, введение в заблуждение",
+    "level": "B2"
+  },
+  {
+    "nl": "de objectiviteit",
+    "ru": "объективность",
+    "level": "B2"
+  },
+  {
+    "nl": "de subjectiviteit",
+    "ru": "субъективность",
+    "level": "B2"
+  },
+  {
+    "nl": "de neutraliteit",
+    "ru": "нейтральность",
+    "level": "B2"
+  },
+  {
+    "nl": "het vooroordeel",
+    "ru": "предрассудок",
+    "level": "B2"
+  },
+  {
+    "nl": "de vooringenomenheid",
+    "ru": "предвзятость",
+    "level": "B2"
+  },
+  {
+    "nl": "de stereotiep",
+    "ru": "стереотип",
+    "level": "B2"
+  },
+  {
+    "nl": "de generalisatie",
+    "ru": "обобщение",
+    "level": "B2"
+  },
+  {
+    "nl": "de abstractie",
+    "ru": "абстракция",
+    "level": "B2"
+  },
+  {
+    "nl": "de specifiek",
+    "ru": "специфика",
+    "level": "B2"
+  },
+  {
+    "nl": "de definitie",
+    "ru": "определение",
+    "level": "B2"
+  },
+  {
+    "nl": "het concept",
+    "ru": "концепция",
+    "level": "B2"
+  },
+  {
+    "nl": "de theorie",
+    "ru": "теория",
+    "level": "B2"
+  },
+  {
+    "nl": "de praktijk",
+    "ru": "практика",
+    "level": "B2"
+  },
+  {
+    "nl": "de toepassing",
+    "ru": "применение",
+    "level": "B2"
+  },
+  {
+    "nl": "de implementatie",
+    "ru": "внедрение",
+    "level": "B2"
+  },
+  {
+    "nl": "de uitvoering",
+    "ru": "исполнение, выполнение",
+    "level": "B2"
+  },
+  {
+    "nl": "de realisatie",
+    "ru": "реализация",
+    "level": "B2"
+  },
+  {
+    "nl": "de verwezenlijking",
+    "ru": "осуществление",
+    "level": "B2"
+  },
+  {
+    "nl": "de prestatie",
+    "ru": "достижение, успех",
+    "level": "B2"
+  },
+  {
+    "nl": "de doelstelling",
+    "ru": "целевая установка",
+    "level": "B2"
+  },
+  {
+    "nl": "de visie",
+    "ru": "видение",
+    "level": "B2"
+  },
+  {
+    "nl": "de missie",
+    "ru": "миссия",
+    "level": "B2"
+  },
+  {
+    "nl": "de strategie",
+    "ru": "стратегия",
+    "level": "B2"
+  },
+  {
+    "nl": "de tactiek",
+    "ru": "тактика",
+    "level": "B2"
+  },
+  {
+    "nl": "de methode",
+    "ru": "метод",
+    "level": "B2"
+  },
+  {
+    "nl": "de aanpak",
+    "ru": "подход",
+    "level": "B2"
+  },
+  {
+    "nl": "de werkwijze",
+    "ru": "методика",
+    "level": "B2"
+  },
+  {
+    "nl": "het principe",
+    "ru": "принцип",
+    "level": "B2"
+  },
+  {
+    "nl": "het beginsel",
+    "ru": "принцип, основа",
+    "level": "B2"
+  },
+  {
+    "nl": "de grondslag",
+    "ru": "основа",
+    "level": "B2"
+  },
+  {
+    "nl": "het fundament",
+    "ru": "фундамент",
+    "level": "B2"
+  },
+  {
+    "nl": "de basis",
+    "ru": "база, основа",
+    "level": "B2"
+  },
+  {
+    "nl": "het vertrekpunt",
+    "ru": "исходная точка",
+    "level": "B2"
+  },
+  {
+    "nl": "de mijlpaal",
+    "ru": "веха",
+    "level": "B2"
+  },
+  {
+    "nl": "de doorbraak",
+    "ru": "прорыв",
+    "level": "B2"
+  },
+  {
+    "nl": "de verschuiving",
+    "ru": "сдвиг, перемена",
+    "level": "B2"
+  },
+  {
+    "nl": "de paradigmaverschuiving",
+    "ru": "смена парадигмы",
+    "level": "B2"
+  },
+  {
+    "nl": "de revolutie",
+    "ru": "революция",
+    "level": "B2"
+  },
+  {
+    "nl": "de evolutie",
+    "ru": "эволюция",
+    "level": "B2"
+  },
+  {
+    "nl": "de transformatie",
+    "ru": "трансформация",
+    "level": "B2"
+  },
+  {
+    "nl": "de transitie",
+    "ru": "переход",
+    "level": "B2"
+  },
+  {
+    "nl": "de overgang",
+    "ru": "переход",
+    "level": "B2"
+  },
+  {
+    "nl": "de omwenteling",
+    "ru": "переворот",
+    "level": "B2"
+  },
+  {
+    "nl": "de hervorming",
+    "ru": "реформа",
+    "level": "B2"
+  },
+  {
+    "nl": "de reorganisatie",
+    "ru": "реорганизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de herstructurering",
+    "ru": "реструктуризация",
+    "level": "B2"
+  },
+  {
+    "nl": "de aanpassing",
+    "ru": "адаптация, приспособление",
+    "level": "B2"
+  },
+  {
+    "nl": "de acceptatie",
+    "ru": "принятие",
+    "level": "B2"
+  },
+  {
+    "nl": "de erkenning",
+    "ru": "признание",
+    "level": "B2"
+  },
+  {
+    "nl": "de afwijzing",
+    "ru": "отказ, отклонение",
+    "level": "B2"
+  },
+  {
+    "nl": "de goedkeuring",
+    "ru": "одобрение",
+    "level": "B2"
+  },
+  {
+    "nl": "de toestemming",
+    "ru": "разрешение, согласие",
+    "level": "B2"
+  },
+  {
+    "nl": "de weigering",
+    "ru": "отказ",
+    "level": "B2"
+  },
+  {
+    "nl": "de bezwaar",
+    "ru": "возражение",
+    "level": "B2"
+  },
+  {
+    "nl": "het bezwaarschrift",
+    "ru": "заявление о возражении",
+    "level": "B2"
+  },
+  {
+    "nl": "het beroep",
+    "ru": "апелляция; профессия",
+    "level": "B2"
+  },
+  {
+    "nl": "de procedure",
+    "ru": "процедура",
+    "level": "B2"
+  },
+  {
+    "nl": "de instantie",
+    "ru": "инстанция",
+    "level": "B2"
+  },
+  {
+    "nl": "het orgaan",
+    "ru": "орган (учреждение)",
+    "level": "B2"
+  },
+  {
+    "nl": "de commissie",
+    "ru": "комиссия",
+    "level": "B2"
+  },
+  {
+    "nl": "de raad",
+    "ru": "совет",
+    "level": "B2"
+  },
+  {
+    "nl": "het bestuur",
+    "ru": "правление",
+    "level": "B2"
+  },
+  {
+    "nl": "de directie",
+    "ru": "руководство, дирекция",
+    "level": "B2"
+  },
+  {
+    "nl": "de leiding",
+    "ru": "руководство",
+    "level": "B2"
+  },
+  {
+    "nl": "de autoriteit",
+    "ru": "авторитет, власть",
+    "level": "B2"
+  },
+  {
+    "nl": "de macht",
+    "ru": "власть",
+    "level": "B2"
+  },
+  {
+    "nl": "de bevoegdheid",
+    "ru": "полномочие",
+    "level": "B2"
+  },
+  {
+    "nl": "de invloed uitoefenen",
+    "ru": "оказывать влияние",
+    "level": "B2"
+  },
+  {
+    "nl": "de lobby",
+    "ru": "лобби",
+    "level": "B2"
+  },
+  {
+    "nl": "de belangengroep",
+    "ru": "группа интересов",
+    "level": "B2"
+  },
+  {
+    "nl": "het belang",
+    "ru": "интерес",
+    "level": "B2"
+  },
+  {
+    "nl": "de belanghebbende",
+    "ru": "заинтересованная сторона",
+    "level": "B2"
+  },
+  {
+    "nl": "de stakeholder",
+    "ru": "стейкхолдер",
+    "level": "B2"
+  },
+  {
+    "nl": "de doelgroep",
+    "ru": "целевая группа",
+    "level": "B2"
+  },
+  {
+    "nl": "de minderheid",
+    "ru": "меньшинство",
+    "level": "B2"
+  },
+  {
+    "nl": "de meerderheid",
+    "ru": "большинство",
+    "level": "B2"
+  },
+  {
+    "nl": "de gelijkheid",
+    "ru": "равенство",
+    "level": "B2"
+  },
+  {
+    "nl": "de ongelijkheid",
+    "ru": "неравенство",
+    "level": "B2"
+  },
+  {
+    "nl": "de diversiteit",
+    "ru": "разнообразие",
+    "level": "B2"
+  },
+  {
+    "nl": "de inclusie",
+    "ru": "инклюзия",
+    "level": "B2"
+  },
+  {
+    "nl": "de uitsluiting",
+    "ru": "исключение",
+    "level": "B2"
+  },
+  {
+    "nl": "de tolerantie",
+    "ru": "терпимость",
+    "level": "B2"
+  },
+  {
+    "nl": "de intolerantie",
+    "ru": "нетерпимость",
+    "level": "B2"
+  },
+  {
+    "nl": "de solidariteit",
+    "ru": "солидарность",
+    "level": "B2"
+  },
+  {
+    "nl": "de empathie",
+    "ru": "эмпатия",
+    "level": "B2"
+  },
+  {
+    "nl": "de verbondenheid",
+    "ru": "связанность, причастность",
+    "level": "B2"
+  },
+  {
+    "nl": "de saamhorigheid",
+    "ru": "сплочённость",
+    "level": "B2"
+  },
+  {
+    "nl": "de polarisatie",
+    "ru": "поляризация",
+    "level": "B2"
+  },
+  {
+    "nl": "de verdeeldheid",
+    "ru": "разделённость",
+    "level": "B2"
+  },
+  {
+    "nl": "de verharding",
+    "ru": "ожесточение (тона, отношений)",
+    "level": "B2"
+  },
+  {
+    "nl": "de radicalisering",
+    "ru": "радикализация",
+    "level": "B2"
+  },
+  {
+    "nl": "het extremisme",
+    "ru": "экстремизм",
+    "level": "B2"
+  },
+  {
+    "nl": "het populisme",
+    "ru": "популизм",
+    "level": "B2"
+  },
+  {
+    "nl": "de democratisering",
+    "ru": "демократизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de verkiezingsuitslag",
+    "ru": "результаты выборов",
+    "level": "B2"
+  },
+  {
+    "nl": "de zetel",
+    "ru": "место в парламенте",
+    "level": "B2"
+  },
+  {
+    "nl": "de coalitie",
+    "ru": "коалиция",
+    "level": "B2"
+  },
+  {
+    "nl": "de oppositie",
+    "ru": "оппозиция",
+    "level": "B2"
+  },
+  {
+    "nl": "het kabinet",
+    "ru": "правительство, кабинет министров",
+    "level": "B2"
+  },
+  {
+    "nl": "de grondwet",
+    "ru": "конституция",
+    "level": "B2"
+  },
+  {
+    "nl": "de wetgeving",
+    "ru": "законодательство",
+    "level": "B2"
+  },
+  {
+    "nl": "de verordening",
+    "ru": "распоряжение, регламент",
+    "level": "B2"
+  },
+  {
+    "nl": "de richtlijn",
+    "ru": "директива, указание",
+    "level": "B2"
+  },
+  {
+    "nl": "het verdrag",
+    "ru": "договор, соглашение",
+    "level": "B2"
+  },
+  {
+    "nl": "het akkoord",
+    "ru": "соглашение, согласие",
+    "level": "B2"
+  },
+  {
+    "nl": "het convenant",
+    "ru": "конвенция, соглашение",
+    "level": "B2"
+  },
+  {
+    "nl": "de uitspraak van de rechter",
+    "ru": "решение суда",
+    "level": "B2"
+  },
+  {
+    "nl": "het vonnis",
+    "ru": "приговор",
+    "level": "B2"
+  },
+  {
+    "nl": "het hoger beroep",
+    "ru": "апелляция",
+    "level": "B2"
+  },
+  {
+    "nl": "de jurisprudentie",
+    "ru": "судебная практика",
+    "level": "B2"
+  },
+  {
+    "nl": "de rechtspraak",
+    "ru": "правосудие",
+    "level": "B2"
+  },
+  {
+    "nl": "de rechtstaat",
+    "ru": "правовое государство",
+    "level": "B2"
+  },
+  {
+    "nl": "de corruptie",
+    "ru": "коррупция",
+    "level": "B2"
+  },
+  {
+    "nl": "de fraude",
+    "ru": "мошенничество",
+    "level": "B2"
+  },
+  {
+    "nl": "de witwassen",
+    "ru": "отмывание денег",
+    "level": "B2"
+  },
+  {
+    "nl": "de belastingontduiking",
+    "ru": "уклонение от уплаты налогов",
+    "level": "B2"
+  },
+  {
+    "nl": "de belastingontwijking",
+    "ru": "налоговое планирование",
+    "level": "B2"
+  },
+  {
+    "nl": "de economie",
+    "ru": "экономика",
+    "level": "B2"
+  },
+  {
+    "nl": "de recessie",
+    "ru": "рецессия",
+    "level": "B2"
+  },
+  {
+    "nl": "de inflatie",
+    "ru": "инфляция",
+    "level": "B2"
+  },
+  {
+    "nl": "de deflatie",
+    "ru": "дефляция",
+    "level": "B2"
+  },
+  {
+    "nl": "de stagnatie",
+    "ru": "стагнация",
+    "level": "B2"
+  },
+  {
+    "nl": "de crisis",
+    "ru": "кризис",
+    "level": "B2"
+  },
+  {
+    "nl": "het herstel",
+    "ru": "восстановление",
+    "level": "B2"
+  },
+  {
+    "nl": "de conjunctuur",
+    "ru": "конъюнктура",
+    "level": "B2"
+  },
+  {
+    "nl": "de koopkracht",
+    "ru": "покупательная способность",
+    "level": "B2"
+  },
+  {
+    "nl": "de werkgelegenheid",
+    "ru": "занятость",
+    "level": "B2"
+  },
+  {
+    "nl": "de arbeidsmarkt",
+    "ru": "рынок труда",
+    "level": "B2"
+  },
+  {
+    "nl": "de arbeidsparticipatie",
+    "ru": "участие в рабочей силе",
+    "level": "B2"
+  },
+  {
+    "nl": "het bruto binnenlands product",
+    "ru": "ВВП",
+    "level": "B2"
+  },
+  {
+    "nl": "de export",
+    "ru": "экспорт",
+    "level": "B2"
+  },
+  {
+    "nl": "de import",
+    "ru": "импорт",
+    "level": "B2"
+  },
+  {
+    "nl": "de handelsbalans",
+    "ru": "торговый баланс",
+    "level": "B2"
+  },
+  {
+    "nl": "de valuta",
+    "ru": "валюта",
+    "level": "B2"
+  },
+  {
+    "nl": "de wisselkoers",
+    "ru": "обменный курс",
+    "level": "B2"
+  },
+  {
+    "nl": "de aandeel",
+    "ru": "акция, доля",
+    "level": "B2"
+  },
+  {
+    "nl": "de beurs",
+    "ru": "биржа",
+    "level": "B2"
+  },
+  {
+    "nl": "de investering",
+    "ru": "инвестиция",
+    "level": "B2"
+  },
+  {
+    "nl": "de rendement",
+    "ru": "доходность",
+    "level": "B2"
+  },
+  {
+    "nl": "het vermogen",
+    "ru": "имущество; способность",
+    "level": "B2"
+  },
+  {
+    "nl": "de erfenis",
+    "ru": "наследство",
+    "level": "B2"
+  },
+  {
+    "nl": "de schenking",
+    "ru": "дарение, пожертвование",
+    "level": "B2"
+  },
+  {
+    "nl": "de gift",
+    "ru": "пожертвование",
+    "level": "B2"
+  },
+  {
+    "nl": "de liefdadigheid",
+    "ru": "благотворительность",
+    "level": "B2"
+  },
+  {
+    "nl": "de maatschappelijke verantwoordelijkheid",
+    "ru": "социальная ответственность",
+    "level": "B2"
+  },
+  {
+    "nl": "de duurzame ontwikkeling",
+    "ru": "устойчивое развитие",
+    "level": "B2"
+  },
+  {
+    "nl": "de ecologische voetafdruk",
+    "ru": "экологический след",
+    "level": "B2"
+  },
+  {
+    "nl": "de uitstoot",
+    "ru": "выбросы",
+    "level": "B2"
+  },
+  {
+    "nl": "de emissie",
+    "ru": "эмиссия (выбросов)",
+    "level": "B2"
+  },
+  {
+    "nl": "de broeikasgassen",
+    "ru": "парниковые газы",
+    "level": "B2"
+  },
+  {
+    "nl": "de CO2-heffing",
+    "ru": "налог на CO2",
+    "level": "B2"
+  },
+  {
+    "nl": "de klimaatakkoord",
+    "ru": "климатическое соглашение",
+    "level": "B2"
+  },
+  {
+    "nl": "de energietransitie",
+    "ru": "энергетический переход",
+    "level": "B2"
+  },
+  {
+    "nl": "de biodiversiteit",
+    "ru": "биоразнообразие",
+    "level": "B2"
+  },
+  {
+    "nl": "de ecosysteem",
+    "ru": "экосистема",
+    "level": "B2"
+  },
+  {
+    "nl": "de natuurbescherming",
+    "ru": "охрана природы",
+    "level": "B2"
+  },
+  {
+    "nl": "de duurzame energie",
+    "ru": "возобновляемая энергия",
+    "level": "B2"
+  },
+  {
+    "nl": "de fossiele brandstof",
+    "ru": "ископаемое топливо",
+    "level": "B2"
+  },
+  {
+    "nl": "de grondstof",
+    "ru": "сырьё",
+    "level": "B2"
+  },
+  {
+    "nl": "de schaarste",
+    "ru": "дефицит, нехватка",
+    "level": "B2"
+  },
+  {
+    "nl": "de overvloed",
+    "ru": "изобилие",
+    "level": "B2"
+  },
+  {
+    "nl": "de voedselzekerheid",
+    "ru": "продовольственная безопасность",
+    "level": "B2"
+  },
+  {
+    "nl": "de armoede",
+    "ru": "бедность",
+    "level": "B2"
+  },
+  {
+    "nl": "de welvaart",
+    "ru": "благосостояние",
+    "level": "B2"
+  },
+  {
+    "nl": "het welzijn",
+    "ru": "благополучие",
+    "level": "B2"
+  },
+  {
+    "nl": "de sociale zekerheid",
+    "ru": "социальная защита",
+    "level": "B2"
+  },
+  {
+    "nl": "de verzorgingsstaat",
+    "ru": "государство всеобщего благосостояния",
+    "level": "B2"
+  },
+  {
+    "nl": "de pensioengerechtigde leeftijd",
+    "ru": "пенсионный возраст",
+    "level": "B2"
+  },
+  {
+    "nl": "de vergrijzing",
+    "ru": "старение населения",
+    "level": "B2"
+  },
+  {
+    "nl": "de ontgroening",
+    "ru": "уменьшение доли молодёжи",
+    "level": "B2"
+  },
+  {
+    "nl": "de demografie",
+    "ru": "демография",
+    "level": "B2"
+  },
+  {
+    "nl": "de bevolkingsgroei",
+    "ru": "рост населения",
+    "level": "B2"
+  },
+  {
+    "nl": "de urbanisatie",
+    "ru": "урбанизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de globalisering",
+    "ru": "глобализация",
+    "level": "B2"
+  },
+  {
+    "nl": "de digitalisering",
+    "ru": "цифровизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de automatisering",
+    "ru": "автоматизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de robotisering",
+    "ru": "роботизация",
+    "level": "B2"
+  },
+  {
+    "nl": "de kunstmatige intelligentie",
+    "ru": "искусственный интеллект",
+    "level": "B2"
+  },
+  {
+    "nl": "de privacy",
+    "ru": "конфиденциальность",
+    "level": "B2"
+  },
+  {
+    "nl": "de gegevensbescherming",
+    "ru": "защита данных",
+    "level": "B2"
+  },
+  {
+    "nl": "de cyberveiligheid",
+    "ru": "кибербезопасность",
+    "level": "B2"
+  },
+  {
+    "nl": "de nepnieuws",
+    "ru": "фейковые новости",
+    "level": "B2"
+  },
+  {
+    "nl": "de desinformatie",
+    "ru": "дезинформация",
+    "level": "B2"
+  },
+  {
+    "nl": "de mediawijsheid",
+    "ru": "медиаграмотность",
+    "level": "B2"
+  },
+  {
+    "nl": "de journalistiek",
+    "ru": "журналистика",
+    "level": "B2"
+  },
+  {
+    "nl": "de persvrijheid",
+    "ru": "свобода прессы",
+    "level": "B2"
+  },
+  {
+    "nl": "de meningsuiting",
+    "ru": "выражение мнения",
+    "level": "B2"
+  },
+  {
+    "nl": "de censuur",
+    "ru": "цензура",
+    "level": "B2"
+  },
+  {
+    "nl": "het debat",
+    "ru": "дебаты",
+    "level": "B2"
+  },
+  {
+    "nl": "het publieke debat",
+    "ru": "общественные дебаты",
+    "level": "B2"
+  },
+  {
+    "nl": "de opinie",
+    "ru": "мнение",
+    "level": "B2"
+  },
+  {
+    "nl": "de publieke opinie",
+    "ru": "общественное мнение",
+    "level": "B2"
+  },
+  {
+    "nl": "de enquête",
+    "ru": "опрос",
+    "level": "B2"
+  },
+  {
+    "nl": "de peiling",
+    "ru": "опрос общественного мнения",
+    "level": "B2"
+  },
+  {
+    "nl": "de representativiteit",
+    "ru": "репрезентативность",
+    "level": "B2"
+  },
+  {
+    "nl": "de steekproef",
+    "ru": "выборка",
+    "level": "B2"
+  },
+  {
+    "nl": "de methodologie",
+    "ru": "методология",
+    "level": "B2"
+  },
+  {
+    "nl": "het onderzoeksrapport",
+    "ru": "отчёт об исследовании",
+    "level": "B2"
+  },
+  {
+    "nl": "de publicatie",
+    "ru": "публикация",
+    "level": "B2"
+  },
+  {
+    "nl": "het tijdschriftartikel",
+    "ru": "журнальная статья",
+    "level": "B2"
+  },
+  {
+    "nl": "de peer review",
+    "ru": "рецензирование",
+    "level": "B2"
+  },
+  {
+    "nl": "de citatie",
+    "ru": "цитата, ссылка",
+    "level": "B2"
+  },
+  {
+    "nl": "de bronvermelding",
+    "ru": "указание источника",
+    "level": "B2"
+  },
+  {
+    "nl": "het plagiaat",
+    "ru": "плагиат",
+    "level": "B2"
+  },
+  {
+    "nl": "de academische integriteit",
+    "ru": "академическая честность",
+    "level": "B2"
+  },
+  {
+    "nl": "de fraude",
+    "ru": "мошенничество",
+    "level": "B2"
+  },
+  {
+    "nl": "de controverse",
+    "ru": "спор, противоречие",
+    "level": "B2"
+  },
+  {
+    "nl": "het schandaal",
+    "ru": "скандал",
+    "level": "B2"
+  },
+  {
+    "nl": "de affaire",
+    "ru": "дело, афера",
+    "level": "B2"
+  },
+  {
+    "nl": "de escalatie",
+    "ru": "эскалация",
+    "level": "B2"
+  },
+  {
+    "nl": "de de-escalatie",
+    "ru": "де-эскалация",
+    "level": "B2"
+  },
+  {
+    "nl": "de crisissituatie",
+    "ru": "кризисная ситуация",
+    "level": "B2"
+  },
+  {
+    "nl": "de noodsituatie",
+    "ru": "чрезвычайная ситуация",
+    "level": "B2"
+  },
+  {
+    "nl": "de ramp",
+    "ru": "катастрофа",
+    "level": "B2"
+  },
+  {
+    "nl": "de noodtoestand",
+    "ru": "чрезвычайное положение",
+    "level": "B2"
+  },
+  {
+    "nl": "de lockdown",
+    "ru": "локдаун",
+    "level": "B2"
+  },
+  {
+    "nl": "de pandemie",
+    "ru": "пандемия",
+    "level": "B2"
+  },
+  {
+    "nl": "de epidemie",
+    "ru": "эпидемия",
+    "level": "B2"
+  },
+  {
+    "nl": "de vaccinatie",
+    "ru": "вакцинация",
+    "level": "B2"
+  },
+  {
+    "nl": "de quarantaine",
+    "ru": "карантин",
+    "level": "B2"
+  },
+  {
+    "nl": "de volksgezondheid",
+    "ru": "общественное здоровье",
+    "level": "B2"
+  },
+  {
+    "nl": "de geestelijke gezondheid",
+    "ru": "психическое здоровье",
+    "level": "B2"
+  },
+  {
+    "nl": "de verslaving",
+    "ru": "зависимость",
+    "level": "B2"
+  },
+  {
+    "nl": "de afhankelijkheid",
+    "ru": "зависимость",
+    "level": "B2"
+  },
+  {
+    "nl": "de onafhankelijkheid",
+    "ru": "независимость",
+    "level": "B2"
+  },
+  {
+    "nl": "de zelfstandigheid",
+    "ru": "самостоятельность",
+    "level": "B2"
+  },
+  {
+    "nl": "de zelfbeschikking",
+    "ru": "самоопределение",
+    "level": "B2"
+  },
+  {
+    "nl": "het zelfbewustzijn",
+    "ru": "самосознание",
+    "level": "B2"
+  },
+  {
+    "nl": "het zelfvertrouwen",
+    "ru": "уверенность в себе",
+    "level": "B2"
+  },
+  {
+    "nl": "de zelfreflectie",
+    "ru": "саморефлексия",
+    "level": "B2"
+  },
+  {
+    "nl": "de zelfkennis",
+    "ru": "самопознание",
+    "level": "B2"
+  },
+  {
+    "nl": "de persoonlijkheid",
+    "ru": "личность",
+    "level": "B2"
+  },
+  {
+    "nl": "het karakter",
+    "ru": "характер",
+    "level": "B2"
+  },
+  {
+    "nl": "de identiteit",
+    "ru": "идентичность",
+    "level": "B2"
+  },
+  {
+    "nl": "het zelfbeeld",
+    "ru": "самооценка, образ себя",
+    "level": "B2"
+  },
+  {
+    "nl": "de rolmodel",
+    "ru": "ролевая модель",
+    "level": "B2"
+  },
+  {
+    "nl": "de voorbeeldfunctie",
+    "ru": "роль примера",
+    "level": "B2"
+  },
+  {
+    "nl": "de sociale druk",
+    "ru": "социальное давление",
+    "level": "B2"
+  },
+  {
+    "nl": "de groepsdruk",
+    "ru": "давление группы",
+    "level": "B2"
+  },
+  {
+    "nl": "het groepsgedrag",
+    "ru": "групповое поведение",
+    "level": "B2"
+  },
+  {
+    "nl": "de dynamiek",
+    "ru": "динамика",
+    "level": "B2"
+  },
+  {
+    "nl": "de tegenbeweging",
+    "ru": "контрдвижение",
+    "level": "B2"
+  },
+  {
+    "nl": "de tegenmacht",
+    "ru": "противодействующая сила",
+    "level": "B2"
+  },
+  {
+    "nl": "het verzet",
+    "ru": "сопротивление",
+    "level": "B2"
+  },
+  {
+    "nl": "de verontwaardiging",
+    "ru": "негодование",
+    "level": "B2"
+  },
+  {
+    "nl": "de verbijstering",
+    "ru": "растерянность, изумление",
+    "level": "B2"
+  },
+  {
+    "nl": "de verwarring",
+    "ru": "смятение",
+    "level": "B2"
+  },
+  {
+    "nl": "de chaos",
+    "ru": "хаос",
+    "level": "B2"
+  },
+  {
+    "nl": "de orde",
+    "ru": "порядок",
+    "level": "B2"
+  },
+  {
+    "nl": "de hiërarchie",
+    "ru": "иерархия",
+    "level": "B2"
+  },
+  {
+    "nl": "de controle",
+    "ru": "контроль",
+    "level": "B2"
+  },
+  {
+    "nl": "het toezicht",
+    "ru": "надзор",
+    "level": "B2"
+  },
+  {
+    "nl": "de inspectie",
+    "ru": "инспекция",
+    "level": "B2"
+  },
+  {
+    "nl": "de handhaving",
+    "ru": "обеспечение соблюдения (правил)",
+    "level": "B2"
+  },
+  {
+    "nl": "de sanctie",
+    "ru": "санкция",
+    "level": "B2"
+  },
+  {
+    "nl": "de repercussie",
+    "ru": "последствие",
+    "level": "B2"
+  },
+  {
+    "nl": "de consequentie dragen",
+    "ru": "нести последствия",
+    "level": "B2"
+  },
+  {
+    "nl": "de aansprakelijkheid",
+    "ru": "ответственность (юр.)",
+    "level": "B2"
+  },
+  {
+    "nl": "de aansprakelijkheidsverzekering",
+    "ru": "страхование ответственности",
+    "level": "B2"
+  },
+  {
+    "nl": "de schadevergoeding",
+    "ru": "возмещение ущерба",
+    "level": "B2"
+  },
+  {
+    "nl": "de nalatigheid",
+    "ru": "халатность",
+    "level": "B2"
+  },
+  {
+    "nl": "de onachtzaamheid",
+    "ru": "неосторожность",
+    "level": "B2"
+  },
+  {
+    "nl": "de zorgvuldigheid",
+    "ru": "тщательность",
+    "level": "B2"
+  },
+  {
+    "nl": "de zorgplicht",
+    "ru": "обязанность заботы",
+    "level": "B2"
+  },
+  {
+    "nl": "de integriteit",
+    "ru": "честность, неподкупность",
+    "level": "B2"
+  },
+  {
+    "nl": "de betrouwbaarheid",
+    "ru": "надёжность",
+    "level": "B2"
+  },
+  {
+    "nl": "de geloofwaardigheid",
+    "ru": "достоверность",
+    "level": "B2"
+  },
+  {
+    "nl": "de deskundigheid",
+    "ru": "квалификация, компетентность",
+    "level": "B2"
+  },
+  {
+    "nl": "de expertise",
+    "ru": "экспертиза",
+    "level": "B2"
+  },
+  {
+    "nl": "de bekwaamheid",
+    "ru": "способность, мастерство",
+    "level": "B2"
+  },
+  {
+    "nl": "de vaardigheid",
+    "ru": "навык",
+    "level": "B2"
+  },
+  {
+    "nl": "de competentie",
+    "ru": "компетенция",
+    "level": "B2"
+  },
+  {
+    "nl": "het talent",
+    "ru": "талант",
+    "level": "B2"
+  },
+  {
+    "nl": "de begaafdheid",
+    "ru": "одарённость",
+    "level": "B2"
+  },
+  {
+    "nl": "de aanleg",
+    "ru": "предрасположенность, талант",
+    "level": "B2"
+  },
+  {
+    "nl": "het vermogen",
+    "ru": "способность, возможность",
+    "level": "B2"
+  },
+  {
+    "nl": "het inzicht",
+    "ru": "понимание, инсайт",
+    "level": "B2"
+  },
+  {
+    "nl": "de intuïtie",
+    "ru": "интуиция",
+    "level": "B2"
+  },
+  {
+    "nl": "de gave",
+    "ru": "дар",
+    "level": "B2"
+  },
+  {
+    "nl": "de roeping",
+    "ru": "призвание",
+    "level": "B2"
+  },
+  {
+    "nl": "de ambitie",
+    "ru": "амбиция",
+    "level": "B2"
+  },
+  {
+    "nl": "het streven",
+    "ru": "стремление",
+    "level": "B2"
+  },
+  {
+    "nl": "de drive",
+    "ru": "драйв",
+    "level": "B2"
+  },
+  {
+    "nl": "de passie",
+    "ru": "страсть",
+    "level": "B2"
+  },
+  {
+    "nl": "de toewijding",
+    "ru": "преданность делу",
+    "level": "B2"
+  },
+  {
+    "nl": "de betrokkenheid",
+    "ru": "вовлечённость",
+    "level": "B2"
+  },
+  {
+    "nl": "de loyaliteit",
+    "ru": "лояльность",
+    "level": "B2"
+  },
+  {
+    "nl": "de trouw",
+    "ru": "верность",
+    "level": "B2"
+  },
+  {
+    "nl": "de verraad",
+    "ru": "предательство",
+    "level": "B2"
+  },
+  {
+    "nl": "het vertrouwen",
+    "ru": "доверие",
+    "level": "B2"
+  },
+  {
+    "nl": "het wantrouwen",
+    "ru": "недоверие",
+    "level": "B2"
+  },
+  {
+    "nl": "het geheim",
+    "ru": "секрет, тайна",
+    "level": "B2"
+  },
+  {
+    "nl": "de geheimhouding",
+    "ru": "соблюдение тайны",
+    "level": "B2"
+  },
+  {
+    "nl": "de vertrouwelijkheid",
+    "ru": "конфиденциальность",
+    "level": "B2"
+  },
+  {
+    "nl": "de openbaarheid",
+    "ru": "гласность, публичность",
+    "level": "B2"
+  },
+  {
+    "nl": "de transparantie",
+    "ru": "прозрачность",
+    "level": "B2"
+  },
+  {
+    "nl": "de verantwoording",
+    "ru": "отчётность",
+    "level": "B2"
+  },
+  {
+    "nl": "de afrekening",
+    "ru": "расчёт, подведение итогов",
+    "level": "B2"
+  },
+  {
+    "nl": "het reflecteren",
+    "ru": "рефлексировать",
+    "level": "B2"
+  },
+  {
+    "nl": "het nadenken",
+    "ru": "обдумывание",
+    "level": "B2"
+  },
+  {
+    "nl": "het overwegen",
+    "ru": "взвешивание",
+    "level": "B2"
+  },
+  {
+    "nl": "het evalueren",
+    "ru": "оценивание",
+    "level": "B2"
+  },
+  {
+    "nl": "analyseren",
+    "ru": "анализировать",
+    "level": "B2"
+  },
+  {
+    "nl": "synthetiseren",
+    "ru": "синтезировать",
+    "level": "B2"
+  },
+  {
+    "nl": "evalueren",
+    "ru": "оценивать",
+    "level": "B2"
+  },
+  {
+    "nl": "concluderen",
+    "ru": "делать вывод",
+    "level": "B2"
+  },
+  {
+    "nl": "impliceren",
+    "ru": "подразумевать",
+    "level": "B2"
+  },
+  {
+    "nl": "suggereren",
+    "ru": "предлагать, намекать",
+    "level": "B2"
+  },
+  {
+    "nl": "insinueren",
+    "ru": "намекать, инсинуировать",
+    "level": "B2"
+  },
+  {
+    "nl": "ondermijnen",
+    "ru": "подрывать",
+    "level": "B2"
+  },
+  {
+    "nl": "versterken",
+    "ru": "усиливать",
+    "level": "B2"
+  },
+  {
+    "nl": "verzwakken",
+    "ru": "ослаблять",
+    "level": "B2"
+  },
+  {
+    "nl": "relativeren",
+    "ru": "релятивизировать, смягчать",
+    "level": "B2"
+  },
+  {
+    "nl": "nuanceren",
+    "ru": "нюансировать",
+    "level": "B2"
+  },
+  {
+    "nl": "vergelijken",
+    "ru": "сопоставлять",
+    "level": "B2"
+  },
+  {
+    "nl": "contrasteren",
+    "ru": "противопоставлять",
+    "level": "B2"
+  },
+  {
+    "nl": "differentiëren",
+    "ru": "дифференцировать",
+    "level": "B2"
+  },
+  {
+    "nl": "typeren",
+    "ru": "характеризовать",
+    "level": "B2"
+  },
+  {
+    "nl": "kenschetsen",
+    "ru": "описывать, характеризовать",
+    "level": "B2"
+  },
+  {
+    "nl": "omschrijven",
+    "ru": "описывать",
+    "level": "B2"
+  },
+  {
+    "nl": "definiëren",
+    "ru": "определять",
+    "level": "B2"
+  },
+  {
+    "nl": "categoriseren",
+    "ru": "категоризировать",
+    "level": "B2"
+  },
+  {
+    "nl": "classificeren",
+    "ru": "классифицировать",
+    "level": "B2"
+  },
+  {
+    "nl": "structureren",
+    "ru": "структурировать",
+    "level": "B2"
+  },
+  {
+    "nl": "organiseren",
+    "ru": "организовывать",
+    "level": "B2"
+  },
+  {
+    "nl": "systematiseren",
+    "ru": "систематизировать",
+    "level": "B2"
+  },
+  {
+    "nl": "optimaliseren",
+    "ru": "оптимизировать",
+    "level": "B2"
+  },
+  {
+    "nl": "minimaliseren",
+    "ru": "минимизировать",
+    "level": "B2"
+  },
+  {
+    "nl": "maximaliseren",
+    "ru": "максимизировать",
+    "level": "B2"
+  },
+  {
+    "nl": "prioriteren",
+    "ru": "расставлять приоритеты",
+    "level": "B2"
+  },
+  {
+    "nl": "delegeren",
+    "ru": "делегировать",
+    "level": "B2"
+  },
+  {
+    "nl": "faciliteren",
+    "ru": "содействовать, обеспечивать",
+    "level": "B2"
+  },
+  {
+    "nl": "coördineren",
+    "ru": "координировать",
+    "level": "B2"
+  },
+  {
+    "nl": "initiëren",
+    "ru": "инициировать",
+    "level": "B2"
+  },
+  {
+    "nl": "formuleren",
+    "ru": "формулировать",
+    "level": "B2"
+  },
+  {
+    "nl": "presenteren",
+    "ru": "представлять",
+    "level": "B2"
+  },
+  {
+    "nl": "illustreren",
+    "ru": "иллюстрировать",
+    "level": "B2"
+  },
+  {
+    "nl": "demonstreren",
+    "ru": "демонстрировать",
+    "level": "B2"
+  },
+  {
+    "nl": "publiceren",
+    "ru": "публиковать",
+    "level": "B2"
+  },
+  {
+    "nl": "uitgeven",
+    "ru": "издавать; тратить",
+    "level": "B2"
+  },
+  {
+    "nl": "verspreiden",
+    "ru": "распространять",
+    "level": "B2"
+  },
+  {
+    "nl": "delen",
+    "ru": "делиться, разделять",
+    "level": "B2"
+  },
+  {
+    "nl": "overdragen",
+    "ru": "передавать",
+    "level": "B2"
+  },
+  {
+    "nl": "importeren",
+    "ru": "импортировать",
+    "level": "B2"
+  },
+  {
+    "nl": "exporteren",
+    "ru": "экспортировать",
+    "level": "B2"
+  },
+  {
+    "nl": "produceren",
+    "ru": "производить",
+    "level": "B2"
+  },
+  {
+    "nl": "consumeren",
+    "ru": "потреблять",
+    "level": "B2"
+  },
+  {
+    "nl": "realiseren",
+    "ru": "реализовывать; осознавать",
+    "level": "B2"
+  },
+  {
+    "nl": "concretiseren",
+    "ru": "конкретизировать",
+    "level": "B2"
+  },
+  {
+    "nl": "abstraheren",
+    "ru": "абстрагировать",
+    "level": "B2"
+  },
+  {
+    "nl": "generaliseren",
+    "ru": "обобщать",
+    "level": "B2"
+  },
+  {
+    "nl": "specificeren",
+    "ru": "уточнять, специфицировать",
+    "level": "B2"
+  },
+  {
+    "nl": "verifiëren",
+    "ru": "верифицировать",
+    "level": "B2"
+  },
+  {
+    "nl": "falsifiëren",
+    "ru": "опровергать, фальсифицировать",
+    "level": "B2"
+  },
+  {
+    "nl": "aanvechten",
+    "ru": "оспаривать",
+    "level": "B2"
+  },
+  {
+    "nl": "betwisten",
+    "ru": "оспаривать",
+    "level": "B2"
+  },
+  {
+    "nl": "bekritiseren",
+    "ru": "критиковать",
+    "level": "B2"
+  },
+  {
+    "nl": "bestrijden",
+    "ru": "бороться (с чем-либо)",
+    "level": "B2"
+  },
+  {
+    "nl": "tegengaan",
+    "ru": "противодействовать",
+    "level": "B2"
+  },
+  {
+    "nl": "verhinderen",
+    "ru": "препятствовать",
+    "level": "B2"
+  },
+  {
+    "nl": "stimuleren",
+    "ru": "стимулировать",
+    "level": "B2"
+  },
+  {
+    "nl": "bevorderen",
+    "ru": "способствовать",
+    "level": "B2"
+  },
+  {
+    "nl": "belemmeren",
+    "ru": "мешать",
+    "level": "B2"
+  },
+  {
+    "nl": "hinderen",
+    "ru": "препятствовать",
+    "level": "B2"
+  },
+  {
+    "nl": "garanderen",
+    "ru": "гарантировать",
+    "level": "B2"
+  },
+  {
+    "nl": "waarborgen",
+    "ru": "гарантировать, обеспечивать",
+    "level": "B2"
+  },
+  {
+    "nl": "vrijwaren",
+    "ru": "освобождать от ответственности",
+    "level": "B2"
+  },
+  {
+    "nl": "handhaven",
+    "ru": "поддерживать (порядок), обеспечивать соблюдение",
+    "level": "B2"
+  },
+  {
+    "nl": "naleven",
+    "ru": "соблюдать",
+    "level": "B2"
+  },
+  {
+    "nl": "overtreden",
+    "ru": "нарушать (закон)",
+    "level": "B2"
+  },
+  {
+    "nl": "schenden",
+    "ru": "нарушать, посягать",
+    "level": "B2"
+  },
+  {
+    "nl": "toezicht houden",
+    "ru": "осуществлять надзор",
+    "level": "B2"
+  },
+  {
+    "nl": "controleren",
+    "ru": "контролировать",
+    "level": "B2"
+  },
+  {
+    "nl": "inspecteren",
+    "ru": "инспектировать",
+    "level": "B2"
+  },
+  {
+    "nl": "reguleren",
+    "ru": "регулировать",
+    "level": "B2"
+  },
+  {
+    "nl": "liberaliseren",
+    "ru": "либерализировать",
+    "level": "B2"
+  },
+  {
+    "nl": "privatiseren",
+    "ru": "приватизировать",
+    "level": "B2"
+  },
+  {
+    "nl": "nationaliseren",
+    "ru": "национализировать",
+    "level": "B2"
+  },
+  {
+    "nl": "subsidiëren",
+    "ru": "субсидировать",
+    "level": "B2"
+  },
+  {
+    "nl": "belasten",
+    "ru": "облагать налогом",
+    "level": "B2"
+  },
+  {
+    "nl": "vrijstellen",
+    "ru": "освобождать (от налога)",
+    "level": "B2"
+  },
+  {
+    "nl": "compenseren",
+    "ru": "компенсировать",
+    "level": "B2"
+  },
+  {
+    "nl": "vergoeden",
+    "ru": "возмещать",
+    "level": "B2"
+  },
+  {
+    "nl": "financieren",
+    "ru": "финансировать",
+    "level": "B2"
+  },
+  {
+    "nl": "investeren",
+    "ru": "инвестировать",
+    "level": "B2"
+  },
+  {
+    "nl": "desinvesteren",
+    "ru": "изымать инвестиции",
+    "level": "B2"
+  },
+  {
+    "nl": "aflossen",
+    "ru": "погашать (кредит)",
+    "level": "B2"
+  },
+  {
+    "nl": "afschrijven",
+    "ru": "амортизировать, списывать",
+    "level": "B2"
+  },
+  {
+    "nl": "herstructureren",
+    "ru": "реструктурировать",
+    "level": "B2"
+  },
+  {
+    "nl": "hervormen",
+    "ru": "реформировать",
+    "level": "B2"
+  },
+  {
+    "nl": "onderhandelen",
+    "ru": "вести переговоры",
+    "level": "B2"
+  },
+  {
+    "nl": "bemiddelen",
+    "ru": "посредничать",
+    "level": "B2"
+  },
+  {
+    "nl": "arbitreren",
+    "ru": "выступать арбитром",
+    "level": "B2"
+  },
+  {
+    "nl": "stemmen",
+    "ru": "голосовать",
+    "level": "B2"
+  },
+  {
+    "nl": "opkomen voor",
+    "ru": "отстаивать, выступать за",
+    "level": "B2"
+  },
+  {
+    "nl": "ingrijpen",
+    "ru": "вмешиваться",
+    "level": "B2"
+  },
+  {
+    "nl": "reageren op",
+    "ru": "реагировать на",
+    "level": "B2"
+  },
+  {
+    "nl": "anticiperen",
+    "ru": "предвосхищать, готовиться заранее",
+    "level": "B2"
+  },
+  {
+    "nl": "inspelen op",
+    "ru": "подстраиваться под",
+    "level": "B2"
+  },
+  {
+    "nl": "aansluiten bij",
+    "ru": "соответствовать, присоединяться",
+    "level": "B2"
+  },
+  {
+    "nl": "accentueren",
+    "ru": "акцентировать",
+    "level": "B2"
+  },
+  {
+    "nl": "markeren",
+    "ru": "отмечать",
+    "level": "B2"
+  },
+  {
+    "nl": "onderstrepen",
+    "ru": "подчёркивать",
+    "level": "B2"
+  },
+  {
+    "nl": "bagatelliseren",
+    "ru": "преуменьшать значение",
+    "level": "B2"
+  },
+  {
+    "nl": "dramatiseren",
+    "ru": "драматизировать",
+    "level": "B2"
+  },
+  {
+    "nl": "overdrijven",
+    "ru": "преувеличивать",
+    "level": "B2"
+  },
+  {
+    "nl": "minimaliseren",
+    "ru": "преуменьшать",
+    "level": "B2"
+  },
+  {
+    "nl": "objectief",
+    "ru": "объективный",
+    "level": "B2"
+  },
+  {
+    "nl": "subjectief",
+    "ru": "субъективный",
+    "level": "B2"
+  },
+  {
+    "nl": "neutraal",
+    "ru": "нейтральный",
+    "level": "B2"
+  },
+  {
+    "nl": "gekleurd",
+    "ru": "предвзятый",
+    "level": "B2"
+  },
+  {
+    "nl": "evenwichtig",
+    "ru": "сбалансированный",
+    "level": "B2"
+  },
+  {
+    "nl": "genuanceerd",
+    "ru": "нюансированный",
+    "level": "B2"
+  },
+  {
+    "nl": "eenzijdig",
+    "ru": "односторонний",
+    "level": "B2"
+  },
+  {
+    "nl": "tweezijdig",
+    "ru": "двусторонний",
+    "level": "B2"
+  },
+  {
+    "nl": "veelzijdig",
+    "ru": "многогранный",
+    "level": "B2"
+  },
+  {
+    "nl": "grondig",
+    "ru": "основательный",
+    "level": "B2"
+  },
+  {
+    "nl": "oppervlakkig",
+    "ru": "поверхностный",
+    "level": "B2"
+  },
+  {
+    "nl": "diepgaand",
+    "ru": "глубокий",
+    "level": "B2"
+  },
+  {
+    "nl": "allesomvattend",
+    "ru": "всеобъемлющий",
+    "level": "B2"
+  },
+  {
+    "nl": "ontoereikend",
+    "ru": "недостаточный",
+    "level": "B2"
+  },
+  {
+    "nl": "toereikend",
+    "ru": "достаточный",
+    "level": "B2"
+  },
+  {
+    "nl": "afdoende",
+    "ru": "достаточный, удовлетворительный",
+    "level": "B2"
+  },
+  {
+    "nl": "doeltreffend",
+    "ru": "целенаправленный, эффективный",
+    "level": "B2"
+  },
+  {
+    "nl": "doelmatig",
+    "ru": "рациональный",
+    "level": "B2"
+  },
+  {
+    "nl": "baanbrekend",
+    "ru": "новаторский",
+    "level": "B2"
+  },
+  {
+    "nl": "baanbrekend werk",
+    "ru": "новаторская работа",
+    "level": "B2"
+  },
+  {
+    "nl": "vooruitstrevend",
+    "ru": "прогрессивный",
+    "level": "B2"
+  },
+  {
+    "nl": "behoudend",
+    "ru": "консервативный",
+    "level": "B2"
+  },
+  {
+    "nl": "conservatief",
+    "ru": "консервативный",
+    "level": "B2"
+  },
+  {
+    "nl": "progressief",
+    "ru": "прогрессивный",
+    "level": "B2"
+  },
+  {
+    "nl": "liberaal",
+    "ru": "либеральный",
+    "level": "B2"
+  },
+  {
+    "nl": "socialistisch",
+    "ru": "социалистический",
+    "level": "B2"
+  },
+  {
+    "nl": "nationalistisch",
+    "ru": "националистический",
+    "level": "B2"
+  },
+  {
+    "nl": "internationalistisch",
+    "ru": "интернационалистический",
+    "level": "B2"
+  },
+  {
+    "nl": "pragmatisch",
+    "ru": "прагматичный",
+    "level": "B2"
+  },
+  {
+    "nl": "idealistisch",
+    "ru": "идеалистичный",
+    "level": "B2"
+  },
+  {
+    "nl": "realistisch",
+    "ru": "реалистичный",
+    "level": "B2"
+  },
+  {
+    "nl": "cynisch",
+    "ru": "циничный",
+    "level": "B2"
+  },
+  {
+    "nl": "sceptisch",
+    "ru": "скептический",
+    "level": "B2"
+  },
+  {
+    "nl": "kritisch",
+    "ru": "критический",
+    "level": "B2"
+  },
+  {
+    "nl": "constructief",
+    "ru": "конструктивный",
+    "level": "B2"
+  },
+  {
+    "nl": "destructief",
+    "ru": "разрушительный",
+    "level": "B2"
+  },
+  {
+    "nl": "innovatief",
+    "ru": "инновационный",
+    "level": "B2"
+  },
+  {
+    "nl": "traditioneel",
+    "ru": "традиционный",
+    "level": "B2"
+  },
+  {
+    "nl": "hedendaags",
+    "ru": "современный",
+    "level": "B2"
+  },
+  {
+    "nl": "eigentijds",
+    "ru": "современный",
+    "level": "B2"
+  },
+  {
+    "nl": "historisch",
+    "ru": "исторический",
+    "level": "B2"
+  },
+  {
+    "nl": "actueel",
+    "ru": "актуальный",
+    "level": "B2"
+  },
+  {
+    "nl": "urgent",
+    "ru": "срочный",
+    "level": "B2"
+  },
+  {
+    "nl": "chronisch",
+    "ru": "хронический",
+    "level": "B2"
+  },
+  {
+    "nl": "acuut",
+    "ru": "острый",
+    "level": "B2"
+  },
+  {
+    "nl": "structureel",
+    "ru": "структурный",
+    "level": "B2"
+  },
+  {
+    "nl": "incidenteel",
+    "ru": "разовый",
+    "level": "B2"
+  },
+  {
+    "nl": "systematisch",
+    "ru": "систематический",
+    "level": "B2"
+  },
+  {
+    "nl": "willekeurig",
+    "ru": "произвольный",
+    "level": "B2"
+  },
+  {
+    "nl": "consistent",
+    "ru": "последовательный",
+    "level": "B2"
+  },
+  {
+    "nl": "inconsistent",
+    "ru": "непоследовательный",
+    "level": "B2"
+  },
+  {
+    "nl": "coherent",
+    "ru": "связный",
+    "level": "B2"
+  },
+  {
+    "nl": "incoherent",
+    "ru": "бессвязный",
+    "level": "B2"
+  },
+  {
+    "nl": "geldig",
+    "ru": "действительный, валидный",
+    "level": "B2"
+  },
+  {
+    "nl": "gefundeerd",
+    "ru": "обоснованный",
+    "level": "B2"
+  },
+  {
+    "nl": "ongefundeerd",
+    "ru": "необоснованный",
+    "level": "B2"
+  },
+  {
+    "nl": "aannemelijk",
+    "ru": "правдоподобный",
+    "level": "B2"
+  },
+  {
+    "nl": "onaannemelijk",
+    "ru": "неправдоподобный",
+    "level": "B2"
+  },
+  {
+    "nl": "plausibel",
+    "ru": "правдоподобный",
+    "level": "B2"
+  },
+  {
+    "nl": "onwaarschijnlijk",
+    "ru": "маловероятный",
+    "level": "B2"
+  },
+  {
+    "nl": "ongeloofwaardig",
+    "ru": "не вызывающий доверия",
+    "level": "B2"
+  },
+  {
+    "nl": "dubieus",
+    "ru": "сомнительный",
+    "level": "B2"
+  },
+  {
+    "nl": "dubbelzinnig",
+    "ru": "двусмысленный",
+    "level": "B2"
+  },
+  {
+    "nl": "eenduidig",
+    "ru": "однозначный",
+    "level": "B2"
+  },
+  {
+    "nl": "ondubbelzinnig",
+    "ru": "недвусмысленный",
+    "level": "B2"
+  },
+  {
+    "nl": "expliciet",
+    "ru": "явный, эксплицитный",
+    "level": "B2"
+  },
+  {
+    "nl": "impliciet",
+    "ru": "неявный, имплицитный",
+    "level": "B2"
+  },
+  {
+    "nl": "manifest",
+    "ru": "очевидный",
+    "level": "B2"
+  },
+  {
+    "nl": "latent",
+    "ru": "скрытый, латентный",
+    "level": "B2"
+  },
+  {
+    "nl": "evident",
+    "ru": "очевидный",
+    "level": "B2"
+  },
+  {
+    "nl": "verborgen",
+    "ru": "скрытый",
+    "level": "B2"
+  },
+  {
+    "nl": "openlijk",
+    "ru": "открытый, откровенный",
+    "level": "B2"
+  },
+  {
+    "nl": "bedekt",
+    "ru": "прикрытый, завуалированный",
+    "level": "B2"
+  },
+  {
+    "nl": "direct",
+    "ru": "прямой",
+    "level": "B2"
+  },
+  {
+    "nl": "indirect",
+    "ru": "косвенный",
+    "level": "B2"
+  },
+  {
+    "nl": "doortastend",
+    "ru": "решительный",
+    "level": "B2"
+  },
+  {
+    "nl": "aarzelend",
+    "ru": "нерешительный",
+    "level": "B2"
+  },
+  {
+    "nl": "besluitvaardig",
+    "ru": "решительный",
+    "level": "B2"
+  },
+  {
+    "nl": "besluiteloos",
+    "ru": "нерешительный",
+    "level": "B2"
+  },
+  {
+    "nl": "standvastig",
+    "ru": "стойкий, непоколебимый",
+    "level": "B2"
+  },
+  {
+    "nl": "wispelturig",
+    "ru": "непостоянный",
+    "level": "B2"
+  },
+  {
+    "nl": "stabiel",
+    "ru": "стабильный",
+    "level": "B2"
+  },
+  {
+    "nl": "instabiel",
+    "ru": "нестабильный",
+    "level": "B2"
+  },
+  {
+    "nl": "duurzaam",
+    "ru": "устойчивый",
+    "level": "B2"
+  },
+  {
+    "nl": "tijdelijk",
+    "ru": "временный",
+    "level": "B2"
+  },
+  {
+    "nl": "blijvend",
+    "ru": "постоянный, стойкий",
+    "level": "B2"
+  },
+  {
+    "nl": "voorbijgaand",
+    "ru": "преходящий",
+    "level": "B2"
+  },
+  {
+    "nl": "beginnend",
+    "ru": "начинающий",
+    "level": "B2"
+  },
+  {
+    "nl": "gevorderd",
+    "ru": "продвинутый",
+    "level": "B2"
+  },
+  {
+    "nl": "ervaren",
+    "ru": "опытный",
+    "level": "B2"
+  },
+  {
+    "nl": "geoefend",
+    "ru": "натренированный",
+    "level": "B2"
+  },
+  {
+    "nl": "overigens",
+    "ru": "впрочем",
+    "level": "B2"
+  },
+  {
+    "nl": "inderdaad",
+    "ru": "действительно",
+    "level": "B2"
+  },
+  {
+    "nl": "weliswaar",
+    "ru": "правда, хотя",
+    "level": "B2"
+  },
+  {
+    "nl": "niettegenstaande",
+    "ru": "несмотря на",
+    "level": "B2"
+  },
+  {
+    "nl": "teneinde",
+    "ru": "с тем чтобы",
+    "level": "B2"
+  },
+  {
+    "nl": "opdat",
+    "ru": "чтобы",
+    "level": "B2"
+  },
+  {
+    "nl": "voor zover",
+    "ru": "насколько, в той мере в какой",
+    "level": "B2"
+  },
+  {
+    "nl": "op voorwaarde dat",
+    "ru": "при условии что",
+    "level": "B2"
+  },
+  {
+    "nl": "tenzij",
+    "ru": "если не",
+    "level": "B2"
+  },
+  {
+    "nl": "zodra",
+    "ru": "как только",
+    "level": "B2"
+  },
+  {
+    "nl": "telkens",
+    "ru": "каждый раз",
+    "level": "B2"
+  },
+  {
+    "nl": "keer op keer",
+    "ru": "раз за разом",
+    "level": "B2"
+  },
+  {
+    "nl": "bij tijd en wijle",
+    "ru": "время от времени",
+    "level": "B2"
+  },
+  {
+    "nl": "om en nabij",
+    "ru": "около, приблизительно",
+    "level": "B2"
+  },
+  {
+    "nl": "ter illustratie",
+    "ru": "для иллюстрации",
+    "level": "B2"
+  },
+  {
+    "nl": "bij wijze van voorbeeld",
+    "ru": "в качестве примера",
+    "level": "B2"
+  },
+  {
+    "nl": "in tegenstelling tot",
+    "ru": "в отличие от",
+    "level": "B2"
+  },
+  {
+    "nl": "in vergelijking met",
+    "ru": "в сравнении с",
+    "level": "B2"
+  },
+  {
+    "nl": "ten opzichte van",
+    "ru": "по отношению к",
+    "level": "B2"
+  },
+  {
+    "nl": "met betrekking tot",
+    "ru": "относительно",
+    "level": "B2"
+  },
+  {
+    "nl": "met het oog op",
+    "ru": "с учётом",
+    "level": "B2"
+  },
+  {
+    "nl": "op grond van",
+    "ru": "на основании",
+    "level": "B2"
+  },
+  {
+    "nl": "krachtens",
+    "ru": "согласно, в силу",
+    "level": "B2"
+  },
+  {
+    "nl": "ingevolge",
+    "ru": "в соответствии с",
+    "level": "B2"
+  },
+  {
+    "nl": "hetgeen",
+    "ru": "что (книжн.)",
+    "level": "B2"
+  },
+  {
+    "nl": "welke",
+    "ru": "который (формальный)",
+    "level": "B2"
+  },
+  {
+    "nl": "dusdanig",
+    "ru": "настолько",
+    "level": "B2"
+  },
+  {
+    "nl": "zodanig",
+    "ru": "такой, такой образом",
+    "level": "B2"
+  },
+  {
+    "nl": "desalniettemin",
+    "ru": "тем не менее",
+    "level": "B2"
+  },
+  {
+    "nl": "nochtans",
+    "ru": "однако, всё же",
+    "level": "B2"
+  },
+  {
+    "nl": "hoewel",
+    "ru": "хотя",
+    "level": "B2"
+  },
+  {
+    "nl": "ofschoon",
+    "ru": "хотя (книжн.)",
+    "level": "B2"
+  },
+  {
+    "nl": "desgewenst",
+    "ru": "при желании",
+    "level": "B2"
+  },
+  {
+    "nl": "desnoods",
+    "ru": "в случае необходимости",
+    "level": "B2"
+  },
+  {
+    "nl": "zo nodig",
+    "ru": "при необходимости",
+    "level": "B2"
+  },
+  {
+    "nl": "indien nodig",
+    "ru": "при необходимости",
+    "level": "B2"
+  },
+  {
+    "nl": "voor het geval",
+    "ru": "на случай если",
+    "level": "B2"
+  }
+]

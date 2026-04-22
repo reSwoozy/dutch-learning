@@ -1,0 +1,111 @@
+{
+  "id": "B2-lesson-41",
+  "num": 41,
+  "level": "B2",
+  "title": "Пассив и каузативные конструкции",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "grammar",
+      "title": "Пассив и каузативные конструкции"
+    },
+    {
+      "type": "text",
+      "title": "Цель урока",
+      "content": "Уверенно использовать пассив (worden/zijn) и каузативы (laten/doen) в разных временах и регистрах, корректно оформлять агент «door + NP» и сочетать с модальными глаголами.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "grammar",
+      "title": "Пассив: процесс vs результат"
+    },
+    {
+      "type": "grammar",
+      "title": "1) Worden‑passief (процесс)",
+      "content": "- Het contract wordt volgende week getekend.\n- De producten worden vandaag geleverd."
+    },
+    {
+      "type": "text",
+      "title": "2) Zijn‑passief (результат/состояние)",
+      "content": "- Het contract is getekend.\n- De bestelling is verzonden."
+    },
+    {
+      "type": "text",
+      "title": "3) Времена и модальные",
+      "content": "- Tegenwoordige tijd: wordt/worden\n- Verleden tijd: werd/werden\n- Perfectum: is/zijn + voltooid deelwoord + geworden (реже в современном языке; часто переформулируют)\n- Modaal + passief: Het moet worden gedaan. / Het kan worden uitgesteld."
+    },
+    {
+      "type": "text",
+      "title": "4) Агент (door‑zinnen)",
+      "content": "- Het rapport wordt door het team geschreven.\n- De beslissing is door de directie genomen."
+    },
+    {
+      "type": "grammar",
+      "title": "Каузативные конструкции",
+      "content": "- laten + infinitief: «заставить/поручить/дать сделать»\nWe laten de documenten controleren.\n- doen + infinitief: «причинять/заставлять (эффект)»\nDeze maatregel doet de kosten stijgen.\n- zich laten + infinitief: «поддаётся/можно сделать»\nDit probleem laat zich eenvoudig oplossen.\nРегистры: формально в отчетах — пассив + door‑phrase; в разговорной — актив или «we laten ...».\n---"
+    },
+    {
+      "type": "dialogue",
+      "title": "Примеры и мини‑диалоги",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Is het al geregeld?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ja, de aanvraag is goedgekeurd en de planning wordt aangepast."
+        },
+        {
+          "speaker": "A",
+          "text": "Laten we de facturen extern controleren."
+        },
+        {
+          "speaker": "B",
+          "text": "Goed. Het rapport wordt door de controller nagekeken."
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 1: Актив -> пассив",
+      "content": "1. Het team schrijft het rapport. -> `_______`\n2. De directie nam de beslissing. -> `_______`\n3. De klant heeft de factuur betaald. -> `_______`\n4. De overheid bouwt nieuwe woningen. -> `_______`\n<details>\n<summary>Ответы</summary>\n1. Het rapport wordt door het team geschreven.\n2. De beslissing werd door de directie genomen.\n3. De factuur is (door de klant) betaald.\n4. Nieuwe woningen worden (door de overheid) gebouwd.\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Laten + infinitief (делегирование)",
+      "items": [
+        {
+          "question": "De manager controleert de documenten zelf. -> De manager __ de documenten __."
+        },
+        {
+          "question": "Ik repareer mijn fiets niet zelf. -> Ik __ mijn fiets __."
+        },
+        {
+          "question": "Het bedrijf vertaalt de website. -> Het bedrijf __ de website __.",
+          "answers": [
+            "1. De manager laat de documenten controleren.",
+            "2. Ik laat mijn fiets repareren.",
+            "3. Het bedrijf laat de website vertalen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 3: Модальный + пассив",
+      "content": "Maak zinnen met moet/kan/mag + worden:\n1. Het contract / tekenen / volgende week -> `_______`\n2. De vergadering / uitstellen / niet -> `_______`\n3. Dit formulier / invullen / in het Nederlands -> `_______`\n<details>\n<summary>Ответы</summary>\n1. Het contract moet volgende week worden getekend.\n2. De vergadering kan niet worden uitgesteld.\n3. Dit formulier moet in het Nederlands worden ingevuld.\n</details>"
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 4: Worden vs zijn",
+      "content": "Kies het juiste woord:\n1. De brief __ gisteren verstuurd. (процесс) -> `_______`\n2. De brief __ al verstuurd. (результат) -> `_______`\n3. Het contract __ nu getekend. (процесс, настоящее) -> `_______`\n<details>\n<summary>Ответы</summary>\n1. werd (процесс, прошедшее)\n2. is (результат)\n3. wordt (процесс, настоящее)\n</details>\n---"
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- passief — страдательный залог\n- worden‑passief — процессный пассив\n- zijn‑passief — пассив состояния\n- voltooid deelwoord — причастие прошедшего времени\n- door‑zin — конструкция с агентом «door»\n- leveren — поставлять\n- verzenden — отправлять\n- tekenen — подписывать\n- goedkeuren — утверждать\n- aanpassen — корректировать\n- controller — контролёр/аудитор\n- factuur — счёт‑фактура\n- aanvraag — заявка\n- maatregel — мера\n- stijgen/dalen — расти/снижаться\n- laten + inf. — поручать/давать сделать\n- doen + inf. — вызывать эффект\n- zich laten + inf. — поддаётся/можно сделать\n- uitstellen — откладывать\n- uitvoeren — выполнять\n- behandelen — рассматривать (дело/вопрос)\n- vaststellen — устанавливать/утверждать"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-41.json"
+}

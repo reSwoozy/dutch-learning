@@ -1,0 +1,42 @@
+{
+  "id": "A1-text-02",
+  "level": "A1",
+  "title": "Boodschappen doen",
+  "topic": "winkelen",
+  "readingTime": "2 min",
+  "body": "Op zaterdag gaat Tom naar de supermarkt. Hij heeft een lijstje. Op het lijstje staat: brood, melk, kaas, appels, tomaten en een fles wijn. De supermarkt is heel dichtbij. Tom loopt er naartoe.\n\nIn de winkel pakt Tom een winkelwagen. Eerst loopt hij naar de groenteafdeling. De appels zijn in de aanbieding: drie kilo voor vier euro. Tom neemt twee kilo. Daarna loopt hij naar de broodafdeling. Het brood is vers. Tom kiest een volkorenbrood.\n\nAan de kassa betaalt Tom met zijn pinpas. Hij krijgt een bonnetje en doet alles in zijn tas. Thuis zet hij de melk en de kaas meteen in de koelkast.",
+  "glossary": [
+    {"nl": "het lijstje", "ru": "список"},
+    {"nl": "dichtbij", "ru": "близко"},
+    {"nl": "de winkelwagen", "ru": "продуктовая тележка"},
+    {"nl": "de groenteafdeling", "ru": "овощной отдел"},
+    {"nl": "de aanbieding", "ru": "акция"},
+    {"nl": "vers", "ru": "свежий"},
+    {"nl": "de kassa", "ru": "касса"},
+    {"nl": "de pinpas", "ru": "банковская карта"},
+    {"nl": "het bonnetje", "ru": "чек"},
+    {"nl": "de koelkast", "ru": "холодильник"}
+  ],
+  "questions": [
+    {
+      "q": "Wanneer gaat Tom naar de supermarkt?",
+      "options": ["Op vrijdag", "Op zaterdag", "Op zondag"],
+      "answer": 1
+    },
+    {
+      "q": "Wat kost drie kilo appels?",
+      "options": ["2 euro", "3 euro", "4 euro"],
+      "answer": 2
+    },
+    {
+      "q": "Hoe betaalt Tom?",
+      "options": ["Met contant geld", "Met zijn pinpas", "Met een creditcard"],
+      "answer": 1
+    },
+    {
+      "q": "Wat doet Tom thuis het eerst?",
+      "options": ["Hij kookt", "Hij zet melk en kaas in de koelkast", "Hij gaat slapen"],
+      "answer": 1
+    }
+  ]
+}

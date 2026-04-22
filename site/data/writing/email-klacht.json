@@ -1,0 +1,32 @@
+{
+  "id": "email-klacht",
+  "title": "Klacht aan een bedrijf",
+  "titleRu": "Жалоба в компанию",
+  "level": "B1",
+  "type": "email",
+  "description": "Формальное письмо-жалоба: описание проблемы, что уже было сделано, какое решение вы ожидаете.",
+  "structure": [
+    {"title": "Aanhef", "note": "Geachte mevrouw/heer, если имя неизвестно — Geachte heer/mevrouw,"},
+    {"title": "Onderwerp / introductie", "note": "Кратко указать, о чём письмо и ссылку на заказ/контракт."},
+    {"title": "Probleembeschrijving", "note": "Что произошло, когда, конкретные детали."},
+    {"title": "Wat u al gedaan heeft", "note": "Звонки, прошлые письма, сроки."},
+    {"title": "Verwachting / verzoek", "note": "Что вы ждёте: возврат, ремонт, компенсация, ответ в срок."},
+    {"title": "Afsluiting", "note": "Met vriendelijke groet, + подпись."}
+  ],
+  "phrases": [
+    "Hierbij dien ik een klacht in over...",
+    "Op [datum] heb ik bij u ... gekocht / besteld.",
+    "Helaas moet ik u meedelen dat...",
+    "Ik heb al contact opgenomen met ..., maar tot nu toe is het probleem niet opgelost.",
+    "Ik verzoek u vriendelijk het product te vervangen / het bedrag terug te storten.",
+    "Ik verwacht binnen twee weken een inhoudelijke reactie van u.",
+    "Mocht ik geen reactie ontvangen, dan zie ik mij genoodzaakt de consumentenbond te benaderen."
+  ],
+  "model": "Geachte heer, mevrouw,\n\nHierbij dien ik een klacht in over een wasmachine die ik op 3 maart bij uw webshop heb besteld (ordernummer 12345).\n\nDe wasmachine is op 10 maart bezorgd. Al bij de eerste wasbeurt bleek het apparaat erg veel lawaai te maken en water te lekken. Ik heb direct telefonisch contact opgenomen met uw klantenservice. Er is mij toen beloofd dat er een monteur langs zou komen, maar drie weken later heb ik nog niets gehoord.\n\nIk verzoek u vriendelijk om het probleem zo spoedig mogelijk op te lossen. Ik heb een voorkeur voor vervanging van het apparaat. Mocht dat niet mogelijk zijn, dan wil ik het volledige aankoopbedrag terugbetaald krijgen.\n\nIk verwacht binnen twee weken een inhoudelijke reactie van u. Mocht ik niets horen, dan zal ik contact opnemen met de Consumentenbond.\n\nMet vriendelijke groet,\n\nMaria Petrova\nHoofdstraat 12\n1012 AB Amsterdam\n06-12345678",
+  "tips": [
+    "Используйте прошедшее время (perfectum / imperfectum) при описании факта проблемы.",
+    "Не пишите эмоционально; стиль — нейтральный, деловой.",
+    "Укажите дату, номер заказа/контракта — это поможет компании быстрее разобраться.",
+    "Укажите срок, в который ожидаете ответ."
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "B2-lesson-40",
+  "num": 40,
+  "level": "B2",
+  "title": "Косвенные вопросы и вежливые запросы",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Косвенные вопросы и вежливые запросы",
+      "content": "Говорить вежливо и непрямо: строить косвенные вопросы (vraagzin → bijzin), использовать смягчённые формулы просьбы и корректный регистр в официальном и полуофициальном общении.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "grammar",
+      "title": "Конструкции и порядок слов"
+    },
+    {
+      "type": "text",
+      "title": "1) Косвенные вопросы (indirecte vragen)",
+      "content": "- Да/нет: «of» + придаточное, глагол в конце:\nKunt u mij zeggen of de winkel morgen open is?\n- С вопросительным словом: «waar/wanneer/hoeveel/waarom/wie/welke» + bijzin:\nIk weet niet wanneer de vergadering begint.\nСравните:\n- Rechtstreekse vraag: Waar is het station?\n- Indirecte vraag: Kunt u zeggen waar het station is?"
+    },
+    {
+      "type": "text",
+      "title": "2) Вежливые просьбы (beleefd verzoek)",
+      "content": "- Zou u (misschien/wellicht) ... kunnen/willen ...?\nZou u mij misschien kunnen helpen met dit formulier?\n- Ik vroeg me af of ...\nIk vroeg me af of u morgen beschikbaar bent.\n- Is het mogelijk om ... te ...?\nIs het mogelijk om de afspraak te verzetten?\n- Ik ben benieuwd of ...\nIk ben benieuwd of dit nog actueel is.\nРегистры: u (формально), je/jij (неформально). Усилители вежливости: misschien, eventueel, wellicht."
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1: В муниципалитете",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Goedemiddag, ik vroeg me af of u mij zou kunnen helpen."
+        },
+        {
+          "speaker": "B",
+          "text": "Natuurlijk. Waarmee kan ik u van dienst zijn?"
+        },
+        {
+          "speaker": "A",
+          "text": "Kunt u mij vertellen waar ik een uittreksel kan aanvragen?"
+        },
+        {
+          "speaker": "B",
+          "text": "U kunt online een aanvraag doen, of bij de balie hier."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2: В компании",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Is het mogelijk om de deadline met één week te verschuiven?"
+        },
+        {
+          "speaker": "B",
+          "text": "Waarmee hangt dat samen?"
+        },
+        {
+          "speaker": "A",
+          "text": "We wachten nog op de goedkeuring. Weet u misschien wanneer die komt?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik zal navragen of de directie het vandaag kan bevestigen."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Прямой вопрос -> косвенный",
+      "items": [
+        {
+          "question": "Waar is het station? -> Kunt u mij zeggen __?"
+        },
+        {
+          "question": "Hoe laat begint de vergadering? -> Weet u __?"
+        },
+        {
+          "question": "Spreekt u Engels? -> Ik vroeg me af __."
+        },
+        {
+          "question": "Waarom is het kantoor gesloten? -> Kunt u mij vertellen __?",
+          "answers": [
+            "1. ...waar het station is?",
+            "2. ...hoe laat de vergadering begint?",
+            "3. ...of u Engels spreekt.",
+            "4. ...waarom het kantoor gesloten is?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Сделай вежливее",
+      "items": [
+        {
+          "question": "Geef mij het formulier."
+        },
+        {
+          "question": "Wanneer kan ik langskomen?"
+        },
+        {
+          "question": "Verplaats de afspraak naar dinsdag.",
+          "answers": [
+            "1. Zou u mij het formulier kunnen geven?",
+            "2. Ik vroeg me af wanneer ik zou kunnen langskomen.",
+            "3. Is het mogelijk om de afspraak naar dinsdag te verzetten?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 3: Исправь порядок слов",
+      "content": "1. Kunt u zeggen waar is de uitgang? -> `_______`\n2. Ik weet niet wanneer begint de les. -> `_______`\n3. Zij vraagt of kan ik morgen komen. -> `_______`\n<details>\n<summary>Ответы</summary>\n1. Kunt u zeggen waar de uitgang is? (глагол в конце придаточного)\n2. Ik weet niet wanneer de les begint.\n3. Zij vraagt of ik morgen kan komen.\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 4: Говорение -- формальные запросы",
+      "items": [
+        {
+          "question": "Je wilt weten of de winkel morgen open is."
+        },
+        {
+          "question": "Je wilt een afspraak verzetten."
+        },
+        {
+          "question": "Je wilt weten hoe je een DigiD aanvraagt."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- indirecte vraag — косвенный вопрос\n- of — ли (союз в косвенных вопросах)\n- vraagwoord — вопросительное слово\n- waar/wanneer/hoeveel/waarom/wie — где/когда/сколько/почему/кто\n- Kunt u mij zeggen ...? — Скажите, пожалуйста, ...\n- Ik vroeg me af of ... — Мне интересно, ... / Я хотел узнать, ...\n- Is het mogelijk om ... te ...? — Возможно ли ...?\n- Zou u ... kunnen/willen ...? — Не могли бы вы ...?\n- wellicht/misschien/eventueel — возможно/может быть/при случае\n- beschikbaar — доступный\n- verzetten/verschuiven — переносить (встречу/срок)\n- bevestigen — подтверждать\n- navragen — уточнить, запросить\n- uittreksel — выписка/справка\n- balie — стойка обслуживания\n- van dienst zijn — быть к услугам\n- aanvraag indienen — подать заявку\n- actueel — актуальный\n- formeel/informeel — формальный/неформальный\n- register — регистр речи\n- smeken/vragen/verzoeken — умолять/спрашивать/запрашивать (степени)"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-40.json"
+}

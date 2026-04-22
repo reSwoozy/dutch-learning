@@ -1,0 +1,290 @@
+{
+  "id": "A1-lesson-49",
+  "num": 49,
+  "level": "A1",
+  "title": "Повелительное наклонение (Imperatief)",
+  "minutes": 15,
+  "objectives": [
+    "Образовывать imperatief в трёх контекстах: ты/u/laten we",
+    "Смягчать команды словами even, maar, eens",
+    "Использовать imperatief с отделяемыми глаголами",
+    "Строить вежливые просьбы и инструкции",
+    "Понимать разницу между прямыми командами и вежливыми запросами"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Повелительное наклонение (Imperatief)",
+      "content": "**Уровень**: A1 Beginner | **Время**: 15 минут | **Тема**: команды, просьбы, приглашения"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Дать команду или просьбу в неформальной и формальной форме\n- Смягчить императив так, чтобы звучало вежливо\n- Использовать отделяемые глаголы в imperatief\n- Понимать инструкции (в рецептах, объявлениях, расписаниях)"
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 1: Форма и правила (4 минуты)",
+      "content": "**Формула imperatief**:\n- Ты/вы (неформально): основа глагола → `Kom!` (иди!)\n- U (формально): основа + -t + u → `Komt u binnen.`\n- Мы (совместно): `Laten we + инфинитив` → `Laten we gaan.`\nОсобые формы: `zijn → wees`, `hebben → heb`.\n**Отделяемые глаголы**: приставка в конец. `opstaan → Sta op!`",
+      "tables": [
+        {
+          "title": "Формы imperatief",
+          "headers": [
+            "Контекст",
+            "Форма",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "Ты (неформально)",
+              "основа",
+              "Kom! Luister! Wacht!"
+            ],
+            [
+              "U (формально)",
+              "основа + -t + u",
+              "Komt u binnen. Wacht u even."
+            ],
+            [
+              "Мы (совместно)",
+              "Laten we + инф.",
+              "Laten we beginnen."
+            ],
+            [
+              "Отрицание",
+              "Niet + imperatief",
+              "Doe dat niet!"
+            ],
+            [
+              "Отделяемый",
+              "основа + ... + приставка",
+              "Sta op! Kom mee!"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Частые команды и смягчители (5 минут)",
+      "words": [
+        {
+          "nl": "Kom!",
+          "ru": "Иди!",
+          "hint": "от komen"
+        },
+        {
+          "nl": "Luister!",
+          "ru": "Слушай!",
+          "hint": "от luisteren"
+        },
+        {
+          "nl": "Kijk!",
+          "ru": "Смотри!",
+          "hint": "от kijken"
+        },
+        {
+          "nl": "Wacht even!",
+          "ru": "Подожди минутку!",
+          "hint": "even — 'минутку', смягчает"
+        },
+        {
+          "nl": "Help me!",
+          "ru": "Помоги мне!",
+          "hint": "от helpen"
+        },
+        {
+          "nl": "Zeg het maar.",
+          "ru": "Ну скажи.",
+          "hint": "maar — смягчитель 'ну'"
+        },
+        {
+          "nl": "Kom eens hier.",
+          "ru": "Иди-ка сюда.",
+          "hint": "eens — 'как-нибудь', смягчает"
+        },
+        {
+          "nl": "Ga zitten.",
+          "ru": "Садись.",
+          "hint": "от gaan + zitten"
+        },
+        {
+          "nl": "Laten we gaan!",
+          "ru": "Пойдём!",
+          "hint": "совместный призыв"
+        },
+        {
+          "nl": "Laten we beginnen.",
+          "ru": "Давайте начнём.",
+          "hint": "совместный призыв"
+        },
+        {
+          "nl": "Doe de deur dicht.",
+          "ru": "Закрой дверь.",
+          "hint": "отделяемый: doe + dicht"
+        },
+        {
+          "nl": "Sta op!",
+          "ru": "Вставай!",
+          "hint": "opstaan → sta + op"
+        },
+        {
+          "nl": "Let op!",
+          "ru": "Осторожно!",
+          "hint": "opletten → let + op"
+        },
+        {
+          "nl": "Kijk uit!",
+          "ru": "Берегись!",
+          "hint": "uitkijken → kijk + uit"
+        },
+        {
+          "nl": "Komt u binnen.",
+          "ru": "Входите.",
+          "hint": "формальное"
+        },
+        {
+          "nl": "Neemt u plaats.",
+          "ru": "Садитесь.",
+          "hint": "формальное"
+        },
+        {
+          "nl": "Wees niet bang.",
+          "ru": "Не бойся.",
+          "hint": "zijn → wees"
+        },
+        {
+          "nl": "Doe dat niet!",
+          "ru": "Не делай этого!",
+          "hint": "niet после глагола"
+        },
+        {
+          "nl": "Probeer het!",
+          "ru": "Попробуй!",
+          "hint": "от proberen"
+        },
+        {
+          "nl": "Geef mij de pen.",
+          "ru": "Дай мне ручку.",
+          "hint": "от geven"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1: На кухне",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Kom eens hier! Ik maak pasta."
+        },
+        {
+          "speaker": "B",
+          "text": "Goed, wat moet ik doen?"
+        },
+        {
+          "speaker": "A",
+          "text": "Snijd de ui, alsjeblieft. En wees voorzichtig met het mes."
+        },
+        {
+          "speaker": "B",
+          "text": "Oké. Moet ik ook de tomaten snijden?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ja, doe dat. En zet de pan op het vuur."
+        },
+        {
+          "speaker": "B",
+          "text": "Klaar! Wat nu?"
+        },
+        {
+          "speaker": "A",
+          "text": "Wacht even. Laten we de pasta erin doen."
+        }
+      ],
+      "translation": "A: Иди-ка сюда! Я готовлю пасту.\nB: Хорошо, что мне делать?\nA: Нарежь лук, пожалуйста. И будь осторожен с ножом.\nB: Ок. Мне ещё помидоры нарезать?\nA: Да, сделай это. И поставь сковороду на огонь.\nB: Готово! Что теперь?\nA: Подожди. Давай положим туда пасту."
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2: В офисе (формально)",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Goedemorgen! Komt u binnen."
+        },
+        {
+          "speaker": "B",
+          "text": "Dank u wel."
+        },
+        {
+          "speaker": "A",
+          "text": "Neemt u plaats. Wilt u koffie?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ja, graag."
+        },
+        {
+          "speaker": "A",
+          "text": "Wacht u even, ik haal het."
+        }
+      ],
+      "translation": "A: Доброе утро! Входите.\nB: Благодарю.\nA: Присаживайтесь. Хотите кофе?\nB: Да, с удовольствием.\nA: Подождите, я принесу."
+    },
+    {
+      "type": "grammar",
+      "title": "Смягчители команд",
+      "content": "В голландском голая команда (`Kom hier!`) звучит грубо. Почти всегда добавляют **смягчитель**:\n- **even** = 'минутку': `Wacht even.`\n- **maar** = 'давай уже': `Ga maar zitten.`\n- **eens** = 'как-нибудь': `Kom eens hier.`\n- **toch** = 'ну ведь': `Luister toch!`\n- **alsjeblieft / alstublieft** = 'пожалуйста'\nМожно комбинировать: `Kom even hier, alsjeblieft.`"
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 3: Практика",
+      "items": [
+        {
+          "question": "Образуй imperatief (ты) от komen: `________`",
+          "answer": "Kom"
+        },
+        {
+          "question": "Образуй imperatief (u) от wachten: `________`",
+          "answer": "Wacht u"
+        },
+        {
+          "question": "Совместный призыв 'Давайте есть' — `________`",
+          "answer": "Laten we eten"
+        },
+        {
+          "question": "Отделяемый opstaan в imperatief — `________`",
+          "answer": "Sta op"
+        },
+        {
+          "question": "Отрицание 'Не делай этого' — `________`",
+          "answer": "Doe dat niet"
+        },
+        {
+          "question": "Imperatief от zijn (неформально): `Wees ...`",
+          "answer": "Wees"
+        },
+        {
+          "question": "Вежливо: 'Входите' — `________`",
+          "answer": "Komt u binnen"
+        },
+        {
+          "question": "Смягчи: 'Kom hier' → (c eens)",
+          "answer": "Kom eens hier"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Голландский стиль команд",
+      "content": "Голландцы ценят прямоту, но не грубость. Полная команда без смягчителя — для экстренной ситуации (`Kijk uit!`, `Stop!`). В быту всегда смягчают: **even, maar, eens** или **alsjeblieft**. На работе часто используют форму с 'kun je ...?' ('можешь ли ты...?') вместо прямого императива — это ещё мягче."
+    },
+    {
+      "type": "text",
+      "title": "Самопроверка",
+      "content": "- [ ] Понимаю три контекста: ты / u / laten we\n- [ ] Знаю, что нужно добавить смягчитель\n- [ ] Могу сформировать отделяемый глагол в императиве\n- [ ] Знаю особые формы (wees, heb)"
+    }
+  ],
+  "vocabularyFile": "A1-lesson-49.json"
+}

@@ -1,0 +1,466 @@
+{
+  "title": "Vaste combinaties (collocations)",
+  "level": "B1",
+  "tags": [
+    "collocaties",
+    "vaste-verbinding"
+  ],
+  "words": [
+    {
+      "nl": "een afspraak maken",
+      "ru": "договориться о встрече",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een afspraak verzetten",
+      "ru": "перенести встречу",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een afspraak nakomen",
+      "ru": "соблюдать договорённость",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een afspraak afzeggen",
+      "ru": "отменить встречу",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "de tijd nemen",
+      "ru": "не торопиться",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "de tijd doden",
+      "ru": "убивать время",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "tijd winnen",
+      "ru": "выигрывать время",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "tijd verliezen",
+      "ru": "терять время",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "geld verdienen",
+      "ru": "зарабатывать деньги",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "geld uitgeven",
+      "ru": "тратить деньги",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "geld sparen",
+      "ru": "экономить деньги",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "geld opnemen",
+      "ru": "снимать деньги",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "geld overmaken",
+      "ru": "переводить деньги",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een vraag stellen",
+      "ru": "задать вопрос",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een vraag beantwoorden",
+      "ru": "ответить на вопрос",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een antwoord geven",
+      "ru": "дать ответ",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een mening vormen",
+      "ru": "формировать мнение",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een mening delen",
+      "ru": "разделять мнение",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een besluit nemen",
+      "ru": "принимать решение",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een beslissing nemen",
+      "ru": "принимать решение",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een keuze maken",
+      "ru": "сделать выбор",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een risico lopen",
+      "ru": "подвергаться риску",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een risico nemen",
+      "ru": "рисковать",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een kans grijpen",
+      "ru": "ухватиться за шанс",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een kans missen",
+      "ru": "упустить шанс",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een doel stellen",
+      "ru": "ставить цель",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een doel bereiken",
+      "ru": "достичь цели",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een fout maken",
+      "ru": "совершить ошибку",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een fout toegeven",
+      "ru": "признать ошибку",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "een fout corrigeren",
+      "ru": "исправить ошибку",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "aandacht besteden aan",
+      "ru": "уделять внимание",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "aandacht schenken aan",
+      "ru": "обращать внимание на",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "zich realiseren",
+      "ru": "осознавать",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "zich voorstellen",
+      "ru": "представлять себе",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "zich aanpassen aan",
+      "ru": "приспосабливаться к",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "zich houden aan",
+      "ru": "придерживаться (правил)",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "zich richten op",
+      "ru": "ориентироваться на",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "zich inzetten voor",
+      "ru": "прилагать усилия ради",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "zich bezighouden met",
+      "ru": "заниматься чем-то",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "druk uitoefenen",
+      "ru": "оказывать давление",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "druk ervaren",
+      "ru": "испытывать давление",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "invloed uitoefenen op",
+      "ru": "влиять на",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "invloed hebben op",
+      "ru": "иметь влияние на",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "verantwoordelijkheid dragen",
+      "ru": "нести ответственность",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "verantwoordelijkheid nemen",
+      "ru": "брать ответственность",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "kritiek geven op",
+      "ru": "критиковать",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "kritiek krijgen",
+      "ru": "получать критику",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "kritiek incasseren",
+      "ru": "принимать критику",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "ruzie maken",
+      "ru": "ссориться",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "ruzie bijleggen",
+      "ru": "помириться",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "commentaar leveren",
+      "ru": "комментировать",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "in gesprek gaan",
+      "ru": "вступить в разговор",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "in gebreke blijven",
+      "ru": "не выполнить обязательства",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "in gevaar brengen",
+      "ru": "ставить под угрозу",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "in rekening brengen",
+      "ru": "выставить счёт",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "onder druk staan",
+      "ru": "находиться под давлением",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "op de hoogte zijn",
+      "ru": "быть в курсе",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "op de hoogte stellen",
+      "ru": "поставить в известность",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "op tijd zijn",
+      "ru": "прийти вовремя",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "te laat komen",
+      "ru": "опаздывать",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "uit het oog verliezen",
+      "ru": "упустить из виду",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "in het oog springen",
+      "ru": "бросаться в глаза",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "aan de bak moeten",
+      "ru": "придётся потрудиться",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "aan het werk gaan",
+      "ru": "приступить к работе",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "door de vingers zien",
+      "ru": "закрывать глаза на",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "tegen de lamp lopen",
+      "ru": "попасться",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "van harte welkom",
+      "ru": "сердечно добро пожаловать",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "in ieder geval",
+      "ru": "в любом случае",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "met betrekking tot",
+      "ru": "относительно",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "in verband met",
+      "ru": "в связи с",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "met het oog op",
+      "ru": "с учётом",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "op basis van",
+      "ru": "на основе",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "ten koste van",
+      "ru": "в ущерб",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "ten gunste van",
+      "ru": "в пользу",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "op grond van",
+      "ru": "на основании",
+      "level": "B1",
+      "theme": "collocations"
+    },
+    {
+      "nl": "ten behoeve van",
+      "ru": "в интересах",
+      "level": "B1",
+      "theme": "collocations"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "B2-text-05",
+  "level": "B2",
+  "title": "De rol van universiteiten in de kennisssamenleving",
+  "topic": "onderwijs-wetenschap",
+  "readingTime": "5 min",
+  "body": "Nederlandse universiteiten behoren internationaal tot de beter presterende instellingen, maar het debat over hun rol is volop in beweging. Waar universiteiten decennialang vooral werden gezien als plaatsen van fundamenteel onderzoek en academische vorming, verwacht de samenleving tegenwoordig ook een actieve bijdrage aan maatschappelijke vraagstukken: van klimaat en gezondheid tot digitalisering en sociale cohesie.\n\nDie verbreding roept spanningen op. Enerzijds is er druk om toegepast onderzoek te stimuleren, samen te werken met bedrijven en innovaties snel naar de markt te brengen. Anderzijds waarschuwen wetenschappers voor eenzijdige nadruk op rendement: nieuwsgierigheidsgedreven onderzoek, dat vaak pas op lange termijn vruchten afwerpt, vormt de motor van echte doorbraken. Zonder ruimte voor ogenschijnlijk nutteloze vragen zou de wetenschap verarmen.\n\nTegelijk staan universiteiten onder financiële druk. De bekostiging houdt geen gelijke tred met de sterk gegroeide studentenaantallen. Docenten klagen over hoge werkdruk, tijdelijke contracten en beperkte tijd voor onderzoek. Sinds kort probeert het ministerie via sectorplannen een betere balans aan te brengen tussen onderwijs en onderzoek, maar de sector zelf vindt dat onvoldoende.\n\nEen ander gevoelig onderwerp is internationalisering. Circa 40 procent van de Nederlandse universiteitsstudenten volgt vakken in het Engels en een groot deel van de wetenschappelijke staf komt uit het buitenland. Dat levert een internationale omgeving op die Nederlandse studenten ten goede komt, maar het legt ook druk op huisvesting, studiebegeleiding en de positie van het Nederlands als wetenschappelijke taal. Recent wetgeving wil de balans tussen Nederlandstalige en Engelstalige opleidingen herstellen.\n\nDe fundamentele vraag is hoe universiteiten maatschappelijk relevant blijven zonder hun autonomie en academische kern te verliezen. Dat vraagt om investeringen, maar ook om een helder publiek gesprek over wat we van universiteiten willen: kweekvijver voor de arbeidsmarkt, broedplaats van innovatie, kritische stem in de samenleving – of, idealiter, alle drie tegelijk, in zorgvuldige balans.",
+  "glossary": [
+    {"nl": "de instelling", "ru": "учреждение"},
+    {"nl": "het fundamenteel onderzoek", "ru": "фундаментальное исследование"},
+    {"nl": "de verbreding", "ru": "расширение"},
+    {"nl": "de spanning", "ru": "напряжение, противоречие"},
+    {"nl": "het rendement", "ru": "отдача, эффективность"},
+    {"nl": "nieuwsgierigheidsgedreven", "ru": "движимый любопытством"},
+    {"nl": "de doorbraak", "ru": "прорыв"},
+    {"nl": "ogenschijnlijk", "ru": "на первый взгляд"},
+    {"nl": "verarmen", "ru": "обеднеть"},
+    {"nl": "de bekostiging", "ru": "финансирование"},
+    {"nl": "gelijke tred houden", "ru": "идти в ногу"},
+    {"nl": "de werkdruk", "ru": "нагрузка на работе"},
+    {"nl": "het sectorplan", "ru": "отраслевой план"},
+    {"nl": "internationalisering", "ru": "интернационализация"},
+    {"nl": "de studiebegeleiding", "ru": "сопровождение учёбы"},
+    {"nl": "de kweekvijver", "ru": "кадровая база, 'питомник'"},
+    {"nl": "de broedplaats", "ru": "очаг (развития)"},
+    {"nl": "de autonomie", "ru": "автономия"}
+  ],
+  "questions": [
+    {
+      "q": "Wat verwacht de samenleving tegenwoordig van universiteiten?",
+      "options": [
+        "Alleen fundamenteel onderzoek",
+        "Ook bijdrage aan maatschappelijke vraagstukken",
+        "Alleen commerciële innovatie"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Waar waarschuwen wetenschappers voor?",
+      "options": [
+        "Te veel fundamenteel onderzoek",
+        "Eenzijdige nadruk op rendement",
+        "Internationalisering"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat is een probleem rond de financiering?",
+      "options": [
+        "Te veel geld",
+        "Geen gelijke tred met gegroeide studentenaantallen",
+        "Alle studenten betalen volledig zelf"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat is een effect van internationalisering?",
+      "options": [
+        "Meer Nederlands in de wetenschap",
+        "Druk op huisvesting en op het Nederlands als wetenschapstaal",
+        "Minder studenten"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat is volgens het artikel de fundamentele vraag?",
+      "options": [
+        "Of universiteiten moeten verdwijnen",
+        "Hoe maatschappelijk relevant blijven zonder autonomie te verliezen",
+        "Of er meer studenten nodig zijn"
+      ],
+      "answer": 1
+    }
+  ]
+}

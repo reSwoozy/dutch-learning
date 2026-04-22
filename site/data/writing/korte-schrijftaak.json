@@ -1,0 +1,28 @@
+{
+  "id": "korte-schrijftaak",
+  "title": "Korte schrijftaak (NT2 I, B1)",
+  "titleRu": "Короткое письменное задание (NT2 I)",
+  "level": "B1",
+  "type": "model",
+  "description": "Korte schrijftaak — короткий email / записка (ок. 60–80 слов) на заданную ситуацию. Оценивается содержание, структура и правильность.",
+  "structure": [
+    {"title": "Aanhef", "note": "Hoi / Beste / Geachte — соответственно ситуации."},
+    {"title": "Aanleiding", "note": "Одно предложение: почему вы пишете."},
+    {"title": "Concrete informatie", "note": "Ответить на все пункты задания."},
+    {"title": "Afsluiting", "note": "Groeten, подпись."}
+  ],
+  "phrases": [
+    "Ik schrijf je omdat...",
+    "Zou je iets voor mij willen doen?",
+    "Bedankt alvast!",
+    "Ik hoor graag van je.",
+    "Groetjes, / Met vriendelijke groet,"
+  ],
+  "model": "OPDRACHT:\nSchrijf een e-mail aan je buurvrouw Annelies. Je gaat een weekend weg en wilt vragen of zij op je kat wil passen. Vertel wanneer je weg bent, wat ze moet doen en waar de kattenvoer staat. Bied aan om iets terug te doen.\n\nMODELANTWOORD:\n\nHoi Annelies,\n\nIk ga komend weekend, van vrijdag 10 mei tot zondag 12 mei, naar Rotterdam. Zou je misschien op mijn kat Mimi willen passen? Ze heeft twee keer per dag eten nodig (het voer staat in het keukenkastje naast de koelkast). Even vers water en een knuffel, dan is ze blij.\n\nAls tegenprestatie breng ik graag een lekker bosje bloemen uit Rotterdam mee. Of als jij een keer weg wilt, past ik graag op jouw hond.\n\nLaat je me weten of het lukt?\n\nGroetjes,\nNatalia",
+  "tips": [
+    "Вставьте все пункты задания — иначе потеряете балл за inhoud.",
+    "Следите за tone: при соседях — informeel ('jij/jouw'), при компаниях — formeel ('u/uw').",
+    "Проверьте время: если действие уже было — perfectum ('ik heb gebeld'), если собираетесь — 'ik ga / ik zal'.",
+    "Не превышайте лимит слов более чем на 10–15%."
+  ]
+}

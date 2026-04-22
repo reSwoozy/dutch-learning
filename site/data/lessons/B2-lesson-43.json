@@ -1,0 +1,132 @@
+{
+  "id": "B2-lesson-43",
+  "num": 43,
+  "level": "B2",
+  "title": "Аудирование: стратегии и конспектирование",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "grammar",
+      "title": "Аудирование: стратегии и конспектирование"
+    },
+    {
+      "type": "text",
+      "title": "Цель урока",
+      "content": "Понимать основную мысль и детали длинных аудио (интервью, репортажи), делать краткие конспекты, извлекать имплицитную информацию (inferences) и распознавать сигнальные слова.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "grammar",
+      "title": "Стратегии до/во время/после прослушивания"
+    },
+    {
+      "type": "text",
+      "title": "До (pre‑listening)",
+      "content": "- Предскажи содержание по заголовку и вводным фразам\n- Составь список ключевых слов/имён/дат"
+    },
+    {
+      "type": "text",
+      "title": "Во время (while‑listening)",
+      "content": "- Отмечай сигнальные слова: eerst, vervolgens, echter, daardoor, kortom\n- Лови числа, имена, топонимы; фиксируй тайм‑маркеры\n- Не залипай на одном слове — двигайся дальше"
+    },
+    {
+      "type": "text",
+      "title": "После (post‑listening)",
+      "content": "- Заполни пропуски по опорам; проверь логические связи\n- Сверь конспект с вопросами; найди доказательства в аудио"
+    },
+    {
+      "type": "grammar",
+      "title": "Сигнальные слова (signaalwoorden)",
+      "content": "- Последовательность: eerst, vervolgens, daarna, tot slot\n- Контраст: maar, echter, daarentegen, toch\n- Причина/следствие: omdat, doordat, waardoor, zodat\n- Обобщение: samenvattend, kortom\n---"
+    },
+    {
+      "type": "dialogue",
+      "title": "Фрагмент интервью: экономический обзор",
+      "lines": [
+        {
+          "speaker": "Host",
+          "text": "Welkom bij het programma. Eerst bespreken we de resultaten; vervolgens gaan we in op de oorzaken."
+        },
+        {
+          "speaker": "Guest",
+          "text": "Dank u. De winst is gestegen, maar we zien echter regionale verschillen."
+        },
+        {
+          "speaker": "Host",
+          "text": "Kunt u dat toelichten? Waar liggen de grootste verschillen?"
+        },
+        {
+          "speaker": "Guest",
+          "text": "Doordat de vraag in het zuiden is toegenomen, zijn de cijfers daar beter. Daarentegen blijft het noorden achter."
+        },
+        {
+          "speaker": "Host",
+          "text": "Wat betekent dat voor de prognose?"
+        },
+        {
+          "speaker": "Guest",
+          "text": "Daardoor is de prognose aangepast. Samenvattend: de trend is positief, maar er is meer aandacht nodig voor het noorden."
+        },
+        {
+          "speaker": "Host",
+          "text": "Kortom: voorzichtig optimisme. Dank u voor deze analyse."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Определи signaalwoorden",
+      "content": "Прочитай текст и выпиши все сигнальные слова, определи их функцию:\n> Eerst bespreken we de resultaten van het onderzoek. De winst is gestegen; echter zien we regionale verschillen. Doordat de vraag in het zuiden is toegenomen, zijn de cijfers daar beter. Daarentegen blijft het noorden achter. Samenvattend: de trend is positief, maar er is meer aandacht nodig voor het noorden.\n| Signaalwoord | Functie |\n|-------------|---------|\n| `_______` | `_______` |\n| `_______` | `_______` |\n| `_______` | `_______` |\n| `_______` | `_______` |\n| `_______` | `_______` |\n<details>\n<summary>Ответы</summary>\n| Signaalwoord | Functie |\n|-------------|---------|\n| Eerst | Последовательность |\n| echter | Контраст |\n| Doordat | Причина |\n| Daarentegen | Контраст |\n| Samenvattend | Обобщение |\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Конспект по тексту",
+      "items": [
+        {
+          "question": "Hoofdonderwerp: `_______`"
+        },
+        {
+          "question": "Positief resultaat: `_______`"
+        },
+        {
+          "question": "Probleem: `_______`"
+        },
+        {
+          "question": "Conclusie: `_______`",
+          "answers": [
+            "1. Resultaten van het onderzoek",
+            "2. Winst is gestegen, vooral in het zuiden",
+            "3. Regionale verschillen: het noorden blijft achter",
+            "4. Trend positief, maar meer aandacht nodig voor het noorden"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Вставь signaalwoorden",
+      "content": "> __ bespreken we de oorzaken. De kosten zijn gestegen, __ de inflatie. __ heeft de overheid maatregelen genomen. __ blijft de situatie complex. __, er is vooruitgang, maar er zijn uitdagingen.\n<details>\n<summary>Ответы</summary>\nEerst ... doordat/vanwege ... Vervolgens/Daarnaast ... Desondanks/Toch ... Kortom/Samenvattend\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 4: Говорение",
+      "items": [
+        {
+          "question": "Noteer 5 kernpunten"
+        },
+        {
+          "question": "Identificeer 3 signaalwoorden"
+        },
+        {
+          "question": "Vat het bericht samen in 60 seconden"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- pre‑listening — до прослушивания\n- while‑listening — во время прослушивания\n- post‑listening — после прослушивания\n- signaalwoorden — сигнальные слова\n- vervolgens/erna/daardoor — затем/после этого/вследствие этого\n- samenvattend/kortom — подытоживая/короче\n- inleiding/kern/slot — вступление/ядро/заключение\n- impliciet/expliciet — скрытый/явный\n- inferentie — вывод по косвенным признакам\n- hoofdgedachte — основная мысль\n- detail — деталь\n- tijdsaanduiding — указатель времени\n- bron — источник\n- fragment — отрывок\n- transcriptie — транскрипт\n- accuratesse — точность\n- relevantie — релевантность\n- ruis — шум/помеха\n- articulatie — артикуляция\n- tempo — темп\n- accent — акцент\n- noteren — записывать\n- samenvatten — резюмировать\n- onderbouwen — обосновывать"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-43.json"
+}

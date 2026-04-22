@@ -1,0 +1,73 @@
+{
+  "id": "B2-text-01",
+  "level": "B2",
+  "title": "De woningmarkt onder druk",
+  "topic": "wonen-economie",
+  "readingTime": "5 min",
+  "body": "De Nederlandse woningmarkt staat al jaren onder aanzienlijke druk. Het woningtekort wordt geschat op ruim vierhonderdduizend woningen en loopt volgens prognoses van het Economisch Instituut voor de Bouw de komende jaren verder op. De oorzaken zijn uiteenlopend: bevolkingsgroei, een groeiend aantal eenpersoonshuishoudens, stagnerende nieuwbouw en schaarse bouwlocaties in de Randstad.\n\nDe gevolgen zijn voor verschillende groepen sterk voelbaar. Starters zien hun perspectief op een eigen woning in grote steden vrijwel verdampen; de vraagprijzen liggen hoog en de hypotheekregels zijn strikt. Huurders in de vrije sector kampen met explosieve stijgingen, terwijl wachttijden voor sociale huurwoningen in gemeenten als Amsterdam en Utrecht oplopen tot vijftien jaar of meer. Ook voor statushouders, studenten en arbeidsmigranten blijkt het steeds lastiger om geschikte huisvesting te vinden.\n\nDe overheid heeft de afgelopen jaren verschillende instrumenten ingezet, met wisselend succes. De verhuurderheffing is afgeschaft om woningcorporaties ruimte te geven voor nieuwbouw en renovatie. Daarnaast introduceerde het kabinet de Wet betaalbare huur, die een huurprijspunt instelt voor een groter deel van de markt. Toch waarschuwen experts dat deze maatregelen de symptomen bestrijden, niet de oorzaak: het structurele tekort aan nieuwbouw.\n\nNieuwbouw blijkt in de praktijk moeizaam te realiseren. Procedures zijn complex, gemeenten beschikken over weinig ambtenaren en de stikstofproblematiek legt bovendien talloze projecten stil. Bouwbedrijven rapporteren daarnaast stijgende materiaalkosten en een chronisch tekort aan vakmensen. Het gevolg is dat jaarlijks minder woningen worden opgeleverd dan de overheid heeft toegezegd.\n\nDeskundigen pleiten voor een integrale aanpak. Die omvat versnelde ruimtelijke procedures, meer industrieel bouwen – waarbij woningen grotendeels in fabrieken worden geproduceerd – en een heroriëntatie op kleinere, collectieve woonvormen. Tegelijk wordt benadrukt dat de woningmarkt geen puur economisch vraagstuk is: beschikbare en betaalbare huisvesting vormt een fundament voor sociale cohesie, arbeidsmobiliteit en gezondheid.",
+  "glossary": [
+    {"nl": "aanzienlijk", "ru": "значительный"},
+    {"nl": "het woningtekort", "ru": "дефицит жилья"},
+    {"nl": "de prognose", "ru": "прогноз"},
+    {"nl": "stagneren", "ru": "стагнировать"},
+    {"nl": "schaars", "ru": "дефицитный"},
+    {"nl": "verdampen", "ru": "испаряться (перен.)"},
+    {"nl": "de hypotheek", "ru": "ипотека"},
+    {"nl": "de vrije sector", "ru": "свободный (частный) сектор"},
+    {"nl": "de statushouder", "ru": "человек со статусом беженца"},
+    {"nl": "de verhuurderheffing", "ru": "налог на арендодателей"},
+    {"nl": "het huurprijspunt", "ru": "точка цены аренды (балл)"},
+    {"nl": "de stikstofproblematiek", "ru": "проблема выбросов азота"},
+    {"nl": "opleveren", "ru": "сдавать (объект)"},
+    {"nl": "integraal", "ru": "комплексный"},
+    {"nl": "de heroriëntatie", "ru": "переосмысление, смена ориентиров"},
+    {"nl": "de sociale cohesie", "ru": "социальная сплочённость"}
+  ],
+  "questions": [
+    {
+      "q": "Wat is volgens het artikel de kern van het probleem op de woningmarkt?",
+      "options": [
+        "Hoge hypotheekrentes",
+        "Een structureel tekort aan nieuwbouw",
+        "Te lage vraagprijzen"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Welke groepen worden het hardst getroffen?",
+      "options": [
+        "Alleen vermogende huiseigenaren",
+        "Starters, huurders, statushouders, studenten, arbeidsmigranten",
+        "Alleen ouderen"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat is het effect van de Wet betaalbare huur volgens experts?",
+      "options": [
+        "Ze lost de woningcrisis op",
+        "Ze bestrijdt vooral symptomen, niet de oorzaak",
+        "Ze zorgt voor hogere prijzen"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Waarom is nieuwbouw moeilijk te realiseren?",
+      "options": [
+        "Te veel beschikbaar personeel",
+        "Complexe procedures, stikstof, tekort aan vakmensen",
+        "De markt wil geen nieuwe woningen"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat stellen deskundigen voor?",
+      "options": [
+        "Minder bouwen en huren verhogen",
+        "Versnelling van procedures, industrieel bouwen, collectieve woonvormen",
+        "De woningmarkt volledig privatiseren"
+      ],
+      "answer": 1
+    }
+  ]
+}

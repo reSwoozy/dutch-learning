@@ -1,0 +1,250 @@
+[
+  {
+    "nl": "bank",
+    "ru": "банк",
+    "example": "Ik ga naar de bank.",
+    "pronunciation": "bank",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "bankrekening",
+    "ru": "банковский счет",
+    "example": "Ik open een bankrekening.",
+    "pronunciation": "BANK-reh-ke-ning",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "betaalrekening",
+    "ru": "текущий счет",
+    "example": "Een betaalrekening voor dagelijks gebruik.",
+    "pronunciation": "be-TAAL-reh-ke-ning",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "spaarrekening",
+    "ru": "сберегательный счет",
+    "example": "Ik heb geld op mijn spaarrekening.",
+    "pronunciation": "SPAAR-reh-ke-ning",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "pinpas",
+    "ru": "банковская карта",
+    "example": "Ik betaal met mijn pinpas.",
+    "pronunciation": "PIN-pas",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "creditcard",
+    "ru": "кредитная карта",
+    "example": "De creditcard heeft een limiet.",
+    "pronunciation": "KREH-dit-kart",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "pinnen",
+    "ru": "платить картой",
+    "example": "Ik ga pinnen in de winkel.",
+    "pronunciation": "PIN-nen",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "contant",
+    "ru": "наличными",
+    "example": "Betaal je contant of met de pas?",
+    "pronunciation": "kon-TANT",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "overboeking",
+    "ru": "перевод",
+    "example": "Ik doe een overboeking naar mijn moeder.",
+    "pronunciation": "oh-ver-BOO-king",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "saldo",
+    "ru": "баланс",
+    "example": "Mijn saldo is €500.",
+    "pronunciation": "SAL-do",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "hypotheek",
+    "ru": "ипотека",
+    "example": "We nemen een hypotheek voor het huis.",
+    "pronunciation": "hi-po-TEEK",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "lenen",
+    "ru": "занимать",
+    "example": "We lenen geld van de bank.",
+    "pronunciation": "LEH-nen",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "rente",
+    "ru": "процент",
+    "example": "De rente is 3% per jaar.",
+    "pronunciation": "REN-te",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "belasting",
+    "ru": "налог",
+    "example": "Ik betaal belasting over mijn inkomen.",
+    "pronunciation": "be-LAS-ting",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "BTW",
+    "ru": "НДС",
+    "example": "BTW is 21% in Nederland.",
+    "pronunciation": "bee-tee-vee",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "verzekering",
+    "ru": "страхование",
+    "example": "Zorgverzekering is verplicht.",
+    "pronunciation": "ver-ZEH-ke-ring",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "zorgverzekering",
+    "ru": "медицинская страховка",
+    "example": "Ik heb een zorgverzekering.",
+    "pronunciation": "ZORKHD-ver-zeh-ke-ring",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "adviseur",
+    "ru": "консультант",
+    "example": "De financieel adviseur helpt me.",
+    "pronunciation": "ad-vi-ZEUR",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "investeren",
+    "ru": "инвестировать",
+    "example": "Ik wil mijn geld investeren.",
+    "pronunciation": "in-ves-TEH-ren",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "sparen",
+    "ru": "копить",
+    "example": "Ik spaar voor een vakantie.",
+    "pronunciation": "SPAH-ren",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "schuld",
+    "ru": "долг",
+    "example": "Ik heb geen schulden.",
+    "pronunciation": "skuld",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "krediet",
+    "ru": "кредит",
+    "example": "Het krediet is goedgekeurd.",
+    "pronunciation": "kreh-DEET",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "maandlasten",
+    "ru": "ежемесячные платежи",
+    "example": "De maandlasten zijn €1200.",
+    "pronunciation": "MAANT-las-ten",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "eigen geld",
+    "ru": "собственные средства",
+    "example": "We hebben €50.000 eigen geld.",
+    "pronunciation": "EY-khen khelt",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "inkomen",
+    "ru": "доход",
+    "example": "Mijn inkomen is €60.000 per jaar.",
+    "pronunciation": "IN-ko-men",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "uitgaven",
+    "ru": "расходы",
+    "example": "Mijn uitgaven zijn hoog deze maand.",
+    "pronunciation": "OYT-khah-ven",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "begroting",
+    "ru": "бюджет",
+    "example": "Ik maak een maandelijkse begroting.",
+    "pronunciation": "be-KHRO-ting",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "economie",
+    "ru": "экономика",
+    "example": "De Nederlandse economie groeit.",
+    "pronunciation": "eh-ko-no-MEE",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "inflatie",
+    "ru": "инфляция",
+    "example": "De inflatie is dit jaar laag.",
+    "pronunciation": "in-FLAH-tsee",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "pensioen",
+    "ru": "пенсия",
+    "example": "Ik spaar voor mijn pensioen.",
+    "pronunciation": "pen-see-OON",
+    "level": "B1",
+    "lesson": 29
+  },
+  {
+    "nl": "financieel",
+    "ru": "финансовый",
+    "example": "Ik heb financieel advies nodig.",
+    "pronunciation": "fi-nan-see-EEL",
+    "level": "B1",
+    "lesson": 29
+  }
+]

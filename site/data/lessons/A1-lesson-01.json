@@ -1,0 +1,300 @@
+{
+  "id": "A1-lesson-01",
+  "num": 1,
+  "level": "A1",
+  "title": "Знакомство и базовые фразы",
+  "minutes": 15,
+  "objectives": [
+    "Поздороваться и попрощаться в разное время дня",
+    "Представиться и спросить имя собеседника",
+    "Сказать откуда ты родом",
+    "Использовать основные вежливые фразы",
+    "Понять базовую структуру голландского предложения"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Знакомство и базовые фразы",
+      "content": "**Уровень**: A1 Beginner | **Время**: 15 минут | **День**: 1 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Поздороваться и попрощаться в разное время дня\n- Представиться и спросить имя собеседника\n- Сказать откуда ты родом\n- Использовать основные вежливые фразы\n- Понять базовую структуру голландского предложения"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Новые слова (5 минут)",
+      "words": [
+        {
+          "nl": "Hallo",
+          "ru": "Привет",
+          "pronunciation": "['ɦɑloː]",
+          "hint": "Неформальное приветствие"
+        },
+        {
+          "nl": "Goedemorgen",
+          "ru": "Доброе утро",
+          "pronunciation": "['xuːdəmɔrɣən]",
+          "hint": "До 12:00"
+        },
+        {
+          "nl": "Goedemiddag",
+          "ru": "Добрый день",
+          "pronunciation": "['xuːdəmɪdɑx]",
+          "hint": "12:00-18:00"
+        },
+        {
+          "nl": "Goedenavond",
+          "ru": "Добрый вечер",
+          "pronunciation": "['xuːdənaːvɔnt]",
+          "hint": "После 18:00"
+        },
+        {
+          "nl": "Welterusten",
+          "ru": "Спокойной ночи",
+          "pronunciation": "['ʋɛltəˌrʏstən]",
+          "hint": "Перед сном"
+        },
+        {
+          "nl": "Dag",
+          "ru": "Пока",
+          "pronunciation": "[dɑx]",
+          "hint": "Неформальное прощание"
+        },
+        {
+          "nl": "Tot ziens",
+          "ru": "До свидания",
+          "pronunciation": "[tɔt ˈsins]",
+          "hint": "Формальное прощание"
+        },
+        {
+          "nl": "Dank je wel",
+          "ru": "Спасибо",
+          "pronunciation": "[dɑŋk jə ʋɛl]",
+          "hint": "Благодарность"
+        },
+        {
+          "nl": "Alsjeblieft",
+          "ru": "Пожалуйста",
+          "pronunciation": "[ɑlsjəˈblift]",
+          "hint": "При вручении чего-то"
+        },
+        {
+          "nl": "Graag gedaan",
+          "ru": "Пожалуйста",
+          "pronunciation": "[ɣraːx ɣəˈdaːn]",
+          "hint": "Ответ на \"спасибо\""
+        },
+        {
+          "nl": "Sorry",
+          "ru": "Извините",
+          "pronunciation": "['sɔri]",
+          "hint": "Извинение (неформально)"
+        },
+        {
+          "nl": "Excuseer me",
+          "ru": "Простите",
+          "pronunciation": "[ɛkskuˈseːr mə]",
+          "hint": "Извинение (формально)"
+        },
+        {
+          "nl": "Ik heet...",
+          "ru": "Меня зовут...",
+          "pronunciation": "[ɪk ˈɦeːt]",
+          "hint": "Представление"
+        },
+        {
+          "nl": "Mijn naam is...",
+          "ru": "Мое имя...",
+          "pronunciation": "[mɛin ˈnaːm ɪs]",
+          "hint": "Представление (формально)"
+        },
+        {
+          "nl": "Hoe heet je?",
+          "ru": "Как тебя зовут?",
+          "pronunciation": "[ɦu ˈɦeːt jə]",
+          "hint": "Вопрос об имени"
+        },
+        {
+          "nl": "Waar kom je vandaan?",
+          "ru": "Откуда ты?",
+          "pronunciation": "[ʋaːr kɔm jə vɑnˈdaːn]",
+          "hint": "Вопрос о происхождении"
+        },
+        {
+          "nl": "Ik kom uit...",
+          "ru": "Я из...",
+          "pronunciation": "[ɪk kɔm ˈœyt]",
+          "hint": "Ответ о происхождении"
+        },
+        {
+          "nl": "Rusland",
+          "ru": "Россия",
+          "pronunciation": "['rʏslɑnt]",
+          "hint": "Твоя страна"
+        },
+        {
+          "nl": "Spreek je Nederlands?",
+          "ru": "Говоришь по-голландски?",
+          "pronunciation": "[spreːk jə ˈneːdərlɑnts]",
+          "hint": "Вопрос о языке"
+        },
+        {
+          "nl": "Ik spreek een beetje Nederlands",
+          "ru": "Я говорю немного по-голландски",
+          "pronunciation": "[ɪk spreːk ən ˈbeːtjə ˈneːdərlɑnts]",
+          "hint": "Ответ о знании языка"
+        },
+        {
+          "nl": "Ja",
+          "ru": "Да",
+          "pronunciation": "[jaː]",
+          "hint": "Утверждение"
+        },
+        {
+          "nl": "Nee",
+          "ru": "Нет",
+          "pronunciation": "[neː]",
+          "hint": "Отрицание"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Hallo!"
+        },
+        {
+          "speaker": "B",
+          "text": "Hallo! Ik heet Lisa. Hoe heet je?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik heet Anton. Waar kom je vandaan, Lisa?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik kom uit Nederland. En jij?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik kom uit Rusland."
+        },
+        {
+          "speaker": "B",
+          "text": "Spreek je Nederlands?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik spreek een beetje Nederlands."
+        },
+        {
+          "speaker": "B",
+          "text": "Dat is goed! Tot ziens!"
+        },
+        {
+          "speaker": "A",
+          "text": "Tot ziens!"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2: В магазине утром",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Goedemorgen!"
+        },
+        {
+          "speaker": "B",
+          "text": "Goedemorgen! Kan ik u helpen?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ja, ik zoek koffie, alstublieft."
+        },
+        {
+          "speaker": "B",
+          "text": "Alsjeblieft, hier is de koffie."
+        },
+        {
+          "speaker": "A",
+          "text": "Dank je wel! Hoeveel kost het?"
+        },
+        {
+          "speaker": "B",
+          "text": "Drie euro vijftig."
+        },
+        {
+          "speaker": "A",
+          "text": "Alsjeblieft. Tot ziens!"
+        },
+        {
+          "speaker": "B",
+          "text": "Tot ziens! Fijne dag!"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 3: Практические упражнения (4 минуты)",
+      "items": [
+        {
+          "question": "Привет, меня зовут Анна → `_________________`"
+        },
+        {
+          "question": "Как тебя зовут? → `_________________`"
+        },
+        {
+          "question": "Я из России → `_________________`"
+        },
+        {
+          "question": "Спасибо → `_________________`"
+        },
+        {
+          "question": "До свидания → `_________________`"
+        },
+        {
+          "question": "Hoe heet je? → `Ik heet...`"
+        },
+        {
+          "question": "Waar kom je vandaan? → `Ik kom uit...`"
+        },
+        {
+          "question": "Spreek je Nederlands? → `Ik spreek een beetje Nederlands`"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 4: Самопроверка (1 минута)",
+      "content": "#### Чек-лист урока:\n- [ ] Прочитал все новые слова\n- [ ] Прослушал произношение в Google Translate\n- [ ] Прочитал диалоги вслух\n- [ ] Сделал упражнения\n- [ ] Могу представиться по-голландски"
+    },
+    {
+      "type": "grammar",
+      "title": "1. Базовая структура предложения",
+      "content": "Голландский язык использует порядок: **Подлежащее + Сказуемое + Дополнение**\n**Правильно**: *Ik heet Anton* (Я называюсь Антон)\n**Правильно**: *Ik kom uit Rusland* (Я родом из России)"
+    },
+    {
+      "type": "culture",
+      "title": "2. Формальность в голландском",
+      "content": "- **Неформально**: *Hallo, Dag, Sorry*\n- **Формально**: *Goedemorgen, Tot ziens, Excuseer me*\n**Совет**: Начинай с формальных фраз - лучше быть вежливым!"
+    },
+    {
+      "type": "text",
+      "title": "3. Местоимения первого знакомства",
+      "content": "- **Ik** = я (всегда с маленькой буквы, кроме начала предложения)\n- **Je/jij** = ты (неформально)\n- **U** = Вы (формально, с людьми старше или в официальной обстановке)\n**Углубленно**: [Полное руководство по местоимениям](../../../REFERENCE/grammar/A1-grammar/pronouns.md)"
+    },
+    {
+      "type": "culture",
+      "title": "Голландская вежливость",
+      "content": "В Нидерландах **очень важно** здороваться и прощаться. Даже входя в магазин, голландцы говорят \"Goedemorgen\" продавцу.\n**Полезно знать**:\n- В лифте принято здороваться с незнакомыми людьми\n- \"Dank je wel\" говорят даже за мелкие услуги\n- Рукопожатие + зрительный контакт при знакомстве\n**Для интеграционного экзамена**: Знание этикета показывает твою готовность к жизни в Нидерландах!"
+    }
+  ],
+  "vocabularyFile": "A1-lesson-01.json"
+}

@@ -1,0 +1,327 @@
+{
+  "id": "B2-lesson-53",
+  "num": 53,
+  "level": "B2",
+  "title": "Давнопрошедшее время (Plusquamperfectum)",
+  "minutes": 15,
+  "objectives": [
+    "Строить Plusquamperfectum: had/was + voltooid deelwoord",
+    "Правильно выбирать hebben (had) или zijn (was) как вспомогательный",
+    "Использовать VVT для действий, предшествующих другому прошлому",
+    "Применять союзы nadat, toen, voordat с VVT",
+    "Передавать предысторию и фон в рассказе"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Давнопрошедшее время (Plusquamperfectum)",
+      "content": "**Уровень**: B2 Upper-Intermediate | **Время**: 15 минут | **Тема**: третье прошедшее время"
+    },
+    {
+      "type": "text",
+      "title": "Три прошедших времени",
+      "content": "В голландском **три** прошедших времени:\n- **Perfectum** (VTT): `heb/is + vd` — разговорное прошлое\n- **Imperfectum** (OVT): `werkte/was/had` — фон, описание\n- **Plusquamperfectum** (VVT): `had/was + vd` — действие ДО другого прошлого\n**Пример**:\n- *Ik had al gegeten toen hij kwam.* — Я уже поел, когда он пришёл.\nЗдесь 'поел' случилось ДО 'пришёл' — для этого нужен VVT."
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 1: Формула VVT (5 минут)",
+      "content": "**Формула**: `had/was (Imperfectum от hebben/zijn) + voltooid deelwoord в конце`\n- `had gewerkt`, `had gezien`, `had gedaan`\n- `was gegaan`, `was gekomen`, `was geworden`\nВыбор had/was **тот же**, что для Perfectum:\n- Движение/изменение → zijn → was/waren\n- Остальное → hebben → had/hadden",
+      "tables": [
+        {
+          "title": "Спряжение had/was",
+          "headers": [
+            "Лицо",
+            "hebben → had",
+            "zijn → was"
+          ],
+          "rows": [
+            [
+              "ik",
+              "had",
+              "was"
+            ],
+            [
+              "jij/je",
+              "had",
+              "was"
+            ],
+            [
+              "hij/zij/het",
+              "had",
+              "was"
+            ],
+            [
+              "wij/we",
+              "hadden",
+              "waren"
+            ],
+            [
+              "jullie",
+              "hadden",
+              "waren"
+            ],
+            [
+              "zij/ze",
+              "hadden",
+              "waren"
+            ]
+          ]
+        },
+        {
+          "title": "Perfectum → Plusquamperfectum",
+          "headers": [
+            "Инфинитив",
+            "Perfectum",
+            "Plusquamperfectum"
+          ],
+          "rows": [
+            [
+              "werken",
+              "heb gewerkt",
+              "had gewerkt"
+            ],
+            [
+              "eten",
+              "heb gegeten",
+              "had gegeten"
+            ],
+            [
+              "doen",
+              "heb gedaan",
+              "had gedaan"
+            ],
+            [
+              "zien",
+              "heb gezien",
+              "had gezien"
+            ],
+            [
+              "gaan",
+              "is gegaan",
+              "was gegaan"
+            ],
+            [
+              "komen",
+              "is gekomen",
+              "was gekomen"
+            ],
+            [
+              "worden",
+              "is geworden",
+              "was geworden"
+            ],
+            [
+              "vertrekken",
+              "is vertrokken",
+              "was vertrokken"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 2: Когда использовать VVT",
+      "content": "**1. Две точки в прошлом, VVT для более ранней**:\n- `Toen ik aankwam, was hij al vertrokken.` — Когда я приехал, он уже ушёл.\n- `Zij zei dat ze het boek al had gelezen.` — Она сказала, что уже прочитала книгу.\n**2. С союзами nadat и voordat (часто)**:\n- `Nadat we hadden gegeten, gingen we wandelen.` — Поев, мы пошли гулять.\n- `Voordat de film begon, had ik al popcorn gekocht.` — До начала фильма я уже купил попкорн.\n**3. В косвенной речи (сдвиг времени)**:\n- Прямая: `'Ik heb het gedaan.'` → Косвенная: `Hij zei dat hij het had gedaan.`\n**4. Причина в прошлом**:\n- `Hij was moe, want hij had de hele dag gewerkt.` — Он устал, потому что весь день работал."
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые союзы и маркеры",
+      "words": [
+        {
+          "nl": "nadat",
+          "ru": "после того как",
+          "hint": "+ VVT: Nadat ik had gegeten..."
+        },
+        {
+          "nl": "voordat",
+          "ru": "прежде чем",
+          "hint": "часто + VVT"
+        },
+        {
+          "nl": "toen",
+          "ru": "когда (точечное)",
+          "hint": "одно действие в VVT"
+        },
+        {
+          "nl": "want",
+          "ru": "потому что",
+          "hint": "причина в прошлом → VVT"
+        },
+        {
+          "nl": "al",
+          "ru": "уже",
+          "hint": "маркер VVT: had al gedaan"
+        },
+        {
+          "nl": "nog niet",
+          "ru": "ещё не",
+          "hint": "had nog niet gezien"
+        },
+        {
+          "nl": "had",
+          "ru": "имел (had)",
+          "hint": "вспом. для VVT"
+        },
+        {
+          "nl": "hadden",
+          "ru": "имели",
+          "hint": "мн.ч. VVT"
+        },
+        {
+          "nl": "was (vvt)",
+          "ru": "был",
+          "hint": "для движения/изменения"
+        },
+        {
+          "nl": "waren (vvt)",
+          "ru": "были",
+          "hint": "мн.ч. VVT с zijn"
+        },
+        {
+          "nl": "had gewerkt",
+          "ru": "(уже) поработал",
+          "hint": "пример VVT"
+        },
+        {
+          "nl": "had gedaan",
+          "ru": "(уже) сделал",
+          "hint": "пример VVT"
+        },
+        {
+          "nl": "was gegaan",
+          "ru": "(уже) ушёл",
+          "hint": "VVT с zijn"
+        },
+        {
+          "nl": "was gekomen",
+          "ru": "(уже) пришёл",
+          "hint": "VVT с zijn"
+        },
+        {
+          "nl": "was geworden",
+          "ru": "стал",
+          "hint": "worden — изменение"
+        },
+        {
+          "nl": "had gezien",
+          "ru": "(уже) видел",
+          "hint": "VVT с hebben"
+        },
+        {
+          "nl": "was vertrokken",
+          "ru": "(уже) уехал",
+          "hint": "vertrekken — движение"
+        },
+        {
+          "nl": "had gelezen",
+          "ru": "(уже) прочитал",
+          "hint": "VVT"
+        },
+        {
+          "nl": "had geschreven",
+          "ru": "(уже) написал",
+          "hint": "VVT"
+        },
+        {
+          "nl": "had kunnen",
+          "ru": "мог бы",
+          "hint": "had + kunnen + инф."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог: Опоздание",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Waarom was je zo laat gisteren?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik had mijn sleutels vergeten, dus ik moest terug naar huis."
+        },
+        {
+          "speaker": "A",
+          "text": "Oh! Had je ze in de auto gelegd?"
+        },
+        {
+          "speaker": "B",
+          "text": "Nee, ik had ze op de keukentafel laten liggen. Toen ik bij jou aankwam, was de vergadering al begonnen."
+        },
+        {
+          "speaker": "A",
+          "text": "Dat was jammer. Maar nadat je was aangekomen, ging het gesprek veel beter."
+        },
+        {
+          "speaker": "B",
+          "text": "Ja, ik had me goed voorbereid. Ik had de documenten al doorgelezen voordat ik kwam."
+        }
+      ],
+      "translation": "A: Почему ты вчера так опоздал?\nB: Я забыл ключи, пришлось вернуться домой.\nA: О! Ты положил их в машину?\nB: Нет, я оставил их на кухонном столе. Когда я к тебе приехал, встреча уже началась.\nA: Жаль. Но после того как ты приехал, разговор пошёл гораздо лучше.\nB: Да, я хорошо подготовился. Я уже прочитал документы прежде чем пришёл."
+    },
+    {
+      "type": "grammar",
+      "title": "VVT с модальными",
+      "content": "Конструкция `had + kunnen/moeten/willen + инфинитив` означает 'мог бы / должен был бы / хотел бы' в прошлом:\n- `Ik had kunnen komen.` — Я мог бы прийти.\n- `Je had moeten bellen.` — Ты должен был позвонить.\n- `Hij had willen gaan.` — Он хотел бы пойти.\nЭто важная структура B2 — часто используется в упрёках и сожалениях."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнения",
+      "items": [
+        {
+          "question": "Toen ik thuiskwam, __ hij al __ (vertrekken).",
+          "answer": "was vertrokken"
+        },
+        {
+          "question": "Nadat we __ __ (eten), gingen we naar de bios.",
+          "answer": "hadden gegeten"
+        },
+        {
+          "question": "Zij zei dat ze het al __ __ (doen).",
+          "answer": "had gedaan"
+        },
+        {
+          "question": "Hij was moe, want hij __ de hele dag __ (werken).",
+          "answer": "had gewerkt"
+        },
+        {
+          "question": "Voordat de trein vertrok, __ iedereen al __ (instappen).",
+          "answer": "was ingestapt"
+        },
+        {
+          "question": "Ik __ __ (komen) (я мог бы прийти).",
+          "answer": "had kunnen komen"
+        },
+        {
+          "question": "Je __ __ (bellen) (ты должен был позвонить).",
+          "answer": "had moeten bellen"
+        },
+        {
+          "question": "We __ de film al __ (zien) voordat we elkaar ontmoetten.",
+          "answer": "hadden ... gezien"
+        },
+        {
+          "question": "Zij __ __ (worden) boos toen ik het vertelde.",
+          "answer": "was geworden"
+        },
+        {
+          "question": "Ik herinnerde me dat ik de sleutel __ __ (vergeten).",
+          "answer": "was vergeten"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "VVT в экзаменах и работе",
+      "content": "В разговорной речи Plusquamperfectum часто заменяется на Perfectum — но в Staatsexamen II, на работе в официальных отчётах и в академических текстах VVT **необходим** для ясности последовательности действий. Также полезно для деловой переписки: `Zoals ik al had aangegeven...` — 'Как я уже указывал...'."
+    },
+    {
+      "type": "text",
+      "title": "Самопроверка",
+      "content": "- [ ] Правильно выбираю had или was как вспомогательный\n- [ ] Понимаю, что VVT = действие ДО другого прошлого\n- [ ] Умею составлять предложения с nadat/voordat + VVT\n- [ ] Могу использовать had kunnen/moeten/willen для сожалений"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-53.json"
+}

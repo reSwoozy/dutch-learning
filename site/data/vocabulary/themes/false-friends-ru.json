@@ -1,0 +1,430 @@
+{
+  "title": "False friends (Nederlands-Russisch)",
+  "level": "B1",
+  "tags": [
+    "valse-vrienden",
+    "veelgemaakte-fouten"
+  ],
+  "words": [
+    {
+      "nl": "eventueel",
+      "ru": "возможно, при необходимости (НЕ \"в конечном счёте\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "actueel",
+      "ru": "актуальный, современный (НЕ \"фактический\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het examen",
+      "ru": "экзамен (обычно сложнее, чем \"тест\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de magazine",
+      "ru": "склад (НЕ \"журнал\" — это tijdschrift)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het magazijn",
+      "ru": "склад (иногда: журнал)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "brutaal",
+      "ru": "дерзкий, наглый (НЕ \"брутальный\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "familiar",
+      "ru": "семейный / фамильярный",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de familie",
+      "ru": "семья/родственники (шире русского \"фамилия\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de pijn",
+      "ru": "боль (НЕ \"вино\" — это wijn)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de wijn",
+      "ru": "вино",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de wind",
+      "ru": "ветер (пишется с 'd', не как русское)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de dokter",
+      "ru": "врач (не только доктор наук)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het bureau",
+      "ru": "письменный стол; бюро",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de chef",
+      "ru": "шеф, начальник (не только шеф-повар)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de kok",
+      "ru": "повар",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het kabinet",
+      "ru": "кабинет министров; шкаф",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het klaslokaal",
+      "ru": "классная комната (НЕ \"класс\" как социальный)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de klas",
+      "ru": "класс (группа учеников или ступень)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het seizoen",
+      "ru": "сезон (не \"сцена\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de scène",
+      "ru": "сцена",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de salade",
+      "ru": "салат",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de pet",
+      "ru": "кепка (НЕ \"тропа\" — это pad)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het pad",
+      "ru": "тропинка",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de deken",
+      "ru": "одеяло (НЕ \"декан\" — это decaan)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de decaan",
+      "ru": "декан",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de rots",
+      "ru": "скала (НЕ \"рот\" — это mond)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de mond",
+      "ru": "рот",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het kamertje",
+      "ru": "комнатка",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de kamer",
+      "ru": "комната (или парламентская палата)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de Tweede Kamer",
+      "ru": "нижняя палата парламента",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de zak",
+      "ru": "карман; мешок (НЕ \"зак\" — это klant/opdrachtgever)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de klus",
+      "ru": "работа, задание (не \"клюз\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het licht",
+      "ru": "свет (как сущ.), лёгкий (прил.)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de grond",
+      "ru": "земля, почва",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de tafel",
+      "ru": "стол (НЕ \"табель\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de sigaret",
+      "ru": "сигарета",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de piep",
+      "ru": "писк (НЕ \"пипетка\" — это pipet)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het gas",
+      "ru": "газ (также педаль газа)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de bus",
+      "ru": "автобус; баллончик",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de tent",
+      "ru": "палатка; разговорное \"заведение\"",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de chocola(de)",
+      "ru": "шоколад",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de konijn",
+      "ru": "кролик (НЕ \"конь\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het paard",
+      "ru": "лошадь",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het varken",
+      "ru": "свинья",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de muis",
+      "ru": "мышь (животное и компьютерная)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de kat",
+      "ru": "кошка",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de hond",
+      "ru": "собака",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het boek",
+      "ru": "книга (НЕ \"бок\" — это zijde/zij)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de bank",
+      "ru": "банк; скамейка/диван",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de duivel",
+      "ru": "дьявол (НЕ \"дуэль\" — это duel)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de prater",
+      "ru": "болтун",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de schatting",
+      "ru": "оценка, прикидка (НЕ \"штат\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het compliment",
+      "ru": "комплимент (не \"комплимент\" как комплект)",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "sympathiek",
+      "ru": "приятный (не \"сочувствующий\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de controle",
+      "ru": "проверка, контроль",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de fabriek",
+      "ru": "завод, фабрика",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de firma",
+      "ru": "фирма",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de gymnastiek",
+      "ru": "гимнастика",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de pensionado",
+      "ru": "пенсионер",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het kantoor",
+      "ru": "офис, контора",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "de portret",
+      "ru": "портрет",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "het publiek",
+      "ru": "публика, зрители",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "concept",
+      "ru": "черновик; концепция",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "massief",
+      "ru": "массивный, цельный (не \"масса\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "direct",
+      "ru": "прямо, сразу",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "normaal",
+      "ru": "нормально, обычно",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "precies",
+      "ru": "точно, именно",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "ordinair",
+      "ru": "вульгарный (НЕ \"ординарный\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "genieten van",
+      "ru": "наслаждаться (не \"генерировать\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    },
+    {
+      "nl": "sparen",
+      "ru": "копить, экономить (не \"спаринг\")",
+      "level": "B1",
+      "theme": "false-friends-ru"
+    }
+  ]
+}

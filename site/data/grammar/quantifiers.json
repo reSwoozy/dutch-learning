@@ -1,0 +1,143 @@
+{
+  "id": "quantifiers",
+  "title": "Количественные слова и определители",
+  "titleNL": "Hoeveelheidswoorden",
+  "level": "A2",
+  "summary": "Слова, выражающие количество без точного числа: veel (много), weinig (мало), wat (немного), een paar (пара), enkele (несколько), genoeg (достаточно), alle (все), geen (ни одного). У большинства есть неизменяемая и склоняемая формы, и каждое сочетается с определённым типом существительных (исчисляемые / неисчисляемые).",
+  "rule": {
+    "formula": "veel / weinig — перед неисчисл. и мн.ч. | veel + e перед прил.+ de/het-сущ.: vele mooie boeken | een paar / enkele / sommige — только мн.ч. | wat + неисчисл. | genoeg чаще ПОСЛЕ сущ.: geld genoeg",
+    "explanation": "Количественные делятся на две группы: (1) для неисчисляемых (veel melk, weinig geld, wat brood, genoeg tijd); (2) для исчисляемых во множественном (veel mensen, enkele boeken, een paar dagen, sommige dagen). 'veel' и 'weinig' работают в обеих группах. Большинство количественных как адъективный определитель получают -e перед de/het-сущ. в определённом контексте, но в стандартной письменной речи 'veel' и 'weinig' чаще остаются без окончания.",
+    "whenToUse": [
+      "Неопределённое множество: veel mensen / weinig tijd / een paar vrienden.",
+      "Достаточность: genoeg geld / tijd genoeg / voldoende informatie.",
+      "Полнота: alle huizen / allemaal / helemaal.",
+      "Отсутствие: geen boek (ни одной книги / нет книг)."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Количественные для неисчисляемых существительных",
+      "headers": ["Слово", "Значение", "Пример"],
+      "rows": [
+        ["veel", "много", "Ik heb veel tijd."],
+        ["weinig", "мало", "Ik heb weinig geld."],
+        ["wat", "немного (разг.)", "Ik heb wat brood."],
+        ["een beetje", "немного", "Een beetje suiker, graag."],
+        ["genoeg / voldoende", "достаточно", "Ik heb genoeg tijd. / voldoende geld."],
+        ["te veel", "слишком много", "Te veel werk vandaag."],
+        ["te weinig", "слишком мало", "Te weinig slaap."],
+        ["geen", "нет / ни одного", "Ik heb geen tijd."]
+      ]
+    },
+    {
+      "title": "Количественные для исчисляемых существительных (мн. ч.)",
+      "headers": ["Слово", "Значение", "Пример"],
+      "rows": [
+        ["veel", "много", "veel mensen, veel boeken"],
+        ["weinig", "мало", "weinig vrienden"],
+        ["enkele", "несколько", "enkele boeken"],
+        ["een paar", "пара, несколько", "een paar dagen"],
+        ["sommige", "некоторые", "sommige dagen"],
+        ["meerdere", "несколько, разные", "meerdere keren"],
+        ["alle", "все", "alle kinderen"],
+        ["allemaal", "все вместе (после сущ./мест.)", "wij allemaal"],
+        ["genoeg", "достаточно (обычно ПОСЛЕ)", "boeken genoeg"]
+      ]
+    },
+    {
+      "title": "Склонение: с артиклем и без",
+      "headers": ["Конструкция", "Форма", "Пример"],
+      "rows": [
+        ["veel + сущ.", "без окончания", "veel tijd, veel mensen"],
+        ["de vele + сущ. (формально)", "с -e", "de vele mogelijkheden"],
+        ["alle + мн.ч.", "с -e", "alle kinderen"],
+        ["elke / iedere + ед.ч.", "с -e", "elke dag, iedere week"],
+        ["enkele / sommige + мн.ч.", "без доп. склонения", "enkele boeken, sommige dagen"],
+        ["genoeg ПОСЛЕ сущ.", "неизм.", "geld genoeg"]
+      ]
+    },
+    {
+      "title": "'genoeg' — позиция",
+      "headers": ["Позиция", "Пример", "Нюанс"],
+      "rows": [
+        ["Перед сущ.", "Ik heb genoeg geld.", "нейтрально"],
+        ["После сущ.", "Ik heb geld genoeg.", "разговорнее, акцент на 'достаточно'"],
+        ["После прил.", "Het is mooi genoeg.", "всегда после: 'достаточно красивый'"],
+        ["После наречия", "Hij werkt hard genoeg.", "после: 'достаточно упорно'"]
+      ]
+    },
+    {
+      "title": "Типичные ошибки согласования",
+      "headers": ["Слово", "Контекст", "Нельзя", "Нужно"],
+      "rows": [
+        ["veel", "неисчисл.", "vele tijd", "veel tijd"],
+        ["enkele", "ед.ч.", "enkele dag", "een dag"],
+        ["alle", "ед.ч.", "alle dag", "elke dag / iedere dag"],
+        ["sommige", "ед.ч.", "sommig mens", "sommige mensen"],
+        ["wat", "мн.ч. исч.", "wat boeken (в письм. речи)", "een paar / enkele boeken"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "veel vs vele",
+      "items": [
+        "В большинстве случаев 'veel' без окончания: veel mensen, veel boeken.",
+        "'vele' с -e — формально-литературная форма перед мн.ч. с определённым значением: de vele mogelijkheden, in vele opzichten.",
+        "В учебной речи можно придерживаться 'veel' — это всегда правильно."
+      ]
+    },
+    {
+      "title": "wat vs een paar",
+      "items": [
+        "'wat' — разговорное 'немного'; для исчисляемых во мн.ч. в письме лучше 'een paar' или 'enkele'.",
+        "'wat mensen' — допустимо в речи, но 'een paar mensen' звучит чище.",
+        "'wat geld' (немного денег) — полностью нейтрально для неисчисляемых."
+      ]
+    },
+    {
+      "title": "geen — количественное отрицание",
+      "items": [
+        "'geen' заменяет 'een' в отрицании: Ik heb een boek → Ik heb geen boek.",
+        "'geen' также заменяет отсутствие артикля: Ik drink koffie → Ik drink geen koffie.",
+        "Перед мн.ч.: Ik heb geen kinderen (нет детей).",
+        "Перед прилагательным во мн.ч.: geen grote problemen."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik heb veel werk vandaag.", "ru": "У меня сегодня много работы." },
+    { "nl": "We hebben weinig tijd over.", "ru": "У нас осталось мало времени." },
+    { "nl": "Zij heeft enkele goede ideeën.", "ru": "У неё несколько хороших идей." },
+    { "nl": "Sommige mensen houden niet van kaas.", "ru": "Некоторые люди не любят сыр." },
+    { "nl": "Ik heb genoeg geld bij me.", "ru": "У меня с собой достаточно денег." },
+    { "nl": "Wij hebben alle huiswerk af.", "ru": "Мы сделали все домашние задания." },
+    { "nl": "Er zijn meerdere redenen om Nederlands te leren.", "ru": "Есть несколько причин учить нидерландский." },
+    { "nl": "Heb je wat brood voor me?", "ru": "Есть у тебя немного хлеба для меня?" },
+    { "nl": "Het is mooi genoeg vandaag om te fietsen.", "ru": "Сегодня достаточно красиво, чтобы кататься на велосипеде." }
+  ],
+  "exceptions": [
+    "'wat' в стандартной письменной речи — скорее разговорный квантификатор; в строгих текстах заменяют на 'enig', 'enkele', 'een beetje'.",
+    "'genoeg' после прилагательного и наречия — всегда после: groot genoeg, snel genoeg.",
+    "'allemaal' не может стоять перед существительным: 'allemaal kinderen' — некорректно; 'alle kinderen' или 'kinderen allemaal'.",
+    "'heel wat' = 'изрядно, немало' — усилительное (heel wat werk = довольно много работы)."
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik heb vele tijd.", "correct": "Ik heb veel tijd.", "why": "'tijd' — неисчисляемое; 'vele' используется редко и только во мн.ч." },
+    { "wrong": "Alle dag werk ik.", "correct": "Elke dag werk ik.", "why": "'alle' — только мн.ч.; для 'каждый день' — 'elke/iedere'." },
+    { "wrong": "Sommige dag is moeilijk.", "correct": "Sommige dagen zijn moeilijk.", "why": "'sommige' требует мн.ч." },
+    { "wrong": "Genoeg geld heb ik niet.", "correct": "Ik heb niet genoeg geld. / Ik heb geld genoeg niet.", "why": "'genoeg' обычно между глаголом и существительным или после; порядок в нидерландском фиксированный." },
+    { "wrong": "Wat mensen zijn hier.", "correct": "Er zijn een paar / enkele mensen hier.", "why": "'wat + мн.ч. исчисл.' — разговорно; в нейтральном стиле — 'een paar/enkele'." }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "Ik heb ___ geld. (много)", "options": ["vele", "veel", "enkele"], "answer": "veel", "explanation": "Перед неисчисляемым 'geld' — 'veel'." },
+    { "type": "fill-blank", "sentence": "___ mensen houden van regen. (некоторые)", "answer": "Sommige", "explanation": "'sommige' перед мн.ч." },
+    { "type": "choice", "question": "___ dag drink ik koffie. (каждый день)", "options": ["Alle", "Elke", "Sommige"], "answer": "Elke", "explanation": "'каждый день' — 'elke/iedere dag', 'alle' только с мн.ч." },
+    { "type": "fill-blank", "sentence": "Ik heb ___ geld om dit te kopen. (достаточно)", "answer": "genoeg", "explanation": "genoeg + существительное." },
+    { "type": "choice", "question": "Правильный вариант:", "options": ["Ik heb weinig tijd.", "Ik heb weinige tijd."], "answer": "Ik heb weinig tijd.", "explanation": "'weinig' перед неисчисл. — без окончания." },
+    { "type": "fill-blank", "sentence": "Er zijn ___ boeken op tafel. (несколько)", "answer": "enkele", "explanation": "'enkele' перед мн.ч." },
+    { "type": "choice", "question": "Перевод 'У меня нет времени':", "options": ["Ik heb niet tijd.", "Ik heb geen tijd."], "answer": "Ik heb geen tijd.", "explanation": "Перед существительным без артикля — 'geen'." }
+  ],
+  "relatedTopics": ["nouns-plurals", "articles", "negation", "indefinite-pronouns"],
+  "inLessons": [14, 16, 20, 24]
+}

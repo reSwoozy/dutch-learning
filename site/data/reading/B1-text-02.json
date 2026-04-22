@@ -1,0 +1,50 @@
+{
+  "id": "B1-text-02",
+  "level": "B1",
+  "title": "Het Nederlandse zorgsysteem",
+  "topic": "zorg-samenleving",
+  "readingTime": "4 min",
+  "body": "Iedereen die in Nederland woont, is verplicht een basiszorgverzekering af te sluiten. Die verzekering dekt de meeste medische kosten, zoals bezoeken aan de huisarts, opnames in het ziekenhuis en noodzakelijke medicijnen. Daarnaast kun je een aanvullende verzekering afsluiten voor bijvoorbeeld fysiotherapie of tandartskosten voor volwassenen.\n\nDe huisarts speelt een centrale rol in het systeem. Je gaat eerst naar de huisarts als je klachten hebt. Die beoordeelt of behandeling voldoende is, of dat je door moet naar een specialist. Zonder verwijzing van de huisarts mag je in principe niet naar een specialist. Dit systeem heet 'poortwachtersfunctie' en moet de kosten in bedwang houden.\n\nNaast de verzekeringspremie betaalt iedereen een eigen risico van ongeveer 385 euro per jaar. Dat betekent dat je de eerste 385 euro aan zorg zelf betaalt. Bezoek aan de huisarts valt er overigens niet onder. Mensen met een laag inkomen kunnen zorgtoeslag aanvragen, waardoor ze een deel van de premie terugkrijgen.\n\nHet systeem staat regelmatig ter discussie. Aan de ene kant wordt Nederland geprezen om de toegankelijke zorg: iedereen krijgt de zorg die hij nodig heeft, ongeacht inkomen. Aan de andere kant stijgen de kosten jaarlijks, wachtlijsten worden langer en er is een groot tekort aan verpleegkundigen. De politiek zoekt al jaren naar oplossingen, maar makkelijk zijn die niet.\n\nWie nieuw is in Nederland, moet binnen vier maanden na aankomst een verzekering afsluiten. Vergelijkingssites helpen om de beste polis te kiezen. Elke november kun je wisselen van zorgverzekeraar, voor ingang van het nieuwe jaar.",
+  "glossary": [
+    {"nl": "verplicht", "ru": "обязательный"},
+    {"nl": "de zorgverzekering", "ru": "медицинская страховка"},
+    {"nl": "afsluiten", "ru": "заключать (договор)"},
+    {"nl": "dekken", "ru": "покрывать"},
+    {"nl": "de verwijzing", "ru": "направление"},
+    {"nl": "de poortwachtersfunctie", "ru": "функция привратника (huisarts)"},
+    {"nl": "het eigen risico", "ru": "франшиза"},
+    {"nl": "de zorgtoeslag", "ru": "медицинская субсидия"},
+    {"nl": "toegankelijk", "ru": "доступный"},
+    {"nl": "de wachtlijst", "ru": "очередь"},
+    {"nl": "het tekort", "ru": "дефицит"},
+    {"nl": "de polis", "ru": "страховой полис"},
+    {"nl": "wisselen van", "ru": "менять"}
+  ],
+  "questions": [
+    {
+      "q": "Wat is de basiszorgverzekering?",
+      "options": ["Optioneel voor ouderen", "Verplicht voor iedereen die in Nederland woont", "Alleen voor werknemers"],
+      "answer": 1
+    },
+    {
+      "q": "Naar wie ga je eerst met medische klachten?",
+      "options": ["Direct naar een specialist", "Naar de huisarts", "Naar het ziekenhuis"],
+      "answer": 1
+    },
+    {
+      "q": "Wat betekent het eigen risico?",
+      "options": ["Een boete als je te laat betaalt", "De eerste 385 euro aan zorg betaal je zelf", "Extra kosten bij de apotheek"],
+      "answer": 1
+    },
+    {
+      "q": "Wat zijn de grootste problemen van het systeem?",
+      "options": ["Geen specialisten", "Stijgende kosten, langere wachtlijsten, tekort verpleegkundigen", "Te goedkope verzekering"],
+      "answer": 1
+    },
+    {
+      "q": "Wanneer kun je wisselen van zorgverzekeraar?",
+      "options": ["Elk moment van het jaar", "In november voor het nieuwe jaar", "Alleen om de twee jaar"],
+      "answer": 1
+    }
+  ]
+}

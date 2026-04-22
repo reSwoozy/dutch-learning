@@ -1,0 +1,363 @@
+{
+  "id": "A2-lesson-17",
+  "num": 17,
+  "level": "A2",
+  "title": "Прошедшее время (Perfectum)",
+  "minutes": 15,
+  "objectives": [
+    "Правильно использовать прошедшее время Perfectum",
+    "Выбирать между hebben и zijn как вспомогательными глаголами",
+    "Образовывать причастия прошедшего времени (participium)",
+    "Рассказывать о прошлых событиях и опыте",
+    "Понимать и использовать неправильные глаголы"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Прошедшее время (Perfectum)",
+      "content": "**Уровень**: A2 Элементарный | **Время**: 15 минут | **День**: 17 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Правильно использовать прошедшее время Perfectum\n- Выбирать между hebben и zijn как вспомогательными глаголами\n- Образовывать причастия прошедшего времени (participium)\n- Рассказывать о прошлых событиях и опыте\n- Понимать и использовать неправильные глаголы"
+    },
+    {
+      "type": "text",
+      "title": "Фаза 1: Основы Perfectum (4 минуты)",
+      "content": "**Структура и правила**:\n**Формула Perfectum**:\n```\nПодлежащее + hebben/zijn + participium\n```\n**Примеры**:\n- **Ik heb gewerkt** - Я работал\n- **Hij is gekomen** - Он пришел\n- **We hebben gegeten** - Мы поели\n**Когда использовать Perfectum**:\n- Завершенные действия в прошлом\n- Опыт и результаты\n- События, связанные с настоящим"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Haben vs Zijn (5 минут)",
+      "words": [
+        {
+          "nl": "Движение",
+          "ru": "komen, gaan, vertrekken",
+          "hint": "is gekomen, is gegaan, is vertrokken"
+        },
+        {
+          "nl": "Изменение состояния",
+          "ru": "worden, sterven, groeien",
+          "hint": "is geworden, is gestorven, is gegroeid"
+        },
+        {
+          "nl": "Пребывание",
+          "ru": "blijven, zijn",
+          "hint": "is gebleven, is geweest"
+        },
+        {
+          "nl": "Тип глагола",
+          "ru": "Примеры",
+          "hint": "Perfectum"
+        },
+        {
+          "nl": "Действия",
+          "ru": "maken, kopen, eten",
+          "hint": "heeft gemaakt, heeft gekocht, heeft gegeten"
+        },
+        {
+          "nl": "Мыслительные",
+          "ru": "denken, weten, begrijpen",
+          "hint": "heeft gedacht, heeft geweten, heeft begrepen"
+        },
+        {
+          "nl": "Чувства",
+          "ru": "houden van, haten",
+          "hint": "heeft gehouden van, heeft gehaat"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Образование Participium (4 минуты)",
+      "words": [
+        {
+          "nl": "zijn",
+          "ru": "geweest",
+          "hint": "быть"
+        },
+        {
+          "nl": "hebben",
+          "ru": "gehad",
+          "hint": "иметь"
+        },
+        {
+          "nl": "gaan",
+          "ru": "gegaan",
+          "hint": "идти"
+        },
+        {
+          "nl": "komen",
+          "ru": "gekomen",
+          "hint": "приходить"
+        },
+        {
+          "nl": "doen",
+          "ru": "gedaan",
+          "hint": "делать"
+        },
+        {
+          "nl": "zien",
+          "ru": "gezien",
+          "hint": "видеть"
+        },
+        {
+          "nl": "worden",
+          "ru": "geworden",
+          "hint": "становиться"
+        },
+        {
+          "nl": "kunnen",
+          "ru": "gekund",
+          "hint": "мочь"
+        },
+        {
+          "nl": "moeten",
+          "ru": "gemoeten",
+          "hint": "быть должным"
+        },
+        {
+          "nl": "willen",
+          "ru": "gewild",
+          "hint": "хотеть"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 4: Практика в контексте (2 минуты)",
+      "content": "**Диалоги с Perfectum**:\n**Рассказ о выходных**:\n- **A**: Wat heb je dit weekend gedaan? - Что делал на выходных?\n- **B**: Ik ben naar Amsterdam gegaan. - Я ездил в Амстердам.\n- **A**: Leuk! Wat heb je daar gezien? - Здорово! Что там видел?\n- **B**: Ik heb het Rijksmuseum bezocht. - Я посетил Рейксмузеум.\n**О работе**:\n- **A**: Heb je de rapport afgemaakt? - Ты закончил доклад?\n- **B**: Ja, ik heb het gisteren gedaan. - Да, я сделал его вчера.\n- **A**: Geweldig! Heb je het al verzonden? - Отлично! Ты уже отправил?\n- **B**: Nee, dat ga ik nu doen. - Нет, сейчас сделаю."
+    },
+    {
+      "type": "text",
+      "title": "1. Сложные случаи с zijn/hebben",
+      "content": "**Некоторые глаголы могут использовать оба**:\n**Rijden** (ехать):\n- **Hebben**: действие → \"Ik heb gereden\" (Я ехал/водил)\n- **Zijn**: направление → \"Ik ben naar werk gereden\" (Я поехал на работу)\n**Vliegen** (летать):\n- **Hebben**: действие → \"Hij heeft gevlogen\" (Он летал/пилотировал)\n- **Zijn**: направление → \"Hij is naar Parijs gevlogen\" (Он слетал в Париж)"
+    },
+    {
+      "type": "text",
+      "title": "2. Отрицание в Perfectum",
+      "content": "**Структура**: hebben/zijn + niet + participium\n- **Ik heb niet gewerkt** - Я не работал\n- **Hij is niet gekomen** - Он не пришел\n- **We hebben niets gedaan** - Мы ничего не делали"
+    },
+    {
+      "type": "text",
+      "title": "3. Вопросы в Perfectum",
+      "content": "**Ja/nee вопросы**: hebben/zijn + подлежащее + participium?\n- **Heb je gegeten?** - Ты поел?\n- **Bent u aangekomen?** - Вы прибыли?\n**Wh-вопросы**: вопросительное слово + hebben/zijn + подлежащее + participium?\n- **Wat heb je gekocht?** - Что ты купил?\n- **Waar ben je geweest?** - Где ты был?\n**Подробнее**: [A2 Грамматика: Времена](../../../REFERENCE/grammar/A2-grammar/verb-tenses.md)"
+    },
+    {
+      "type": "grammar",
+      "title": "Неправильные глаголы - Топ 20",
+      "content": "**Наиболее частые неправильные глаголы**:\n---",
+      "tables": [
+        {
+          "headers": [
+            "Infinitief",
+            "Participium",
+            "Hulpwerkwoord",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "zijn",
+              "geweest",
+              "zijn",
+              "Ik ben in Parijs geweest"
+            ],
+            [
+              "hebben",
+              "gehad",
+              "hebben",
+              "Hij heeft koorts gehad"
+            ],
+            [
+              "gaan",
+              "gegaan",
+              "zijn",
+              "We zijn naar huis gegaan"
+            ],
+            [
+              "komen",
+              "gekomen",
+              "zijn",
+              "Ze is laat gekomen"
+            ],
+            [
+              "doen",
+              "gedaan",
+              "hebben",
+              "Wat heb je gedaan?"
+            ],
+            [
+              "zien",
+              "gezien",
+              "hebben",
+              "Ik heb de film gezien"
+            ],
+            [
+              "worden",
+              "geworden",
+              "zijn",
+              "Het is koud geworden"
+            ],
+            [
+              "krijgen",
+              "gekregen",
+              "hebben",
+              "Hij heeft een cadeau gekregen"
+            ],
+            [
+              "geven",
+              "gegeven",
+              "hebben",
+              "Ze heeft advies gegeven"
+            ],
+            [
+              "nemen",
+              "genomen",
+              "hebben",
+              "Ik heb de bus genomen"
+            ],
+            [
+              "vinden",
+              "gevonden",
+              "hebben",
+              "Heb je je sleutels gevonden?"
+            ],
+            [
+              "laten",
+              "gelaten",
+              "hebben",
+              "Hij heeft zijn auto laten repareren"
+            ],
+            [
+              "staan",
+              "gestaan",
+              "hebben",
+              "De auto heeft in de garage gestaan"
+            ],
+            [
+              "liggen",
+              "gelegen",
+              "hebben",
+              "Het boek heeft op tafel gelegen"
+            ],
+            [
+              "zitten",
+              "gezeten",
+              "hebben",
+              "We hebben in het park gezeten"
+            ],
+            [
+              "lopen",
+              "gelopen",
+              "hebben/zijn",
+              "Ik heb/ben hard gelopen"
+            ],
+            [
+              "brengen",
+              "gebracht",
+              "hebben",
+              "Hij heeft bloemen gebracht"
+            ],
+            [
+              "denken",
+              "gedacht",
+              "hebben",
+              "Ik heb aan je gedacht"
+            ],
+            [
+              "weten",
+              "geweten",
+              "hebben",
+              "Heb je dat geweten?"
+            ],
+            [
+              "kunnen",
+              "gekund",
+              "hebben",
+              "Hij heeft het niet gekund"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Временные маркеры:",
+      "content": "- **gisteren** - вчера: \"Gisteren heb ik gewerkt\"\n- **vorige week** - на прошлой неделе: \"Vorige week ben ik ziek geweest\"\n- **laatst** - недавно: \"Ik heb hem laatst gezien\"\n- **al** - уже: \"Heb je al gegeten?\"\n- **nog niet** - еще не: \"Ik heb nog niet geslapen\"\n- **net** - только что: \"Hij is net aangekomen\""
+    },
+    {
+      "type": "text",
+      "title": "Выражения опыта:",
+      "content": "- **Ik ben nog nooit...** - Я никогда не...\n- **Heb je wel eens...?** - Ты когда-нибудь...?\n- **Een keer** - однажды: \"Ik ben een keer naar Japan geweest\"\n- **Vaak** - часто: \"Ik heb vaak in restaurants gewerkt\""
+    },
+    {
+      "type": "culture",
+      "title": "Perfectum в голландской речи",
+      "content": "Понимание использования прошедшего времени в голландской культуре:\n**Формальность и вежливость**:\n- Perfectum звучит более вежливо чем Imperfectum\n- В деловой речи предпочитают Perfectum\n- При извинениях: \"Het spijt me, ik heb te laat gereageerd\"\n**Рассказы о событиях**:\n- Голландцы любят точность во времени\n- Часто упоминают конкретные дни и часы\n- Perfectum для основных событий, Imperfectum для описаний\n**В новостях и медиа**:\n- Perfectum для недавних новостей\n- \"De minister heeft vandaag aangekondigd...\"\n- Формальный тон в письменной речи\n**Для интеграции**: Правильное использование Perfectum покажет ваш хороший уровень голландского и поможет в формальных ситуациях."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Выбор hebben/zijn",
+      "items": [
+        {
+          "question": "Ik ____ naar de winkel gegaan. (hebben/zijn)"
+        },
+        {
+          "question": "We ____ een nieuwe auto gekocht. (hebben/zijn)"
+        },
+        {
+          "question": "Hij ____ ziek geworden. (hebben/zijn)"
+        },
+        {
+          "question": "Jullie ____ hard gewerkt. (hebben/zijn)"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Образование Participium",
+      "items": [
+        {
+          "question": "maken → ______"
+        },
+        {
+          "question": "leven → ______"
+        },
+        {
+          "question": "gaan → ______"
+        },
+        {
+          "question": "zien → ______"
+        },
+        {
+          "question": "kopen → ______"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Создание предложений",
+      "items": [
+        {
+          "question": "Я был в отпуске в Испании."
+        },
+        {
+          "question": "Мы купили новый дом."
+        },
+        {
+          "question": "Она стала врачом."
+        },
+        {
+          "question": "Ты видел этот фильм?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Неправильно → Правильно",
+      "content": "**Выбор вспомогательного глагола**:\n- Ik heb gegaan → Ik ben gegaan\n- Hij zijn gekomen → Hij is gekomen\n- We zijn gewerkt → We hebben gewerkt\n**Образование Participium**:\n- Ik heb gemaken → Ik heb gemaakt\n- Hij heeft gelopen → Hij is gelopen (движение)\n- We zijn gehad → We hebben gehad\n**Порядок слов**:\n- Ik heb niet gegeten → Ik heb niet gegeten ✓\n- Heb gegeten je? → Heb je gegeten?"
+    }
+  ],
+  "vocabularyFile": "A2-lesson-17.json"
+}

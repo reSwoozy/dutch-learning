@@ -1,0 +1,121 @@
+{
+  "id": "relative-pronouns",
+  "title": "Относительные местоимения (die/dat/wat/waar+предлог)",
+  "titleNL": "Betrekkelijke voornaamwoorden",
+  "level": "B1",
+  "summary": "Относительные местоимения связывают придаточное предложение с существительным. Выбор зависит от рода антецедента (de/het) и роли в предложении: die — для de-слов, dat — для het-слов, wat — для неопределённых и после alles/iets/niets, waar+предлог — для предметов и мест.",
+  "rule": {
+    "formula": "de-woord → die | het-woord → dat | неопределённое/всё-ничто → wat | предмет с предлогом → waar+предлог (одним словом)",
+    "explanation": "Придаточное с относительным местоимением имеет порядок слов придаточного: глагол в конце. Относительное местоимение стоит в начале придаточного, далее — подлежащее и остальные элементы. Для людей можно использовать die/dat; для вещей с предлогом вместо 'voor wie/dat' используется слитная форма waarvoor, waarmee, waarover и т.д.",
+    "whenToUse": [
+      "die — de-слова (de man, de vrouw, de kinderen): De man die daar staat, is mijn oom.",
+      "dat — het-слова (het huis, het kind): Het huis dat ik koop, is klein.",
+      "wat — после alles/iets/niets/het enige: Alles wat hij zegt, is waar.",
+      "wat — когда антецедент — целая фраза: Hij komt niet, wat jammer is.",
+      "waar+предлог — для предметов с предлогом: De stoel waarop ik zit, is nieuw. (= De stoel waar ik op zit / waarop ik zit)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Основные относительные местоимения",
+      "headers": ["Местоимение", "Когда", "Пример", "Перевод"],
+      "rows": [
+        ["die", "de-слова, ед.ч. и мн.ч.", "De vrouw die belt, is mijn zus.", "Женщина, которая звонит, — моя сестра."],
+        ["dat", "het-слова ед.ч.", "Het boek dat ik lees, is spannend.", "Книга, которую я читаю, захватывающая."],
+        ["die", "de-слова мн.ч. (het-слова во мн.ч. тоже die!)", "De boeken die op tafel liggen, zijn van mij.", "Книги, которые лежат на столе, мои."],
+        ["wat", "после alles/iets/niets/het enige", "Alles wat je zegt, klopt.", "Всё, что ты говоришь, верно."],
+        ["wat", "после целого предложения", "Hij is laat, wat vaak gebeurt.", "Он опоздал, что часто случается."]
+      ]
+    },
+    {
+      "title": "Относительные с предлогом (waar+...)",
+      "headers": ["Предлог", "Форма", "Пример"],
+      "rows": [
+        ["met", "waarmee", "De pen waarmee ik schrijf, is nieuw."],
+        ["over", "waarover", "Het onderwerp waarover we praten, is interessant."],
+        ["op", "waarop", "De stoel waarop hij zit, kraakt."],
+        ["voor", "waarvoor", "Het doel waarvoor ik werk, is belangrijk."],
+        ["van", "waarvan", "De film waarvan ik droom, bestaat niet."],
+        ["aan", "waaraan", "De persoon waaraan ik denk, is ver weg."],
+        ["in", "waarin", "De kamer waarin we zitten, is warm."],
+        ["mee (met)", "waarmee", "De computer waarmee ik werk, is oud."]
+      ]
+    },
+    {
+      "title": "Для людей — die / wie",
+      "headers": ["Форма", "Использование", "Пример"],
+      "rows": [
+        ["die", "подлежащее/дополнение (обычно)", "De man die ik ken, woont in Utrecht."],
+        ["wie (с предлогом)", "после предлогов для людей", "De vrouw met wie ik werk, is aardig."],
+        ["wie (вопросительно)", "неопределённое 'кто'", "Wie dat zegt, liegt."],
+        ["van wie", "принадлежность", "De jongen van wie ik dit boek heb."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Простое правило выбора",
+      "items": [
+        "Сначала смотри на антецедент: de-слово или het-слово?",
+        "de-слово → die (в ед. и мн. числе)",
+        "het-слово → dat (только в ед.ч.!); во мн.ч. het-слова становятся de-словами → die",
+        "Если антецедент — alles/iets/niets/het enige/het mooiste → wat",
+        "Если антецедент — вся фраза → wat",
+        "Если нужен предлог с предметом → waar+предлог (слитно)",
+        "Если нужен предлог с человеком → предлог + wie (раздельно)"
+      ]
+    },
+    {
+      "title": "Порядок слов в придаточном",
+      "items": [
+        "Придаточное с die/dat/wat/waar+prep — это bijzin.",
+        "Порядок: die/dat/wat + подлежащее + … + глагол в конце.",
+        "De film die ik gisteren gezien heb, was geweldig.",
+        "Het boek dat mijn zus mij heeft gegeven, is fantastisch."
+      ]
+    },
+    {
+      "title": "waarop vs waar ... op (разделяемая форма)",
+      "items": [
+        "Разрешены оба варианта: De tafel waarop het staat / De tafel waar het op staat.",
+        "Слитная форма (waarop) более письменная, разделяемая — разговорная.",
+        "В школьной/академической речи обычно используется слитная."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "De man die daar loopt, is mijn vader.", "ru": "Мужчина, который идёт там, — мой отец." },
+    { "nl": "Het kind dat huilt, heeft honger.", "ru": "Ребёнок, который плачет, голодный." },
+    { "nl": "De boeken die ik heb gelezen, waren saai.", "ru": "Книги, которые я прочитал, были скучными." },
+    { "nl": "Alles wat je zegt, is waar.", "ru": "Всё, что ты говоришь, — правда." },
+    { "nl": "De stoel waarop ik zit, is kapot.", "ru": "Стул, на котором я сижу, сломан." },
+    { "nl": "De vrouw met wie ik werk, heet Anna.", "ru": "Женщина, с которой я работаю, зовут Анна." },
+    { "nl": "Hij komt te laat, wat typisch is.", "ru": "Он опаздывает, что типично." },
+    { "nl": "Het onderwerp waarover we spreken, is moeilijk.", "ru": "Тема, о которой мы говорим, сложная." }
+  ],
+  "exceptions": [
+    "het-слова во мн.ч. становятся de-словами и требуют die (не dat): het kind → de kinderen die ...",
+    "Для уменьшительных на -je (het meisje, het jongetje) — dat (т.к. het-слова): Het meisje dat daar staat.",
+    "В старой письменной речи встречается welke/welk — современная речь их избегает.",
+    "Иногда waar+предлог заменяется на wat + voor/met/over: 'wat ik op zit' — разговорно, но не нормативно."
+  ],
+  "commonMistakes": [
+    { "wrong": "De man dat daar staat.", "correct": "De man die daar staat.", "why": "man — de-слово, нужно die." },
+    { "wrong": "Het boek die ik lees.", "correct": "Het boek dat ik lees.", "why": "boek — het-слово, нужно dat." },
+    { "wrong": "De kinderen dat spelen.", "correct": "De kinderen die spelen.", "why": "Во мн.ч. все существительные берут die." },
+    { "wrong": "Alles dat hij zegt.", "correct": "Alles wat hij zegt.", "why": "После alles/iets/niets — wat, не dat." },
+    { "wrong": "De stoel op waar ik zit.", "correct": "De stoel waarop ik zit.", "why": "Правильная форма — waarop (или 'waar ik op zit' — раздельная)." },
+    { "wrong": "De man waarmee ik werk.", "correct": "De man met wie ik werk.", "why": "Для людей с предлогом — предлог + wie, не waar+prep." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "De vrouw __ daar staat, is mijn moeder.", "answer": "die", "explanation": "vrouw — de-слово → die." },
+    { "type": "fill-blank", "sentence": "Het huis __ wij kopen, is groot.", "answer": "dat", "explanation": "huis — het-слово, ед.ч. → dat." },
+    { "type": "fill-blank", "sentence": "De kinderen __ in het park spelen, zijn blij.", "answer": "die", "explanation": "Мн.ч. — всегда die, даже для het-слов." },
+    { "type": "fill-blank", "sentence": "Alles __ je doet, is belangrijk.", "answer": "wat", "explanation": "После alles — wat." },
+    { "type": "fill-blank", "sentence": "De pen __ ik schrijf, is blauw. (met)", "answer": "waarmee", "explanation": "Предмет + met → waarmee." },
+    { "type": "choice", "question": "De collega __ ik praat, is nieuw. (met)", "options": ["waarmee", "met wie", "met die", "dat"], "answer": "met wie", "explanation": "Для людей + предлог → предлог + wie." },
+    { "type": "fill-blank", "sentence": "Hij komt morgen niet, __ jammer is.", "answer": "wat", "explanation": "Антецедент — целая фраза → wat." }
+  ],
+  "relatedTopics": ["word-order", "conjunctions", "questions"],
+  "inLessons": [25, 52]
+}

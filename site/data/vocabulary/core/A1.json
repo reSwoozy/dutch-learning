@@ -1,0 +1,3187 @@
+[
+  {
+    "nl": "ik",
+    "ru": "я",
+    "level": "A1"
+  },
+  {
+    "nl": "jij",
+    "ru": "ты",
+    "level": "A1"
+  },
+  {
+    "nl": "je",
+    "ru": "ты (без ударения)",
+    "level": "A1"
+  },
+  {
+    "nl": "u",
+    "ru": "Вы (вежливо)",
+    "level": "A1"
+  },
+  {
+    "nl": "hij",
+    "ru": "он",
+    "level": "A1"
+  },
+  {
+    "nl": "zij",
+    "ru": "она / они",
+    "level": "A1"
+  },
+  {
+    "nl": "ze",
+    "ru": "она/они (без ударения)",
+    "level": "A1"
+  },
+  {
+    "nl": "het",
+    "ru": "оно / это",
+    "level": "A1"
+  },
+  {
+    "nl": "wij",
+    "ru": "мы",
+    "level": "A1"
+  },
+  {
+    "nl": "we",
+    "ru": "мы (без ударения)",
+    "level": "A1"
+  },
+  {
+    "nl": "jullie",
+    "ru": "вы (мн.ч.)",
+    "level": "A1"
+  },
+  {
+    "nl": "mij",
+    "ru": "мне / меня",
+    "level": "A1"
+  },
+  {
+    "nl": "me",
+    "ru": "мне/меня (без ударения)",
+    "level": "A1"
+  },
+  {
+    "nl": "jou",
+    "ru": "тебе/тебя",
+    "level": "A1"
+  },
+  {
+    "nl": "hem",
+    "ru": "его/ему",
+    "level": "A1"
+  },
+  {
+    "nl": "haar",
+    "ru": "её/ей / её (притяж.)",
+    "level": "A1"
+  },
+  {
+    "nl": "ons",
+    "ru": "нам/нас / наш",
+    "level": "A1"
+  },
+  {
+    "nl": "hun",
+    "ru": "им / их (притяж.)",
+    "level": "A1"
+  },
+  {
+    "nl": "mijn",
+    "ru": "мой",
+    "level": "A1"
+  },
+  {
+    "nl": "jouw",
+    "ru": "твой",
+    "level": "A1"
+  },
+  {
+    "nl": "uw",
+    "ru": "Ваш",
+    "level": "A1"
+  },
+  {
+    "nl": "zijn (притяж.)",
+    "ru": "его",
+    "level": "A1"
+  },
+  {
+    "nl": "deze",
+    "ru": "этот/эта (de)",
+    "level": "A1"
+  },
+  {
+    "nl": "dit",
+    "ru": "это (het)",
+    "level": "A1"
+  },
+  {
+    "nl": "die",
+    "ru": "тот/та (de)",
+    "level": "A1"
+  },
+  {
+    "nl": "dat",
+    "ru": "то (het) / что (союз)",
+    "level": "A1"
+  },
+  {
+    "nl": "de",
+    "ru": "определённый артикль (de-слова)",
+    "level": "A1"
+  },
+  {
+    "nl": "een",
+    "ru": "неопределённый артикль / один",
+    "level": "A1"
+  },
+  {
+    "nl": "en",
+    "ru": "и",
+    "level": "A1"
+  },
+  {
+    "nl": "of",
+    "ru": "или / ли",
+    "level": "A1"
+  },
+  {
+    "nl": "maar",
+    "ru": "но",
+    "level": "A1"
+  },
+  {
+    "nl": "want",
+    "ru": "потому что",
+    "level": "A1"
+  },
+  {
+    "nl": "omdat",
+    "ru": "потому что (подч.)",
+    "level": "A1"
+  },
+  {
+    "nl": "als",
+    "ru": "если / когда",
+    "level": "A1"
+  },
+  {
+    "nl": "dus",
+    "ru": "значит / итак",
+    "level": "A1"
+  },
+  {
+    "nl": "niet",
+    "ru": "не",
+    "level": "A1"
+  },
+  {
+    "nl": "geen",
+    "ru": "нет (отриц. артикль)",
+    "level": "A1"
+  },
+  {
+    "nl": "nog",
+    "ru": "ещё",
+    "level": "A1"
+  },
+  {
+    "nl": "ook",
+    "ru": "также, тоже",
+    "level": "A1"
+  },
+  {
+    "nl": "al",
+    "ru": "уже",
+    "level": "A1"
+  },
+  {
+    "nl": "maar (частица)",
+    "ru": "просто, же (разг.)",
+    "level": "A1"
+  },
+  {
+    "nl": "even",
+    "ru": "на минутку, быстро",
+    "level": "A1"
+  },
+  {
+    "nl": "heel",
+    "ru": "очень / весь",
+    "level": "A1"
+  },
+  {
+    "nl": "erg",
+    "ru": "очень, сильно",
+    "level": "A1"
+  },
+  {
+    "nl": "zeer",
+    "ru": "очень (формально)",
+    "level": "A1"
+  },
+  {
+    "nl": "misschien",
+    "ru": "может быть",
+    "level": "A1"
+  },
+  {
+    "nl": "natuurlijk",
+    "ru": "конечно, естественно",
+    "level": "A1"
+  },
+  {
+    "nl": "echt",
+    "ru": "по-настоящему, действительно",
+    "level": "A1"
+  },
+  {
+    "nl": "wel",
+    "ru": "всё-таки, ведь",
+    "level": "A1"
+  },
+  {
+    "nl": "ja",
+    "ru": "да",
+    "level": "A1"
+  },
+  {
+    "nl": "nee",
+    "ru": "нет",
+    "level": "A1"
+  },
+  {
+    "nl": "ja hoor",
+    "ru": "да, конечно",
+    "level": "A1"
+  },
+  {
+    "nl": "alsjeblieft",
+    "ru": "пожалуйста / вот",
+    "level": "A1"
+  },
+  {
+    "nl": "alstublieft",
+    "ru": "пожалуйста (вежливо)",
+    "level": "A1"
+  },
+  {
+    "nl": "dank je (wel)",
+    "ru": "спасибо (тебе)",
+    "level": "A1"
+  },
+  {
+    "nl": "dank u (wel)",
+    "ru": "спасибо (Вам)",
+    "level": "A1"
+  },
+  {
+    "nl": "bedankt",
+    "ru": "спасибо",
+    "level": "A1"
+  },
+  {
+    "nl": "sorry",
+    "ru": "извини",
+    "level": "A1"
+  },
+  {
+    "nl": "excuseer",
+    "ru": "простите",
+    "level": "A1"
+  },
+  {
+    "nl": "hallo",
+    "ru": "привет",
+    "level": "A1"
+  },
+  {
+    "nl": "hoi",
+    "ru": "привет (неформ.)",
+    "level": "A1"
+  },
+  {
+    "nl": "dag",
+    "ru": "день / пока",
+    "level": "A1"
+  },
+  {
+    "nl": "doei",
+    "ru": "пока",
+    "level": "A1"
+  },
+  {
+    "nl": "tot ziens",
+    "ru": "до свидания",
+    "level": "A1"
+  },
+  {
+    "nl": "tot morgen",
+    "ru": "до завтра",
+    "level": "A1"
+  },
+  {
+    "nl": "goedemorgen",
+    "ru": "доброе утро",
+    "level": "A1"
+  },
+  {
+    "nl": "goedemiddag",
+    "ru": "добрый день",
+    "level": "A1"
+  },
+  {
+    "nl": "goedenavond",
+    "ru": "добрый вечер",
+    "level": "A1"
+  },
+  {
+    "nl": "welkom",
+    "ru": "добро пожаловать",
+    "level": "A1"
+  },
+  {
+    "nl": "wie",
+    "ru": "кто",
+    "level": "A1"
+  },
+  {
+    "nl": "wat",
+    "ru": "что",
+    "level": "A1"
+  },
+  {
+    "nl": "waar",
+    "ru": "где",
+    "level": "A1"
+  },
+  {
+    "nl": "wanneer",
+    "ru": "когда",
+    "level": "A1"
+  },
+  {
+    "nl": "waarom",
+    "ru": "почему",
+    "level": "A1"
+  },
+  {
+    "nl": "hoe",
+    "ru": "как",
+    "level": "A1"
+  },
+  {
+    "nl": "welk / welke",
+    "ru": "какой",
+    "level": "A1"
+  },
+  {
+    "nl": "hoeveel",
+    "ru": "сколько",
+    "level": "A1"
+  },
+  {
+    "nl": "nul",
+    "ru": "ноль",
+    "level": "A1"
+  },
+  {
+    "nl": "een (число)",
+    "ru": "один",
+    "level": "A1"
+  },
+  {
+    "nl": "twee",
+    "ru": "два",
+    "level": "A1"
+  },
+  {
+    "nl": "drie",
+    "ru": "три",
+    "level": "A1"
+  },
+  {
+    "nl": "vier",
+    "ru": "четыре",
+    "level": "A1"
+  },
+  {
+    "nl": "vijf",
+    "ru": "пять",
+    "level": "A1"
+  },
+  {
+    "nl": "zes",
+    "ru": "шесть",
+    "level": "A1"
+  },
+  {
+    "nl": "zeven",
+    "ru": "семь",
+    "level": "A1"
+  },
+  {
+    "nl": "acht",
+    "ru": "восемь",
+    "level": "A1"
+  },
+  {
+    "nl": "negen",
+    "ru": "девять",
+    "level": "A1"
+  },
+  {
+    "nl": "tien",
+    "ru": "десять",
+    "level": "A1"
+  },
+  {
+    "nl": "elf",
+    "ru": "одиннадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "twaalf",
+    "ru": "двенадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "dertien",
+    "ru": "тринадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "veertien",
+    "ru": "четырнадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "vijftien",
+    "ru": "пятнадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "zestien",
+    "ru": "шестнадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "zeventien",
+    "ru": "семнадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "achttien",
+    "ru": "восемнадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "negentien",
+    "ru": "девятнадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "twintig",
+    "ru": "двадцать",
+    "level": "A1"
+  },
+  {
+    "nl": "dertig",
+    "ru": "тридцать",
+    "level": "A1"
+  },
+  {
+    "nl": "veertig",
+    "ru": "сорок",
+    "level": "A1"
+  },
+  {
+    "nl": "vijftig",
+    "ru": "пятьдесят",
+    "level": "A1"
+  },
+  {
+    "nl": "zestig",
+    "ru": "шестьдесят",
+    "level": "A1"
+  },
+  {
+    "nl": "zeventig",
+    "ru": "семьдесят",
+    "level": "A1"
+  },
+  {
+    "nl": "tachtig",
+    "ru": "восемьдесят",
+    "level": "A1"
+  },
+  {
+    "nl": "negentig",
+    "ru": "девяносто",
+    "level": "A1"
+  },
+  {
+    "nl": "honderd",
+    "ru": "сто",
+    "level": "A1"
+  },
+  {
+    "nl": "duizend",
+    "ru": "тысяча",
+    "level": "A1"
+  },
+  {
+    "nl": "eerste",
+    "ru": "первый",
+    "level": "A1"
+  },
+  {
+    "nl": "tweede",
+    "ru": "второй",
+    "level": "A1"
+  },
+  {
+    "nl": "derde",
+    "ru": "третий",
+    "level": "A1"
+  },
+  {
+    "nl": "laatste",
+    "ru": "последний",
+    "level": "A1"
+  },
+  {
+    "nl": "half",
+    "ru": "половина; пол-",
+    "level": "A1"
+  },
+  {
+    "nl": "kwart",
+    "ru": "четверть",
+    "level": "A1"
+  },
+  {
+    "nl": "maandag",
+    "ru": "понедельник",
+    "level": "A1"
+  },
+  {
+    "nl": "dinsdag",
+    "ru": "вторник",
+    "level": "A1"
+  },
+  {
+    "nl": "woensdag",
+    "ru": "среда",
+    "level": "A1"
+  },
+  {
+    "nl": "donderdag",
+    "ru": "четверг",
+    "level": "A1"
+  },
+  {
+    "nl": "vrijdag",
+    "ru": "пятница",
+    "level": "A1"
+  },
+  {
+    "nl": "zaterdag",
+    "ru": "суббота",
+    "level": "A1"
+  },
+  {
+    "nl": "zondag",
+    "ru": "воскресенье",
+    "level": "A1"
+  },
+  {
+    "nl": "weekend",
+    "ru": "выходные",
+    "level": "A1"
+  },
+  {
+    "nl": "week",
+    "ru": "неделя",
+    "level": "A1"
+  },
+  {
+    "nl": "dag",
+    "ru": "день",
+    "level": "A1"
+  },
+  {
+    "nl": "maand",
+    "ru": "месяц",
+    "level": "A1"
+  },
+  {
+    "nl": "jaar",
+    "ru": "год",
+    "level": "A1"
+  },
+  {
+    "nl": "uur",
+    "ru": "час",
+    "level": "A1"
+  },
+  {
+    "nl": "minuut",
+    "ru": "минута",
+    "level": "A1"
+  },
+  {
+    "nl": "seconde",
+    "ru": "секунда",
+    "level": "A1"
+  },
+  {
+    "nl": "tijd",
+    "ru": "время",
+    "level": "A1"
+  },
+  {
+    "nl": "januari",
+    "ru": "январь",
+    "level": "A1"
+  },
+  {
+    "nl": "februari",
+    "ru": "февраль",
+    "level": "A1"
+  },
+  {
+    "nl": "maart",
+    "ru": "март",
+    "level": "A1"
+  },
+  {
+    "nl": "april",
+    "ru": "апрель",
+    "level": "A1"
+  },
+  {
+    "nl": "mei",
+    "ru": "май",
+    "level": "A1"
+  },
+  {
+    "nl": "juni",
+    "ru": "июнь",
+    "level": "A1"
+  },
+  {
+    "nl": "juli",
+    "ru": "июль",
+    "level": "A1"
+  },
+  {
+    "nl": "augustus",
+    "ru": "август",
+    "level": "A1"
+  },
+  {
+    "nl": "september",
+    "ru": "сентябрь",
+    "level": "A1"
+  },
+  {
+    "nl": "oktober",
+    "ru": "октябрь",
+    "level": "A1"
+  },
+  {
+    "nl": "november",
+    "ru": "ноябрь",
+    "level": "A1"
+  },
+  {
+    "nl": "december",
+    "ru": "декабрь",
+    "level": "A1"
+  },
+  {
+    "nl": "lente",
+    "ru": "весна",
+    "level": "A1"
+  },
+  {
+    "nl": "zomer",
+    "ru": "лето",
+    "level": "A1"
+  },
+  {
+    "nl": "herfst",
+    "ru": "осень",
+    "level": "A1"
+  },
+  {
+    "nl": "winter",
+    "ru": "зима",
+    "level": "A1"
+  },
+  {
+    "nl": "vandaag",
+    "ru": "сегодня",
+    "level": "A1"
+  },
+  {
+    "nl": "gisteren",
+    "ru": "вчера",
+    "level": "A1"
+  },
+  {
+    "nl": "morgen",
+    "ru": "завтра / утро",
+    "level": "A1"
+  },
+  {
+    "nl": "overmorgen",
+    "ru": "послезавтра",
+    "level": "A1"
+  },
+  {
+    "nl": "eergisteren",
+    "ru": "позавчера",
+    "level": "A1"
+  },
+  {
+    "nl": "'s morgens",
+    "ru": "утром",
+    "level": "A1"
+  },
+  {
+    "nl": "'s middags",
+    "ru": "днём",
+    "level": "A1"
+  },
+  {
+    "nl": "'s avonds",
+    "ru": "вечером",
+    "level": "A1"
+  },
+  {
+    "nl": "'s nachts",
+    "ru": "ночью",
+    "level": "A1"
+  },
+  {
+    "nl": "nu",
+    "ru": "сейчас",
+    "level": "A1"
+  },
+  {
+    "nl": "straks",
+    "ru": "позже, вскоре",
+    "level": "A1"
+  },
+  {
+    "nl": "later",
+    "ru": "позже",
+    "level": "A1"
+  },
+  {
+    "nl": "vroeg",
+    "ru": "рано",
+    "level": "A1"
+  },
+  {
+    "nl": "laat",
+    "ru": "поздно",
+    "level": "A1"
+  },
+  {
+    "nl": "altijd",
+    "ru": "всегда",
+    "level": "A1"
+  },
+  {
+    "nl": "nooit",
+    "ru": "никогда",
+    "level": "A1"
+  },
+  {
+    "nl": "soms",
+    "ru": "иногда",
+    "level": "A1"
+  },
+  {
+    "nl": "vaak",
+    "ru": "часто",
+    "level": "A1"
+  },
+  {
+    "nl": "weinig",
+    "ru": "мало",
+    "level": "A1"
+  },
+  {
+    "nl": "veel",
+    "ru": "много",
+    "level": "A1"
+  },
+  {
+    "nl": "genoeg",
+    "ru": "достаточно",
+    "level": "A1"
+  },
+  {
+    "nl": "meer",
+    "ru": "больше",
+    "level": "A1"
+  },
+  {
+    "nl": "minder",
+    "ru": "меньше",
+    "level": "A1"
+  },
+  {
+    "nl": "zijn",
+    "ru": "быть",
+    "level": "A1"
+  },
+  {
+    "nl": "hebben",
+    "ru": "иметь",
+    "level": "A1"
+  },
+  {
+    "nl": "worden",
+    "ru": "становиться (вспом. пассив)",
+    "level": "A1"
+  },
+  {
+    "nl": "zullen",
+    "ru": "будущее время",
+    "level": "A1"
+  },
+  {
+    "nl": "gaan",
+    "ru": "идти",
+    "level": "A1"
+  },
+  {
+    "nl": "komen",
+    "ru": "приходить",
+    "level": "A1"
+  },
+  {
+    "nl": "doen",
+    "ru": "делать",
+    "level": "A1"
+  },
+  {
+    "nl": "maken",
+    "ru": "делать, создавать",
+    "level": "A1"
+  },
+  {
+    "nl": "kunnen",
+    "ru": "мочь, уметь",
+    "level": "A1"
+  },
+  {
+    "nl": "willen",
+    "ru": "хотеть",
+    "level": "A1"
+  },
+  {
+    "nl": "moeten",
+    "ru": "быть должным",
+    "level": "A1"
+  },
+  {
+    "nl": "mogen",
+    "ru": "мочь (разрешено)",
+    "level": "A1"
+  },
+  {
+    "nl": "weten",
+    "ru": "знать (факт)",
+    "level": "A1"
+  },
+  {
+    "nl": "kennen",
+    "ru": "знать (знаком)",
+    "level": "A1"
+  },
+  {
+    "nl": "denken",
+    "ru": "думать",
+    "level": "A1"
+  },
+  {
+    "nl": "vinden",
+    "ru": "находить / считать",
+    "level": "A1"
+  },
+  {
+    "nl": "begrijpen",
+    "ru": "понимать",
+    "level": "A1"
+  },
+  {
+    "nl": "verstaan",
+    "ru": "расслышать / понять речь",
+    "level": "A1"
+  },
+  {
+    "nl": "zeggen",
+    "ru": "сказать",
+    "level": "A1"
+  },
+  {
+    "nl": "vragen",
+    "ru": "спрашивать",
+    "level": "A1"
+  },
+  {
+    "nl": "antwoorden",
+    "ru": "отвечать",
+    "level": "A1"
+  },
+  {
+    "nl": "spreken",
+    "ru": "говорить",
+    "level": "A1"
+  },
+  {
+    "nl": "praten",
+    "ru": "разговаривать",
+    "level": "A1"
+  },
+  {
+    "nl": "vertellen",
+    "ru": "рассказывать",
+    "level": "A1"
+  },
+  {
+    "nl": "luisteren",
+    "ru": "слушать",
+    "level": "A1"
+  },
+  {
+    "nl": "horen",
+    "ru": "слышать",
+    "level": "A1"
+  },
+  {
+    "nl": "zien",
+    "ru": "видеть",
+    "level": "A1"
+  },
+  {
+    "nl": "kijken",
+    "ru": "смотреть",
+    "level": "A1"
+  },
+  {
+    "nl": "lezen",
+    "ru": "читать",
+    "level": "A1"
+  },
+  {
+    "nl": "schrijven",
+    "ru": "писать",
+    "level": "A1"
+  },
+  {
+    "nl": "leren",
+    "ru": "учить(ся)",
+    "level": "A1"
+  },
+  {
+    "nl": "studeren",
+    "ru": "учиться (в вузе)",
+    "level": "A1"
+  },
+  {
+    "nl": "werken",
+    "ru": "работать",
+    "level": "A1"
+  },
+  {
+    "nl": "wonen",
+    "ru": "жить, проживать",
+    "level": "A1"
+  },
+  {
+    "nl": "leven",
+    "ru": "жить (быть живым)",
+    "level": "A1"
+  },
+  {
+    "nl": "eten",
+    "ru": "есть (кушать)",
+    "level": "A1"
+  },
+  {
+    "nl": "drinken",
+    "ru": "пить",
+    "level": "A1"
+  },
+  {
+    "nl": "slapen",
+    "ru": "спать",
+    "level": "A1"
+  },
+  {
+    "nl": "wakker worden",
+    "ru": "просыпаться",
+    "level": "A1"
+  },
+  {
+    "nl": "opstaan",
+    "ru": "вставать",
+    "level": "A1"
+  },
+  {
+    "nl": "koken",
+    "ru": "готовить",
+    "level": "A1"
+  },
+  {
+    "nl": "kopen",
+    "ru": "покупать",
+    "level": "A1"
+  },
+  {
+    "nl": "verkopen",
+    "ru": "продавать",
+    "level": "A1"
+  },
+  {
+    "nl": "betalen",
+    "ru": "платить",
+    "level": "A1"
+  },
+  {
+    "nl": "geven",
+    "ru": "давать",
+    "level": "A1"
+  },
+  {
+    "nl": "krijgen",
+    "ru": "получать",
+    "level": "A1"
+  },
+  {
+    "nl": "nemen",
+    "ru": "брать",
+    "level": "A1"
+  },
+  {
+    "nl": "zoeken",
+    "ru": "искать",
+    "level": "A1"
+  },
+  {
+    "nl": "vinden",
+    "ru": "находить",
+    "level": "A1"
+  },
+  {
+    "nl": "verliezen",
+    "ru": "терять / проигрывать",
+    "level": "A1"
+  },
+  {
+    "nl": "lopen",
+    "ru": "идти, гулять",
+    "level": "A1"
+  },
+  {
+    "nl": "fietsen",
+    "ru": "ехать на велосипеде",
+    "level": "A1"
+  },
+  {
+    "nl": "rijden",
+    "ru": "ехать / водить",
+    "level": "A1"
+  },
+  {
+    "nl": "reizen",
+    "ru": "путешествовать",
+    "level": "A1"
+  },
+  {
+    "nl": "wachten",
+    "ru": "ждать",
+    "level": "A1"
+  },
+  {
+    "nl": "stoppen",
+    "ru": "останавливать(ся)",
+    "level": "A1"
+  },
+  {
+    "nl": "beginnen",
+    "ru": "начинать",
+    "level": "A1"
+  },
+  {
+    "nl": "eindigen",
+    "ru": "заканчивать",
+    "level": "A1"
+  },
+  {
+    "nl": "openen",
+    "ru": "открывать",
+    "level": "A1"
+  },
+  {
+    "nl": "sluiten",
+    "ru": "закрывать",
+    "level": "A1"
+  },
+  {
+    "nl": "helpen",
+    "ru": "помогать",
+    "level": "A1"
+  },
+  {
+    "nl": "proberen",
+    "ru": "пытаться",
+    "level": "A1"
+  },
+  {
+    "nl": "houden van",
+    "ru": "любить",
+    "level": "A1"
+  },
+  {
+    "nl": "leuk vinden",
+    "ru": "нравиться",
+    "level": "A1"
+  },
+  {
+    "nl": "haten",
+    "ru": "ненавидеть",
+    "level": "A1"
+  },
+  {
+    "nl": "voelen",
+    "ru": "чувствовать",
+    "level": "A1"
+  },
+  {
+    "nl": "geloven",
+    "ru": "верить",
+    "level": "A1"
+  },
+  {
+    "nl": "hopen",
+    "ru": "надеяться",
+    "level": "A1"
+  },
+  {
+    "nl": "beloven",
+    "ru": "обещать",
+    "level": "A1"
+  },
+  {
+    "nl": "spelen",
+    "ru": "играть",
+    "level": "A1"
+  },
+  {
+    "nl": "winnen",
+    "ru": "выигрывать",
+    "level": "A1"
+  },
+  {
+    "nl": "dansen",
+    "ru": "танцевать",
+    "level": "A1"
+  },
+  {
+    "nl": "zingen",
+    "ru": "петь",
+    "level": "A1"
+  },
+  {
+    "nl": "familie",
+    "ru": "семья",
+    "level": "A1"
+  },
+  {
+    "nl": "ouders",
+    "ru": "родители",
+    "level": "A1"
+  },
+  {
+    "nl": "vader",
+    "ru": "отец",
+    "level": "A1"
+  },
+  {
+    "nl": "moeder",
+    "ru": "мать",
+    "level": "A1"
+  },
+  {
+    "nl": "papa",
+    "ru": "папа",
+    "level": "A1"
+  },
+  {
+    "nl": "mama",
+    "ru": "мама",
+    "level": "A1"
+  },
+  {
+    "nl": "zoon",
+    "ru": "сын",
+    "level": "A1"
+  },
+  {
+    "nl": "dochter",
+    "ru": "дочь",
+    "level": "A1"
+  },
+  {
+    "nl": "kind",
+    "ru": "ребёнок",
+    "level": "A1"
+  },
+  {
+    "nl": "kinderen",
+    "ru": "дети",
+    "level": "A1"
+  },
+  {
+    "nl": "broer",
+    "ru": "брат",
+    "level": "A1"
+  },
+  {
+    "nl": "zus",
+    "ru": "сестра",
+    "level": "A1"
+  },
+  {
+    "nl": "oma",
+    "ru": "бабушка",
+    "level": "A1"
+  },
+  {
+    "nl": "opa",
+    "ru": "дедушка",
+    "level": "A1"
+  },
+  {
+    "nl": "tante",
+    "ru": "тётя",
+    "level": "A1"
+  },
+  {
+    "nl": "oom",
+    "ru": "дядя",
+    "level": "A1"
+  },
+  {
+    "nl": "neef",
+    "ru": "племянник / кузен",
+    "level": "A1"
+  },
+  {
+    "nl": "nicht",
+    "ru": "племянница / кузина",
+    "level": "A1"
+  },
+  {
+    "nl": "man",
+    "ru": "мужчина / муж",
+    "level": "A1"
+  },
+  {
+    "nl": "vrouw",
+    "ru": "женщина / жена",
+    "level": "A1"
+  },
+  {
+    "nl": "vriend",
+    "ru": "друг / парень",
+    "level": "A1"
+  },
+  {
+    "nl": "vriendin",
+    "ru": "подруга / девушка",
+    "level": "A1"
+  },
+  {
+    "nl": "kennis",
+    "ru": "знакомый",
+    "level": "A1"
+  },
+  {
+    "nl": "buurman",
+    "ru": "сосед",
+    "level": "A1"
+  },
+  {
+    "nl": "buurvrouw",
+    "ru": "соседка",
+    "level": "A1"
+  },
+  {
+    "nl": "baby",
+    "ru": "младенец",
+    "level": "A1"
+  },
+  {
+    "nl": "jongen",
+    "ru": "мальчик",
+    "level": "A1"
+  },
+  {
+    "nl": "meisje",
+    "ru": "девочка",
+    "level": "A1"
+  },
+  {
+    "nl": "naam",
+    "ru": "имя",
+    "level": "A1"
+  },
+  {
+    "nl": "voornaam",
+    "ru": "имя (first name)",
+    "level": "A1"
+  },
+  {
+    "nl": "achternaam",
+    "ru": "фамилия",
+    "level": "A1"
+  },
+  {
+    "nl": "adres",
+    "ru": "адрес",
+    "level": "A1"
+  },
+  {
+    "nl": "telefoonnummer",
+    "ru": "номер телефона",
+    "level": "A1"
+  },
+  {
+    "nl": "leeftijd",
+    "ru": "возраст",
+    "level": "A1"
+  },
+  {
+    "nl": "geboortedatum",
+    "ru": "дата рождения",
+    "level": "A1"
+  },
+  {
+    "nl": "nationaliteit",
+    "ru": "национальность",
+    "level": "A1"
+  },
+  {
+    "nl": "Nederlander",
+    "ru": "нидерландец",
+    "level": "A1"
+  },
+  {
+    "nl": "Nederlandse",
+    "ru": "нидерландка",
+    "level": "A1"
+  },
+  {
+    "nl": "Nederlands",
+    "ru": "нидерландский язык",
+    "level": "A1"
+  },
+  {
+    "nl": "Nederland",
+    "ru": "Нидерланды",
+    "level": "A1"
+  },
+  {
+    "nl": "Rus",
+    "ru": "русский (человек)",
+    "level": "A1"
+  },
+  {
+    "nl": "Russin",
+    "ru": "русская",
+    "level": "A1"
+  },
+  {
+    "nl": "Russisch",
+    "ru": "русский (язык/прил.)",
+    "level": "A1"
+  },
+  {
+    "nl": "land",
+    "ru": "страна",
+    "level": "A1"
+  },
+  {
+    "nl": "stad",
+    "ru": "город",
+    "level": "A1"
+  },
+  {
+    "nl": "dorp",
+    "ru": "деревня",
+    "level": "A1"
+  },
+  {
+    "nl": "straat",
+    "ru": "улица",
+    "level": "A1"
+  },
+  {
+    "nl": "plein",
+    "ru": "площадь",
+    "level": "A1"
+  },
+  {
+    "nl": "huis",
+    "ru": "дом",
+    "level": "A1"
+  },
+  {
+    "nl": "appartement",
+    "ru": "квартира",
+    "level": "A1"
+  },
+  {
+    "nl": "flat",
+    "ru": "квартира (разг.)",
+    "level": "A1"
+  },
+  {
+    "nl": "kamer",
+    "ru": "комната",
+    "level": "A1"
+  },
+  {
+    "nl": "slaapkamer",
+    "ru": "спальня",
+    "level": "A1"
+  },
+  {
+    "nl": "woonkamer",
+    "ru": "гостиная",
+    "level": "A1"
+  },
+  {
+    "nl": "keuken",
+    "ru": "кухня",
+    "level": "A1"
+  },
+  {
+    "nl": "badkamer",
+    "ru": "ванная",
+    "level": "A1"
+  },
+  {
+    "nl": "toilet",
+    "ru": "туалет",
+    "level": "A1"
+  },
+  {
+    "nl": "balkon",
+    "ru": "балкон",
+    "level": "A1"
+  },
+  {
+    "nl": "tuin",
+    "ru": "сад",
+    "level": "A1"
+  },
+  {
+    "nl": "deur",
+    "ru": "дверь",
+    "level": "A1"
+  },
+  {
+    "nl": "raam",
+    "ru": "окно",
+    "level": "A1"
+  },
+  {
+    "nl": "muur",
+    "ru": "стена",
+    "level": "A1"
+  },
+  {
+    "nl": "vloer",
+    "ru": "пол",
+    "level": "A1"
+  },
+  {
+    "nl": "plafond",
+    "ru": "потолок",
+    "level": "A1"
+  },
+  {
+    "nl": "trap",
+    "ru": "лестница",
+    "level": "A1"
+  },
+  {
+    "nl": "tafel",
+    "ru": "стол",
+    "level": "A1"
+  },
+  {
+    "nl": "stoel",
+    "ru": "стул",
+    "level": "A1"
+  },
+  {
+    "nl": "bank",
+    "ru": "диван / банк",
+    "level": "A1"
+  },
+  {
+    "nl": "bed",
+    "ru": "кровать",
+    "level": "A1"
+  },
+  {
+    "nl": "kast",
+    "ru": "шкаф",
+    "level": "A1"
+  },
+  {
+    "nl": "lamp",
+    "ru": "лампа",
+    "level": "A1"
+  },
+  {
+    "nl": "televisie",
+    "ru": "телевизор",
+    "level": "A1"
+  },
+  {
+    "nl": "tv",
+    "ru": "ТВ",
+    "level": "A1"
+  },
+  {
+    "nl": "computer",
+    "ru": "компьютер",
+    "level": "A1"
+  },
+  {
+    "nl": "laptop",
+    "ru": "ноутбук",
+    "level": "A1"
+  },
+  {
+    "nl": "telefoon",
+    "ru": "телефон",
+    "level": "A1"
+  },
+  {
+    "nl": "boek",
+    "ru": "книга",
+    "level": "A1"
+  },
+  {
+    "nl": "krant",
+    "ru": "газета",
+    "level": "A1"
+  },
+  {
+    "nl": "tijdschrift",
+    "ru": "журнал",
+    "level": "A1"
+  },
+  {
+    "nl": "foto",
+    "ru": "фото",
+    "level": "A1"
+  },
+  {
+    "nl": "muziek",
+    "ru": "музыка",
+    "level": "A1"
+  },
+  {
+    "nl": "film",
+    "ru": "фильм",
+    "level": "A1"
+  },
+  {
+    "nl": "auto",
+    "ru": "машина",
+    "level": "A1"
+  },
+  {
+    "nl": "fiets",
+    "ru": "велосипед",
+    "level": "A1"
+  },
+  {
+    "nl": "bus",
+    "ru": "автобус",
+    "level": "A1"
+  },
+  {
+    "nl": "tram",
+    "ru": "трамвай",
+    "level": "A1"
+  },
+  {
+    "nl": "metro",
+    "ru": "метро",
+    "level": "A1"
+  },
+  {
+    "nl": "trein",
+    "ru": "поезд",
+    "level": "A1"
+  },
+  {
+    "nl": "vliegtuig",
+    "ru": "самолёт",
+    "level": "A1"
+  },
+  {
+    "nl": "boot",
+    "ru": "лодка",
+    "level": "A1"
+  },
+  {
+    "nl": "taxi",
+    "ru": "такси",
+    "level": "A1"
+  },
+  {
+    "nl": "station",
+    "ru": "вокзал, станция",
+    "level": "A1"
+  },
+  {
+    "nl": "halte",
+    "ru": "остановка",
+    "level": "A1"
+  },
+  {
+    "nl": "kaartje",
+    "ru": "билет",
+    "level": "A1"
+  },
+  {
+    "nl": "ov-chipkaart",
+    "ru": "транспортная карта",
+    "level": "A1"
+  },
+  {
+    "nl": "brood",
+    "ru": "хлеб",
+    "level": "A1"
+  },
+  {
+    "nl": "boter",
+    "ru": "сливочное масло",
+    "level": "A1"
+  },
+  {
+    "nl": "kaas",
+    "ru": "сыр",
+    "level": "A1"
+  },
+  {
+    "nl": "melk",
+    "ru": "молоко",
+    "level": "A1"
+  },
+  {
+    "nl": "ei",
+    "ru": "яйцо",
+    "level": "A1"
+  },
+  {
+    "nl": "vlees",
+    "ru": "мясо",
+    "level": "A1"
+  },
+  {
+    "nl": "vis",
+    "ru": "рыба",
+    "level": "A1"
+  },
+  {
+    "nl": "kip",
+    "ru": "курица",
+    "level": "A1"
+  },
+  {
+    "nl": "rijst",
+    "ru": "рис",
+    "level": "A1"
+  },
+  {
+    "nl": "pasta",
+    "ru": "паста",
+    "level": "A1"
+  },
+  {
+    "nl": "aardappel",
+    "ru": "картофель",
+    "level": "A1"
+  },
+  {
+    "nl": "groente",
+    "ru": "овощи",
+    "level": "A1"
+  },
+  {
+    "nl": "fruit",
+    "ru": "фрукты",
+    "level": "A1"
+  },
+  {
+    "nl": "appel",
+    "ru": "яблоко",
+    "level": "A1"
+  },
+  {
+    "nl": "banaan",
+    "ru": "банан",
+    "level": "A1"
+  },
+  {
+    "nl": "sinaasappel",
+    "ru": "апельсин",
+    "level": "A1"
+  },
+  {
+    "nl": "aardbei",
+    "ru": "клубника",
+    "level": "A1"
+  },
+  {
+    "nl": "tomaat",
+    "ru": "помидор",
+    "level": "A1"
+  },
+  {
+    "nl": "komkommer",
+    "ru": "огурец",
+    "level": "A1"
+  },
+  {
+    "nl": "sla",
+    "ru": "салат",
+    "level": "A1"
+  },
+  {
+    "nl": "ui",
+    "ru": "лук",
+    "level": "A1"
+  },
+  {
+    "nl": "knoflook",
+    "ru": "чеснок",
+    "level": "A1"
+  },
+  {
+    "nl": "suiker",
+    "ru": "сахар",
+    "level": "A1"
+  },
+  {
+    "nl": "zout",
+    "ru": "соль",
+    "level": "A1"
+  },
+  {
+    "nl": "peper",
+    "ru": "перец",
+    "level": "A1"
+  },
+  {
+    "nl": "koffie",
+    "ru": "кофе",
+    "level": "A1"
+  },
+  {
+    "nl": "thee",
+    "ru": "чай",
+    "level": "A1"
+  },
+  {
+    "nl": "water",
+    "ru": "вода",
+    "level": "A1"
+  },
+  {
+    "nl": "sap",
+    "ru": "сок",
+    "level": "A1"
+  },
+  {
+    "nl": "bier",
+    "ru": "пиво",
+    "level": "A1"
+  },
+  {
+    "nl": "wijn",
+    "ru": "вино",
+    "level": "A1"
+  },
+  {
+    "nl": "ontbijt",
+    "ru": "завтрак",
+    "level": "A1"
+  },
+  {
+    "nl": "lunch",
+    "ru": "обед (lunch)",
+    "level": "A1"
+  },
+  {
+    "nl": "avondeten",
+    "ru": "ужин",
+    "level": "A1"
+  },
+  {
+    "nl": "maaltijd",
+    "ru": "приём пищи",
+    "level": "A1"
+  },
+  {
+    "nl": "restaurant",
+    "ru": "ресторан",
+    "level": "A1"
+  },
+  {
+    "nl": "café",
+    "ru": "кафе",
+    "level": "A1"
+  },
+  {
+    "nl": "supermarkt",
+    "ru": "супермаркет",
+    "level": "A1"
+  },
+  {
+    "nl": "winkel",
+    "ru": "магазин",
+    "level": "A1"
+  },
+  {
+    "nl": "markt",
+    "ru": "рынок",
+    "level": "A1"
+  },
+  {
+    "nl": "bakkerij",
+    "ru": "пекарня",
+    "level": "A1"
+  },
+  {
+    "nl": "apotheek",
+    "ru": "аптека",
+    "level": "A1"
+  },
+  {
+    "nl": "dokter",
+    "ru": "врач",
+    "level": "A1"
+  },
+  {
+    "nl": "tandarts",
+    "ru": "стоматолог",
+    "level": "A1"
+  },
+  {
+    "nl": "ziekenhuis",
+    "ru": "больница",
+    "level": "A1"
+  },
+  {
+    "nl": "school",
+    "ru": "школа",
+    "level": "A1"
+  },
+  {
+    "nl": "les",
+    "ru": "урок",
+    "level": "A1"
+  },
+  {
+    "nl": "klas",
+    "ru": "класс",
+    "level": "A1"
+  },
+  {
+    "nl": "docent",
+    "ru": "преподаватель",
+    "level": "A1"
+  },
+  {
+    "nl": "leraar",
+    "ru": "учитель",
+    "level": "A1"
+  },
+  {
+    "nl": "student",
+    "ru": "студент",
+    "level": "A1"
+  },
+  {
+    "nl": "universiteit",
+    "ru": "университет",
+    "level": "A1"
+  },
+  {
+    "nl": "werk",
+    "ru": "работа",
+    "level": "A1"
+  },
+  {
+    "nl": "baan",
+    "ru": "рабочее место",
+    "level": "A1"
+  },
+  {
+    "nl": "beroep",
+    "ru": "профессия",
+    "level": "A1"
+  },
+  {
+    "nl": "kantoor",
+    "ru": "офис",
+    "level": "A1"
+  },
+  {
+    "nl": "collega",
+    "ru": "коллега",
+    "level": "A1"
+  },
+  {
+    "nl": "baas",
+    "ru": "начальник",
+    "level": "A1"
+  },
+  {
+    "nl": "geld",
+    "ru": "деньги",
+    "level": "A1"
+  },
+  {
+    "nl": "euro",
+    "ru": "евро",
+    "level": "A1"
+  },
+  {
+    "nl": "cent",
+    "ru": "цент",
+    "level": "A1"
+  },
+  {
+    "nl": "rekening",
+    "ru": "счёт",
+    "level": "A1"
+  },
+  {
+    "nl": "pinpas",
+    "ru": "банковская карта",
+    "level": "A1"
+  },
+  {
+    "nl": "weer",
+    "ru": "погода",
+    "level": "A1"
+  },
+  {
+    "nl": "zon",
+    "ru": "солнце",
+    "level": "A1"
+  },
+  {
+    "nl": "regen",
+    "ru": "дождь",
+    "level": "A1"
+  },
+  {
+    "nl": "wind",
+    "ru": "ветер",
+    "level": "A1"
+  },
+  {
+    "nl": "sneeuw",
+    "ru": "снег",
+    "level": "A1"
+  },
+  {
+    "nl": "wolk",
+    "ru": "облако",
+    "level": "A1"
+  },
+  {
+    "nl": "temperatuur",
+    "ru": "температура",
+    "level": "A1"
+  },
+  {
+    "nl": "warm",
+    "ru": "тёплый",
+    "level": "A1"
+  },
+  {
+    "nl": "koud",
+    "ru": "холодный",
+    "level": "A1"
+  },
+  {
+    "nl": "heet",
+    "ru": "горячий",
+    "level": "A1"
+  },
+  {
+    "nl": "nat",
+    "ru": "мокрый",
+    "level": "A1"
+  },
+  {
+    "nl": "droog",
+    "ru": "сухой",
+    "level": "A1"
+  },
+  {
+    "nl": "zonnig",
+    "ru": "солнечный",
+    "level": "A1"
+  },
+  {
+    "nl": "bewolkt",
+    "ru": "облачный",
+    "level": "A1"
+  },
+  {
+    "nl": "regenachtig",
+    "ru": "дождливый",
+    "level": "A1"
+  },
+  {
+    "nl": "winderig",
+    "ru": "ветреный",
+    "level": "A1"
+  },
+  {
+    "nl": "goed",
+    "ru": "хороший / хорошо",
+    "level": "A1"
+  },
+  {
+    "nl": "slecht",
+    "ru": "плохой / плохо",
+    "level": "A1"
+  },
+  {
+    "nl": "mooi",
+    "ru": "красивый",
+    "level": "A1"
+  },
+  {
+    "nl": "lelijk",
+    "ru": "некрасивый",
+    "level": "A1"
+  },
+  {
+    "nl": "lekker",
+    "ru": "вкусный",
+    "level": "A1"
+  },
+  {
+    "nl": "vies",
+    "ru": "противный",
+    "level": "A1"
+  },
+  {
+    "nl": "groot",
+    "ru": "большой",
+    "level": "A1"
+  },
+  {
+    "nl": "klein",
+    "ru": "маленький",
+    "level": "A1"
+  },
+  {
+    "nl": "lang",
+    "ru": "длинный / долгий",
+    "level": "A1"
+  },
+  {
+    "nl": "kort",
+    "ru": "короткий",
+    "level": "A1"
+  },
+  {
+    "nl": "hoog",
+    "ru": "высокий",
+    "level": "A1"
+  },
+  {
+    "nl": "laag",
+    "ru": "низкий",
+    "level": "A1"
+  },
+  {
+    "nl": "dik",
+    "ru": "толстый",
+    "level": "A1"
+  },
+  {
+    "nl": "dun",
+    "ru": "тонкий",
+    "level": "A1"
+  },
+  {
+    "nl": "breed",
+    "ru": "широкий",
+    "level": "A1"
+  },
+  {
+    "nl": "smal",
+    "ru": "узкий",
+    "level": "A1"
+  },
+  {
+    "nl": "zwaar",
+    "ru": "тяжёлый",
+    "level": "A1"
+  },
+  {
+    "nl": "licht",
+    "ru": "лёгкий / светлый",
+    "level": "A1"
+  },
+  {
+    "nl": "donker",
+    "ru": "тёмный",
+    "level": "A1"
+  },
+  {
+    "nl": "snel",
+    "ru": "быстрый",
+    "level": "A1"
+  },
+  {
+    "nl": "langzaam",
+    "ru": "медленный",
+    "level": "A1"
+  },
+  {
+    "nl": "sterk",
+    "ru": "сильный",
+    "level": "A1"
+  },
+  {
+    "nl": "zwak",
+    "ru": "слабый",
+    "level": "A1"
+  },
+  {
+    "nl": "oud",
+    "ru": "старый",
+    "level": "A1"
+  },
+  {
+    "nl": "jong",
+    "ru": "молодой",
+    "level": "A1"
+  },
+  {
+    "nl": "nieuw",
+    "ru": "новый",
+    "level": "A1"
+  },
+  {
+    "nl": "duur",
+    "ru": "дорогой",
+    "level": "A1"
+  },
+  {
+    "nl": "goedkoop",
+    "ru": "дешёвый",
+    "level": "A1"
+  },
+  {
+    "nl": "vol",
+    "ru": "полный",
+    "level": "A1"
+  },
+  {
+    "nl": "leeg",
+    "ru": "пустой",
+    "level": "A1"
+  },
+  {
+    "nl": "open",
+    "ru": "открытый",
+    "level": "A1"
+  },
+  {
+    "nl": "dicht",
+    "ru": "закрытый / плотный",
+    "level": "A1"
+  },
+  {
+    "nl": "vrij",
+    "ru": "свободный",
+    "level": "A1"
+  },
+  {
+    "nl": "druk",
+    "ru": "загруженный, занятый",
+    "level": "A1"
+  },
+  {
+    "nl": "blij",
+    "ru": "радостный",
+    "level": "A1"
+  },
+  {
+    "nl": "boos",
+    "ru": "сердитый",
+    "level": "A1"
+  },
+  {
+    "nl": "verdrietig",
+    "ru": "грустный",
+    "level": "A1"
+  },
+  {
+    "nl": "moe",
+    "ru": "уставший",
+    "level": "A1"
+  },
+  {
+    "nl": "ziek",
+    "ru": "больной",
+    "level": "A1"
+  },
+  {
+    "nl": "gezond",
+    "ru": "здоровый",
+    "level": "A1"
+  },
+  {
+    "nl": "bang",
+    "ru": "испуганный",
+    "level": "A1"
+  },
+  {
+    "nl": "rustig",
+    "ru": "спокойный / тихий",
+    "level": "A1"
+  },
+  {
+    "nl": "druk bezig",
+    "ru": "занят",
+    "level": "A1"
+  },
+  {
+    "nl": "aardig",
+    "ru": "милый, добрый",
+    "level": "A1"
+  },
+  {
+    "nl": "vriendelijk",
+    "ru": "дружелюбный",
+    "level": "A1"
+  },
+  {
+    "nl": "lief",
+    "ru": "милый",
+    "level": "A1"
+  },
+  {
+    "nl": "gek",
+    "ru": "сумасшедший / смешной",
+    "level": "A1"
+  },
+  {
+    "nl": "gemakkelijk",
+    "ru": "лёгкий",
+    "level": "A1"
+  },
+  {
+    "nl": "makkelijk",
+    "ru": "лёгкий (разг.)",
+    "level": "A1"
+  },
+  {
+    "nl": "moeilijk",
+    "ru": "трудный",
+    "level": "A1"
+  },
+  {
+    "nl": "interessant",
+    "ru": "интересный",
+    "level": "A1"
+  },
+  {
+    "nl": "saai",
+    "ru": "скучный",
+    "level": "A1"
+  },
+  {
+    "nl": "belangrijk",
+    "ru": "важный",
+    "level": "A1"
+  },
+  {
+    "nl": "klaar",
+    "ru": "готов(ый)",
+    "level": "A1"
+  },
+  {
+    "nl": "zeker",
+    "ru": "конечно, уверенный",
+    "level": "A1"
+  },
+  {
+    "nl": "gelukkig",
+    "ru": "счастливый / к счастью",
+    "level": "A1"
+  },
+  {
+    "nl": "rood",
+    "ru": "красный",
+    "level": "A1"
+  },
+  {
+    "nl": "blauw",
+    "ru": "синий",
+    "level": "A1"
+  },
+  {
+    "nl": "groen",
+    "ru": "зелёный",
+    "level": "A1"
+  },
+  {
+    "nl": "geel",
+    "ru": "жёлтый",
+    "level": "A1"
+  },
+  {
+    "nl": "wit",
+    "ru": "белый",
+    "level": "A1"
+  },
+  {
+    "nl": "zwart",
+    "ru": "чёрный",
+    "level": "A1"
+  },
+  {
+    "nl": "grijs",
+    "ru": "серый",
+    "level": "A1"
+  },
+  {
+    "nl": "bruin",
+    "ru": "коричневый",
+    "level": "A1"
+  },
+  {
+    "nl": "oranje",
+    "ru": "оранжевый",
+    "level": "A1"
+  },
+  {
+    "nl": "roze",
+    "ru": "розовый",
+    "level": "A1"
+  },
+  {
+    "nl": "paars",
+    "ru": "фиолетовый",
+    "level": "A1"
+  },
+  {
+    "nl": "kleur",
+    "ru": "цвет",
+    "level": "A1"
+  },
+  {
+    "nl": "hoofd",
+    "ru": "голова",
+    "level": "A1"
+  },
+  {
+    "nl": "haar (тело)",
+    "ru": "волосы",
+    "level": "A1"
+  },
+  {
+    "nl": "oog",
+    "ru": "глаз",
+    "level": "A1"
+  },
+  {
+    "nl": "oor",
+    "ru": "ухо",
+    "level": "A1"
+  },
+  {
+    "nl": "neus",
+    "ru": "нос",
+    "level": "A1"
+  },
+  {
+    "nl": "mond",
+    "ru": "рот",
+    "level": "A1"
+  },
+  {
+    "nl": "tand",
+    "ru": "зуб",
+    "level": "A1"
+  },
+  {
+    "nl": "tong",
+    "ru": "язык (орган)",
+    "level": "A1"
+  },
+  {
+    "nl": "gezicht",
+    "ru": "лицо",
+    "level": "A1"
+  },
+  {
+    "nl": "hals",
+    "ru": "шея",
+    "level": "A1"
+  },
+  {
+    "nl": "arm",
+    "ru": "рука (вся)",
+    "level": "A1"
+  },
+  {
+    "nl": "hand",
+    "ru": "ладонь",
+    "level": "A1"
+  },
+  {
+    "nl": "vinger",
+    "ru": "палец",
+    "level": "A1"
+  },
+  {
+    "nl": "been",
+    "ru": "нога (вся) / кость",
+    "level": "A1"
+  },
+  {
+    "nl": "voet",
+    "ru": "ступня",
+    "level": "A1"
+  },
+  {
+    "nl": "rug",
+    "ru": "спина",
+    "level": "A1"
+  },
+  {
+    "nl": "buik",
+    "ru": "живот",
+    "level": "A1"
+  },
+  {
+    "nl": "hart",
+    "ru": "сердце",
+    "level": "A1"
+  },
+  {
+    "nl": "maag",
+    "ru": "желудок",
+    "level": "A1"
+  },
+  {
+    "nl": "kleding",
+    "ru": "одежда",
+    "level": "A1"
+  },
+  {
+    "nl": "broek",
+    "ru": "брюки",
+    "level": "A1"
+  },
+  {
+    "nl": "spijkerbroek",
+    "ru": "джинсы",
+    "level": "A1"
+  },
+  {
+    "nl": "rok",
+    "ru": "юбка",
+    "level": "A1"
+  },
+  {
+    "nl": "jurk",
+    "ru": "платье",
+    "level": "A1"
+  },
+  {
+    "nl": "shirt",
+    "ru": "футболка",
+    "level": "A1"
+  },
+  {
+    "nl": "trui",
+    "ru": "свитер",
+    "level": "A1"
+  },
+  {
+    "nl": "jas",
+    "ru": "пальто, куртка",
+    "level": "A1"
+  },
+  {
+    "nl": "schoen",
+    "ru": "туфля, ботинок",
+    "level": "A1"
+  },
+  {
+    "nl": "sok",
+    "ru": "носок",
+    "level": "A1"
+  },
+  {
+    "nl": "sjaal",
+    "ru": "шарф",
+    "level": "A1"
+  },
+  {
+    "nl": "muts",
+    "ru": "шапка",
+    "level": "A1"
+  },
+  {
+    "nl": "hoed",
+    "ru": "шляпа",
+    "level": "A1"
+  },
+  {
+    "nl": "handschoen",
+    "ru": "перчатка",
+    "level": "A1"
+  },
+  {
+    "nl": "tas",
+    "ru": "сумка",
+    "level": "A1"
+  },
+  {
+    "nl": "rugzak",
+    "ru": "рюкзак",
+    "level": "A1"
+  },
+  {
+    "nl": "paraplu",
+    "ru": "зонт",
+    "level": "A1"
+  },
+  {
+    "nl": "in",
+    "ru": "в",
+    "level": "A1"
+  },
+  {
+    "nl": "op",
+    "ru": "на",
+    "level": "A1"
+  },
+  {
+    "nl": "onder",
+    "ru": "под",
+    "level": "A1"
+  },
+  {
+    "nl": "boven",
+    "ru": "над",
+    "level": "A1"
+  },
+  {
+    "nl": "naast",
+    "ru": "рядом с",
+    "level": "A1"
+  },
+  {
+    "nl": "tussen",
+    "ru": "между",
+    "level": "A1"
+  },
+  {
+    "nl": "voor",
+    "ru": "перед / для / до",
+    "level": "A1"
+  },
+  {
+    "nl": "achter",
+    "ru": "за (позади)",
+    "level": "A1"
+  },
+  {
+    "nl": "bij",
+    "ru": "у, возле",
+    "level": "A1"
+  },
+  {
+    "nl": "met",
+    "ru": "с",
+    "level": "A1"
+  },
+  {
+    "nl": "zonder",
+    "ru": "без",
+    "level": "A1"
+  },
+  {
+    "nl": "naar",
+    "ru": "в, к (направление)",
+    "level": "A1"
+  },
+  {
+    "nl": "van",
+    "ru": "от, из",
+    "level": "A1"
+  },
+  {
+    "nl": "tot",
+    "ru": "до",
+    "level": "A1"
+  },
+  {
+    "nl": "om",
+    "ru": "в (о времени) / вокруг",
+    "level": "A1"
+  },
+  {
+    "nl": "aan",
+    "ru": "к, у (фикс. предлог)",
+    "level": "A1"
+  },
+  {
+    "nl": "over",
+    "ru": "о, через, над",
+    "level": "A1"
+  },
+  {
+    "nl": "tegen",
+    "ru": "против, к (времени)",
+    "level": "A1"
+  },
+  {
+    "nl": "door",
+    "ru": "через, сквозь / из-за",
+    "level": "A1"
+  },
+  {
+    "nl": "uit",
+    "ru": "из",
+    "level": "A1"
+  },
+  {
+    "nl": "hier",
+    "ru": "здесь",
+    "level": "A1"
+  },
+  {
+    "nl": "daar",
+    "ru": "там",
+    "level": "A1"
+  },
+  {
+    "nl": "thuis",
+    "ru": "дома",
+    "level": "A1"
+  },
+  {
+    "nl": "buiten",
+    "ru": "снаружи, на улице",
+    "level": "A1"
+  },
+  {
+    "nl": "binnen",
+    "ru": "внутри",
+    "level": "A1"
+  },
+  {
+    "nl": "links",
+    "ru": "слева",
+    "level": "A1"
+  },
+  {
+    "nl": "rechts",
+    "ru": "справа",
+    "level": "A1"
+  },
+  {
+    "nl": "rechtdoor",
+    "ru": "прямо",
+    "level": "A1"
+  },
+  {
+    "nl": "terug",
+    "ru": "назад",
+    "level": "A1"
+  },
+  {
+    "nl": "dichtbij",
+    "ru": "близко",
+    "level": "A1"
+  },
+  {
+    "nl": "ver",
+    "ru": "далеко",
+    "level": "A1"
+  },
+  {
+    "nl": "boven (наречие)",
+    "ru": "наверху",
+    "level": "A1"
+  },
+  {
+    "nl": "beneden",
+    "ru": "внизу",
+    "level": "A1"
+  },
+  {
+    "nl": "overal",
+    "ru": "везде",
+    "level": "A1"
+  },
+  {
+    "nl": "nergens",
+    "ru": "нигде",
+    "level": "A1"
+  },
+  {
+    "nl": "iets",
+    "ru": "что-то",
+    "level": "A1"
+  },
+  {
+    "nl": "niets",
+    "ru": "ничего",
+    "level": "A1"
+  },
+  {
+    "nl": "iemand",
+    "ru": "кто-то",
+    "level": "A1"
+  },
+  {
+    "nl": "niemand",
+    "ru": "никто",
+    "level": "A1"
+  },
+  {
+    "nl": "alles",
+    "ru": "всё",
+    "level": "A1"
+  },
+  {
+    "nl": "iedereen",
+    "ru": "каждый, все",
+    "level": "A1"
+  },
+  {
+    "nl": "wel eens",
+    "ru": "иногда, порой",
+    "level": "A1"
+  },
+  {
+    "nl": "even (количество)",
+    "ru": "равный",
+    "level": "A1"
+  },
+  {
+    "nl": "anders",
+    "ru": "другой / иначе",
+    "level": "A1"
+  },
+  {
+    "nl": "hetzelfde",
+    "ru": "то же самое",
+    "level": "A1"
+  },
+  {
+    "nl": "ander",
+    "ru": "другой",
+    "level": "A1"
+  },
+  {
+    "nl": "samen",
+    "ru": "вместе",
+    "level": "A1"
+  },
+  {
+    "nl": "alleen",
+    "ru": "один / только",
+    "level": "A1"
+  },
+  {
+    "nl": "elkaar",
+    "ru": "друг друга",
+    "level": "A1"
+  },
+  {
+    "nl": "zelf",
+    "ru": "сам",
+    "level": "A1"
+  },
+  {
+    "nl": "liever",
+    "ru": "скорее, охотнее",
+    "level": "A1"
+  },
+  {
+    "nl": "graag",
+    "ru": "охотно, пожалуйста",
+    "level": "A1"
+  },
+  {
+    "nl": "ding",
+    "ru": "вещь",
+    "level": "A1"
+  },
+  {
+    "nl": "plek",
+    "ru": "место",
+    "level": "A1"
+  },
+  {
+    "nl": "plaats",
+    "ru": "место",
+    "level": "A1"
+  },
+  {
+    "nl": "reden",
+    "ru": "причина",
+    "level": "A1"
+  },
+  {
+    "nl": "voorbeeld",
+    "ru": "пример",
+    "level": "A1"
+  },
+  {
+    "nl": "manier",
+    "ru": "способ",
+    "level": "A1"
+  },
+  {
+    "nl": "begin",
+    "ru": "начало",
+    "level": "A1"
+  },
+  {
+    "nl": "eind",
+    "ru": "конец",
+    "level": "A1"
+  },
+  {
+    "nl": "middel",
+    "ru": "середина / средство",
+    "level": "A1"
+  },
+  {
+    "nl": "soort",
+    "ru": "вид, сорт",
+    "level": "A1"
+  },
+  {
+    "nl": "feest",
+    "ru": "праздник, вечеринка",
+    "level": "A1"
+  },
+  {
+    "nl": "verjaardag",
+    "ru": "день рождения",
+    "level": "A1"
+  },
+  {
+    "nl": "vakantie",
+    "ru": "отпуск, каникулы",
+    "level": "A1"
+  },
+  {
+    "nl": "hobby",
+    "ru": "хобби",
+    "level": "A1"
+  },
+  {
+    "nl": "sport",
+    "ru": "спорт",
+    "level": "A1"
+  },
+  {
+    "nl": "spel",
+    "ru": "игра",
+    "level": "A1"
+  },
+  {
+    "nl": "liedje",
+    "ru": "песня",
+    "level": "A1"
+  },
+  {
+    "nl": "verhaal",
+    "ru": "история, рассказ",
+    "level": "A1"
+  },
+  {
+    "nl": "probleem",
+    "ru": "проблема",
+    "level": "A1"
+  },
+  {
+    "nl": "oplossing",
+    "ru": "решение",
+    "level": "A1"
+  },
+  {
+    "nl": "vraag",
+    "ru": "вопрос",
+    "level": "A1"
+  },
+  {
+    "nl": "antwoord",
+    "ru": "ответ",
+    "level": "A1"
+  },
+  {
+    "nl": "woord",
+    "ru": "слово",
+    "level": "A1"
+  },
+  {
+    "nl": "zin",
+    "ru": "предложение / смысл",
+    "level": "A1"
+  },
+  {
+    "nl": "taal",
+    "ru": "язык (речь)",
+    "level": "A1"
+  },
+  {
+    "nl": "les (урок/часть)",
+    "ru": "занятие",
+    "level": "A1"
+  },
+  {
+    "nl": "huiswerk",
+    "ru": "домашнее задание",
+    "level": "A1"
+  },
+  {
+    "nl": "examen",
+    "ru": "экзамен",
+    "level": "A1"
+  },
+  {
+    "nl": "test",
+    "ru": "тест",
+    "level": "A1"
+  },
+  {
+    "nl": "brief",
+    "ru": "письмо",
+    "level": "A1"
+  },
+  {
+    "nl": "e-mail",
+    "ru": "email",
+    "level": "A1"
+  },
+  {
+    "nl": "bericht",
+    "ru": "сообщение",
+    "level": "A1"
+  },
+  {
+    "nl": "internet",
+    "ru": "интернет",
+    "level": "A1"
+  },
+  {
+    "nl": "website",
+    "ru": "сайт",
+    "level": "A1"
+  },
+  {
+    "nl": "app",
+    "ru": "приложение",
+    "level": "A1"
+  },
+  {
+    "nl": "wifi",
+    "ru": "Wi-Fi",
+    "level": "A1"
+  },
+  {
+    "nl": "hond",
+    "ru": "собака",
+    "level": "A1"
+  },
+  {
+    "nl": "kat",
+    "ru": "кошка",
+    "level": "A1"
+  },
+  {
+    "nl": "poes",
+    "ru": "кошка (ласк.)",
+    "level": "A1"
+  },
+  {
+    "nl": "vogel",
+    "ru": "птица",
+    "level": "A1"
+  },
+  {
+    "nl": "paard",
+    "ru": "лошадь",
+    "level": "A1"
+  },
+  {
+    "nl": "koe",
+    "ru": "корова",
+    "level": "A1"
+  },
+  {
+    "nl": "boom",
+    "ru": "дерево",
+    "level": "A1"
+  },
+  {
+    "nl": "bloem",
+    "ru": "цветок",
+    "level": "A1"
+  },
+  {
+    "nl": "gras",
+    "ru": "трава",
+    "level": "A1"
+  },
+  {
+    "nl": "blad",
+    "ru": "лист",
+    "level": "A1"
+  },
+  {
+    "nl": "park",
+    "ru": "парк",
+    "level": "A1"
+  },
+  {
+    "nl": "bos",
+    "ru": "лес",
+    "level": "A1"
+  },
+  {
+    "nl": "zee",
+    "ru": "море",
+    "level": "A1"
+  },
+  {
+    "nl": "strand",
+    "ru": "пляж",
+    "level": "A1"
+  },
+  {
+    "nl": "meer (существ.)",
+    "ru": "озеро",
+    "level": "A1"
+  },
+  {
+    "nl": "rivier",
+    "ru": "река",
+    "level": "A1"
+  },
+  {
+    "nl": "berg",
+    "ru": "гора",
+    "level": "A1"
+  },
+  {
+    "nl": "eiland",
+    "ru": "остров",
+    "level": "A1"
+  },
+  {
+    "nl": "lucht",
+    "ru": "небо / воздух",
+    "level": "A1"
+  },
+  {
+    "nl": "vuur",
+    "ru": "огонь",
+    "level": "A1"
+  },
+  {
+    "nl": "aarde",
+    "ru": "земля",
+    "level": "A1"
+  },
+  {
+    "nl": "ijs",
+    "ru": "лёд / мороженое",
+    "level": "A1"
+  },
+  {
+    "nl": "hulp",
+    "ru": "помощь",
+    "level": "A1"
+  },
+  {
+    "nl": "afspraak",
+    "ru": "встреча, договорённость",
+    "level": "A1"
+  },
+  {
+    "nl": "lijst",
+    "ru": "список",
+    "level": "A1"
+  },
+  {
+    "nl": "kaart",
+    "ru": "карта / открытка",
+    "level": "A1"
+  },
+  {
+    "nl": "plan",
+    "ru": "план",
+    "level": "A1"
+  },
+  {
+    "nl": "idee",
+    "ru": "идея",
+    "level": "A1"
+  },
+  {
+    "nl": "nieuws",
+    "ru": "новости",
+    "level": "A1"
+  },
+  {
+    "nl": "informatie",
+    "ru": "информация",
+    "level": "A1"
+  }
+]

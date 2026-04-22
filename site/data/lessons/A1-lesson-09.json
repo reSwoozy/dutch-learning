@@ -1,0 +1,302 @@
+{
+  "id": "A1-lesson-09",
+  "num": 9,
+  "level": "A1",
+  "title": "Транспорт и город",
+  "minutes": 15,
+  "objectives": [
+    "Называть виды транспорта",
+    "Ориентироваться в городе",
+    "Спрашивать дорогу и направления",
+    "Понимать общественный транспорт"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Транспорт и город",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 9 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "- Называть виды транспорта\n- Ориентироваться в городе\n- Спрашивать дорогу и направления\n- Понимать общественный транспорт"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Транспорт (5 минут)",
+      "words": [
+        {
+          "nl": "de fiets",
+          "ru": "велосипед",
+          "pronunciation": "[də fits]"
+        },
+        {
+          "nl": "de auto",
+          "ru": "автомобиль",
+          "pronunciation": "[də ˈɑu̯to]"
+        },
+        {
+          "nl": "de bus",
+          "ru": "автобус",
+          "pronunciation": "[də bɵs]"
+        },
+        {
+          "nl": "de tram",
+          "ru": "трамвай",
+          "pronunciation": "[də trɑm]"
+        },
+        {
+          "nl": "de trein",
+          "ru": "поезд",
+          "pronunciation": "[də trɛi̯n]"
+        },
+        {
+          "nl": "het vliegtuig",
+          "ru": "самолет",
+          "pronunciation": "[ɦət ˈvliɣtœy̯x]"
+        },
+        {
+          "nl": "de metro",
+          "ru": "метро",
+          "pronunciation": "[də ˈmeːtro]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Места в городе (5 минут)",
+      "words": [
+        {
+          "nl": "het station",
+          "ru": "вокзал",
+          "pronunciation": "[ɦət staˈʃɔn]"
+        },
+        {
+          "nl": "de halte",
+          "ru": "остановка",
+          "pronunciation": "[də ˈɦɑltə]"
+        },
+        {
+          "nl": "het centrum",
+          "ru": "центр",
+          "pronunciation": "[ɦət ˈsɛntrɵm]"
+        },
+        {
+          "nl": "de winkel",
+          "ru": "магазин",
+          "pronunciation": "[də ˈʋɪŋkəl]"
+        },
+        {
+          "nl": "het park",
+          "ru": "парк",
+          "pronunciation": "[ɦət pɑrk]"
+        },
+        {
+          "nl": "de straat",
+          "ru": "улица",
+          "pronunciation": "[də straːt]"
+        },
+        {
+          "nl": "de brug",
+          "ru": "мост",
+          "pronunciation": "[də brɵx]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Направления (3 минуты)",
+      "words": [
+        {
+          "nl": "Waar is het station?",
+          "ru": "Где вокзал?",
+          "pronunciation": "[ʋaːr ɪs ɦət staˈʃɔn]"
+        },
+        {
+          "nl": "Ga rechtdoor",
+          "ru": "Идите прямо",
+          "pronunciation": "[ɣaː ˈrɛxtdoːr]"
+        },
+        {
+          "nl": "Sla links af",
+          "ru": "Поверните налево",
+          "pronunciation": "[slaː lɪŋks ɑf]"
+        },
+        {
+          "nl": "Sla rechts af",
+          "ru": "Поверните направо",
+          "pronunciation": "[slaː rɛxts ɑf]"
+        },
+        {
+          "nl": "Het is hier dichtbij",
+          "ru": "Это близко отсюда",
+          "pronunciation": "[ɦət ɪs ɦiːr ˈdɪxtbɛi̯]"
+        },
+        {
+          "nl": "Het is ver weg",
+          "ru": "Это далеко",
+          "pronunciation": "[ɦət ɪs vɛr ʋɛx]"
+        },
+        {
+          "nl": "aan de linkerkant",
+          "ru": "слева",
+          "pronunciation": "[aːn də ˈlɪŋkərkɑnt]"
+        },
+        {
+          "nl": "aan de rechterkant",
+          "ru": "справа",
+          "pronunciation": "[aːn də ˈrɛxtərkɑnt]"
+        },
+        {
+          "nl": "op de hoek",
+          "ru": "на углу",
+          "pronunciation": "[ɔp də ɦuk]"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Excuseer, waar is het station?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ga rechtdoor en dan sla links af."
+        },
+        {
+          "speaker": "A",
+          "text": "Is het ver?"
+        },
+        {
+          "speaker": "B",
+          "text": "Nee, het is vijf minuten lopen."
+        },
+        {
+          "speaker": "A",
+          "text": "Dank u wel!"
+        },
+        {
+          "speaker": "B",
+          "text": "Graag gedaan!"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Welke bus gaat naar het centrum?"
+        },
+        {
+          "speaker": "B",
+          "text": "Bus nummer 12."
+        },
+        {
+          "speaker": "A",
+          "text": "Waar is de halte?"
+        },
+        {
+          "speaker": "B",
+          "text": "Daar, aan de rechterkant."
+        },
+        {
+          "speaker": "A",
+          "text": "Hoe laat vertrekt de bus?"
+        },
+        {
+          "speaker": "B",
+          "text": "Om kwart over drie."
+        },
+        {
+          "speaker": "A",
+          "text": "Dank je wel!"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "1. Предлог met (с/на) для транспорта",
+      "content": "Для описания способа передвижения используется **met**:\n- Ik ga **met de trein** naar Amsterdam.\n- Zij gaat **met de bus** naar school.\n- Wij reizen **met het vliegtuig**.\nИсключение: **te voet** (пешком) -- без met."
+    },
+    {
+      "type": "grammar",
+      "title": "2. Предлог naar (в/к) для направления",
+      "content": "- Ik ga **naar** het station.\n- Wij fietsen **naar** het centrum.\n- Hij rijdt **naar** zijn werk."
+    },
+    {
+      "type": "text",
+      "title": "3. Hoe laat...? (Во сколько...?)",
+      "content": "- **Hoe laat vertrekt de trein?** -- Во сколько отправляется поезд?\n- **Hoe laat komt de bus?** -- Во сколько приходит автобус?\n- **Om drie uur.** -- В три часа."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Заполни пропуски",
+      "items": [
+        {
+          "question": "Ik ga __ de trein naar Utrecht."
+        },
+        {
+          "question": "Waar is __ station?"
+        },
+        {
+          "question": "Sla links __ bij de brug."
+        },
+        {
+          "question": "__ laat vertrekt de bus?",
+          "answers": [
+            "1. met (способ передвижения)",
+            "2. het (station -- het-woord)",
+            "3. af (afslaan -- повернуть)",
+            "4. Hoe (Hoe laat = во сколько)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Переведи на нидерландский",
+      "items": [
+        {
+          "question": "Я еду на велосипеде на работу."
+        },
+        {
+          "question": "Где остановка автобуса?"
+        },
+        {
+          "question": "Идите прямо и поверните направо.",
+          "answers": [
+            "1. Ik ga met de fiets naar mijn werk. / Ik fiets naar mijn werk.",
+            "2. Waar is de bushalte?",
+            "3. Ga rechtdoor en sla rechts af."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Говорение",
+      "items": [
+        {
+          "question": "Hoe ga je naar je werk? (Ik ga met...)"
+        },
+        {
+          "question": "Welk vervoermiddel gebruik je het meest? (Ik gebruik...)"
+        },
+        {
+          "question": "Beschrijf de weg van je huis naar de supermarkt."
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Транспортная культура Нидерландов",
+      "content": "- **Велосипед -- король**: 23 млн велосипедов на 17 млн жителей. Fietspad (велодорожки) есть повсюду.\n- **OV-chipkaart**: единая карта для всего общественного транспорта (трамвай, автобус, метро, поезд). Купи анонимную карту и пополняй.\n- **NS (Nederlandse Spoorwegen)**: железные дороги. Поезда ходят часто и пунктуально. Расписание на ns.nl или в приложении NS.\n- **9292.nl**: планировщик маршрутов для всего общественного транспорта.\n- **Пунктуальность**: транспорт ходит по расписанию. Опоздание на 5 минут считается задержкой.\n- **Inchecken/uitchecken**: не забывай прикладывать OV-chipkaart при входе И при выходе, иначе спишут максимальный тариф."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-09.json"
+}

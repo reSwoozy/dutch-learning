@@ -1,0 +1,32 @@
+{
+  "id": "verbindingswoorden",
+  "title": "Verbindingswoorden / signaalwoorden",
+  "titleRu": "Связующие слова и сигнальные слова",
+  "level": "B1",
+  "type": "reference",
+  "description": "Слова-связки, которые задают логику текста. В экзаменах NT2 они оцениваются отдельным критерием (samenhang).",
+  "structure": [
+    {"title": "Opsomming", "note": "Перечисление: ten eerste, daarnaast, bovendien, tevens, voorts, tot slot."},
+    {"title": "Tegenstelling", "note": "Противопоставление: maar, echter, daarentegen, toch, hoewel, niettemin."},
+    {"title": "Reden / oorzaak", "note": "Причина: omdat, want, doordat, aangezien, vanwege."},
+    {"title": "Gevolg", "note": "Следствие: dus, daarom, vandaar, bijgevolg, dientengevolge (formeel)."},
+    {"title": "Voorbeeld", "note": "Пример: bijvoorbeeld, zoals, met name, ter illustratie."},
+    {"title": "Tijd", "note": "Время: eerst, daarna, vervolgens, ondertussen, intussen, ten slotte."},
+    {"title": "Voorwaarde", "note": "Условие: als, indien, mits (при условии), tenzij (если только не)."},
+    {"title": "Conclusie", "note": "Вывод: kortom, al met al, samenvattend, concluderend."}
+  ],
+  "phrases": [
+    "Ten eerste... Ten tweede... Tot slot...",
+    "Hoewel het idee goed is, blijkt het in de praktijk lastig.",
+    "De kosten zijn hoog; daardoor haakt de helft af.",
+    "Aangezien er weinig tijd is, moeten we snel beslissen.",
+    "Indien u akkoord gaat, verzoek ik u de bijlage te tekenen.",
+    "Al met al ben ik van mening dat..."
+  ],
+  "model": "Пример текста с разметкой связок:\n\n'In Nederland zijn er de laatste jaren steeds meer elektrische auto's. [Ten eerste] worden ze gestimuleerd door belastingvoordelen. [Daarnaast] zijn ze schoner en stiller dan gewone auto's. [Echter] zijn er ook nadelen: de aanschafprijs is hoog en er zijn nog niet genoeg laadpalen. [Dientengevolge] aarzelen veel automobilisten. [Al met al] lijkt de trend toch door te zetten, [mits] de overheid blijft investeren in de infrastructuur.'",
+  "tips": [
+    "Не перегружайте текст связками — 1 на абзац достаточно.",
+    "После некоторых связок — инверсия (бывший порядок слов): 'Daarom ga ik...'.",
+    "'want' и 'omdat' означают одно и то же, но требуют разного порядка слов: 'want + hoofdzin', 'omdat + bijzin'."
+  ]
+}

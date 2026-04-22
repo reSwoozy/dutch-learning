@@ -1,0 +1,1352 @@
+[
+  {
+    "nl": "de bouwsteen",
+    "ru": "строительный блок (перен. компонент)",
+    "level": "B1"
+  },
+  {
+    "nl": "de doelgerichtheid",
+    "ru": "целеустремлённость",
+    "level": "B1"
+  },
+  {
+    "nl": "de inzet",
+    "ru": "усилие, приверженность",
+    "level": "B1"
+  },
+  {
+    "nl": "de overtuiging",
+    "ru": "убеждение",
+    "level": "B1"
+  },
+  {
+    "nl": "het vertrouwen in",
+    "ru": "доверие к",
+    "level": "B1"
+  },
+  {
+    "nl": "de aanmoediging",
+    "ru": "ободрение",
+    "level": "B1"
+  },
+  {
+    "nl": "de bevestiging",
+    "ru": "подтверждение",
+    "level": "B1"
+  },
+  {
+    "nl": "de ontkenning",
+    "ru": "отрицание",
+    "level": "B1"
+  },
+  {
+    "nl": "de verdraaiing",
+    "ru": "искажение",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitbreiding",
+    "ru": "расширение",
+    "level": "B1"
+  },
+  {
+    "nl": "de inperking",
+    "ru": "ограничение",
+    "level": "B1"
+  },
+  {
+    "nl": "de bezuiniging",
+    "ru": "экономия, сокращение расходов",
+    "level": "B1"
+  },
+  {
+    "nl": "de verspilling",
+    "ru": "расточительность",
+    "level": "B1"
+  },
+  {
+    "nl": "de overschrijding",
+    "ru": "превышение",
+    "level": "B1"
+  },
+  {
+    "nl": "de onderbenutting",
+    "ru": "недоиспользование",
+    "level": "B1"
+  },
+  {
+    "nl": "de overbelasting",
+    "ru": "перегрузка",
+    "level": "B1"
+  },
+  {
+    "nl": "de ontlasting",
+    "ru": "облегчение нагрузки",
+    "level": "B1"
+  },
+  {
+    "nl": "de vereenvoudiging",
+    "ru": "упрощение",
+    "level": "B1"
+  },
+  {
+    "nl": "de bemoeilijking",
+    "ru": "затруднение",
+    "level": "B1"
+  },
+  {
+    "nl": "de vertraging",
+    "ru": "замедление, задержка",
+    "level": "B1"
+  },
+  {
+    "nl": "de versnelling",
+    "ru": "ускорение",
+    "level": "B1"
+  },
+  {
+    "nl": "de herhaling",
+    "ru": "повторение",
+    "level": "B1"
+  },
+  {
+    "nl": "de bevestigingsmail",
+    "ru": "письмо с подтверждением",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitnodigingsmail",
+    "ru": "письмо-приглашение",
+    "level": "B1"
+  },
+  {
+    "nl": "de afwijzingsmail",
+    "ru": "письмо с отказом",
+    "level": "B1"
+  },
+  {
+    "nl": "de oproep tot actie",
+    "ru": "призыв к действию",
+    "level": "B1"
+  },
+  {
+    "nl": "het spoeddebat",
+    "ru": "срочные дебаты",
+    "level": "B1"
+  },
+  {
+    "nl": "de aanbeveling",
+    "ru": "рекомендация",
+    "level": "B1"
+  },
+  {
+    "nl": "de beoordeling",
+    "ru": "оценка",
+    "level": "B1"
+  },
+  {
+    "nl": "het beroepsprofiel",
+    "ru": "профессиональный профиль",
+    "level": "B1"
+  },
+  {
+    "nl": "de competentieprofiel",
+    "ru": "профиль компетенций",
+    "level": "B1"
+  },
+  {
+    "nl": "de vaardigheden",
+    "ru": "навыки",
+    "level": "B1"
+  },
+  {
+    "nl": "de soft skills",
+    "ru": "гибкие навыки",
+    "level": "B1"
+  },
+  {
+    "nl": "de communicatievaardigheden",
+    "ru": "коммуникативные навыки",
+    "level": "B1"
+  },
+  {
+    "nl": "de organisatorische vaardigheden",
+    "ru": "организационные навыки",
+    "level": "B1"
+  },
+  {
+    "nl": "het werkethos",
+    "ru": "трудовая этика",
+    "level": "B1"
+  },
+  {
+    "nl": "de collegialiteit",
+    "ru": "коллегиальность",
+    "level": "B1"
+  },
+  {
+    "nl": "de werksfeer",
+    "ru": "рабочая атмосфера",
+    "level": "B1"
+  },
+  {
+    "nl": "de werkdruk",
+    "ru": "рабочая нагрузка",
+    "level": "B1"
+  },
+  {
+    "nl": "de werk-privébalans",
+    "ru": "баланс между работой и личной жизнью",
+    "level": "B1"
+  },
+  {
+    "nl": "de burn-out",
+    "ru": "выгорание",
+    "level": "B1"
+  },
+  {
+    "nl": "de bore-out",
+    "ru": "выгорание от скуки",
+    "level": "B1"
+  },
+  {
+    "nl": "het ziekteverzuim",
+    "ru": "больничные (отсутствия на работе)",
+    "level": "B1"
+  },
+  {
+    "nl": "het re-integratietraject",
+    "ru": "реинтеграционный процесс",
+    "level": "B1"
+  },
+  {
+    "nl": "de arbeidsongeschiktheid",
+    "ru": "нетрудоспособность",
+    "level": "B1"
+  },
+  {
+    "nl": "de wao-uitkering",
+    "ru": "пособие по нетрудоспособности",
+    "level": "B1"
+  },
+  {
+    "nl": "de ww-uitkering",
+    "ru": "пособие по безработице",
+    "level": "B1"
+  },
+  {
+    "nl": "de bijstandsuitkering",
+    "ru": "социальное пособие",
+    "level": "B1"
+  },
+  {
+    "nl": "de aow",
+    "ru": "государственная пенсия (AOW)",
+    "level": "B1"
+  },
+  {
+    "nl": "het aanvullend pensioen",
+    "ru": "дополнительная пенсия",
+    "level": "B1"
+  },
+  {
+    "nl": "de pensioenopbouw",
+    "ru": "накопление пенсии",
+    "level": "B1"
+  },
+  {
+    "nl": "de pensioenvoorziening",
+    "ru": "пенсионное обеспечение",
+    "level": "B1"
+  },
+  {
+    "nl": "de belastingdienst",
+    "ru": "налоговая служба",
+    "level": "B1"
+  },
+  {
+    "nl": "het burgerservicenummer",
+    "ru": "номер гражданина (BSN)",
+    "level": "B1"
+  },
+  {
+    "nl": "de digid",
+    "ru": "DigiD (цифровая подпись)",
+    "level": "B1"
+  },
+  {
+    "nl": "het mijn overheid",
+    "ru": "личный кабинет госуслуг",
+    "level": "B1"
+  },
+  {
+    "nl": "de inkomstenbelasting",
+    "ru": "подоходный налог",
+    "level": "B1"
+  },
+  {
+    "nl": "de omzetbelasting",
+    "ru": "НДС (налог с оборота)",
+    "level": "B1"
+  },
+  {
+    "nl": "de btw",
+    "ru": "НДС",
+    "level": "B1"
+  },
+  {
+    "nl": "de aangifte inkomstenbelasting",
+    "ru": "декларация о доходах",
+    "level": "B1"
+  },
+  {
+    "nl": "de teruggave",
+    "ru": "возврат (налога)",
+    "level": "B1"
+  },
+  {
+    "nl": "de naheffing",
+    "ru": "доначисление",
+    "level": "B1"
+  },
+  {
+    "nl": "de aanslag",
+    "ru": "налоговое извещение",
+    "level": "B1"
+  },
+  {
+    "nl": "de kinderopvangtoeslag",
+    "ru": "пособие на детский сад",
+    "level": "B1"
+  },
+  {
+    "nl": "de huurtoeslag",
+    "ru": "жилищное пособие",
+    "level": "B1"
+  },
+  {
+    "nl": "de zorgtoeslag",
+    "ru": "медицинская субсидия",
+    "level": "B1"
+  },
+  {
+    "nl": "het kindgebonden budget",
+    "ru": "детский бюджет",
+    "level": "B1"
+  },
+  {
+    "nl": "de kinderbijslag",
+    "ru": "детское пособие",
+    "level": "B1"
+  },
+  {
+    "nl": "de alimentatie",
+    "ru": "алименты",
+    "level": "B1"
+  },
+  {
+    "nl": "het ouderschapsverlof",
+    "ru": "родительский отпуск",
+    "level": "B1"
+  },
+  {
+    "nl": "het zwangerschapsverlof",
+    "ru": "декретный отпуск (беременность)",
+    "level": "B1"
+  },
+  {
+    "nl": "het bevallingsverlof",
+    "ru": "декретный отпуск (после родов)",
+    "level": "B1"
+  },
+  {
+    "nl": "het vaderschapsverlof",
+    "ru": "отцовский отпуск",
+    "level": "B1"
+  },
+  {
+    "nl": "het zorgverlof",
+    "ru": "отпуск по уходу",
+    "level": "B1"
+  },
+  {
+    "nl": "de mantelzorger",
+    "ru": "ухаживающий (за родственником)",
+    "level": "B1"
+  },
+  {
+    "nl": "de thuiszorg",
+    "ru": "уход на дому",
+    "level": "B1"
+  },
+  {
+    "nl": "de wijkverpleging",
+    "ru": "участковая медсестра",
+    "level": "B1"
+  },
+  {
+    "nl": "de spoedeisende hulp",
+    "ru": "скорая помощь",
+    "level": "B1"
+  },
+  {
+    "nl": "de huisartsenpost",
+    "ru": "пункт неотложной помощи терапевта",
+    "level": "B1"
+  },
+  {
+    "nl": "het consultatiebureau",
+    "ru": "детская консультация",
+    "level": "B1"
+  },
+  {
+    "nl": "de ggz",
+    "ru": "психиатрическая помощь",
+    "level": "B1"
+  },
+  {
+    "nl": "de psycholoog",
+    "ru": "психолог",
+    "level": "B1"
+  },
+  {
+    "nl": "de psychiater",
+    "ru": "психиатр",
+    "level": "B1"
+  },
+  {
+    "nl": "de therapie",
+    "ru": "терапия",
+    "level": "B1"
+  },
+  {
+    "nl": "de fysiotherapie",
+    "ru": "физиотерапия",
+    "level": "B1"
+  },
+  {
+    "nl": "de verloskundige",
+    "ru": "акушерка",
+    "level": "B1"
+  },
+  {
+    "nl": "de kraamverzorgster",
+    "ru": "помощница после родов",
+    "level": "B1"
+  },
+  {
+    "nl": "de tandartshulp",
+    "ru": "стоматологическая помощь",
+    "level": "B1"
+  },
+  {
+    "nl": "de mondhygiënist",
+    "ru": "гигиенист полости рта",
+    "level": "B1"
+  },
+  {
+    "nl": "de hoorzorg",
+    "ru": "слуховая помощь",
+    "level": "B1"
+  },
+  {
+    "nl": "de oogzorg",
+    "ru": "офтальмология",
+    "level": "B1"
+  },
+  {
+    "nl": "de opticien",
+    "ru": "оптометрист",
+    "level": "B1"
+  },
+  {
+    "nl": "de woningcorporatie",
+    "ru": "жилищная корпорация",
+    "level": "B1"
+  },
+  {
+    "nl": "de sociale huurwoning",
+    "ru": "социальное жильё",
+    "level": "B1"
+  },
+  {
+    "nl": "de vrije sector",
+    "ru": "коммерческий сектор (жилья)",
+    "level": "B1"
+  },
+  {
+    "nl": "de koopwoning",
+    "ru": "собственное жильё",
+    "level": "B1"
+  },
+  {
+    "nl": "de huurwoning",
+    "ru": "арендное жильё",
+    "level": "B1"
+  },
+  {
+    "nl": "de hypotheekrente",
+    "ru": "ставка по ипотеке",
+    "level": "B1"
+  },
+  {
+    "nl": "de hypotheekaftrek",
+    "ru": "вычет по ипотеке",
+    "level": "B1"
+  },
+  {
+    "nl": "de taxatie",
+    "ru": "оценка (недвижимости)",
+    "level": "B1"
+  },
+  {
+    "nl": "de bouwkundige keuring",
+    "ru": "техническая экспертиза дома",
+    "level": "B1"
+  },
+  {
+    "nl": "de notaris",
+    "ru": "нотариус",
+    "level": "B1"
+  },
+  {
+    "nl": "de akte",
+    "ru": "акт, документ",
+    "level": "B1"
+  },
+  {
+    "nl": "de leveringsakte",
+    "ru": "акт о передаче собственности",
+    "level": "B1"
+  },
+  {
+    "nl": "de hypotheekakte",
+    "ru": "ипотечный договор",
+    "level": "B1"
+  },
+  {
+    "nl": "de overdrachtsbelasting",
+    "ru": "налог на передачу собственности",
+    "level": "B1"
+  },
+  {
+    "nl": "de servicekosten",
+    "ru": "сервисные платежи (за квартиру)",
+    "level": "B1"
+  },
+  {
+    "nl": "de vve",
+    "ru": "ассоциация собственников жилья",
+    "level": "B1"
+  },
+  {
+    "nl": "de huurcommissie",
+    "ru": "арендная комиссия",
+    "level": "B1"
+  },
+  {
+    "nl": "het puntensysteem",
+    "ru": "балльная система (аренды)",
+    "level": "B1"
+  },
+  {
+    "nl": "het woningruil",
+    "ru": "обмен жильём",
+    "level": "B1"
+  },
+  {
+    "nl": "de doorstroming",
+    "ru": "ротация (жильё, транспорт)",
+    "level": "B1"
+  },
+  {
+    "nl": "de woningnood",
+    "ru": "жилищный кризис",
+    "level": "B1"
+  },
+  {
+    "nl": "het woningtekort",
+    "ru": "дефицит жилья",
+    "level": "B1"
+  },
+  {
+    "nl": "het sleutelkastje",
+    "ru": "ключница",
+    "level": "B1"
+  },
+  {
+    "nl": "de sleuteloverdracht",
+    "ru": "передача ключей",
+    "level": "B1"
+  },
+  {
+    "nl": "de eindafrekening",
+    "ru": "окончательный расчёт",
+    "level": "B1"
+  },
+  {
+    "nl": "het opnameformulier",
+    "ru": "акт осмотра",
+    "level": "B1"
+  },
+  {
+    "nl": "de borg",
+    "ru": "залог",
+    "level": "B1"
+  },
+  {
+    "nl": "de opzegtermijn",
+    "ru": "срок расторжения",
+    "level": "B1"
+  },
+  {
+    "nl": "de huurverhoging",
+    "ru": "повышение арендной платы",
+    "level": "B1"
+  },
+  {
+    "nl": "de huurverlaging",
+    "ru": "снижение арендной платы",
+    "level": "B1"
+  },
+  {
+    "nl": "de energielabel",
+    "ru": "класс энергоэффективности",
+    "level": "B1"
+  },
+  {
+    "nl": "de isolatie",
+    "ru": "изоляция",
+    "level": "B1"
+  },
+  {
+    "nl": "de dubbele beglazing",
+    "ru": "двойное остекление",
+    "level": "B1"
+  },
+  {
+    "nl": "de warmtepomp",
+    "ru": "тепловой насос",
+    "level": "B1"
+  },
+  {
+    "nl": "de zonnepanelen",
+    "ru": "солнечные панели",
+    "level": "B1"
+  },
+  {
+    "nl": "de cv-ketel",
+    "ru": "газовый котёл",
+    "level": "B1"
+  },
+  {
+    "nl": "de thermostaat",
+    "ru": "термостат",
+    "level": "B1"
+  },
+  {
+    "nl": "de meterkast",
+    "ru": "щиток, счётчики",
+    "level": "B1"
+  },
+  {
+    "nl": "de slimme meter",
+    "ru": "умный счётчик",
+    "level": "B1"
+  },
+  {
+    "nl": "de netbeheerder",
+    "ru": "сетевой оператор",
+    "level": "B1"
+  },
+  {
+    "nl": "de energieleverancier",
+    "ru": "поставщик энергии",
+    "level": "B1"
+  },
+  {
+    "nl": "het voorschot",
+    "ru": "аванс",
+    "level": "B1"
+  },
+  {
+    "nl": "de jaarafrekening",
+    "ru": "годовой расчёт",
+    "level": "B1"
+  },
+  {
+    "nl": "het verbruik",
+    "ru": "потребление",
+    "level": "B1"
+  },
+  {
+    "nl": "de vaste kosten",
+    "ru": "постоянные расходы",
+    "level": "B1"
+  },
+  {
+    "nl": "de variabele kosten",
+    "ru": "переменные расходы",
+    "level": "B1"
+  },
+  {
+    "nl": "de schoolgids",
+    "ru": "школьный справочник",
+    "level": "B1"
+  },
+  {
+    "nl": "het rooster",
+    "ru": "расписание",
+    "level": "B1"
+  },
+  {
+    "nl": "het huiswerk",
+    "ru": "домашнее задание",
+    "level": "B1"
+  },
+  {
+    "nl": "de rapportvergadering",
+    "ru": "родительское собрание",
+    "level": "B1"
+  },
+  {
+    "nl": "het oudergesprek",
+    "ru": "беседа с родителем",
+    "level": "B1"
+  },
+  {
+    "nl": "de oudervereniging",
+    "ru": "родительский комитет",
+    "level": "B1"
+  },
+  {
+    "nl": "de medezeggenschapsraad",
+    "ru": "совет участия",
+    "level": "B1"
+  },
+  {
+    "nl": "het leerlingvolgsysteem",
+    "ru": "система мониторинга ученика",
+    "level": "B1"
+  },
+  {
+    "nl": "de cito-toets",
+    "ru": "тест Cito",
+    "level": "B1"
+  },
+  {
+    "nl": "het schooladvies",
+    "ru": "школьная рекомендация",
+    "level": "B1"
+  },
+  {
+    "nl": "vmbo",
+    "ru": "предпрофессиональное среднее образование",
+    "level": "B1"
+  },
+  {
+    "nl": "havo",
+    "ru": "общее среднее образование (HAVO)",
+    "level": "B1"
+  },
+  {
+    "nl": "vwo",
+    "ru": "подготовительное научное образование (VWO)",
+    "level": "B1"
+  },
+  {
+    "nl": "mbo",
+    "ru": "среднее профессиональное образование",
+    "level": "B1"
+  },
+  {
+    "nl": "hbo",
+    "ru": "высшее профессиональное образование",
+    "level": "B1"
+  },
+  {
+    "nl": "wo",
+    "ru": "университетское образование",
+    "level": "B1"
+  },
+  {
+    "nl": "de studiefinanciering",
+    "ru": "финансирование учёбы",
+    "level": "B1"
+  },
+  {
+    "nl": "de studielening",
+    "ru": "студенческий кредит",
+    "level": "B1"
+  },
+  {
+    "nl": "de aanvullende beurs",
+    "ru": "дополнительная стипендия",
+    "level": "B1"
+  },
+  {
+    "nl": "het collegegeld",
+    "ru": "плата за обучение",
+    "level": "B1"
+  },
+  {
+    "nl": "de ov-studentenkaart",
+    "ru": "студенческая транспортная карта",
+    "level": "B1"
+  },
+  {
+    "nl": "het studentenhuis",
+    "ru": "студенческое общежитие",
+    "level": "B1"
+  },
+  {
+    "nl": "de studievereniging",
+    "ru": "студенческое объединение",
+    "level": "B1"
+  },
+  {
+    "nl": "de introductieweek",
+    "ru": "неделя знакомств",
+    "level": "B1"
+  },
+  {
+    "nl": "de inschrijving",
+    "ru": "запись, регистрация",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitschrijving",
+    "ru": "снятие с регистрации",
+    "level": "B1"
+  },
+  {
+    "nl": "de matching",
+    "ru": "матчинг (отбор)",
+    "level": "B1"
+  },
+  {
+    "nl": "de decentrale selectie",
+    "ru": "децентрализованный отбор",
+    "level": "B1"
+  },
+  {
+    "nl": "de numerus fixus",
+    "ru": "ограничение мест",
+    "level": "B1"
+  },
+  {
+    "nl": "het judicium",
+    "ru": "отметка о степени",
+    "level": "B1"
+  },
+  {
+    "nl": "cum laude",
+    "ru": "с отличием",
+    "level": "B1"
+  },
+  {
+    "nl": "de bachelor",
+    "ru": "бакалавр",
+    "level": "B1"
+  },
+  {
+    "nl": "de master",
+    "ru": "магистр",
+    "level": "B1"
+  },
+  {
+    "nl": "de propedeuse",
+    "ru": "пропедевтика (первый год)",
+    "level": "B1"
+  },
+  {
+    "nl": "het stage",
+    "ru": "стажировка",
+    "level": "B1"
+  },
+  {
+    "nl": "de stagiair",
+    "ru": "стажёр",
+    "level": "B1"
+  },
+  {
+    "nl": "de stagebegeleider",
+    "ru": "руководитель стажировки",
+    "level": "B1"
+  },
+  {
+    "nl": "het afstudeerproject",
+    "ru": "дипломный проект",
+    "level": "B1"
+  },
+  {
+    "nl": "de scriptiebegeleider",
+    "ru": "научный руководитель",
+    "level": "B1"
+  },
+  {
+    "nl": "het afstudeergesprek",
+    "ru": "выпускное собеседование",
+    "level": "B1"
+  },
+  {
+    "nl": "de diploma-uitreiking",
+    "ru": "выпускной, вручение дипломов",
+    "level": "B1"
+  },
+  {
+    "nl": "het openbaar vervoer",
+    "ru": "общественный транспорт",
+    "level": "B1"
+  },
+  {
+    "nl": "de NS",
+    "ru": "Нидерландские железные дороги",
+    "level": "B1"
+  },
+  {
+    "nl": "de intercity",
+    "ru": "поезд-интерсити",
+    "level": "B1"
+  },
+  {
+    "nl": "de sprinter",
+    "ru": "электричка (Sprinter)",
+    "level": "B1"
+  },
+  {
+    "nl": "de perron",
+    "ru": "платформа",
+    "level": "B1"
+  },
+  {
+    "nl": "de conducteur",
+    "ru": "контролёр",
+    "level": "B1"
+  },
+  {
+    "nl": "de machinist",
+    "ru": "машинист",
+    "level": "B1"
+  },
+  {
+    "nl": "de buslijn",
+    "ru": "автобусный маршрут",
+    "level": "B1"
+  },
+  {
+    "nl": "de tramhalte",
+    "ru": "трамвайная остановка",
+    "level": "B1"
+  },
+  {
+    "nl": "de metro",
+    "ru": "метро",
+    "level": "B1"
+  },
+  {
+    "nl": "de fietsenstalling",
+    "ru": "велопарковка",
+    "level": "B1"
+  },
+  {
+    "nl": "het fietspad",
+    "ru": "велодорожка",
+    "level": "B1"
+  },
+  {
+    "nl": "de snelfietsroute",
+    "ru": "скоростная велодорожка",
+    "level": "B1"
+  },
+  {
+    "nl": "de rotonde",
+    "ru": "круговой перекрёсток",
+    "level": "B1"
+  },
+  {
+    "nl": "de kruising",
+    "ru": "перекрёсток",
+    "level": "B1"
+  },
+  {
+    "nl": "de verkeerslichten",
+    "ru": "светофор",
+    "level": "B1"
+  },
+  {
+    "nl": "de zebrapad",
+    "ru": "пешеходный переход",
+    "level": "B1"
+  },
+  {
+    "nl": "de voetganger",
+    "ru": "пешеход",
+    "level": "B1"
+  },
+  {
+    "nl": "de fietser",
+    "ru": "велосипедист",
+    "level": "B1"
+  },
+  {
+    "nl": "de automobilist",
+    "ru": "автомобилист",
+    "level": "B1"
+  },
+  {
+    "nl": "de brommer",
+    "ru": "мопед",
+    "level": "B1"
+  },
+  {
+    "nl": "de scooter",
+    "ru": "скутер",
+    "level": "B1"
+  },
+  {
+    "nl": "het kenteken",
+    "ru": "номерной знак",
+    "level": "B1"
+  },
+  {
+    "nl": "de apk",
+    "ru": "техосмотр (APK)",
+    "level": "B1"
+  },
+  {
+    "nl": "de wegenbelasting",
+    "ru": "транспортный налог",
+    "level": "B1"
+  },
+  {
+    "nl": "de verzekeringsplicht",
+    "ru": "обязательное страхование",
+    "level": "B1"
+  },
+  {
+    "nl": "de schadevrije jaren",
+    "ru": "безаварийные годы (страховка)",
+    "level": "B1"
+  },
+  {
+    "nl": "de voorrang",
+    "ru": "приоритет, преимущество",
+    "level": "B1"
+  },
+  {
+    "nl": "de inhaalstrook",
+    "ru": "полоса обгона",
+    "level": "B1"
+  },
+  {
+    "nl": "de afslag",
+    "ru": "съезд с дороги",
+    "level": "B1"
+  },
+  {
+    "nl": "de oprit",
+    "ru": "въезд",
+    "level": "B1"
+  },
+  {
+    "nl": "de bebouwde kom",
+    "ru": "населённый пункт",
+    "level": "B1"
+  },
+  {
+    "nl": "de snelheidscontrole",
+    "ru": "контроль скорости",
+    "level": "B1"
+  },
+  {
+    "nl": "de flitspaal",
+    "ru": "камера фиксации скорости",
+    "level": "B1"
+  },
+  {
+    "nl": "de vrije dag",
+    "ru": "выходной",
+    "level": "B1"
+  },
+  {
+    "nl": "de feestdag",
+    "ru": "праздничный день",
+    "level": "B1"
+  },
+  {
+    "nl": "Koningsdag",
+    "ru": "День короля",
+    "level": "B1"
+  },
+  {
+    "nl": "Bevrijdingsdag",
+    "ru": "День освобождения",
+    "level": "B1"
+  },
+  {
+    "nl": "Dodenherdenking",
+    "ru": "День памяти погибших",
+    "level": "B1"
+  },
+  {
+    "nl": "Hemelvaart",
+    "ru": "Вознесение",
+    "level": "B1"
+  },
+  {
+    "nl": "Pinksteren",
+    "ru": "Троица",
+    "level": "B1"
+  },
+  {
+    "nl": "Goede Vrijdag",
+    "ru": "Страстная пятница",
+    "level": "B1"
+  },
+  {
+    "nl": "Pasen",
+    "ru": "Пасха",
+    "level": "B1"
+  },
+  {
+    "nl": "Sinterklaas",
+    "ru": "Синтерклаас",
+    "level": "B1"
+  },
+  {
+    "nl": "de pepernoten",
+    "ru": "печенье «пеперноты»",
+    "level": "B1"
+  },
+  {
+    "nl": "de speculaas",
+    "ru": "спекулаас (печенье)",
+    "level": "B1"
+  },
+  {
+    "nl": "oliebollen",
+    "ru": "олиболлен (пончики)",
+    "level": "B1"
+  },
+  {
+    "nl": "de haring",
+    "ru": "сельдь",
+    "level": "B1"
+  },
+  {
+    "nl": "de stamppot",
+    "ru": "стамппот (пюре с овощами)",
+    "level": "B1"
+  },
+  {
+    "nl": "de bitterballen",
+    "ru": "биттерболлен",
+    "level": "B1"
+  },
+  {
+    "nl": "de kroket",
+    "ru": "крокет",
+    "level": "B1"
+  },
+  {
+    "nl": "de poffertjes",
+    "ru": "мини-блинчики",
+    "level": "B1"
+  },
+  {
+    "nl": "de stroopwafel",
+    "ru": "вафля со сиропом",
+    "level": "B1"
+  },
+  {
+    "nl": "de hagelslag",
+    "ru": "шоколадная посыпка",
+    "level": "B1"
+  },
+  {
+    "nl": "de kaasschaaf",
+    "ru": "сырный нож-шарж",
+    "level": "B1"
+  },
+  {
+    "nl": "het avondeten",
+    "ru": "ужин",
+    "level": "B1"
+  },
+  {
+    "nl": "het ontbijt",
+    "ru": "завтрак",
+    "level": "B1"
+  },
+  {
+    "nl": "de lunch",
+    "ru": "обед",
+    "level": "B1"
+  },
+  {
+    "nl": "het diner",
+    "ru": "ужин (формальный)",
+    "level": "B1"
+  },
+  {
+    "nl": "de borrel",
+    "ru": "посиделки с напитками",
+    "level": "B1"
+  },
+  {
+    "nl": "de barbecue",
+    "ru": "барбекю",
+    "level": "B1"
+  },
+  {
+    "nl": "de picknick",
+    "ru": "пикник",
+    "level": "B1"
+  },
+  {
+    "nl": "de wandeling",
+    "ru": "прогулка",
+    "level": "B1"
+  },
+  {
+    "nl": "de fietstocht",
+    "ru": "велопрогулка",
+    "level": "B1"
+  },
+  {
+    "nl": "de rondleiding",
+    "ru": "экскурсия",
+    "level": "B1"
+  },
+  {
+    "nl": "de bezichtiging",
+    "ru": "осмотр",
+    "level": "B1"
+  },
+  {
+    "nl": "de bezoeker",
+    "ru": "посетитель",
+    "level": "B1"
+  },
+  {
+    "nl": "de toeristenattractie",
+    "ru": "туристическая достопримечательность",
+    "level": "B1"
+  },
+  {
+    "nl": "de souvenir",
+    "ru": "сувенир",
+    "level": "B1"
+  },
+  {
+    "nl": "het vlieg­ticket",
+    "ru": "авиабилет",
+    "level": "B1"
+  },
+  {
+    "nl": "de treinkaart",
+    "ru": "билет на поезд",
+    "level": "B1"
+  },
+  {
+    "nl": "de boardingpass",
+    "ru": "посадочный талон",
+    "level": "B1"
+  },
+  {
+    "nl": "de incheckbalie",
+    "ru": "стойка регистрации",
+    "level": "B1"
+  },
+  {
+    "nl": "de handbagage",
+    "ru": "ручная кладь",
+    "level": "B1"
+  },
+  {
+    "nl": "de ruimbagage",
+    "ru": "сдаваемый багаж",
+    "level": "B1"
+  },
+  {
+    "nl": "de douane",
+    "ru": "таможня",
+    "level": "B1"
+  },
+  {
+    "nl": "de paspoortcontrole",
+    "ru": "паспортный контроль",
+    "level": "B1"
+  },
+  {
+    "nl": "de vertrekhal",
+    "ru": "зал вылета",
+    "level": "B1"
+  },
+  {
+    "nl": "de aankomsthal",
+    "ru": "зал прилёта",
+    "level": "B1"
+  },
+  {
+    "nl": "de gate",
+    "ru": "гейт",
+    "level": "B1"
+  },
+  {
+    "nl": "de transfer",
+    "ru": "пересадка",
+    "level": "B1"
+  },
+  {
+    "nl": "de stopover",
+    "ru": "стыковка",
+    "level": "B1"
+  },
+  {
+    "nl": "de reisverzekering",
+    "ru": "туристическая страховка",
+    "level": "B1"
+  },
+  {
+    "nl": "het reisadvies",
+    "ru": "рекомендации по поездке",
+    "level": "B1"
+  },
+  {
+    "nl": "de visumplicht",
+    "ru": "визовый режим",
+    "level": "B1"
+  },
+  {
+    "nl": "de inentingen",
+    "ru": "прививки",
+    "level": "B1"
+  },
+  {
+    "nl": "de malariapillen",
+    "ru": "таблетки от малярии",
+    "level": "B1"
+  },
+  {
+    "nl": "de reisapotheek",
+    "ru": "дорожная аптечка",
+    "level": "B1"
+  },
+  {
+    "nl": "de excursie",
+    "ru": "экскурсия",
+    "level": "B1"
+  },
+  {
+    "nl": "de gids",
+    "ru": "гид, проводник",
+    "level": "B1"
+  },
+  {
+    "nl": "de reisleider",
+    "ru": "руководитель поездки",
+    "level": "B1"
+  }
+]

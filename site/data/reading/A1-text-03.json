@@ -1,0 +1,45 @@
+{
+  "id": "A1-text-03",
+  "level": "A1",
+  "title": "Het weer in Nederland",
+  "topic": "weer",
+  "readingTime": "2 min",
+  "body": "Nederland heeft vier seizoenen. In de lente is het niet te warm en niet te koud. Het regent soms en de bloemen groeien. De lente begint in maart.\n\nIn de zomer is het warm. Soms is het dertig graden. Veel mensen gaan naar het strand of naar een park. De zomer is van juni tot september.\n\nIn de herfst wordt het kouder. Het waait veel en de bladeren vallen van de bomen. Je hebt een jas en een paraplu nodig.\n\nIn de winter is het koud. Soms sneeuwt het. Mensen drinken warme chocolademelk en dragen een muts en een sjaal. De winter duurt tot maart. Dan begint de lente weer.",
+  "glossary": [
+    {"nl": "het seizoen", "ru": "сезон"},
+    {"nl": "de lente", "ru": "весна"},
+    {"nl": "de zomer", "ru": "лето"},
+    {"nl": "de herfst", "ru": "осень"},
+    {"nl": "de winter", "ru": "зима"},
+    {"nl": "warm", "ru": "тёплый"},
+    {"nl": "koud", "ru": "холодный"},
+    {"nl": "waaien", "ru": "дуть (ветер)"},
+    {"nl": "de bladeren", "ru": "листья"},
+    {"nl": "de paraplu", "ru": "зонт"},
+    {"nl": "sneeuwen", "ru": "идти снегу"},
+    {"nl": "de muts", "ru": "шапка"},
+    {"nl": "de sjaal", "ru": "шарф"}
+  ],
+  "questions": [
+    {
+      "q": "Hoeveel seizoenen heeft Nederland?",
+      "options": ["Drie", "Vier", "Vijf"],
+      "answer": 1
+    },
+    {
+      "q": "Wanneer begint de lente?",
+      "options": ["In maart", "In mei", "In juni"],
+      "answer": 0
+    },
+    {
+      "q": "Wat gebeurt er in de herfst?",
+      "options": ["Het is heel warm", "De bladeren vallen van de bomen", "Het sneeuwt vaak"],
+      "answer": 1
+    },
+    {
+      "q": "Wat doen mensen in de winter?",
+      "options": ["Ze gaan naar het strand", "Ze dragen een muts en een sjaal", "Ze dragen een zomerjurk"],
+      "answer": 1
+    }
+  ]
+}

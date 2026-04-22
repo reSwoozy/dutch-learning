@@ -1,0 +1,258 @@
+[
+  {
+    "nl": "nieuws",
+    "ru": "новости",
+    "example": "Heb je het nieuws gezien?",
+    "pronunciation": "nayws",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "media",
+    "ru": "СМИ",
+    "example": "De Nederlandse media zijn divers.",
+    "pronunciation": "MEH-dee-ah",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "krant",
+    "ru": "газета",
+    "example": "Ik lees de krant elke ochtend.",
+    "pronunciation": "krant",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "televisie",
+    "ru": "телевидение",
+    "example": "Het nieuws op televisie is betrouwbaar.",
+    "pronunciation": "teh-leh-vi-ZEE",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "radio",
+    "ru": "радио",
+    "example": "Ik luister naar het nieuws op de radio.",
+    "pronunciation": "RAH-dee-oh",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "internet",
+    "ru": "интернет",
+    "example": "Veel mensen lezen nieuws op internet.",
+    "pronunciation": "IN-ter-net",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "journalist",
+    "ru": "журналист",
+    "example": "De journalist schrijft een artikel.",
+    "pronunciation": "zhoor-na-LIST",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "artikel",
+    "ru": "статья",
+    "example": "Dit artikel gaat over politiek.",
+    "pronunciation": "ar-TI-kel",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "kop",
+    "ru": "заголовок",
+    "example": "De kop van het artikel is interessant.",
+    "pronunciation": "kop",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "bron",
+    "ru": "источник",
+    "example": "Wat is de bron van deze informatie?",
+    "pronunciation": "bron",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "betrouwbaar",
+    "ru": "надежный",
+    "example": "NOS is een betrouwbare nieuwsbron.",
+    "pronunciation": "be-TROW-baar",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "nepnieuws",
+    "ru": "фейк-ньюс",
+    "example": "Er staat veel nepnieuws op sociale media.",
+    "pronunciation": "NEP-nayws",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "mening",
+    "ru": "мнение",
+    "example": "Wat is jouw mening over dit nieuws?",
+    "pronunciation": "MEH-ning",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "objectief",
+    "ru": "объективный",
+    "example": "Journalisten moeten objectief zijn.",
+    "pronunciation": "ob-yek-TEEF",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "subjectief",
+    "ru": "субъективный",
+    "example": "Dat artikel is erg subjectief.",
+    "pronunciation": "sub-yek-TEEF",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "verslag",
+    "ru": "репортаж",
+    "example": "Het verslag over de voetbalwedstrijd was goed.",
+    "pronunciation": "ver-SLAKH",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "interview",
+    "ru": "интервью",
+    "example": "De minister gaf een interview.",
+    "pronunciation": "IN-ter-view",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "publieke omroep",
+    "ru": "общественное вещание",
+    "example": "NPO is de publieke omroep van Nederland.",
+    "pronunciation": "pu-BLEE-ke OM-rop",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "commercieel",
+    "ru": "коммерческий",
+    "example": "RTL is een commerciële zender.",
+    "pronunciation": "kom-mer-see-EEL",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "podcast",
+    "ru": "подкаст",
+    "example": "Ik luister graag naar podcasts.",
+    "pronunciation": "POD-kast",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "sociale media",
+    "ru": "социальные сети",
+    "example": "Sociale media verspreiden nieuws snel.",
+    "pronunciation": "so-see-AH-le MEH-dee-ah",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "Facebook",
+    "ru": "Фейсбук",
+    "example": "Veel mensen delen nieuws op Facebook.",
+    "pronunciation": "FAYS-book",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "Twitter",
+    "ru": "Твиттер",
+    "example": "Politici gebruiken Twitter voor nieuws.",
+    "pronunciation": "TWIT-ter",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "clickbait",
+    "ru": "кликбейт",
+    "example": "Die kop is pure clickbait.",
+    "pronunciation": "KLIK-bayt",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "fake news",
+    "ru": "фейк-ньюс (англ.)",
+    "example": "Fake news is een groot probleem.",
+    "pronunciation": "fayk nayws",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "fact-check",
+    "ru": "проверка фактов",
+    "example": "Journalisten doen een fact-check.",
+    "pronunciation": "fakt-chek",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "redactie",
+    "ru": "редакция",
+    "example": "De redactie besluit wat nieuws wordt.",
+    "pronunciation": "reh-DAK-tsee",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "uitzending",
+    "ru": "передача",
+    "example": "De uitzending begint om 20:00.",
+    "pronunciation": "OYT-zen-ding",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "live",
+    "ru": "прямой эфир",
+    "example": "Het interview wordt live uitgezonden.",
+    "pronunciation": "layf",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "opinie",
+    "ru": "мнение",
+    "example": "In de opiniepagina staan meningen.",
+    "pronunciation": "oh-PEE-nee",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "kritisch",
+    "ru": "критический",
+    "example": "Je moet kritisch naar nieuws kijken.",
+    "pronunciation": "KREE-tis",
+    "level": "B1",
+    "lesson": 35
+  },
+  {
+    "nl": "evenwichtig",
+    "ru": "сбалансированный",
+    "example": "Goed nieuws is evenwichtig.",
+    "pronunciation": "EH-ven-vikh-tikh",
+    "level": "B1",
+    "lesson": 35
+  }
+]

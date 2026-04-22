@@ -1,0 +1,134 @@
+{
+  "id": "indefinite-pronouns",
+  "title": "Неопределённые местоимения",
+  "titleNL": "Onbepaalde voornaamwoorden",
+  "level": "A2",
+  "summary": "Неопределённые местоимения указывают на неназванное лицо, вещь или количество: iemand (кто-то), niemand (никто), iets (что-то), niets (ничего), men (общее 'мы/люди'), elk/ieder (каждый), iedereen (все), alles (всё), sommige/enkele (некоторые).",
+  "rule": {
+    "formula": "iemand/niemand — про людей | iets/niets — про вещи | iets/niets + прил. + -s | alle + сущ. | elke/iedere (де/хет-ед.ч.) — каждый",
+    "explanation": "Запомни базовые пары: iemand/niemand и iets/niets. После iets/niets прилагательное получает окончание -s: iets leuks (что-то интересное). 'men' — безличное подлежащее, переводится как 'люди/мы/говорят', используется в обобщениях. Для 'каждый' есть синонимы elke и iedere (перед де/хет-словами в ед.ч.).",
+    "whenToUse": [
+      "Утверждение о ком-то/чём-то: Er is iemand aan de deur. Ik zie iets.",
+      "Отрицание: Er is niemand thuis. Ik weet niets.",
+      "Обобщение через men: Men zegt dat het moeilijk is.",
+      "Распределение: Elke dag / iedere dag. Iedereen weet dat.",
+      "Множество: sommige mensen (некоторые), enkele boeken (несколько), alle huizen (все)."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Основные пары (люди / вещи)",
+      "headers": ["Люди", "Вещи", "Смысл"],
+      "rows": [
+        ["iemand", "iets", "кто-то / что-то"],
+        ["niemand", "niets / niks", "никто / ничего"],
+        ["iedereen", "alles", "все / всё"],
+        ["men", "—", "люди вообще, безличное подлежащее"],
+        ["wie dan ook", "wat dan ook", "кто угодно / что угодно"]
+      ]
+    },
+    {
+      "title": "'Каждый' и 'все'",
+      "headers": ["Местоимение", "Употребление", "Пример"],
+      "rows": [
+        ["elk / elke", "elk + het-woord, elke + de-woord/мн.ч.", "elk kind, elke dag, elke avond"],
+        ["ieder / iedere", "синоним elk/elke, чуть формальнее", "iedere dag, ieder huis"],
+        ["iedereen", "каждый/все (о людях, ед.ч. с глаголом)", "Iedereen komt morgen."],
+        ["alle", "все + мн.ч.", "alle kinderen, alle huizen"],
+        ["allemaal", "усилитель 'все вместе'", "Wij gaan allemaal naar huis."],
+        ["alles", "всё (о вещах)", "Alles is klaar."]
+      ]
+    },
+    {
+      "title": "'Некоторые / несколько'",
+      "headers": ["Местоимение", "Употребление", "Пример"],
+      "rows": [
+        ["sommige", "перед сущ. во мн.ч.", "sommige mensen, sommige dagen"],
+        ["enkele", "несколько (небольшое число)", "enkele boeken, enkele weken"],
+        ["een paar", "пара, несколько (разг.)", "een paar vrienden, een paar dagen"],
+        ["wat", "немного (неисчисл. или разг.)", "wat brood, wat geld"],
+        ["enige", "некоторый, несколько (формально)", "enige tijd, enige moeite"]
+      ]
+    },
+    {
+      "title": "iets / niets + прилагательное",
+      "headers": ["Конструкция", "Пример", "Перевод"],
+      "rows": [
+        ["iets + прил. + -s", "iets leuks, iets nieuws", "что-то интересное, что-то новое"],
+        ["niets + прил. + -s", "niets bijzonders, niets goeds", "ничего особенного, ничего хорошего"],
+        ["iemand + прил. + -s", "iemand aardigs (редко)", "чаще: 'iemand die aardig is'"],
+        ["Вопрос 'wat + прил. + -s'", "wat lekkers, wat nieuws", "что-то вкусное, что-то новое"]
+      ]
+    },
+    {
+      "title": "'men' — безличное подлежащее",
+      "headers": ["Пример", "Перевод", "Альтернатива"],
+      "rows": [
+        ["Men zegt dat het moeilijk is.", "Говорят, что это сложно.", "Ze zeggen dat..."],
+        ["Men mag hier niet roken.", "Здесь нельзя курить.", "Hier mag je niet roken."],
+        ["Men weet het niet.", "Никто точно не знает.", "Je weet het niet."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "iets + прилагательное: почему -s?",
+      "items": [
+        "После iets/niets/wat/iemand прилагательное получает -s: iets leuks, niets raars.",
+        "Это древнее окончание, означающее 'что-то такого-то качества'.",
+        "В русском похоже на 'ничего особенного' — в нидерландском это 'niets bijzonders'."
+      ]
+    },
+    {
+      "title": "niks vs niets",
+      "items": [
+        "'niets' — нейтральное, письменное и разговорное.",
+        "'niks' — разговорный синоним, чаще в речи: Ik heb niks gedaan.",
+        "В формальном тексте используй 'niets'."
+      ]
+    },
+    {
+      "title": "iedereen и согласование",
+      "items": [
+        "'iedereen' — ед. число: Iedereen komt (не: komen).",
+        "Как антицедент для относительного местоимения — 'die': Iedereen die dat weet...",
+        "Притяжательное — 'zijn' (общеродовое): Iedereen moet zijn eigen werk doen."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Er is iemand aan de deur.", "ru": "Кто-то у двери." },
+    { "nl": "Ik heb niets gegeten vandaag.", "ru": "Я сегодня ничего не ел." },
+    { "nl": "Heb je iets leuks gedaan?", "ru": "Ты сделал что-то интересное? (iets + leuk + -s)" },
+    { "nl": "Iedereen weet dat Amsterdam de hoofdstad is.", "ru": "Все знают, что Амстердам — столица. (iedereen + ед.ч.)" },
+    { "nl": "Men zegt dat Nederlands moeilijk is.", "ru": "Говорят, что нидерландский сложный." },
+    { "nl": "Elke ochtend drink ik koffie.", "ru": "Каждое утро я пью кофе." },
+    { "nl": "Sommige mensen houden niet van regen.", "ru": "Некоторые люди не любят дождь." },
+    { "nl": "Alles is in orde.", "ru": "Всё в порядке." },
+    { "nl": "Wij zijn allemaal moe.", "ru": "Мы все устали." }
+  ],
+  "exceptions": [
+    "'men' почти не используется в разговорной речи — заменяется на 'je' или 'ze'.",
+    "'iemand' и 'niemand' не получают окончания, даже во множественном смысле: 'niemand van ons' (никто из нас).",
+    "После предлога: aan iemand, voor iets, met niemand — склонение не происходит.",
+    "В отрицательных ответах 'niks' допустимо и часто звучит естественнее: 'Wat heb je gedaan?' — 'Niks.'"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik heb iets leuk gedaan.", "correct": "Ik heb iets leuks gedaan.", "why": "После 'iets' прилагательное требует -s." },
+    { "wrong": "Iedereen komen morgen.", "correct": "Iedereen komt morgen.", "why": "'iedereen' — ед. число, глагол в форме ед. числа." },
+    { "wrong": "Elk mensen", "correct": "alle mensen / elk mens", "why": "'elk' идёт с ед.ч., для мн.ч. нужно 'alle'." },
+    { "wrong": "Niet iemand weet het.", "correct": "Niemand weet het.", "why": "'niet iemand' → сливается в одно слово 'niemand'." },
+    { "wrong": "Ieder de dag", "correct": "Elke dag / iedere dag", "why": "'elk/ieder' не комбинируется с артиклем." }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "Er is ___ aan de deur.", "options": ["iets", "iemand", "niets"], "answer": "iemand", "explanation": "У двери — человек, поэтому 'iemand'." },
+    { "type": "fill-blank", "sentence": "Heb je ___ leuks gedaan vandaag?", "answer": "iets", "explanation": "iets + прил. + -s = 'что-то интересное'." },
+    { "type": "choice", "question": "___ weet dat Amsterdam de hoofdstad is.", "options": ["Iedereen", "Iedere", "Alle"], "answer": "Iedereen", "explanation": "'iedereen' — все/каждый, как подлежащее." },
+    { "type": "fill-blank", "sentence": "___ dag drink ik koffie.", "answer": "Elke", "explanation": "dag — de-woord, ед.ч. → 'elke'." },
+    { "type": "choice", "question": "Ik weet ___ over haar. (ничего)", "options": ["niet", "niets", "niemand"], "answer": "niets", "explanation": "Отрицание о вещах/информации — 'niets'." },
+    { "type": "choice", "question": "___ mensen houden van regen.", "options": ["Elk", "Sommige", "Iedere"], "answer": "Sommige", "explanation": "'Некоторые' перед сущ. во мн.ч. — 'sommige'." },
+    { "type": "fill-blank", "sentence": "___ zegt dat het zwaar is. (безлично)", "answer": "Men", "explanation": "'Men' — безличное 'говорят/люди'." }
+  ],
+  "relatedTopics": ["personal-pronouns", "negation", "quantifiers", "relative-pronouns"],
+  "inLessons": [14, 18, 24]
+}

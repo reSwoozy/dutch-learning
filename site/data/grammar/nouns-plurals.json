@@ -1,0 +1,78 @@
+{
+  "id": "nouns-plurals",
+  "title": "Множественное число существительных",
+  "titleNL": "Meervoud van zelfstandige naamwoorden",
+  "level": "A1",
+  "summary": "Множественное число образуется добавлением -en или -s. Выбор зависит от окончания слова. При этом действуют правила орфографии (удвоение согласных, упрощение гласных).",
+  "rule": {
+    "formula": "-en (основной суффикс) | -s (после -el, -em, -en, -er, -je и заимствований)",
+    "explanation": "Большинство существительных получают -en. Суффикс -s добавляется к словам с определенными окончаниями и к заимствованиям. При добавлении -en действуют правила открытого/закрытого слога.",
+    "whenToUse": [
+      "-en: boek -> boeken, stoel -> stoelen, huis -> huizen",
+      "-s: tafel -> tafels, meisje -> meisjes, auto -> auto's",
+      "-'s (с апострофом): слова на -a, -i, -o, -u, -y: foto -> foto's, taxi -> taxi's"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Основные правила",
+      "headers": ["Правило", "Ед. число", "Мн. число", "Пояснение"],
+      "rows": [
+        ["Стандартное -en", "boek", "boeken", "Большинство слов"],
+        ["Удвоение согласной", "man", "mannen", "Короткая гласная: удваиваем согласную"],
+        ["Упрощение гласной", "maan", "manen", "Долгая гласная в открытом слоге: одна буква"],
+        ["Упрощение гласной", "dag", "dagen", "da-gen — открытый слог: одна 'a' (долгая)"],
+        ["f -> v", "brief", "brieven", "f между гласными -> v"],
+        ["s -> z", "huis", "huizen", "s между гласными -> z"],
+        ["-s после -el/-er/-en/-em", "tafel", "tafels", "Слова на безударный слог"],
+        ["-s после -je", "meisje", "meisjes", "Уменьшительные формы"],
+        ["-'s после гласной", "foto", "foto's", "Апостроф для ясности произношения"]
+      ]
+    },
+    {
+      "title": "Неправильные формы множественного числа",
+      "headers": ["Ед. число", "Мн. число", "Перевод"],
+      "rows": [
+        ["het kind", "de kinderen", "ребенок -> дети (суффикс -eren)"],
+        ["het ei", "de eieren", "яйцо -> яйца (суффикс -eren)"],
+        ["de stad", "de steden", "город -> города (изменение гласной a->e)"],
+        ["het lid", "de leden", "член -> члены (i->e + удлинение)"],
+        ["het schip", "de schepen", "корабль -> корабли (i->e)"],
+        ["het blad", "de bladeren / de bladen", "лист (растения) -> листья / лист (бумаги) -> листы"]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik heb twee katten.", "ru": "У меня две кошки. (kat -> katten, удвоение t)" },
+    { "nl": "De bomen zijn groot.", "ru": "Деревья большие. (boom -> bomen, oo -> o)" },
+    { "nl": "Er zijn veel tafels in het restaurant.", "ru": "В ресторане много столов. (tafel -> tafels)" },
+    { "nl": "De kinderen spelen buiten.", "ru": "Дети играют на улице. (kind -> kinderen, неправильное)" },
+    { "nl": "Ik heb drie foto's gemaakt.", "ru": "Я сделал три фотографии. (foto -> foto's)" },
+    { "nl": "De brieven liggen op tafel.", "ru": "Письма лежат на столе. (brief -> brieven, f -> v)" },
+    { "nl": "Er zijn veel huizen in deze straat.", "ru": "На этой улице много домов. (huis -> huizen, s -> z)" }
+  ],
+  "exceptions": [
+    "kind -> kinderen (не kinden)",
+    "stad -> steden (не stadden)",
+    "Некоторые слова имеют два варианта множественного числа: de leraar -> leraren / leraars (оба корректны)",
+    "Заимствованные слова часто сохраняют оригинальное множественное: museum -> musea / museums",
+    "Слова на -heid: mogelijkheid -> mogelijkheden (не mogelijkheids)"
+  ],
+  "commonMistakes": [
+    { "wrong": "de manen (мужчины)", "correct": "de mannen", "why": "Короткая a: нужно удвоить n (man -> mannen)" },
+    { "wrong": "de maanen (луны)", "correct": "de manen", "why": "Долгая a в открытом слоге: одна буква (maan -> manen)" },
+    { "wrong": "de kinders", "correct": "de kinderen", "why": "kind -- неправильная форма множественного числа" },
+    { "wrong": "de fotos", "correct": "de foto's", "why": "После гласной -o нужен апостроф: foto's" },
+    { "wrong": "de huisen", "correct": "de huizen", "why": "s между гласными превращается в z" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "boek -> __ (мн.ч.)", "answer": "boeken", "explanation": "Стандартное добавление -en" },
+    { "type": "fill-blank", "sentence": "kat -> __ (мн.ч.)", "answer": "katten", "explanation": "Короткая a: удваиваем t" },
+    { "type": "fill-blank", "sentence": "boom -> __ (мн.ч.)", "answer": "bomen", "explanation": "Долгая o в открытом слоге: одна o" },
+    { "type": "fill-blank", "sentence": "brief -> __ (мн.ч.)", "answer": "brieven", "explanation": "f -> v между гласными" },
+    { "type": "fill-blank", "sentence": "auto -> __ (мн.ч.)", "answer": "auto's", "explanation": "После гласной: апостроф + s" },
+    { "type": "choice", "question": "kind -> ...", "options": ["kinden", "kinderen", "kinds", "kindes"], "answer": "kinderen", "explanation": "Неправильная форма" }
+  ],
+  "relatedTopics": ["articles", "spelling-rules", "diminutives", "quantifiers"],
+  "inLessons": [2, 5, 7, 12]
+}

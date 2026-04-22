@@ -1,0 +1,96 @@
+{
+  "id": "articles",
+  "title": "Артикли de/het",
+  "titleNL": "Lidwoorden",
+  "level": "A1",
+  "summary": "В нидерландском два определенных артикля: de (для слов общего рода) и het (для среднего рода). Неопределенный артикль один: een.",
+  "rule": {
+    "formula": "de + de-woorden (общий род) | het + het-woorden (средний род) | een (неопределенный, для обоих)",
+    "explanation": "Около 2/3 существительных -- de-woorden, 1/3 -- het-woorden. Род нужно запоминать вместе со словом. Есть закономерности, но много исключений.",
+    "whenToUse": [
+      "de -- перед существительными общего рода: de man, de vrouw, de tafel",
+      "het -- перед существительными среднего рода: het kind, het huis, het boek",
+      "een -- когда предмет упоминается впервые или неважно какой именно",
+      "Без артикля -- неисчисляемые (water, melk) и множественное число с неопределенным значением"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Определенные артикли",
+      "headers": ["Род", "Ед. число", "Мн. число"],
+      "rows": [
+        ["Общий (de-woord)", "de man", "de mannen"],
+        ["Средний (het-woord)", "het kind", "de kinderen"]
+      ]
+    },
+    {
+      "title": "Неопределенные артикли",
+      "headers": ["Род", "Ед. число", "Мн. число"],
+      "rows": [
+        ["Общий", "een man", "mannen (без артикля)"],
+        ["Средний", "een kind", "kinderen (без артикля)"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Всегда de-woorden",
+      "items": [
+        "Люди с указанием пола: de man, de vrouw, de jongen, de leraar",
+        "Названия деревьев, растений, фруктов: de boom, de roos, de appel",
+        "Названия рек и гор: de Rijn, de Alpen",
+        "Слова на -ie: de politie, de industrie",
+        "Слова на -ij: de partij, de bakkerij",
+        "Слова на -heid/-teit: de vrijheid, de universiteit",
+        "Слова на -ing: de woning, de vergadering",
+        "Слова на -st (от глагола): de kunst, de dienst",
+        "Числа и буквы: de drie, de a"
+      ]
+    },
+    {
+      "title": "Всегда het-woorden",
+      "items": [
+        "Уменьшительные на -je: het huisje, het meisje, het kopje",
+        "Слова на -isme: het communisme, het realisme",
+        "Слова на -ment: het moment, het document",
+        "Слова на -um: het museum, het centrum",
+        "Инфинитивы как существительные: het eten, het leven, het lezen",
+        "Языки: het Nederlands, het Engels",
+        "Названия стран света: het noorden, het zuiden",
+        "Металлы и материалы: het goud, het zilver, het hout",
+        "Спортивные игры: het voetbal, het tennis"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "De kat zit op de tafel.", "ru": "Кошка сидит на столе." },
+    { "nl": "Het boek ligt op het bureau.", "ru": "Книга лежит на столе (письменном)." },
+    { "nl": "Ik heb een hond.", "ru": "У меня есть собака." },
+    { "nl": "De kinderen spelen in het park.", "ru": "Дети играют в парке." },
+    { "nl": "Ik drink een kopje thee.", "ru": "Я пью чашку чая." },
+    { "nl": "Het meisje leest een boek.", "ru": "Девочка читает книгу." },
+    { "nl": "De universiteit is groot.", "ru": "Университет большой." },
+    { "nl": "Het Nederlands is een mooie taal.", "ru": "Нидерландский -- красивый язык." }
+  ],
+  "exceptions": [
+    "het meisje (девочка) -- het, хотя обозначает лицо женского пола (из-за уменьшительного -je)",
+    "Во множественном числе всегда de, даже для het-woorden: het kind -> de kinderen",
+    "Некоторые слова имеют оба варианта с разным значением: de bord (полка) / het bord (тарелка, табличка)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Het vrouw is aardig.", "correct": "De vrouw is aardig.", "why": "vrouw -- de-woord (лицо женского пола)" },
+    { "wrong": "De meisje speelt buiten.", "correct": "Het meisje speelt buiten.", "why": "meisje -- het-woord (уменьшительное на -je)" },
+    { "wrong": "Het kinderen spelen.", "correct": "De kinderen spelen.", "why": "Во множественном числе всегда de" },
+    { "wrong": "Ik heb de hond. (при первом упоминании)", "correct": "Ik heb een hond.", "why": "При первом упоминании используется een" }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "__ huis is groot.", "options": ["De", "Het", "Een"], "answer": "Het", "explanation": "huis -- het-woord" },
+    { "type": "choice", "question": "__ vrouw werkt in een ziekenhuis.", "options": ["De", "Het", "Een"], "answer": "De", "explanation": "vrouw -- de-woord (лицо женского пола)" },
+    { "type": "choice", "question": "__ boeken liggen op tafel.", "options": ["De", "Het", "Een"], "answer": "De", "explanation": "Множественное число -- всегда de" },
+    { "type": "choice", "question": "Ik wil __ kopje koffie.", "options": ["de", "het", "een"], "answer": "een", "explanation": "Неопределенный артикль -- любая чашка кофе" },
+    { "type": "choice", "question": "__ museum is gesloten.", "options": ["De", "Het"], "answer": "Het", "explanation": "museum -- het-woord (слово на -um)" },
+    { "type": "fill-blank", "sentence": "__ jongen en __ meisje spelen in __ park.", "answer": "De ... het ... het", "explanation": "jongen -- de-woord, meisje -- het-woord (-je), park -- het-woord" }
+  ],
+  "relatedTopics": ["nouns-plurals", "adjectives", "diminutives", "quantifiers"],
+  "inLessons": [2, 5, 12]
+}

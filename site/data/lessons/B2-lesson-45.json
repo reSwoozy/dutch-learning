@@ -1,0 +1,66 @@
+{
+  "id": "B2-lesson-45",
+  "num": 45,
+  "level": "B2",
+  "title": "Реферат и перефразирование",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Реферат и перефразирование",
+      "content": "Создавать краткий, точный реферат (samenvatting) и перефразировать без потери смысла, избегая плагиата, с поддержанием связности текста.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "grammar",
+      "title": "Техники",
+      "content": "- Сжатие: убираем примеры/повторы, оставляем тезисы\n- Перестройка: меняем порядок, объединяем близкие мысли\n- Синонимизация: заменяем лексику, сохраняя смысл\n- Обобщение: частные факты → категории\n- Когезия: bovendien/echter/zodat/kortom\nШаблон реферата: Context → Doel → Kernpunten (2–3) → Conclusie\n---"
+    },
+    {
+      "type": "text",
+      "title": "Примеры",
+      "content": "Оригинал:\n```\nHet rapport beschrijft drie oorzaken van de daling: minder vraag, hogere kosten, en sterkere concurrentie.\n```\nРеферат:\n```\nHet rapport noemt drie oorzaken voor de daling: afnemende vraag, stijgende kosten en toegenomen concurrentie.\n```\nПерефраз:\n```\nVolgens het rapport hangt de daling samen met vraag, kosten en concurrentie.\n```"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Перефразируй предложения",
+      "items": [
+        {
+          "question": "\"De verkoop is gestegen door de nieuwe marketingcampagne.\""
+        },
+        {
+          "question": "\"Veel werknemers zijn ontevreden over het salaris.\""
+        },
+        {
+          "question": "\"Het bedrijf heeft besloten om de productie te verplaatsen naar het buitenland.\"",
+          "answers": [
+            "1. Dankzij de nieuwe marketingcampagne is de omzet toegenomen.",
+            "2. Een groot deel van het personeel is niet tevreden met de beloning.",
+            "3. De organisatie heeft ervoor gekozen de productie naar een ander land over te brengen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Сократи текст",
+      "content": "Сократи до 3 предложений, сохранив ключевые факты:\nОригинал:\n> Het onderzoek, dat drie jaar duurde en werd uitgevoerd door de Universiteit van Amsterdam, toont aan dat regelmatig bewegen de kans op hartziekten vermindert. De onderzoekers hebben 5000 deelnemers gevolgd. Bovendien bleek dat ook mentale gezondheid verbetert. De resultaten zijn gepubliceerd in een internationaal tijdschrift.\n<details>\n<summary>Возможный вариант</summary>\nUit driejarig onderzoek van de Universiteit van Amsterdam onder 5000 deelnemers blijkt dat regelmatige beweging zowel hart- als mentale gezondheid bevordert. De bevindingen zijn internationaal gepubliceerd.\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Вставь signaalwoorden",
+      "content": "Вставь подходящие связки (bovendien, echter, zodat, kortom, daarnaast):\n> De resultaten zijn positief. __ zijn er enkele risico's. __ moeten we extra maatregelen nemen __ de kwaliteit geborgd blijft. __ zijn de vooruitzichten gunstig.\n<details>\n<summary>Ответы</summary>\nEchter ... Daarnaast ... zodat ... Kortom\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 4: Говорение",
+      "content": "Vat het volgende mondeling samen in 60 seconden:\n- Een artikel over klimaatverandering in Nederland: stijging zeespiegel, gevolgen voor landbouw, maatregelen van de overheid."
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- samenvatting — реферат/краткое изложение\n- parafrase — перефраз\n- bronvermelding — указание источника\n- plagiaat vermijden — избегать плагиата\n- kernpunt — ключевой пункт\n- hoofdgedachte — основная мысль\n- signaalwoord — сигнальное слово\n- synoniem — синоним\n- formulering — формулировка\n- samenhang — связность\n- redundantie — избыточность\n- overlap — дублирование\n- samendrukken — сжимать\n- herschrijven — переписывать\n- herformuleren — переформулировать\n- nuance — оттенок смысла\n- consistentie — согласованность\n- coherentie — когерентность\n- parafraseren — перефразировать\n- concluderen — делать вывод\n- refereren aan — ссылаться на\n- beknopt — краткий\n- kernachtig — ёмкий"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-45.json"
+}

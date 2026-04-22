@@ -1,0 +1,366 @@
+{
+  "title": "Onderwijs & studie",
+  "level": "B1",
+  "tags": [
+    "school",
+    "universiteit",
+    "studie",
+    "diploma"
+  ],
+  "words": [
+    {
+      "nl": "de peuterspeelzaal",
+      "ru": "детский игровой центр",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de kinderopvang",
+      "ru": "детский сад",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het gastouderschap",
+      "ru": "семейный детский сад",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de voorschoolse educatie",
+      "ru": "дошкольное образование",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de naschoolse opvang",
+      "ru": "продлёнка",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de buitenschoolse opvang",
+      "ru": "внешкольная продлёнка",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de leerplicht",
+      "ru": "обязательное школьное образование",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de kwalificatieplicht",
+      "ru": "обязательство получить диплом",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de leerplichtambtenaar",
+      "ru": "инспектор по обязательному обучению",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het leerlingvolgsysteem",
+      "ru": "система отслеживания успеваемости",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het individueel onderwijs",
+      "ru": "индивидуальное обучение",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het passend onderwijs",
+      "ru": "инклюзивное обучение",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de zorgleerling",
+      "ru": "ребёнок с особыми потребностями",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de dyslexie",
+      "ru": "дислексия",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de dyscalculie",
+      "ru": "дискалькулия",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de ADHD-diagnose",
+      "ru": "диагноз СДВГ",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het individueel ontwikkelingsplan",
+      "ru": "индивидуальный план развития",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de brede school",
+      "ru": "школа полного дня",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het montessori-onderwijs",
+      "ru": "Монтессори-образование",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het jenaplan",
+      "ru": "Йена-план",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de vrije school",
+      "ru": "вальдорфская школа",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de tweetalige school",
+      "ru": "двуязычная школа",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het vmbo-b",
+      "ru": "VMBO базовый",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het vmbo-k",
+      "ru": "VMBO рамочный",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het vmbo-g/t",
+      "ru": "VMBO смешанный/теоретический",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de entree-opleiding",
+      "ru": "подготовительная программа",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de mbo-niveau 1",
+      "ru": "MBO уровень 1",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de mbo-niveau 4",
+      "ru": "MBO уровень 4",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de beroepsopleidende leerweg",
+      "ru": "BOL — обучение в учебном заведении",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de beroepsbegeleidende leerweg",
+      "ru": "BBL — обучение с работой",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de propedeuse halen",
+      "ru": "сдать пропедевтику",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de herkansing",
+      "ru": "пересдача",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de honours programme",
+      "ru": "программа для отличников",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de minor",
+      "ru": "второстепенная специализация",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de major",
+      "ru": "основная специализация",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het keuzevak",
+      "ru": "факультатив",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de collegeslides",
+      "ru": "слайды лекции",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de hoorcollege",
+      "ru": "лекция",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de werkgroep",
+      "ru": "семинар",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de labcollege",
+      "ru": "лабораторное занятие",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de studieadviseur",
+      "ru": "консультант по учёбе",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de studiekeuzecheck",
+      "ru": "проверка выбора специальности",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de studievertraging",
+      "ru": "задержка в учёбе",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de uitlooptijd",
+      "ru": "переходный период на завершение",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de bachelor behalen",
+      "ru": "получить бакалавра",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de master behalen",
+      "ru": "получить магистра",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de schakelprogramma",
+      "ru": "связующая программа",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de premaster",
+      "ru": "премастер",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de joint degree",
+      "ru": "совместная степень",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de dubbele bachelor",
+      "ru": "двойной бакалавриат",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de studentenpsycholoog",
+      "ru": "студенческий психолог",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de studentendecaan",
+      "ru": "декан по работе со студентами",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de examencommissie",
+      "ru": "экзаменационная комиссия",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "het judicium",
+      "ru": "судебная оценка диплома",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de reünie",
+      "ru": "встреча выпускников",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de alumnivereniging",
+      "ru": "ассоциация выпускников",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de universitaire bibliotheek",
+      "ru": "университетская библиотека",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de digitale leeromgeving",
+      "ru": "цифровая среда обучения",
+      "level": "B1",
+      "theme": "education"
+    },
+    {
+      "nl": "de MOOC",
+      "ru": "открытый онлайн-курс",
+      "level": "B1",
+      "theme": "education"
+    }
+  ]
+}

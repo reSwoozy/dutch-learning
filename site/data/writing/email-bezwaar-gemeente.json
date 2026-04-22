@@ -1,0 +1,34 @@
+{
+  "id": "email-bezwaar-gemeente",
+  "title": "Bezwaar aan de gemeente",
+  "titleRu": "Возражение в муниципалитет",
+  "level": "B2",
+  "type": "email",
+  "description": "Письмо-возражение (bezwaarschrift) против решения муниципалитета: штраф, отказ в субсидии, парковочная политика и т. п.",
+  "structure": [
+    {"title": "Aanhef", "note": "Geachte heer, mevrouw, — адресуется обычно college van burgemeester en wethouders."},
+    {"title": "Identificatie besluit", "note": "Указать номер и дату решения (kenmerk)."},
+    {"title": "Inleiding", "note": "Кратко: я подаю возражение против решения."},
+    {"title": "Feitelijke situatie", "note": "Факты: что произошло, даты."},
+    {"title": "Gronden van bezwaar", "note": "Аргументы: почему решение неверное (правовые, фактические, пропорциональность)."},
+    {"title": "Verzoek", "note": "Что вы просите: отменить решение, изменить, назначить слушание."},
+    {"title": "Afsluiting", "note": "Уведомление о желании быть услышанным (hoorzitting), подпись."}
+  ],
+  "phrases": [
+    "Hierbij maak ik formeel bezwaar tegen het besluit van uw college d.d. [datum], met kenmerk [kenmerk].",
+    "De gronden van mijn bezwaar zijn de volgende.",
+    "Ten eerste...; ten tweede...; ten derde...",
+    "Het besluit is naar mijn mening onvoldoende gemotiveerd, omdat...",
+    "Ik ben van mening dat het besluit in strijd is met het evenredigheidsbeginsel.",
+    "Ik verzoek u het genoemde besluit te herroepen en ... toe te kennen.",
+    "Graag maak ik gebruik van mijn recht om in een hoorzitting te worden gehoord.",
+    "Met vriendelijke groet,"
+  ],
+  "model": "Geacht college,\n\nHierbij maak ik formeel bezwaar tegen uw besluit van 15 maart 2025, kenmerk 2025-03-4567, waarin mijn aanvraag voor de gemeentelijke energiesubsidie is afgewezen.\n\nDe feiten zijn als volgt. Op 4 januari 2025 heb ik een aanvraag ingediend voor een bijdrage in de kosten van dak-isolatie van mijn woning aan de Parkstraat 7. Ik heb alle gevraagde documenten tijdig aangeleverd, waaronder de offerte, de eigendomsakte en een bewijs van inschrijving.\n\nIn uw besluit wijst u de aanvraag af met als motivering dat mijn woning 'buiten de aangewezen wijken' zou vallen. Dit acht ik onjuist om twee redenen.\n\nTen eerste is de Parkstraat, volgens de officiële kaart die bij de regeling hoort, wel degelijk onderdeel van de wijk Noord-West, die als aangewezen gebied is gepubliceerd in het Gemeenteblad van 10 december 2024.\n\nTen tweede heeft de ambtenaar van team Wonen mij op 8 januari telefonisch bevestigd dat mijn adres binnen de regeling valt. Een telefoonnotitie van dit gesprek voeg ik bij dit bezwaar.\n\nGelet op het voorgaande verzoek ik u het besluit van 15 maart te herroepen en de subsidie alsnog toe te kennen. Daarnaast maak ik graag gebruik van mijn recht om tijdens een hoorzitting te worden gehoord.\n\nMet vriendelijke groet,\n\nA. Petrova\nParkstraat 7\n3511 AB Utrecht",
+  "tips": [
+    "Указать kenmerk и дату — без них возражение могут оставить без рассмотрения.",
+    "Соблюдайте срок 6 weken с момента получения решения.",
+    "Пишите чётко: 'Ten eerste ... Ten tweede ...' — структура важнее эмоций.",
+    "Прикладывайте подтверждающие документы (bijlagen)."
+  ]
+}

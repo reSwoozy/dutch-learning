@@ -1,0 +1,54 @@
+{
+  "id": "demonstrative-pronouns",
+  "title": "Указательные местоимения",
+  "titleNL": "Aanwijzende voornaamwoorden",
+  "level": "A2",
+  "summary": "Указательные местоимения: deze/dit (этот) и die/dat (тот). Выбор зависит от рода существительного (de/het) и числа.",
+  "rule": {
+    "formula": "deze + de-woord / мн.ч. | dit + het-woord (ед.ч.) | die + de-woord / мн.ч. | dat + het-woord (ед.ч.)",
+    "explanation": "deze/dit = этот (близко). die/dat = тот (далеко). Форма зависит от рода: de-woorden и мн.ч. -> deze/die. het-woorden ед.ч. -> dit/dat.",
+    "whenToUse": [
+      "deze/dit -- близкий предмет: Deze auto is van mij. Dit boek is nieuw.",
+      "die/dat -- далекий предмет или уже упомянутый: Die auto is duur. Dat huis is groot.",
+      "Самостоятельно (без существительного): Dit is mijn huis. Dat klopt."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Указательные местоимения",
+      "headers": ["", "de-woord (ед.ч.)", "het-woord (ед.ч.)", "Мн. число"],
+      "rows": [
+        ["Близко (этот)", "deze man", "dit kind", "deze mannen/kinderen"],
+        ["Далеко (тот)", "die man", "dat kind", "die mannen/kinderen"]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Deze jas is mooi.", "ru": "Эта куртка красивая. (de jas -> deze)" },
+    { "nl": "Dit boek is interessant.", "ru": "Эта книга интересная. (het boek -> dit)" },
+    { "nl": "Die auto is duur.", "ru": "Та машина дорогая. (de auto -> die)" },
+    { "nl": "Dat huis is van mijn buurman.", "ru": "Тот дом моего соседа. (het huis -> dat)" },
+    { "nl": "Deze schoenen zijn nieuw.", "ru": "Эти туфли новые. (мн.ч. -> deze)" },
+    { "nl": "Wat is dat?", "ru": "Что это? (самостоятельное использование)" },
+    { "nl": "Dit is mijn vriendin Anna.", "ru": "Это моя подруга Анна." },
+    { "nl": "Dat klopt.", "ru": "Это верно." }
+  ],
+  "exceptions": [
+    "dat/dit без существительного используются как 'это': Dat is goed. Dit is mooi.",
+    "die/dat могут заменять существительное: Welke auto? Die (daar). (Какая машина? Та.)",
+    "В разговорной речи die часто используется вместо hij/zij: Die is gek! (Он/она сумасшедший!)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Dit man is aardig.", "correct": "Deze man is aardig.", "why": "man -- de-woord -> deze (не dit)" },
+    { "wrong": "Deze huis is groot.", "correct": "Dit huis is groot.", "why": "huis -- het-woord -> dit (не deze)" },
+    { "wrong": "Die boeken is duur.", "correct": "Die boeken zijn duur.", "why": "Мн. число -> zijn (не is)" }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "__ auto is van mij. (этот, de auto)", "options": ["Deze", "Dit", "Die", "Dat"], "answer": "Deze", "explanation": "Близко + de-woord -> deze" },
+    { "type": "choice", "question": "__ huis is mooi. (тот, het huis)", "options": ["Deze", "Dit", "Die", "Dat"], "answer": "Dat", "explanation": "Далеко + het-woord -> dat" },
+    { "type": "choice", "question": "__ kinderen spelen buiten. (эти)", "options": ["Deze", "Dit", "Die", "Dat"], "answer": "Deze", "explanation": "Близко + мн.ч. -> deze" },
+    { "type": "fill-blank", "sentence": "Wat is __? -- __ is een woordenboek.", "answer": "dat ... Dit/Dat", "explanation": "Самостоятельное использование: dat/dit" }
+  ],
+  "relatedTopics": ["articles", "personal-pronouns", "adjectives"],
+  "inLessons": [8, 14, 19]
+}

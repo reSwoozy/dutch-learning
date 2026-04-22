@@ -1,0 +1,120 @@
+{
+  "id": "posture-te-infinitive",
+  "title": "Позиционные глаголы + te + инфинитив",
+  "titleNL": "Staan/zitten/liggen/lopen/hangen + te + infinitief",
+  "level": "B1",
+  "summary": "Разговорная альтернатива прогрессиву 'aan het + inf'. Вместо 'zijn' используется позиционный глагол (staan, zitten, liggen, lopen, hangen), который задаёт положение тела или объекта во время действия.",
+  "rule": {
+    "formula": "Позиционный глагол (спрягаемый) + te + infinitief (в конце) | в перфекте: hebben + позиционный глагол + inf (без 'te', без ge-)",
+    "explanation": "Конструкция подчёркивает длительность + положение. 'Hij staat te koken' — он стоит и готовит; 'Ze zit te lezen' — она сидит и читает. Основные глаголы: staan (стоять), zitten (сидеть), liggen (лежать), lopen (ходить), hangen (висеть/торчать). В перфектуме — двойной инфинитив (IPP): 'Hij heeft de hele dag staan te werken' (редкая форма) или чаще 'Hij heeft de hele dag staan werken' (без te).",
+    "whenToUse": [
+      "Когда важно показать позу/положение: Hij staat te wachten. (Он стоит и ждёт.)",
+      "Разговорная альтернатива 'aan het + inf': Ze zit te lezen = Ze is aan het lezen.",
+      "Для эмоциональной окраски: Hij loopt altijd te mopperen. (Вечно он ворчит, ходит и ворчит.)",
+      "С 'hangen' — часто с оттенком безделья: Hij hangt op de bank te niksen."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Основные позиционные глаголы",
+      "headers": ["Глагол", "Базовое значение", "Пример конструкции"],
+      "rows": [
+        ["staan", "стоять", "Hij staat te koken."],
+        ["zitten", "сидеть", "Ze zit te lezen."],
+        ["liggen", "лежать", "De baby ligt te slapen."],
+        ["lopen", "ходить, двигаться", "Hij loopt te zingen."],
+        ["hangen", "висеть, торчать", "Ze hangt op de bank te niksen."]
+      ]
+    },
+    {
+      "title": "Сравнение с 'aan het + inf'",
+      "headers": ["Конструкция", "Пример", "Акцент"],
+      "rows": [
+        ["aan het + inf", "Hij is aan het koken.", "нейтральный прогрессив"],
+        ["staan te + inf", "Hij staat te koken.", "+ поза: стоит у плиты"],
+        ["zitten te + inf", "Ze zit te huilen.", "+ сидит и плачет"],
+        ["liggen te + inf", "De baby ligt te slapen.", "+ спит лёжа (в кровати)"],
+        ["lopen te + inf", "Hij loopt te kletsen.", "разговорно, оттенок 'вечно делает'"]
+      ]
+    },
+    {
+      "title": "В прошедшем и перфекте",
+      "headers": ["Время", "Пример", "Особенность"],
+      "rows": [
+        ["Presens", "Hij staat te wachten.", "обычный V2"],
+        ["Imperfectum", "Hij stond te wachten toen ik aankwam.", "позиционный глагол в форме прошедшего"],
+        ["Perfectum (без te)", "Hij heeft de hele dag staan werken.", "IPP: без 'te', оба глагола в инфинитиве"],
+        ["Perfectum (с te, редко)", "Hij heeft staan te werken.", "формально возможно, но звучит неуклюже"]
+      ]
+    },
+    {
+      "title": "Употребление",
+      "headers": ["Глагол", "Типичная коллокация", "Перевод"],
+      "rows": [
+        ["staan", "staan te wachten / te koken / te praten", "стоит и ждёт / готовит / разговаривает"],
+        ["zitten", "zitten te lezen / te werken / te kletsen", "сидит и читает / работает / болтает"],
+        ["liggen", "liggen te slapen / te denken / te wachten", "лежит и спит / думает / ждёт"],
+        ["lopen", "lopen te zingen / te mopperen / te zoeken", "ходит и поёт / ворчит / ищет"],
+        ["hangen", "hangen te niksen / te rondhangen", "тусуется / бездельничает"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Когда выбрать позиционный глагол, а не 'aan het'",
+      "items": [
+        "Если хочешь явно показать позу/положение: 'staat te koken' (у плиты стоит) vs 'is aan het koken' (просто готовит).",
+        "Если нужна эмоциональная окраска 'вечно делает': 'loopt te mopperen'.",
+        "В пасторальных описаниях: De koeien staan te grazen. (Коровы пасутся.)"
+      ]
+    },
+    {
+      "title": "Перфект: выпадает 'te'",
+      "items": [
+        "Стандартно в перфекте: hebben + позиц.глагол (инфинитив) + смысловой инфинитив.",
+        "Hij heeft staan wachten. / Ze heeft zitten lezen. / De baby heeft liggen slapen.",
+        "Это IPP (infinitivus pro participio) — то же, что с модальными (см. тему 'IPP / двойной инфинитив').",
+        "Форма '*heeft gestaan te werken' — неправильная."
+      ]
+    },
+    {
+      "title": "В придаточном",
+      "items": [
+        "В придаточном позиционный глагол и смысловой стоят в конце, 'te' между ними: ...dat hij staat te wachten.",
+        "В перфекте придаточного: ...dat hij heeft staan wachten (все три глагола в конце, без 'te')."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Hij staat al een uur te wachten op de bus.", "ru": "Он уже час стоит и ждёт автобус." },
+    { "nl": "De kinderen zitten in de tuin te spelen.", "ru": "Дети сидят и играют в саду." },
+    { "nl": "Oma ligt op de bank te rusten.", "ru": "Бабушка лежит и отдыхает на диване." },
+    { "nl": "Hij loopt altijd te klagen over het weer.", "ru": "Он вечно ходит и жалуется на погоду." },
+    { "nl": "Wij hebben de hele avond zitten praten.", "ru": "Мы весь вечер просидели и проговорили. (перфект без 'te')" },
+    { "nl": "De kat lag in de zon te slapen.", "ru": "Кошка лежала и спала на солнце. (imperfectum)" },
+    { "nl": "Wat sta je daar te doen?", "ru": "Что ты там стоишь и делаешь?" }
+  ],
+  "exceptions": [
+    "Позиционный глагол должен сочетаться по смыслу с действием: нельзя 'ligt te lopen' — 'лежит и ходит' логически невозможно.",
+    "Конструкция неприменима к глаголам состояния (weten, kennen, houden van): нельзя 'zit te weten'.",
+    "В придаточном перфекта 'te' выпадает всегда: ...omdat hij heeft staan wachten.",
+    "С 'hangen' возможна разговорная экспрессивность: 'Hij hangt te slapen op zijn bureau' — 'дрыхнет за столом'."
+  ],
+  "commonMistakes": [
+    { "wrong": "Hij staat koken.", "correct": "Hij staat te koken.", "why": "Обязательная частица 'te' между позиционным и смысловым глаголом." },
+    { "wrong": "Hij heeft gestaan te werken.", "correct": "Hij heeft staan werken.", "why": "В перфекте — IPP (двойной инфинитив), 'te' выпадает, причастие не образуется." },
+    { "wrong": "Ze zit lezen.", "correct": "Ze zit te lezen.", "why": "Всегда 'te' перед инфинитивом в этой конструкции." },
+    { "wrong": "Ik ben aan het staan koken.", "correct": "Ik sta te koken. / Ik ben aan het koken.", "why": "Нельзя смешивать 'aan het' и позиционный глагол — выбирай одну конструкцию." },
+    { "wrong": "De baby ligt slapen.", "correct": "De baby ligt te slapen.", "why": "'te' обязательна, даже когда смысл очевиден." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Hij ___ al een uur te wachten op de bus. (stoit)", "answer": "staat", "explanation": "staan + te + inf: 'staat te wachten'." },
+    { "type": "word-order", "words": ["ze", "in", "de", "tuin", "zitten", "te", "spelen"], "answer": "Ze zitten in de tuin te spelen.", "explanation": "V2: позиционный глагол на 2-й позиции, обстоятельство, 'te + inf' в конце." },
+    { "type": "choice", "question": "Перфект от 'Hij staat te koken':", "options": ["Hij heeft gestaan te koken.", "Hij heeft staan koken.", "Hij is staan koken geweest."], "answer": "Hij heeft staan koken.", "explanation": "IPP: оба глагола в инфинитиве, без 'te' и без 'ge-'." },
+    { "type": "fill-blank", "sentence": "De baby ___ op de bank te slapen. (лежит)", "answer": "ligt", "explanation": "liggen + te + inf: 'ligt te slapen'." },
+    { "type": "choice", "question": "Какое значение передаёт 'Hij loopt te mopperen'?", "options": ["Один раз пожаловался", "Вечно жалуется, ходит и бурчит", "Бежит и жалуется"], "answer": "Вечно жалуется, ходит и бурчит", "explanation": "'lopen te' часто придаёт оттенок повторяемости и раздражения." },
+    { "type": "word-order", "words": ["wij", "hebben", "de", "hele", "avond", "zitten", "praten"], "answer": "Wij hebben de hele avond zitten praten.", "explanation": "Перфект: hebben + позиционный инф. + смысловой инф., без 'te'." }
+  ],
+  "relatedTopics": ["progressive-aan-het", "te-infinitive", "perfectum", "ipp-double-infinitive"],
+  "inLessons": [26, 28, 30]
+}

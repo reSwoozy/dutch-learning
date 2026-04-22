@@ -1,0 +1,114 @@
+{
+  "id": "present-tense",
+  "title": "Настоящее время (OTT)",
+  "titleNL": "Onvoltooid tegenwoordige tijd (OTT)",
+  "level": "A1",
+  "summary": "Настоящее время образуется от основы глагола (инфинитив минус -en). К основе добавляются окончания: -0 (ik), -t (jij/hij/zij/u), -en (wij/jullie/zij).",
+  "rule": {
+    "formula": "Основа = инфинитив - en | ik + основа | jij/hij/zij/u + основа + t | wij/jullie/zij + инфинитив",
+    "explanation": "Сначала найди основу: убери -en от инфинитива. Затем добавь окончание. Важно: при инверсии с jij окончание -t исчезает. Действуют правила орфографии (удвоение гласных, f/v, s/z).",
+    "whenToUse": [
+      "Регулярные действия: Ik werk elke dag. (Я работаю каждый день.)",
+      "Факты: De zon schijnt. (Солнце светит.)",
+      "Будущее с указанием времени: Morgen ga ik naar Amsterdam. (Завтра я еду в Амстердам.)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Спряжение правильных глаголов",
+      "headers": ["Лицо", "werken (работать)", "wonen (жить)", "lezen (читать)"],
+      "rows": [
+        ["ik", "werk", "woon", "lees"],
+        ["jij/je", "werkt", "woont", "leest"],
+        ["u", "werkt", "woont", "leest"],
+        ["hij/zij/het", "werkt", "woont", "leest"],
+        ["wij/we", "werken", "wonen", "lezen"],
+        ["jullie", "werken", "wonen", "lezen"],
+        ["zij/ze", "werken", "wonen", "lezen"]
+      ]
+    },
+    {
+      "title": "Неправильные глаголы",
+      "headers": ["Лицо", "zijn (быть)", "hebben (иметь)", "kunnen (мочь)", "willen (хотеть)"],
+      "rows": [
+        ["ik", "ben", "heb", "kan", "wil"],
+        ["jij/je", "bent", "hebt", "kunt/kan", "wilt/wil"],
+        ["u", "bent", "heeft", "kunt/kan", "wilt/wil"],
+        ["hij/zij/het", "is", "heeft", "kan", "wil"],
+        ["wij/we", "zijn", "hebben", "kunnen", "willen"],
+        ["jullie", "zijn", "hebben", "kunnen", "willen"],
+        ["zij/ze", "zijn", "hebben", "kunnen", "willen"]
+      ]
+    },
+    {
+      "title": "Как найти основу глагола",
+      "headers": ["Инфинитив", "Основа", "Правило"],
+      "rows": [
+        ["werken", "werk", "Убрать -en"],
+        ["wonen", "woon", "wo- в закрытом слоге -> woon (удвоение o)"],
+        ["maken", "maak", "ma- в закрытом слоге -> maak (удвоение a)"],
+        ["lezen", "lees", "le- в закрытом слоге -> lees (удвоение e); z -> s на конце"],
+        ["leven", "leef", "le- в закрытом слоге -> leef (удвоение e); v -> f на конце"],
+        ["schrijven", "schrijf", "v -> f на конце"],
+        ["reizen", "reis", "z -> s на конце"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Правило инверсии с jij",
+      "items": [
+        "В обычном порядке: Jij werkt hier.",
+        "При инверсии (вопрос или после наречия): Werk jij hier? Morgen werk jij.",
+        "Окончание -t исчезает ТОЛЬКО с jij/je, НЕ с hij/u"
+      ]
+    },
+    {
+      "title": "Основа оканчивается на -t",
+      "items": [
+        "Если основа уже на -t, не добавляй еще одну: zitten -> основа zit -> jij zit (не zitt)",
+        "Примеры: eten -> eet -> jij eet, weten -> weet -> jij weet"
+      ]
+    },
+    {
+      "title": "leven vs wonen: разные значения",
+      "items": [
+        "leven = 'жить' в смысле 'быть живым, существовать': Mijn opa leeft nog. (Мой дедушка ещё жив.)",
+        "wonen = 'жить' в смысле 'проживать где-то': Ik woon in Amsterdam.",
+        "Оба спрягаются правильно, но путать их нельзя: 'Ik leef in Amsterdam' звучит как 'Я выживаю в Амстердаме'."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik werk in een ziekenhuis.", "ru": "Я работаю в больнице." },
+    { "nl": "Zij woont in Rotterdam.", "ru": "Она живет в Роттердаме." },
+    { "nl": "Wij lezen elke dag de krant.", "ru": "Мы каждый день читаем газету." },
+    { "nl": "Spreek jij Nederlands?", "ru": "Ты говоришь по-нидерландски? (без -t при инверсии с jij)" },
+    { "nl": "Hij schrijft een brief.", "ru": "Он пишет письмо." },
+    { "nl": "De kinderen spelen in het park.", "ru": "Дети играют в парке." },
+    { "nl": "Ik ben student en ik heb een baan.", "ru": "Я студент и у меня есть работа." },
+    { "nl": "Morgen gaan we naar de markt.", "ru": "Завтра мы идем на рынок." }
+  ],
+  "exceptions": [
+    "zijn, hebben -- полностью неправильные (см. таблицу)",
+    "Модальные глаголы (kunnen, willen, mogen, moeten, zullen) -- особое спряжение в ед. числе",
+    "Основа на -t: не добавляется второе -t (zitten -> hij zit, не hij zitt)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Jij leest? -> Leest jij?", "correct": "Lees jij?", "why": "При инверсии с jij окончание -t исчезает" },
+    { "wrong": "Hij woon in Utrecht.", "correct": "Hij woont in Utrecht.", "why": "3-е лицо ед.ч. требует окончание -t" },
+    { "wrong": "Ik maakt het eten.", "correct": "Ik maak het eten.", "why": "1-е лицо (ik) -- без окончания" },
+    { "wrong": "Wij werkt hard.", "correct": "Wij werken hard.", "why": "Множественное число -- форма инфинитива (werken)" },
+    { "wrong": "Ik zitt op een stoel.", "correct": "Ik zit op een stoel.", "why": "Основа zitten оканчивается на -t; второе -t не добавляется" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Ik __ elke dag Nederlands. (studeren)", "answer": "studeer", "explanation": "ik + основа (studeer)" },
+    { "type": "fill-blank", "sentence": "Hij __ in een restaurant. (werken)", "answer": "werkt", "explanation": "hij + основа + t" },
+    { "type": "fill-blank", "sentence": "__ jij koffie? (drinken)", "answer": "Drink", "explanation": "Инверсия с jij: без -t" },
+    { "type": "fill-blank", "sentence": "Wij __ naar school. (fietsen)", "answer": "fietsen", "explanation": "wij + инфинитив" },
+    { "type": "choice", "question": "Zij (ед.ч.) __ een boek. (lezen)", "options": ["lees", "leest", "lezen", "leez"], "answer": "leest", "explanation": "zij (она) + основа + t; z -> s на конце основы" },
+    { "type": "fill-blank", "sentence": "Ik __ student. (zijn)", "answer": "ben", "explanation": "zijn -- неправильный глагол: ik ben" }
+  ],
+  "relatedTopics": ["spelling-rules", "personal-pronouns", "word-order", "questions", "separable-verbs", "progressive-aan-het", "adverbs"],
+  "inLessons": [3, 6, 12, 13]
+}

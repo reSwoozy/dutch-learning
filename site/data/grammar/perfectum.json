@@ -1,0 +1,140 @@
+{
+  "id": "perfectum",
+  "title": "Прошедшее время (Perfectum)",
+  "titleNL": "Voltooid tegenwoordige tijd (VTT)",
+  "level": "A2",
+  "summary": "Perfectum -- основное прошедшее время в разговорной речи. Образуется: hebben/zijn + причастие прошедшего времени (voltooid deelwoord).",
+  "rule": {
+    "formula": "hebben/zijn (спрягаемый, на 2-м месте) + voltooid deelwoord (в конце предложения)",
+    "explanation": "Большинство глаголов спрягаются с hebben. Глаголы движения, изменения состояния и некоторые другие -- с zijn. Причастие образуется: ge- + основа + -t (слабые) или ge- + особая форма + -en (сильные).",
+    "whenToUse": [
+      "Рассказ о прошлых событиях: Ik heb gisteren gewerkt.",
+      "Описание опыта: Ik heb in Amsterdam gewoond.",
+      "В разговорной речи perfectum используется чаще, чем imperfectum"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Образование причастия (слабые глаголы)",
+      "headers": ["Правило", "Инфинитив", "Основа", "Причастие"],
+      "rows": [
+        ["ge- + основа + -t (глухая согл.)", "werken", "werk", "gewerkt"],
+        ["ge- + основа + -d (звонкая согл.)", "leven", "leef", "geleefd"],
+        ["ge- + основа + -d (гласная/сонорная)", "bouwen", "bouw", "gebouwd"],
+        ["Без ge- (приставка be-)", "betalen", "betaal", "betaald"],
+        ["Без ge- (приставка ver-)", "vertellen", "vertel", "verteld"],
+        ["Без ge- (приставка ont-)", "ontmoeten", "ontmoet", "ontmoet"],
+        ["Без ge- (-eren)", "studeren", "studeer", "gestudeerd"],
+        ["Отделяемый: ge- внутри", "opbellen", "bel op", "opgebeld"]
+      ]
+    },
+    {
+      "title": "Мнемоника 't kofschip для -t/-d",
+      "headers": ["Последняя буква основы", "Окончание", "Пример"],
+      "rows": [
+        ["t, k, f, s, ch, p", "-t", "werken -> gewerkt, fietsen -> gefietst"],
+        ["Все остальные", "-d", "leven -> geleefd, bouwen -> gebouwd"]
+      ]
+    },
+    {
+      "title": "Частые сильные глаголы (неправильные)",
+      "headers": ["Инфинитив", "Причастие", "Перевод"],
+      "rows": [
+        ["zijn", "geweest", "быть"],
+        ["hebben", "gehad", "иметь"],
+        ["gaan", "gegaan", "идти"],
+        ["komen", "gekomen", "приходить"],
+        ["doen", "gedaan", "делать"],
+        ["zien", "gezien", "видеть"],
+        ["geven", "gegeven", "давать"],
+        ["nemen", "genomen", "брать"],
+        ["schrijven", "geschreven", "писать"],
+        ["lezen", "gelezen", "читать"],
+        ["eten", "gegeten", "есть"],
+        ["drinken", "gedronken", "пить"],
+        ["spreken", "gesproken", "говорить"],
+        ["rijden", "gereden", "ехать"],
+        ["vinden", "gevonden", "находить"],
+        ["beginnen", "begonnen", "начинать"],
+        ["staan", "gestaan", "стоять"],
+        ["zitten", "gezeten", "сидеть"],
+        ["liggen", "gelegen", "лежать"],
+        ["slapen", "geslapen", "спать"]
+      ]
+    },
+    {
+      "title": "Глаголы с zijn",
+      "headers": ["Глагол", "Причастие", "Категория"],
+      "rows": [
+        ["gaan", "gegaan", "движение"],
+        ["komen", "gekomen", "движение"],
+        ["rijden", "gereden", "движение"],
+        ["fietsen", "gefietst", "движение"],
+        ["lopen", "gelopen", "движение"],
+        ["vliegen", "gevlogen", "движение"],
+        ["vertrekken", "vertrokken", "движение"],
+        ["aankomen", "aangekomen", "движение"],
+        ["worden", "geworden", "изменение состояния"],
+        ["groeien", "gegroeid", "изменение состояния"],
+        ["sterven", "gestorven", "изменение состояния"],
+        ["vallen", "gevallen", "изменение состояния"],
+        ["zijn", "geweest", "исключение"],
+        ["blijven", "gebleven", "исключение"],
+        ["gebeuren", "gebeurd", "исключение"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "'t kofschip -- как запомнить",
+      "items": [
+        "Если основа глагола оканчивается на букву из слова 't kofschip (t, k, f, s, ch, p) -> причастие на -t",
+        "Все остальные -> причастие на -d",
+        "Мнемоника: представь корабль (schip) с кофе (kof) -- 't kofschip"
+      ]
+    },
+    {
+      "title": "hebben или zijn?",
+      "items": [
+        "zijn: глаголы движения из точки A в точку B (gaan, komen, rijden, fietsen, lopen, vliegen)",
+        "zijn: глаголы изменения состояния (worden, groeien, sterven)",
+        "zijn: zijn, blijven, gebeuren",
+        "hebben: все остальные (включая bewegen -- двигаться без направления)"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik heb gisteren hard gewerkt.", "ru": "Я вчера усердно работал." },
+    { "nl": "Zij heeft een boek gelezen.", "ru": "Она прочитала книгу." },
+    { "nl": "Wij zijn naar Amsterdam gereisd.", "ru": "Мы поехали в Амстердам." },
+    { "nl": "Het kind is gevallen.", "ru": "Ребенок упал." },
+    { "nl": "Heb je al gegeten?", "ru": "Ты уже поел?" },
+    { "nl": "Ik heb mijn vriend opgebeld.", "ru": "Я позвонил своему другу. (отделяемый: op-ge-beld)" },
+    { "nl": "Zij heeft Nederlands gestudeerd.", "ru": "Она изучала нидерландский. (без ge-: -eren)" },
+    { "nl": "Wij hebben de film niet gezien.", "ru": "Мы не видели фильм." },
+    { "nl": "Ben je ooit in Nederland geweest?", "ru": "Ты когда-нибудь был в Нидерландах?" }
+  ],
+  "exceptions": [
+    "Глаголы на -eren: ge- не добавляется, но -d на конце: studeren -> gestudeerd",
+    "Неотделяемые приставки (be-, ver-, ont-, her-, ge-): без ge-: betalen -> betaald, vertellen -> verteld",
+    "Отделяемые глаголы: ge- вставляется между приставкой и основой: opbellen -> opgebeld, aankomen -> aangekomen",
+    "Некоторые глаголы могут быть и с hebben, и с zijn в зависимости от значения: Ik heb gefietst (крутил педали) vs Ik ben naar huis gefietst (поехал домой на велосипеде)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik heb naar Amsterdam gegaan.", "correct": "Ik ben naar Amsterdam gegaan.", "why": "gaan -- глагол движения, спрягается с zijn" },
+    { "wrong": "Hij heeft gewerken.", "correct": "Hij heeft gewerkt.", "why": "Причастие: ge- + основа + -t (не инфинитив)" },
+    { "wrong": "Ik heb opgebeld mijn vriend.", "correct": "Ik heb mijn vriend opgebeld.", "why": "Причастие стоит в конце предложения" },
+    { "wrong": "Zij heeft gestudeerd Nederlands.", "correct": "Zij heeft Nederlands gestudeerd.", "why": "Причастие в конце" },
+    { "wrong": "Ik heb geverteld.", "correct": "Ik heb verteld.", "why": "ver- -- неотделяемая приставка, ge- не добавляется" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Ik __ gisteren een film __ (kijken).", "answer": "heb ... gekeken", "explanation": "kijken -- сильный глагол, hebben + gekeken" },
+    { "type": "choice", "question": "Zij __ naar huis gegaan.", "options": ["heeft", "is", "ben", "zijn"], "answer": "is", "explanation": "gaan -- глагол движения -> zijn; zij (она) -> is" },
+    { "type": "fill-blank", "sentence": "Wij __ de hele dag __ (werken).", "answer": "hebben ... gewerkt", "explanation": "'t kofschip: werk -> k -> gewerkt; hebben" },
+    { "type": "fill-blank", "sentence": "Hij __ zijn vriend __ (opbellen).", "answer": "heeft ... opgebeld", "explanation": "Отделяемый: op-ge-beld" },
+    { "type": "choice", "question": "Ik heb Nederlands __ (studeren).", "options": ["gestudeert", "gestudeerd", "studeerd", "gestudeer"], "answer": "gestudeerd", "explanation": "-eren: ge- + studeer + -d" },
+    { "type": "choice", "question": "Het kind __ gevallen.", "options": ["heeft", "is"], "answer": "is", "explanation": "vallen -- изменение состояния -> zijn" }
+  ],
+  "relatedTopics": ["present-tense", "past-simple", "plusquamperfectum", "separable-verbs", "word-order", "ipp-double-infinitive"],
+  "inLessons": [17, 24, 36]
+}

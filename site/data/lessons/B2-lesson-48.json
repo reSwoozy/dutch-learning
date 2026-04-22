@@ -1,0 +1,92 @@
+{
+  "id": "B2-lesson-48",
+  "num": 48,
+  "level": "B2",
+  "title": "Итоговый урок B2 и подготовка к экзамену",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Итоговый урок B2 и подготовка к экзамену",
+      "content": "Обобщить курс B1–B2: повторить ключевые конструкции, выполнить пробные задания, составить индивидуальный план на период перед экзаменом.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "text",
+      "title": "Повтор ключевых тем",
+      "content": "- Дискурсивные маркеры и когезия (bovendien/echter/zodat/kortom)\n- Пассив (worden/zijn), каузативы (laten/doen)\n- Косвенные вопросы и косвенная речь (of/wh‑, om + te)\n- Аргументация: тезис–доказательство–вывод, хеджинг"
+    },
+    {
+      "type": "text",
+      "title": "Deel 1: Lezen (5 minuten)",
+      "content": "Lees de tekst en beantwoord de vragen:\n> De Nederlandse overheid heeft aangekondigd dat er de komende vijf jaar 100.000 nieuwe woningen worden gebouwd. Doordat de bevolking groeit en de vraag naar betaalbare huisvesting toeneemt, is dit een urgente maatregel. Echter, milieuorganisaties waarschuwen dat de bouw ten koste kan gaan van groene gebieden. Desondanks benadrukt de minister dat duurzaamheid een prioriteit blijft. Samenvattend: de woningbouw wordt versneld, maar met aandacht voor het milieu.\n1. Hoeveel woningen worden er gebouwd? -> `_______`\n2. Waarom is dit nodig? (noem 2 redenen) -> `_______`\n3. Wat is het bezwaar van milieuorganisaties? -> `_______`\n4. Wat is de reactie van de minister? -> `_______`\n5. Welk signaalwoord geeft een tegenstelling aan? -> `_______`\n6. Wat is de hoofdconclusie? -> `_______`\n<details>\n<summary>Ответы</summary>\n1. 100.000 nieuwe woningen in vijf jaar\n2. Bevolkingsgroei en toenemende vraag naar betaalbare huisvesting\n3. De bouw kan ten koste gaan van groene gebieden\n4. Duurzaamheid blijft een prioriteit\n5. Echter / Desondanks\n6. Woningbouw wordt versneld, maar met aandacht voor het milieu\n</details>"
+    },
+    {
+      "type": "text",
+      "title": "Deel 2: Schrijven (5 minuten)",
+      "content": "Schrijf een formeel email (120-150 woorden):\nSituatie: Je hebt een uitnodiging ontvangen voor een inburgeringsexamen op een datum die niet uitkomt. Schrijf een email aan de IND om:\n- De situatie uit te leggen\n- Een alternatieve datum voor te stellen\n- Beleefd te vragen om bevestiging\nGebruik: Geachte..., naar aanleiding van..., zou het mogelijk zijn om..., bij voorbaat dank..."
+    },
+    {
+      "type": "text",
+      "title": "Deel 3: Spreken (3 minuten)",
+      "content": "Bereid een monoloog voor (90 seconden):\nOnderwerp: \"Wat heb je geleerd tijdens je voorbereiding op het inburgeringsexamen?\"\n- Noem 3 dingen die je hebt geleerd (taal, cultuur, praktisch)\n- Gebruik: ten eerste, daarnaast, bovendien, kortom\n- Gebruik formeel register\nDaarna: beantwoord 2 vragen:\n1. Wat was het moeilijkste onderdeel?\n2. Welk advies zou je geven aan iemand die begint met Nederlands leren?"
+    },
+    {
+      "type": "text",
+      "title": "Deel 4: Grammatica (2 minuten)",
+      "content": "1. Hij zei dat hij morgen __ komen. (zullen, косвенная речь) -> `_______`\n2. De brief __ gisteren verstuurd. (worden, прошедшее) -> `_______`\n3. __ het regent, gaan we toch. (несмотря на то, что) -> `_______`\n4. Ik vroeg me af __ u mij zou kunnen helpen. (ли) -> `_______`\n5. Het probleem __ zich eenvoudig oplossen. (laten) -> `_______`\n<details>\n<summary>Ответы</summary>\n1. zou (zullen -> zou в косвенной речи)\n2. werd (worden-passief, прошедшее)\n3. Hoewel / Ondanks dat\n4. of\n5. laat\n</details>"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Самооценка по навыкам",
+      "words": [
+        {
+          "nl": "Lezen",
+          "ru": "__",
+          "hint": "`_______`"
+        },
+        {
+          "nl": "Schrijven",
+          "ru": "__",
+          "hint": "`_______`"
+        },
+        {
+          "nl": "Spreken",
+          "ru": "__",
+          "hint": "`_______`"
+        },
+        {
+          "nl": "Luisteren",
+          "ru": "__",
+          "hint": "`_______`"
+        },
+        {
+          "nl": "Grammatica",
+          "ru": "__",
+          "hint": "`_______`"
+        },
+        {
+          "nl": "Woordenschat",
+          "ru": "__",
+          "hint": "`_______`"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Частые ошибки -- на что обратить внимание",
+      "content": "- Порядок слов в придаточных предложениях\n- Согласование времен в косвенной речи\n- worden vs zijn в пассиве\n- Правильный выбор предлогов\n- Формальный регистр в письменной речи"
+    },
+    {
+      "type": "text",
+      "title": "План подготовки к экзамену",
+      "content": "- Ежедневно 10-15 минут: повторение слов + 1 грамматическая тема\n- 2 раза в неделю: mock-экзамен (чтение + письмо ИЛИ говорение)\n- Еженедельно: NOS Journaal для аудирования\n- Ресурсы: inburgeren.nl, oefenen.nl, NT2Taalmenu"
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- herhaling — повторение\n- proefexamen — пробный экзамен\n- beoordelingscriteria — критерии оценивания\n- tijdsdruk — дефицит времени\n- strategie — стратегия\n- cohesie — связность\n- argumentatie — аргументация\n- passief — пассив\n- indirecte rede — косвенная речь\n- beleefd verzoek — вежливая просьба\n- samenvatting — резюме/реферат\n- onderbouwing — обоснование\n- slotconclusie — итоговый вывод\n- reflectie — рефлексия\n- leerdoel — учебная цель\n- oefenroutine — режим практики\n- spreekopdracht — задание на говорение\n- schrijfopdracht — задание на письмо\n- luisteropdracht — задание на аудирование\n- planning — планирование"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-48.json"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "B1-text-04",
+  "level": "B1",
+  "title": "Jongeren en sociale media",
+  "topic": "maatschappij-media",
+  "readingTime": "4 min",
+  "body": "Voor de meeste Nederlandse jongeren zijn sociale media niet weg te denken uit hun dagelijks leven. Instagram, TikTok, Snapchat en YouTube behoren tot de meest gebruikte apps. Onderzoek laat zien dat jongeren tussen de twaalf en achttien jaar gemiddeld drie tot vier uur per dag online zijn. Dat is meer dan veel ouders beseffen.\n\nDe voordelen van sociale media worden vaak onderschat. Jongeren vinden er vriendschappen, leren van elkaar en delen ervaringen. Ze kunnen hun creativiteit kwijt: foto's bewerken, korte video's maken, muziek componeren. Ook in moeilijke periodes, bijvoorbeeld tijdens de coronacrisis, waren sociale media voor veel tieners een onmisbare manier om contact te houden.\n\nToch maken deskundigen zich zorgen. Door algoritmes krijgen jongeren soms inhoud voorgeschoteld die hun zelfbeeld negatief beïnvloedt. Idealen over uiterlijk, succes of populariteit kunnen tot stress en onzekerheid leiden. Bovendien slapen jongeren slechter wanneer ze laat op de avond nog scrollen. Cyberpesten is een ander probleem dat veel voorkomt.\n\nEen aantal scholen heeft daarom besloten telefoons tijdens lestijd te verbieden. Leraren merken dat leerlingen meer met elkaar praten en zich beter kunnen concentreren. Ook ouders worden gestimuleerd om thuis duidelijke afspraken te maken, bijvoorbeeld geen telefoon tijdens het eten of na negen uur 's avonds.\n\nDe regering bekijkt of er aanvullende regels nodig zijn. In sommige Europese landen wordt gediscussieerd over een minimumleeftijd voor sociale media. Vooralsnog ligt de verantwoordelijkheid vooral bij ouders, scholen en de jongeren zelf. Mediawijsheid – leren om kritisch met sociale media om te gaan – staat steeds vaker op het lesrooster.",
+  "glossary": [
+    {"nl": "beseffen", "ru": "осознавать"},
+    {"nl": "onderschatten", "ru": "недооценивать"},
+    {"nl": "onmisbaar", "ru": "незаменимый"},
+    {"nl": "het algoritme", "ru": "алгоритм"},
+    {"nl": "voorschotelen", "ru": "подсовывать, преподносить"},
+    {"nl": "het zelfbeeld", "ru": "образ себя"},
+    {"nl": "onzekerheid", "ru": "неуверенность"},
+    {"nl": "scrollen", "ru": "листать ленту"},
+    {"nl": "het cyberpesten", "ru": "кибербуллинг"},
+    {"nl": "verbieden", "ru": "запрещать"},
+    {"nl": "aanvullend", "ru": "дополнительный"},
+    {"nl": "de mediawijsheid", "ru": "медиаграмотность"},
+    {"nl": "kritisch", "ru": "критический"}
+  ],
+  "questions": [
+    {
+      "q": "Hoeveel tijd zijn jongeren gemiddeld online?",
+      "options": ["1 uur per dag", "3-4 uur per dag", "Meer dan 8 uur"],
+      "answer": 1
+    },
+    {
+      "q": "Welk voordeel van sociale media wordt genoemd?",
+      "options": ["Meer geld verdienen", "Vriendschappen, leren en creativiteit", "Hogere cijfers op school"],
+      "answer": 1
+    },
+    {
+      "q": "Waar maken deskundigen zich zorgen om?",
+      "options": ["Te weinig gebruik van sociale media", "Algoritmes, slaap, cyberpesten", "Gebrek aan internet"],
+      "answer": 1
+    },
+    {
+      "q": "Wat hebben sommige scholen gedaan?",
+      "options": ["Tablets gratis verdelen", "Telefoons in lestijd verbieden", "Lessen geannuleerd"],
+      "answer": 1
+    },
+    {
+      "q": "Wat is mediawijsheid?",
+      "options": ["Zoveel mogelijk sociale media gebruiken", "Kritisch leren omgaan met sociale media", "Een nieuwe app"],
+      "answer": 1
+    }
+  ]
+}

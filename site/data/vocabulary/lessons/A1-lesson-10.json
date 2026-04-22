@@ -1,0 +1,242 @@
+[
+  {
+    "nl": "de leraar",
+    "ru": "учитель",
+    "example": "De leraar geeft Nederlandse les.",
+    "pronunciation": "də ləˈraːr",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de dokter",
+    "ru": "врач",
+    "example": "De dokter helpt zieke mensen.",
+    "pronunciation": "də ˈdɔktər",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de verpleegster",
+    "ru": "медсестра",
+    "example": "De verpleegster zorgt voor patiënten.",
+    "pronunciation": "də vərˈpleːxstər",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de politieagent",
+    "ru": "полицейский",
+    "example": "De politieagent regelt het verkeer.",
+    "pronunciation": "də poˈlitsiɑɣɛnt",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de kok",
+    "ru": "повар",
+    "example": "De kok maakt heerlijk eten.",
+    "pronunciation": "də kɔk",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de verkoper",
+    "ru": "продавец",
+    "example": "De verkoper helpt klanten.",
+    "pronunciation": "də vərˈkoːpər",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de chauffeur",
+    "ru": "водитель",
+    "example": "De chauffeur rijdt de bus.",
+    "pronunciation": "də ʃoˈføːr",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de advocaat",
+    "ru": "адвокат",
+    "example": "De advocaat werkt in de rechtbank.",
+    "pronunciation": "də ˌɑdvoˈkaːt",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de accountant",
+    "ru": "бухгалтер",
+    "example": "De accountant doet de administratie.",
+    "pronunciation": "də ˌɑkɑu̯nˈtɑnt",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de ingenieur",
+    "ru": "инженер",
+    "example": "De ingenieur ontwerpt bruggen.",
+    "pronunciation": "də ˌɪnʒəˈnøːr",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "wat is uw beroep",
+    "ru": "какая ваша профессия",
+    "example": "Wat is uw beroep? Ik ben leraar.",
+    "pronunciation": "ʋɑt ɪs yʋ bəˈrup",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "ik ben",
+    "ru": "я есть",
+    "example": "Ik ben verpleegster in het ziekenhuis.",
+    "pronunciation": "ɪk bɛn",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "ik werk in",
+    "ru": "я работаю в",
+    "example": "Ik werk in een groot kantoor.",
+    "pronunciation": "ɪk ʋɛrk ɪn",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "waar werkt u",
+    "ru": "где вы работаете",
+    "example": "Waar werkt u? In de stad.",
+    "pronunciation": "ʋaːr ʋɛrkt y",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "naar kantoor",
+    "ru": "в офис",
+    "example": "Elke dag ga ik naar kantoor.",
+    "pronunciation": "naːr kɑnˈtoːr",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "het werk",
+    "ru": "работа",
+    "example": "Het werk is interessant maar zwaar.",
+    "pronunciation": "ɦət ʋɛrk",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "het kantoor",
+    "ru": "офис",
+    "example": "Het kantoor heeft grote ramen.",
+    "pronunciation": "ɦət kɑnˈtoːr",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "het ziekenhuis",
+    "ru": "больница",
+    "example": "Het ziekenhuis is altijd open.",
+    "pronunciation": "ɦət ˈzikənɦœy̯s",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de school",
+    "ru": "школа",
+    "example": "De school begint om acht uur.",
+    "pronunciation": "də sxoːl",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de winkel",
+    "ru": "магазин",
+    "example": "De winkel verkoopt kleding.",
+    "pronunciation": "də ˈʋɪŋkəl",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de fabriek",
+    "ru": "фабрика",
+    "example": "In de fabriek maken ze auto's.",
+    "pronunciation": "də faˈbrik",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "werken",
+    "ru": "работать",
+    "example": "Ik werk vijf dagen per week.",
+    "pronunciation": "ˈʋɛrkə",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "beginnen",
+    "ru": "начинать",
+    "example": "Om negen uur begin ik met werken.",
+    "pronunciation": "bəˈɣɪnə",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "stoppen",
+    "ru": "заканчивать",
+    "example": "Om vijf uur stop ik met werken.",
+    "pronunciation": "ˈstɔpə",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de collega",
+    "ru": "коллега",
+    "example": "Mijn collega is heel aardig.",
+    "pronunciation": "də kɔˈleːɣa",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "de baas",
+    "ru": "начальник",
+    "example": "De baas is tevreden met mijn werk.",
+    "pronunciation": "də baːs",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "het salaris",
+    "ru": "зарплата",
+    "example": "Het salaris wordt elke maand betaald.",
+    "pronunciation": "ɦət saˈlaːrɪs",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "druk",
+    "ru": "занятой",
+    "example": "Het werk is heel druk vandaag.",
+    "pronunciation": "drɵk",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "makkelijk",
+    "ru": "легкий",
+    "example": "Deze baan is niet zo makkelijk.",
+    "pronunciation": "ˈmɑkələk",
+    "level": "A1",
+    "lesson": 10
+  },
+  {
+    "nl": "moeilijk",
+    "ru": "трудный",
+    "example": "Soms is het werk erg moeilijk.",
+    "pronunciation": "ˈmujələk",
+    "level": "A1",
+    "lesson": 10
+  }
+]

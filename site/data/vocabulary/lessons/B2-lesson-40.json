@@ -1,0 +1,366 @@
+[
+  {
+    "nl": "indirecte vraag",
+    "ru": "косвенный вопрос",
+    "example": "Een indirecte vraag gebruikt een bijzin.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "directe vraag",
+    "ru": "прямой вопрос",
+    "example": "Directe vraag: 'Waar woon je?'",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "bijzin",
+    "ru": "придаточное предложение",
+    "example": "In een bijzin staat het werkwoord aan het einde.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "hoofdzin",
+    "ru": "главное предложение",
+    "example": "De hoofdzin bevat het hoofdwerkwoord.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "vraagwoord",
+    "ru": "вопросительное слово",
+    "example": "Waar, wanneer en hoe zijn vraagwoorden.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "of (bijzin)",
+    "ru": "ли (союз для ja/nee-вопроса)",
+    "example": "Ik weet niet of hij komt.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "waar",
+    "ru": "где",
+    "example": "Kunt u mij zeggen waar de uitgang is?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "wanneer",
+    "ru": "когда",
+    "example": "Weet u wanneer de trein vertrekt?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "hoe",
+    "ru": "как",
+    "example": "Ik vroeg me af hoe ik het moest doen.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "hoeveel",
+    "ru": "сколько",
+    "example": "Weet u hoeveel dit kost?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "waarom",
+    "ru": "почему",
+    "example": "Ik begrijp niet waarom hij zo reageert.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "wie",
+    "ru": "кто",
+    "example": "Ik weet niet wie dat heeft gedaan.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "wat",
+    "ru": "что",
+    "example": "Kunt u uitleggen wat dit betekent?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "welke",
+    "ru": "какой",
+    "example": "Kunt u zeggen welke bus ik moet nemen?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Kunt u mij zeggen waar ...?",
+    "ru": "Скажите, пожалуйста, где...",
+    "example": "Kunt u mij zeggen waar het station is?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Weet u wanneer ...?",
+    "ru": "Вы знаете, когда...?",
+    "example": "Weet u wanneer de winkel opengaat?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Ik vroeg me af of ...",
+    "ru": "Мне интересно, .../Я хотел узнать, ...",
+    "example": "Ik vroeg me af of u beschikbaar bent.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Zou u kunnen ...?",
+    "ru": "Не могли бы вы...?",
+    "example": "Zou u mij even kunnen helpen?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Is het mogelijk om ... te ...?",
+    "ru": "Возможно ли ...?",
+    "example": "Is het mogelijk om eerder te komen?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Mag ik u vragen of ...?",
+    "ru": "Могу ли я спросить, ...?",
+    "example": "Mag ik u vragen of u tijd heeft?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Zou het mogelijk zijn ...?",
+    "ru": "Возможно ли было бы...?",
+    "example": "Zou het mogelijk zijn om de afspraak te verzetten?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Ik zou graag willen weten ...",
+    "ru": "Я хотел бы узнать...",
+    "example": "Ik zou graag willen weten hoe lang dit duurt.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Zou u zo vriendelijk willen zijn ...?",
+    "ru": "Не будете ли вы так любезны...?",
+    "example": "Zou u zo vriendelijk willen zijn dit te ondertekenen?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Ik vraag me af ...",
+    "ru": "Я думаю.../Интересно, ...",
+    "example": "Ik vraag me af of dit klopt.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Ik weet niet of ...",
+    "ru": "Я не знаю, ...",
+    "example": "Ik weet niet of hij thuis is.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Heeft u er bezwaar tegen als ...?",
+    "ru": "Вы не против, если ...?",
+    "example": "Heeft u er bezwaar tegen als ik het raam open?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Sorry dat ik u stoor",
+    "ru": "Извините, что беспокою",
+    "example": "Sorry dat ik u stoor, maar heeft u een moment?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Neemt u mij niet kwalijk",
+    "ru": "Прошу прощения",
+    "example": "Neemt u mij niet kwalijk, mag ik u iets vragen?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Pardon",
+    "ru": "Извините",
+    "example": "Pardon, kunt u dat herhalen?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Alvast bedankt",
+    "ru": "Заранее спасибо",
+    "example": "Alvast bedankt voor uw reactie.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Bij voorbaat dank",
+    "ru": "Заранее благодарю",
+    "example": "Bij voorbaat dank voor uw aandacht.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Als het u uitkomt",
+    "ru": "Если вам удобно",
+    "example": "Als het u uitkomt, kunnen we morgen afspreken.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Op uw gemak",
+    "ru": "Не спеша/на ваш вкус",
+    "example": "Neem het op uw gemak door.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Indien mogelijk",
+    "ru": "По возможности",
+    "example": "Graag antwoord indien mogelijk vóór vrijdag.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Indien gewenst",
+    "ru": "При желании",
+    "example": "Indien gewenst kan ik meer informatie sturen.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "Bij voorkeur",
+    "ru": "Предпочтительно",
+    "example": "Bij voorkeur telefonisch contact opnemen.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "geachte",
+    "ru": "уважаемый/-ая",
+    "example": "Geachte heer Jansen, ...",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "met vriendelijke groet",
+    "ru": "с уважением",
+    "example": "Met vriendelijke groet, Peter.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "hoogachtend",
+    "ru": "с глубоким уважением",
+    "example": "Hoogachtend, de directie.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "verzoek",
+    "ru": "просьба",
+    "example": "Ik heb een klein verzoek.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "verzoeken",
+    "ru": "просить (формально)",
+    "example": "Wij verzoeken u vriendelijk om een reactie.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "informatie inwinnen",
+    "ru": "наводить справки",
+    "example": "Ik wil graag informatie inwinnen over de cursus.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "navragen",
+    "ru": "уточнять/спрашивать",
+    "example": "Ik zal even navragen bij mijn collega.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "opvragen",
+    "ru": "запрашивать",
+    "example": "U kunt uw dossier schriftelijk opvragen.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "verhelderen",
+    "ru": "прояснять",
+    "example": "Kunt u dat even verhelderen?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "toelichten",
+    "ru": "пояснять",
+    "example": "Zou u dat punt willen toelichten?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "bevestigen",
+    "ru": "подтверждать",
+    "example": "Kunt u de afspraak bevestigen?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "uitleggen",
+    "ru": "объяснять",
+    "example": "Zou u mij willen uitleggen hoe dit werkt?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "doorgeven",
+    "ru": "передавать (информацию)",
+    "example": "Kunt u dit aan uw collega doorgeven?",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "terugkoppelen",
+    "ru": "давать обратную связь",
+    "example": "Ik zal u volgende week terugkoppelen.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "afstemmen",
+    "ru": "согласовать",
+    "example": "We moeten de planning afstemmen.",
+    "level": "B2",
+    "lesson": 40
+  },
+  {
+    "nl": "een moment geduld",
+    "ru": "минуточку терпения",
+    "example": "Een moment geduld alstublieft.",
+    "level": "B2",
+    "lesson": 40
+  }
+]

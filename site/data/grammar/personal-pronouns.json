@@ -1,0 +1,97 @@
+{
+  "id": "personal-pronouns",
+  "title": "Личные местоимения",
+  "titleNL": "Persoonlijke voornaamwoorden",
+  "level": "A1",
+  "summary": "Личные местоимения в нидерландском имеют полную и сокращенную формы. Сокращенные используются в разговорной речи. Есть формальное обращение u.",
+  "rule": {
+    "formula": "Подлежащее (subject) | Дополнение (object) | Полная форма | Сокращенная форма",
+    "explanation": "В нидерландском местоимения имеют две формы: полную (ударную) и сокращенную (безударную). Сокращенная форма используется в обычной речи, полная -- для выделения или противопоставления.",
+    "whenToUse": [
+      "Полная форма: для ударения -- Jij bent slim, niet hij! (Ты умный, не он!)",
+      "Сокращенная форма: в обычной речи -- Je bent slim. (Ты умный.)",
+      "u: формальное обращение к незнакомым, старшим, в официальной обстановке"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Подлежащее (subject)",
+      "headers": ["Лицо", "Полная форма", "Сокращенная", "Русский"],
+      "rows": [
+        ["1 ед.", "ik", "-", "я"],
+        ["2 ед. (неформ.)", "jij", "je", "ты"],
+        ["2 ед. (форм.)", "u", "-", "Вы"],
+        ["3 ед. муж.", "hij", "-ie", "он"],
+        ["3 ед. жен.", "zij", "ze", "она"],
+        ["3 ед. ср.", "het", "'t", "оно"],
+        ["1 мн.", "wij", "we", "мы"],
+        ["2 мн.", "jullie", "-", "вы"],
+        ["3 мн.", "zij", "ze", "они"]
+      ]
+    },
+    {
+      "title": "Дополнение (object)",
+      "headers": ["Лицо", "Полная форма", "Сокращенная", "Русский"],
+      "rows": [
+        ["1 ед.", "mij", "me", "меня/мне"],
+        ["2 ед. (неформ.)", "jou", "je", "тебя/тебе"],
+        ["2 ед. (форм.)", "u", "-", "Вас/Вам"],
+        ["3 ед. муж.", "hem", "'m", "его/ему"],
+        ["3 ед. жен.", "haar", "d'r / ze", "ее/ей"],
+        ["3 ед. ср.", "het", "'t", "его/ему"],
+        ["1 мн.", "ons", "-", "нас/нам"],
+        ["2 мн.", "jullie", "-", "вас/вам"],
+        ["3 мн.", "hen/hun", "ze", "их/им"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Когда использовать u",
+      "items": [
+        "С незнакомыми взрослыми людьми",
+        "В официальной обстановке (банк, полиция, gemeente)",
+        "С людьми значительно старше вас",
+        "В деловой переписке",
+        "Совет: в Нидерландах переход на jij происходит быстрее, чем в России на ты"
+      ]
+    },
+    {
+      "title": "hen vs hun",
+      "items": [
+        "hen -- после предлога: Ik ga met hen. (Я иду с ними.)",
+        "hun -- непрямое дополнение: Ik geef hun een boek. (Я даю им книгу.)",
+        "В разговорной речи почти все используют ze вместо hen/hun"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik woon in Amsterdam.", "ru": "Я живу в Амстердаме." },
+    { "nl": "Jij spreekt goed Nederlands!", "ru": "Ты хорошо говоришь по-нидерландски! (с ударением на ты)" },
+    { "nl": "Spreek je Nederlands?", "ru": "Ты говоришь по-нидерландски? (обычный вопрос)" },
+    { "nl": "Hij werkt bij een bank.", "ru": "Он работает в банке." },
+    { "nl": "Wij gaan naar het park, en zij gaan naar huis.", "ru": "Мы идем в парк, а они идут домой." },
+    { "nl": "Kun je mij helpen?", "ru": "Можешь мне помочь?" },
+    { "nl": "Ik geef het aan haar.", "ru": "Я даю это ей." },
+    { "nl": "Kunt u mij helpen, alstublieft?", "ru": "Не могли бы Вы мне помочь?" }
+  ],
+  "exceptions": [
+    "ik пишется с маленькой буквы (в отличие от английского I), кроме начала предложения",
+    "jij/je меняет порядок с глаголом в вопросе: Jij bent -> Ben jij? Но: je bent -> Ben je?",
+    "При инверсии с jij глагол теряет -t: Jij werkt -> Werk jij? (не Werkt jij?)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Werkt jij hier?", "correct": "Werk jij hier?", "why": "При инверсии с jij глагол теряет окончание -t" },
+    { "wrong": "Ik geef het aan zij.", "correct": "Ik geef het aan haar.", "why": "После предлога используется форма дополнения (object), не подлежащего" },
+    { "wrong": "Hun gaan naar school.", "correct": "Zij/Ze gaan naar school.", "why": "hun -- форма дополнения, для подлежащего используется zij/ze" }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "__ woon in Den Haag.", "options": ["Ik", "Mij", "Me"], "answer": "Ik", "explanation": "Подлежащее -> ik" },
+    { "type": "choice", "question": "Kun je __ helpen?", "options": ["ik", "mij", "wij"], "answer": "mij", "explanation": "Дополнение -> mij/me" },
+    { "type": "choice", "question": "Werk __ hier? (неформ.)", "options": ["jij", "je", "u"], "answer": "jij", "explanation": "При инверсии с ударной формой: Werk jij?" },
+    { "type": "fill-blank", "sentence": "__ gaan morgen naar Amsterdam. (мы, обычная речь)", "answer": "We", "explanation": "Сокращенная форма we в обычной речи" },
+    { "type": "choice", "question": "Ik geef het boek aan __. (ей)", "options": ["zij", "ze", "haar"], "answer": "haar", "explanation": "После предлога -- форма дополнения: haar" }
+  ],
+  "relatedTopics": ["possessive-pronouns", "present-tense", "questions", "indefinite-pronouns"],
+  "inLessons": [1, 3, 5]
+}

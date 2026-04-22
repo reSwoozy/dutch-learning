@@ -1,0 +1,69 @@
+{
+  "id": "possessive-pronouns",
+  "title": "Притяжательные местоимения",
+  "titleNL": "Bezittelijke voornaamwoorden",
+  "level": "A1",
+  "summary": "Притяжательные местоимения показывают принадлежность: mijn (мой), jouw (твой), zijn (его), haar (ее), ons/onze (наш), jullie (ваш), hun (их).",
+  "rule": {
+    "formula": "Притяжательное местоимение + существительное (без артикля)",
+    "explanation": "Притяжательное местоимение заменяет артикль. Большинство не изменяются. Исключение: ons/onze -- ons перед het-woorden, onze перед de-woorden и мн.ч.",
+    "whenToUse": [
+      "mijn boek (моя книга), jouw huis (твой дом), zijn auto (его машина)",
+      "ons huis (наш дом, het-woord) vs onze auto (наша машина, de-woord)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Притяжательные местоимения",
+      "headers": ["Лицо", "Полная форма", "Сокращенная", "Русский"],
+      "rows": [
+        ["ik", "mijn", "m'n", "мой/моя/мое"],
+        ["jij", "jouw", "je", "твой/твоя/твое"],
+        ["u", "uw", "-", "Ваш/Ваша/Ваше"],
+        ["hij", "zijn", "z'n", "его"],
+        ["zij (она)", "haar", "d'r", "ее"],
+        ["het", "zijn", "z'n", "его (для ср. рода)"],
+        ["wij", "ons/onze", "-", "наш/наша/наше"],
+        ["jullie", "jullie", "-", "ваш/ваша/ваше"],
+        ["zij (они)", "hun", "-", "их"]
+      ]
+    },
+    {
+      "title": "ons vs onze",
+      "headers": ["Тип слова", "Форма", "Пример"],
+      "rows": [
+        ["het-woord (ед.ч.)", "ons", "ons huis, ons kind, ons boek"],
+        ["de-woord (ед.ч.)", "onze", "onze auto, onze school, onze vader"],
+        ["Мн. число (любое)", "onze", "onze kinderen, onze boeken"]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Mijn naam is Anton.", "ru": "Мое имя -- Антон." },
+    { "nl": "Waar is jouw tas?", "ru": "Где твоя сумка?" },
+    { "nl": "Zijn vrouw werkt in een ziekenhuis.", "ru": "Его жена работает в больнице." },
+    { "nl": "Haar kinderen gaan naar school.", "ru": "Ее дети ходят в школу." },
+    { "nl": "Ons huis is groot.", "ru": "Наш дом большой. (het huis -> ons)" },
+    { "nl": "Onze auto is rood.", "ru": "Наша машина красная. (de auto -> onze)" },
+    { "nl": "Hun hond heet Max.", "ru": "Их собаку зовут Макс." },
+    { "nl": "Wat is uw adres?", "ru": "Какой Ваш адрес? (формально)" }
+  ],
+  "exceptions": [
+    "ons/onze -- единственное притяжательное, которое меняется в зависимости от рода существительного",
+    "zijn используется и для hij, и для het: Zijn boek (его книга), Het kind en zijn moeder (ребенок и его мать)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Onze huis is groot.", "correct": "Ons huis is groot.", "why": "huis -- het-woord, поэтому ons (не onze)" },
+    { "wrong": "De mijn boek.", "correct": "Mijn boek.", "why": "Притяжательное заменяет артикль, не используется вместе с ним" },
+    { "wrong": "Haar man en haar kinderen.", "correct": "Haar man en haar kinderen. (правильно!)", "why": "haar не меняется -- одна форма для всех существительных" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "__ naam is Maria. (я)", "answer": "Mijn", "explanation": "ik -> mijn" },
+    { "type": "fill-blank", "sentence": "Waar is __ auto? (ты, неформ.)", "answer": "jouw/je", "explanation": "jij -> jouw/je" },
+    { "type": "choice", "question": "__ huis is mooi. (мы)", "options": ["Ons", "Onze", "Ons/onze"], "answer": "Ons", "explanation": "huis -- het-woord -> ons" },
+    { "type": "choice", "question": "__ school is groot. (мы)", "options": ["Ons", "Onze"], "answer": "Onze", "explanation": "school -- de-woord -> onze" },
+    { "type": "fill-blank", "sentence": "__ kinderen spelen buiten. (они)", "answer": "Hun", "explanation": "zij (они) -> hun" }
+  ],
+  "relatedTopics": ["personal-pronouns", "demonstrative-pronouns", "articles"],
+  "inLessons": [3, 5, 12]
+}

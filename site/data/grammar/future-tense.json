@@ -1,0 +1,68 @@
+{
+  "id": "future-tense",
+  "title": "Будущее время",
+  "titleNL": "Toekomende tijd",
+  "level": "A2",
+  "summary": "Будущее время выражается тремя способами: настоящее время + указание на будущее (самый частый), gaan + инфинитив (планы), zullen + инфинитив (обещания, предсказания).",
+  "rule": {
+    "formula": "1) Настоящее + время: Morgen werk ik. | 2) gaan + инфинитив: Ik ga morgen werken. | 3) zullen + инфинитив: Ik zal morgen werken.",
+    "explanation": "В разговорной речи чаще всего используется настоящее время с указанием на будущее или gaan + инфинитив. zullen используется для обещаний, предсказаний и формальных ситуаций.",
+    "whenToUse": [
+      "Настоящее: Morgen ga ik naar Amsterdam. (самый частый способ)",
+      "gaan + инф.: Ik ga een huis kopen. (план, намерение)",
+      "zullen + инф.: Het zal morgen regenen. (предсказание)",
+      "zullen + инф.: Ik zal je helpen. (обещание)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Спряжение zullen",
+      "headers": ["Лицо", "Форма"],
+      "rows": [
+        ["ik", "zal"],
+        ["jij/je", "zult / zal"],
+        ["u", "zult / zal"],
+        ["hij/zij/het", "zal"],
+        ["wij/we", "zullen"],
+        ["jullie", "zullen"],
+        ["zij/ze", "zullen"]
+      ]
+    },
+    {
+      "title": "Три способа выразить будущее",
+      "headers": ["Способ", "Когда", "Пример"],
+      "rows": [
+        ["Настоящее время", "Конкретные планы с указанием времени", "Morgen vlieg ik naar Spanje."],
+        ["gaan + инфинитив", "Намерения, планы", "Ik ga Nederlands leren."],
+        ["zullen + инфинитив", "Обещания, предсказания, формально", "Ik zal je morgen bellen."]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Morgen ga ik naar de dokter.", "ru": "Завтра я иду к врачу. (настоящее время)" },
+    { "nl": "Volgende week beginnen we met de cursus.", "ru": "На следующей неделе мы начинаем курс. (настоящее)" },
+    { "nl": "Ik ga een nieuw huis kopen.", "ru": "Я собираюсь купить новый дом. (gaan + инф.)" },
+    { "nl": "Wij gaan vanavond uit eten.", "ru": "Мы сегодня вечером идем есть в ресторан. (gaan + инф.)" },
+    { "nl": "Ik zal je morgen bellen.", "ru": "Я позвоню тебе завтра. (обещание)" },
+    { "nl": "Het zal morgen koud zijn.", "ru": "Завтра будет холодно. (предсказание)" },
+    { "nl": "Zullen we naar de bioscoop gaan?", "ru": "Пойдем в кино? (предложение)" }
+  ],
+  "exceptions": [
+    "gaan + gaan не используется: не говори 'Ik ga gaan', скажи 'Ik ga' или 'Ik zal gaan'",
+    "zullen + we = предложение: Zullen we...? (Давай...?)",
+    "В разговорной речи zullen встречается реже, чем gaan или настоящее время"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik zal morgen ga naar school.", "correct": "Ik zal morgen naar school gaan.", "why": "После zullen -- инфинитив (gaan), не спрягаемая форма" },
+    { "wrong": "Ik ga gaan naar huis.", "correct": "Ik ga naar huis.", "why": "gaan + gaan не используется" },
+    { "wrong": "Morgen ik werk.", "correct": "Morgen werk ik.", "why": "Инверсия: после наречия времени глагол перед подлежащим" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Ik __ je morgen bellen. (обещание)", "answer": "zal", "explanation": "Обещание -> zullen: ik zal" },
+    { "type": "fill-blank", "sentence": "Wij __ vanavond naar de film __. (gaan, kijken)", "answer": "gaan ... kijken", "explanation": "План -> gaan + инфинитив" },
+    { "type": "choice", "question": "__ we een pizza bestellen? (предложение)", "options": ["Gaan", "Zullen", "Willen"], "answer": "Zullen", "explanation": "Предложение -> Zullen we...?" },
+    { "type": "word-order", "words": ["morgen", "ik", "vlieg", "naar", "Spanje"], "answer": "Morgen vlieg ik naar Spanje.", "explanation": "Настоящее время + инверсия" }
+  ],
+  "relatedTopics": ["present-tense", "modal-verbs", "word-order"],
+  "inLessons": [21, 24]
+}

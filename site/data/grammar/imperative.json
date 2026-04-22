@@ -1,0 +1,107 @@
+{
+  "id": "imperative",
+  "title": "Повелительное наклонение (Imperatief)",
+  "titleNL": "Gebiedende wijs",
+  "level": "A1",
+  "summary": "Imperatief выражает просьбу, совет, приказ или приглашение. Базовая форма — основа глагола без окончаний.",
+  "rule": {
+    "formula": "Основа глагола (как 'ik'-форма) | В вежливой форме — с 'u' и -t | Смягчители: even, maar, eens, toch",
+    "explanation": "Imperatief ставится в начало предложения, подлежащее обычно опускается. В разговорной голландской речи команду смягчают словами even, maar, eens — это делает просьбу вежливее. С 'u' добавляется -t и подлежащее: Komt u binnen.",
+    "whenToUse": [
+      "Просьбы и команды: Kom hier! — Иди сюда!",
+      "Инструкции, рецепты: Snijd de ui fijn. — Мелко нарежь лук.",
+      "Вежливые предложения: Neem even plaats. — Присядьте, пожалуйста.",
+      "Совместное действие (Laten we): Laten we gaan! — Пойдём!",
+      "Формальный стиль: Komt u binnen, meneer. — Входите, сударь."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Формы imperatief",
+      "headers": ["Контекст", "Форма", "Пример", "Перевод"],
+      "rows": [
+        ["Ты/вы (неформально)", "основа", "Kom! / Luister!", "Иди! / Слушай!"],
+        ["Вы (к u, вежливо)", "основа + -t", "Komt u binnen.", "Входите."],
+        ["Мы (совместно)", "Laten we + инфинитив", "Laten we beginnen.", "Давайте начнём."],
+        ["Отрицание", "Niet + imperatief", "Doe dat niet!", "Не делай этого!"],
+        ["Мягкая команда", "+ even/maar/eens", "Kom eens hier. / Wacht even.", "Иди-ка сюда. / Подожди минутку."]
+      ]
+    },
+    {
+      "title": "Отделяемые глаголы в imperatief",
+      "headers": ["Инфинитив", "Imperatief", "Пример"],
+      "rows": [
+        ["opstaan", "sta op", "Sta op, het is al laat!"],
+        ["aankomen", "kom aan", "Kom snel aan."],
+        ["meegaan", "ga mee", "Ga met ons mee."],
+        ["opletten", "let op", "Let op! Gevaar!"],
+        ["uitkijken", "kijk uit", "Kijk uit voor de auto!"]
+      ]
+    },
+    {
+      "title": "Нерегулярные imperatief",
+      "headers": ["Инфинитив", "Imperatief", "Перевод"],
+      "rows": [
+        ["zijn", "wees / weest u", "будь / будьте"],
+        ["hebben", "heb / hebt u", "имей / имейте"],
+        ["doen", "doe", "делай"],
+        ["gaan", "ga", "иди"],
+        ["komen", "kom", "иди сюда / приходи"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Как смягчить команду",
+      "items": [
+        "even — 'минутку': Kom even hier. — Подойди на минутку.",
+        "maar — 'давай уже': Ga maar zitten. — Садись.",
+        "eens — 'как-нибудь': Kijk eens! — Посмотри-ка!",
+        "toch — 'ну ведь': Luister toch! — Да послушай же!",
+        "alsjeblieft / alstublieft — 'пожалуйста': Help me alsjeblieft.",
+        "В разговоре почти всегда нужен хотя бы один смягчитель, иначе звучит грубо."
+      ]
+    },
+    {
+      "title": "Совместные призывы с Laten we",
+      "items": [
+        "Laten we = 'давайте' (к группе с собой)",
+        "Laten we gaan! — Пойдём!",
+        "Laten we eten. — Давайте поедим.",
+        "Laat ons + инфинитив — более формально/книжно"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Kom binnen!", "ru": "Входи!" },
+    { "nl": "Wacht even, alsjeblieft.", "ru": "Подожди минутку, пожалуйста." },
+    { "nl": "Neemt u plaats.", "ru": "Садитесь, пожалуйста." },
+    { "nl": "Laten we koffie drinken.", "ru": "Давайте выпьем кофе." },
+    { "nl": "Sta op, het is al acht uur!", "ru": "Вставай, уже восемь часов!" },
+    { "nl": "Doe de deur dicht.", "ru": "Закрой дверь." },
+    { "nl": "Let op het verkeer.", "ru": "Следи за движением." },
+    { "nl": "Wees niet bang.", "ru": "Не бойся." }
+  ],
+  "exceptions": [
+    "zijn имеет особую форму: wees (неформально), weest u (формально)",
+    "У 'u'-формы добавляется -t, подлежащее НЕ опускается: Komt u binnen.",
+    "В рецептах и инструкциях часто используется инфинитив: 'De groenten wassen en snijden.' — но это не imperatief, а инфинитивные предписания."
+  ],
+  "commonMistakes": [
+    { "wrong": "Komt hier!", "correct": "Kom hier!", "why": "Для ты/вы (неформально) — основа без -t: Kom." },
+    { "wrong": "Opstaan!", "correct": "Sta op!", "why": "Отделяемый глагол в imperatief разделяется: sta + op." },
+    { "wrong": "Laat we gaan.", "correct": "Laten we gaan.", "why": "Laten (форма глагола laten, мы-форма), не laat." },
+    { "wrong": "Zijt niet bang.", "correct": "Wees niet bang.", "why": "Imperatief от zijn — wees (не zijt)." },
+    { "wrong": "Niet doe dat!", "correct": "Doe dat niet!", "why": "Niet ставится после imperatief, не перед ним." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "__ binnen! (komen, ты)", "answer": "Kom", "explanation": "Неформальный imperatief — основа глагола." },
+    { "type": "fill-blank", "sentence": "__ u plaats. (nemen, вы)", "answer": "Neemt", "explanation": "Формальный imperatief с u — основа + -t." },
+    { "type": "fill-blank", "sentence": "__ we naar het strand gaan. (Laten)", "answer": "Laten", "explanation": "Совместное действие: Laten we + инфинитив." },
+    { "type": "fill-blank", "sentence": "__ op! De trein komt. (opletten)", "answer": "Let", "explanation": "Отделяемый глагол: основная часть впереди, приставка в конце." },
+    { "type": "choice", "question": "Какое слово смягчает команду 'Kom hier'?", "options": ["eens", "niet", "geen", "omdat"], "answer": "eens", "explanation": "eens — частый смягчитель, 'Kom eens hier' звучит вежливее." },
+    { "type": "fill-blank", "sentence": "__ niet bang. (zijn)", "answer": "Wees", "explanation": "Imperatief от zijn — wees." }
+  ],
+  "relatedTopics": ["present-tense", "separable-verbs", "negation", "word-order"],
+  "inLessons": [1, 4, 49]
+}

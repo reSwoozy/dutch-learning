@@ -1,0 +1,376 @@
+{
+  "id": "A1-lesson-12",
+  "num": 12,
+  "level": "A1",
+  "title": "Погода и времена года",
+  "minutes": 15,
+  "objectives": [
+    "Описывать погоду на нидерландском",
+    "Называть времена года и месяцы",
+    "Планировать активности по погоде",
+    "Понимать голландский климат"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Погода и времена года",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 12 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "- Описывать погоду на нидерландском\n- Называть времена года и месяцы\n- Планировать активности по погоде\n- Понимать голландский климат"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Погода (5 минут)",
+      "words": [
+        {
+          "nl": "het weer",
+          "ru": "погода",
+          "pronunciation": "[ɦət ʋeːr]"
+        },
+        {
+          "nl": "de zon",
+          "ru": "солнце",
+          "pronunciation": "[də zɔn]"
+        },
+        {
+          "nl": "de regen",
+          "ru": "дождь",
+          "pronunciation": "[də ˈreːɣə]"
+        },
+        {
+          "nl": "de wind",
+          "ru": "ветер",
+          "pronunciation": "[də ʋɪnt]"
+        },
+        {
+          "nl": "de sneeuw",
+          "ru": "снег",
+          "pronunciation": "[də sneːu̯]"
+        },
+        {
+          "nl": "de wolk",
+          "ru": "облако",
+          "pronunciation": "[də ʋɔlk]"
+        },
+        {
+          "nl": "warm",
+          "ru": "тепло",
+          "pronunciation": "[ʋɑrm]"
+        },
+        {
+          "nl": "koud",
+          "ru": "холодно",
+          "pronunciation": "[kɑu̯t]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Времена года (4 минуты)",
+      "words": [
+        {
+          "nl": "de lente",
+          "ru": "весна",
+          "pronunciation": "[də ˈlɛntə]"
+        },
+        {
+          "nl": "de zomer",
+          "ru": "лето",
+          "pronunciation": "[də ˈzoːmər]"
+        },
+        {
+          "nl": "de herfst",
+          "ru": "осень",
+          "pronunciation": "[də ɦɛrfst]"
+        },
+        {
+          "nl": "de winter",
+          "ru": "зима",
+          "pronunciation": "[də ˈʋɪntər]"
+        },
+        {
+          "nl": "januari tot december",
+          "ru": "январь - декабрь",
+          "pronunciation": "[jaːnyˈʋaːri tɔt deːˈsɛmbər]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Говорим о погоде (4 минуты)",
+      "words": [
+        {
+          "nl": "Hoe is het weer?",
+          "ru": "Какая погода?",
+          "pronunciation": "[ɦu ɪs ɦət ʋeːr]"
+        },
+        {
+          "nl": "Het regent",
+          "ru": "Идет дождь",
+          "pronunciation": "[ɦət ˈreːɣənt]"
+        },
+        {
+          "nl": "Het sneeuwt",
+          "ru": "Идет снег",
+          "pronunciation": "[ɦət sneːu̯t]"
+        },
+        {
+          "nl": "Het waait",
+          "ru": "Дует ветер",
+          "pronunciation": "[ɦət ʋaːit]"
+        },
+        {
+          "nl": "Het is zonnig",
+          "ru": "Солнечно",
+          "pronunciation": "[ɦət ɪs ˈzɔnəx]"
+        },
+        {
+          "nl": "Het is bewolkt",
+          "ru": "Облачно",
+          "pronunciation": "[ɦət ɪs bəˈʋɔlkt]"
+        },
+        {
+          "nl": "Het wordt koud",
+          "ru": "Становится холодно",
+          "pronunciation": "[ɦət ʋɔrt kɑu̯t]"
+        },
+        {
+          "nl": "Mooi weer, he?",
+          "ru": "Хорошая погода, да?",
+          "pronunciation": "[moːi ʋeːr ɦɛ]"
+        },
+        {
+          "nl": "Neem een paraplu mee",
+          "ru": "Возьми зонт",
+          "pronunciation": "[neːm ən ˈpaːraply meː]"
+        },
+        {
+          "nl": "Het is ... graden",
+          "ru": "Сейчас ... градусов",
+          "pronunciation": "[ɦət ɪs ... ˈɣraːdən]"
+        },
+        {
+          "nl": "Nederlands",
+          "ru": "Русский",
+          "hint": "Русский"
+        },
+        {
+          "nl": "januari",
+          "ru": "январь",
+          "hint": "июль"
+        },
+        {
+          "nl": "februari",
+          "ru": "февраль",
+          "hint": "август"
+        },
+        {
+          "nl": "maart",
+          "ru": "март",
+          "hint": "сентябрь"
+        },
+        {
+          "nl": "april",
+          "ru": "апрель",
+          "hint": "октябрь"
+        },
+        {
+          "nl": "mei",
+          "ru": "май",
+          "hint": "ноябрь"
+        },
+        {
+          "nl": "juni",
+          "ru": "июнь",
+          "hint": "декабрь"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Mooi weer vandaag, he?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ja, het is lekker warm! Twintig graden!"
+        },
+        {
+          "speaker": "A",
+          "text": "Zullen we naar het park gaan?"
+        },
+        {
+          "speaker": "B",
+          "text": "Goed idee! Maar neem een jas mee. Het wordt vanavond koud."
+        },
+        {
+          "speaker": "A",
+          "text": "Oké. En morgen?"
+        },
+        {
+          "speaker": "B",
+          "text": "Morgen regent het de hele dag."
+        },
+        {
+          "speaker": "A",
+          "text": "Typisch Nederlands weer!"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Wat is jouw favoriete seizoen?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik houd van de lente. Alles wordt groen en het is niet te warm."
+        },
+        {
+          "speaker": "A",
+          "text": "Ik vind de zomer het leukst. Dan ga ik naar het strand."
+        },
+        {
+          "speaker": "B",
+          "text": "De herfst is ook mooi. De bladeren worden rood en geel."
+        },
+        {
+          "speaker": "A",
+          "text": "En de winter?"
+        },
+        {
+          "speaker": "B",
+          "text": "De winter is koud, maar soms sneeuwt het. Dan is het heel mooi!"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "1. Безличные конструкции с het",
+      "content": "Для погоды используется **het** как безличное подлежащее:\n- **Het** regent. (Идет дождь.)\n- **Het** sneeuwt. (Идет снег.)\n- **Het** waait. (Дует ветер.)\n- **Het** is warm/koud. (Тепло/холодно.)"
+    },
+    {
+      "type": "grammar",
+      "title": "2. Worden (становиться)",
+      "content": "- Het **wordt** koud. (Становится холодно.)\n- De bladeren **worden** rood. (Листья становятся красными.)\n- Het weer **wordt** beter. (Погода улучшается.)"
+    },
+    {
+      "type": "grammar",
+      "title": "3. Предлоги с временами года и месяцами",
+      "content": "- **In** de zomer / **in** de winter (в + время года)\n- **In** januari / **in** maart (в + месяц)\n- **'s Zomers** / **'s winters** (летом / зимой -- разговорная форма)"
+    },
+    {
+      "type": "grammar",
+      "title": "4. Повторение A1: ключевые конструкции",
+      "content": "---",
+      "tables": [
+        {
+          "headers": [
+            "Конструкция",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "Представление",
+              "Ik heet... Ik kom uit..."
+            ],
+            [
+              "Настоящее время",
+              "Ik werk, hij werkt, wij werken"
+            ],
+            [
+              "Артикли",
+              "de man, het kind, een boek"
+            ],
+            [
+              "Отрицание",
+              "Ik heb geen auto. Het is niet groot."
+            ],
+            [
+              "Вопросы",
+              "Waar woon je? Hoe heet je?"
+            ],
+            [
+              "Порядок слов",
+              "Morgen ga ik naar school."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Опиши погоду",
+      "items": [
+        {
+          "question": "Сегодня солнечно и тепло."
+        },
+        {
+          "question": "Завтра будет дождь."
+        },
+        {
+          "question": "Зимой холодно и иногда идет снег."
+        },
+        {
+          "question": "Какая погода в апреле?",
+          "answers": [
+            "1. Het is vandaag zonnig en warm.",
+            "2. Morgen regent het. / Morgen gaat het regenen.",
+            "3. In de winter is het koud en soms sneeuwt het.",
+            "4. Hoe is het weer in april?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 2: Повторение A1 -- мини-тест",
+      "content": "1. __ heet je? -- Ik heet Anna. -> `_______`\n2. Ik heb __ auto. (отрицание) -> `_______`\n3. Morgen __ ik naar Amsterdam. (gaan) -> `_______`\n4. __ huis is groot. (наш) -> `_______`\n5. Hij __ in een ziekenhuis. (werken) -> `_______`\n<details>\n<summary>Ответы</summary>\n1. Hoe\n2. geen\n3. ga (инверсия: morgen ga ik)\n4. Ons (huis -- het-woord)\n5. werkt\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Говорение",
+      "items": [
+        {
+          "question": "Hoe is het weer vandaag? (Het is...)"
+        },
+        {
+          "question": "Wat is jouw favoriete seizoen? Waarom? (Mijn favoriete seizoen is... omdat...)"
+        },
+        {
+          "question": "Wat doe je als het regent? (Als het regent, ...)"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Голландская погода",
+      "content": "- **\"Als je het Nederlandse weer niet bevalt, wacht dan vijf minuten\"** -- если не нравится погода, подожди 5 минут. Погода меняется очень быстро.\n- **Дождь -- норма**: в среднем 200 дождливых дней в году. Голландцы не отменяют планы из-за дождя.\n- **Одевайся слоями**: утром может быть холодно, днем тепло, вечером снова холодно.\n- **Ветер**: Нидерланды -- плоская страна у моря, поэтому ветер дует почти всегда.\n- **Koningsdag (27 апреля)**: День Короля. Все надевают оранжевое, по всей стране -- уличные рынки и праздники.\n- **Sinterklaas (5 декабря)**: главный зимний праздник для детей. Важнее Рождества для многих голландцев.\n- **Small talk**: погода -- идеальная тема для разговора с незнакомыми. \"Lekker weer, he?\" -- универсальная фраза."
+    },
+    {
+      "type": "text",
+      "title": "Что ты теперь умеешь:",
+      "content": "- Представляться и знакомиться\n- Описывать семью, дом, одежду\n- Делать покупки и спрашивать цену\n- Ориентироваться в городе и пользоваться транспортом\n- Рассказывать о работе и хобби\n- Говорить о погоде"
+    },
+    {
+      "type": "grammar",
+      "title": "Грамматика A1:",
+      "content": "- Артикли de/het/een\n- Настоящее время глаголов\n- Личные и притяжательные местоимения\n- Порядок слов (V2-правило)\n- Вопросительные предложения\n- Отрицание niet/geen"
+    },
+    {
+      "type": "text",
+      "title": "Следующий этап:",
+      "content": "A2 -- повседневное общение, прошедшее время, модальные глаголы, более сложные конструкции."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-12.json"
+}

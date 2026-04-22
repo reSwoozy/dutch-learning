@@ -1,0 +1,309 @@
+{
+  "id": "A1-lesson-07",
+  "num": 7,
+  "level": "A1",
+  "title": "Дом и мебель",
+  "minutes": 15,
+  "objectives": [
+    "Называть все комнаты в доме",
+    "Описывать мебель и предметы интерьера",
+    "Рассказывать о своем доме",
+    "Использовать предлоги места (in, op, onder, naast)",
+    "Понимать голландскую культуру жилья"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Дом и мебель",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 7 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Называть все комнаты в доме\n- Описывать мебель и предметы интерьера\n- Рассказывать о своем доме\n- Использовать предлоги места (in, op, onder, naast)\n- Понимать голландскую культуру жилья"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Комнаты дома (4 минуты)",
+      "words": [
+        {
+          "nl": "het huis",
+          "ru": "дом",
+          "pronunciation": "[ɦət ɦœy̯s]",
+          "hint": "de zolder"
+        },
+        {
+          "nl": "de zolder",
+          "ru": "чердак",
+          "pronunciation": "[də ˈzɔldər]"
+        },
+        {
+          "nl": "de kamer",
+          "ru": "комната",
+          "pronunciation": "[də ˈkaːmər]",
+          "hint": "de kelder"
+        },
+        {
+          "nl": "de kelder",
+          "ru": "подвал",
+          "pronunciation": "[də ˈkɛldər]"
+        },
+        {
+          "nl": "de keuken",
+          "ru": "кухня",
+          "pronunciation": "[də ˈkøːkən]",
+          "hint": "de gang"
+        },
+        {
+          "nl": "de gang",
+          "ru": "коридор",
+          "pronunciation": "[də ɣɑŋ]"
+        },
+        {
+          "nl": "de badkamer",
+          "ru": "ванная",
+          "pronunciation": "[də ˈbɑtkaːmər]",
+          "hint": "de trap"
+        },
+        {
+          "nl": "de trap",
+          "ru": "лестница",
+          "pronunciation": "[də trɑp]"
+        },
+        {
+          "nl": "de slaapkamer",
+          "ru": "спальня",
+          "pronunciation": "[də ˈslaːpkaːmər]",
+          "hint": "het balkon"
+        },
+        {
+          "nl": "het balkon",
+          "ru": "балкон",
+          "pronunciation": "[ɦət bɑlˈkɔn]"
+        },
+        {
+          "nl": "de woonkamer",
+          "ru": "гостиная",
+          "pronunciation": "[də ˈʋoːnkaːmər]",
+          "hint": "de tuin"
+        },
+        {
+          "nl": "de tuin",
+          "ru": "сад",
+          "pronunciation": "[də tœy̯n]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Мебель и предметы (5 минут)",
+      "words": [
+        {
+          "nl": "de tafel",
+          "ru": "стол",
+          "pronunciation": "[də ˈtaːfəl]",
+          "hint": "de lamp"
+        },
+        {
+          "nl": "de lamp",
+          "ru": "лампа",
+          "pronunciation": "[də lɑmp]"
+        },
+        {
+          "nl": "de stoel",
+          "ru": "стул",
+          "pronunciation": "[də stul]",
+          "hint": "het tapijt"
+        },
+        {
+          "nl": "het tapijt",
+          "ru": "ковер",
+          "pronunciation": "[ɦət taˈpɛi̯t]"
+        },
+        {
+          "nl": "het bed",
+          "ru": "кровать",
+          "pronunciation": "[ɦət bɛt]",
+          "hint": "de gordijnen"
+        },
+        {
+          "nl": "de gordijnen",
+          "ru": "шторы",
+          "pronunciation": "[də ɣɔrˈdɛi̯nən]"
+        },
+        {
+          "nl": "de bank",
+          "ru": "диван",
+          "pronunciation": "[də bɑŋk]",
+          "hint": "de spiegel"
+        },
+        {
+          "nl": "de spiegel",
+          "ru": "зеркало",
+          "pronunciation": "[də ˈspiɣəl]"
+        },
+        {
+          "nl": "de kast",
+          "ru": "шкаф",
+          "pronunciation": "[də kɑst]",
+          "hint": "de televisie"
+        },
+        {
+          "nl": "de televisie",
+          "ru": "телевизор",
+          "pronunciation": "[də ˌteːləˈvizi]"
+        },
+        {
+          "nl": "het raam",
+          "ru": "окно",
+          "pronunciation": "[ɦət raːm]",
+          "hint": "de koelkast"
+        },
+        {
+          "nl": "de koelkast",
+          "ru": "холодильник",
+          "pronunciation": "[də ˈkulkɑst]"
+        },
+        {
+          "nl": "de deur",
+          "ru": "дверь",
+          "pronunciation": "[də døːr]",
+          "hint": "het fornuis"
+        },
+        {
+          "nl": "het fornuis",
+          "ru": "плита",
+          "pronunciation": "[ɦət fɔrˈnœy̯s]"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 3: Предлоги места (3 минуты)",
+      "content": "**Где что находится**:",
+      "tables": [
+        {
+          "headers": [
+            "Nederlands",
+            "Русский",
+            "Пример",
+            "Произношение"
+          ],
+          "rows": [
+            [
+              "in",
+              "в",
+              "in de kast",
+              "[ɪn]"
+            ],
+            [
+              "op",
+              "на",
+              "op de tafel",
+              "[ɔp]"
+            ],
+            [
+              "onder",
+              "под",
+              "onder het bed",
+              "[ˈɔndər]"
+            ],
+            [
+              "naast",
+              "рядом",
+              "naast de deur",
+              "[naːst]"
+            ],
+            [
+              "tussen",
+              "между",
+              "tussen de stoelen",
+              "[ˈtʋɛsən]"
+            ],
+            [
+              "achter",
+              "за",
+              "achter de bank",
+              "[ˈɑxtər]"
+            ],
+            [
+              "voor",
+              "перед",
+              "voor het huis",
+              "[voːr]"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 4: Практические фразы (2 минуты)",
+      "words": [
+        {
+          "nl": "Mijn huis heeft drie kamers",
+          "ru": "В моем доме три комнаты"
+        },
+        {
+          "nl": "De bank staat in de woonkamer",
+          "ru": "Диван стоит в гостиной"
+        },
+        {
+          "nl": "Waar is de keuken?",
+          "ru": "Где кухня?"
+        },
+        {
+          "nl": "De lamp hangt boven de tafel",
+          "ru": "Лампа висит над столом"
+        },
+        {
+          "nl": "Ik woon in een appartement",
+          "ru": "Я живу в квартире"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 5: Упражнения (1 минута)",
+      "content": "#### Упражнение: Опиши свой дом\n**Используй новые слова и предлоги**: \"Mijn huis heeft... De tafel staat...\""
+    },
+    {
+      "type": "grammar",
+      "title": "1. Предлоги места",
+      "examples": [
+        {
+          "nl": "in de kast",
+          "ru": "в шкафу (внутри)"
+        },
+        {
+          "nl": "op de tafel",
+          "ru": "на столе (на поверхности)"
+        },
+        {
+          "nl": "onder het bed",
+          "ru": "под кроватью (ниже)"
+        },
+        {
+          "nl": "naast de deur",
+          "ru": "рядом с дверью (сбоку)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "2. Расположение мебели",
+      "content": "- **De bank staat** in de kamer - Диван стоит в комнате\n- **De lamp hangt** boven de tafel - Лампа висит над столом\n- **Het bed staat** tegen de muur - Кровать стоит у стены"
+    },
+    {
+      "type": "text",
+      "title": "3. Описание дома",
+      "content": "- **Mijn huis heeft** vier kamers - В моем доме четыре комнаты\n- **Het is een groot huis** - Это большой дом\n- **Wij wonen in een flat** - Мы живем в квартире\n**Подробнее**: [Предлоги места](../../../REFERENCE/grammar/A1-grammar/prepositions.md)"
+    },
+    {
+      "type": "culture",
+      "title": "Голландские дома и культура жилья",
+      "content": "Понимание голландского жилья поможет в поиске дома и интеграции:\n**Типы жилья**:\n- **Eengezinswoning** - отдельный дом (престижно)\n- **Rijtjeshuis** - таунхаус (распространено)\n- **Appartement/flat** - квартира (в городах)\n- **Studio** - студия (для студентов)\n**Особенности голландских домов**:\n- **Узкие и высокие** - из-за исторических налогов на ширину\n- **Большие окна** - максимум света в пасмурной стране\n- **Geen gordijnen** - многие не вешают шторы (открытость)\n- **Fietsen** - велосипеды везде, часто в доме\n**Культура соседства**:\n- **Buren groeten** - обязательно здоровайся с соседями\n- **Stilte na 22:00** - тишина после 22:00\n- **Geen schoenen binnen** - многие снимают обувь дома\n- **Huisdieren welkom** - домашние животные приветствуются\n**Для интеграции**: Знание жилищной культуры поможет в поиске дома и отношениях с соседями."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-07.json"
+}

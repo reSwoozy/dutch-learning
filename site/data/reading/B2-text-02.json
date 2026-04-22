@@ -1,0 +1,73 @@
+{
+  "id": "B2-text-02",
+  "level": "B2",
+  "title": "Klimaatbeleid: tussen ambitie en realiteit",
+  "topic": "milieu-beleid",
+  "readingTime": "5 min",
+  "body": "Nederland heeft zich met het Klimaatakkoord en de Europese Green Deal gecommitteerd aan een forse vermindering van de uitstoot van broeikasgassen. Het kabinet streeft naar ten minste 55 procent minder uitstoot in 2030 ten opzichte van 1990, en klimaatneutraliteit in 2050. Die doelen zijn ambitieus, maar onmisbaar: de Nederlandse delta is uitzonderlijk kwetsbaar voor de gevolgen van klimaatverandering, zoals stijgende zeespiegel, extreme neerslag en hittegolven.\n\nOm de doelen te halen zet de overheid in op een combinatie van maatregelen: verduurzaming van de industrie, elektrificatie van wagenpark en gebouwde omgeving, uitbreiding van zonne- en windenergie en forse investeringen in waterstof en kernenergie. Parallel aan technische maatregelen worden belastingen en prijsprikkels ingezet, waaronder een verhoogde CO2-heffing voor de zware industrie.\n\nDe uitvoering verloopt echter moeizaam. Windparken op zee komen slechts langzaam online, de netcongestie beperkt de aansluiting van zonneprojecten in grote delen van het land en boeren protesteren tegen de stikstofmaatregelen. Bovendien is er veel maatschappelijk debat over de verdeling van de lasten: moeten burgers, bedrijven of de overheid het meest bijdragen? En hoe voorkom je dat lage inkomens onevenredig hard worden geraakt door stijgende energieprijzen?\n\nWetenschappers benadrukken dat uitstel kostbaar is. Iedere tiende van een graad opwarming heeft gevolgen die lastig terug te draaien zijn. Voor Nederland, met dichtbevolkte kustgebieden en essentiële infrastructuur onder zeeniveau, zijn de risico's bijzonder groot. Adaptatie is daarom een tweede spoor: dijken verhogen, rivieren verbreden en steden vergroenen om hittestress tegen te gaan.\n\nBeleidsmakers staan voor een complexe afweging tussen kosten, snelheid en rechtvaardigheid. Het enkele feit dat de klimaatopgave politiek gevoelig ligt, ontslaat hen niet van de verantwoordelijkheid om duidelijke keuzes te maken. Veel deskundigen pleiten voor een langetermijnaanpak die over kabinetsperiodes heen consistent blijft – een uitdaging in een land waar coalities traditioneel breed zijn samengesteld en compromissen veel tijd kosten.",
+  "glossary": [
+    {"nl": "het Klimaatakkoord", "ru": "Климатическое соглашение"},
+    {"nl": "klimaatneutraliteit", "ru": "климатическая нейтральность"},
+    {"nl": "kwetsbaar", "ru": "уязвимый"},
+    {"nl": "de zeespiegel", "ru": "уровень моря"},
+    {"nl": "verduurzamen", "ru": "делать устойчивым"},
+    {"nl": "elektrificatie", "ru": "электрификация"},
+    {"nl": "de waterstof", "ru": "водород"},
+    {"nl": "de CO2-heffing", "ru": "сбор за выбросы CO2"},
+    {"nl": "de netcongestie", "ru": "перегрузка сети"},
+    {"nl": "onevenredig", "ru": "непропорционально"},
+    {"nl": "terugdraaien", "ru": "обратить вспять"},
+    {"nl": "de adaptatie", "ru": "адаптация"},
+    {"nl": "de hittestress", "ru": "тепловой стресс"},
+    {"nl": "de rechtvaardigheid", "ru": "справедливость"},
+    {"nl": "de langetermijnaanpak", "ru": "долгосрочный подход"},
+    {"nl": "het compromis", "ru": "компромисс"}
+  ],
+  "questions": [
+    {
+      "q": "Wat is het doel voor 2030?",
+      "options": [
+        "10 procent minder uitstoot",
+        "Ten minste 55 procent minder uitstoot t.o.v. 1990",
+        "100 procent minder uitstoot"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Welke maatregelen zet de overheid in?",
+      "options": [
+        "Alleen technische maatregelen",
+        "Technische maatregelen, belastingen en prijsprikkels",
+        "Alleen informatiecampagnes"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat veroorzaakt problemen bij de uitvoering?",
+      "options": [
+        "Te lage ambities",
+        "Netcongestie, stikstof, maatschappelijk debat",
+        "Gebrek aan subsidies"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Waarom is Nederland extra kwetsbaar?",
+      "options": [
+        "Vanwege bergen",
+        "Dichtbevolkte kustgebieden en infrastructuur onder zeeniveau",
+        "Door koude zomers"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat pleiten veel deskundigen?",
+      "options": [
+        "Politieke opportunistische benadering",
+        "Langetermijnaanpak die consistent blijft",
+        "Afwachten en niets doen"
+      ],
+      "answer": 1
+    }
+  ]
+}

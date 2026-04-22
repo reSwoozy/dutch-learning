@@ -1,0 +1,42 @@
+{
+  "id": "A2-text-05",
+  "level": "A2",
+  "title": "Een dag bij de huisarts",
+  "topic": "gezondheid",
+  "readingTime": "3 min",
+  "body": "Al drie dagen voelt Jorge zich niet goed. Hij heeft hoofdpijn, koorts en hij hoest veel. Gisterochtend heeft hij de huisarts gebeld. De assistente vroeg naar zijn klachten en maakte een afspraak voor dezelfde middag.\n\nIn de wachtkamer zaten nog vier andere mensen. Jorge wachtte twintig minuten. Toen riep de huisarts hem naar binnen. De dokter stelde veel vragen: wanneer waren de klachten begonnen, had hij medicijnen genomen, had hij contact gehad met zieke mensen?\n\nDaarna luisterde de arts naar zijn longen en keek in zijn keel. 'Een gewone verkoudheid met wat koorts,' zei hij. 'Geen antibiotica nodig. Blijf twee dagen thuis, drink veel en neem paracetamol als het nodig is.' Jorge kreeg een briefje voor zijn werkgever.\n\nOp weg naar huis kocht Jorge paracetamol bij de apotheek. De apotheker legde uit hoeveel hij per dag mocht nemen. Thuis dronk Jorge thee en ging vroeg naar bed. Twee dagen later voelde hij zich veel beter.",
+  "glossary": [
+    {"nl": "hoesten", "ru": "кашлять"},
+    {"nl": "de assistente", "ru": "ассистент (женщина)"},
+    {"nl": "de wachtkamer", "ru": "комната ожидания"},
+    {"nl": "de klachten", "ru": "жалобы"},
+    {"nl": "de long", "ru": "лёгкое"},
+    {"nl": "de keel", "ru": "горло"},
+    {"nl": "de verkoudheid", "ru": "простуда"},
+    {"nl": "de antibiotica", "ru": "антибиотики"},
+    {"nl": "de paracetamol", "ru": "парацетамол"},
+    {"nl": "de apotheker", "ru": "фармацевт"}
+  ],
+  "questions": [
+    {
+      "q": "Hoe lang voelt Jorge zich al niet goed?",
+      "options": ["Eén dag", "Drie dagen", "Een week"],
+      "answer": 1
+    },
+    {
+      "q": "Hoe lang wachtte Jorge in de wachtkamer?",
+      "options": ["Vijf minuten", "Twintig minuten", "Een uur"],
+      "answer": 1
+    },
+    {
+      "q": "Wat is de diagnose?",
+      "options": ["Longontsteking", "Gewone verkoudheid met koorts", "Griep"],
+      "answer": 1
+    },
+    {
+      "q": "Wat adviseert de dokter?",
+      "options": ["Antibiotica nemen", "Thuis blijven, veel drinken en paracetamol", "Direct naar het ziekenhuis gaan"],
+      "answer": 1
+    }
+  ]
+}

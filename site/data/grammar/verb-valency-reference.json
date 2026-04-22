@@ -1,0 +1,122 @@
+{
+  "id": "verb-valency-reference",
+  "title": "Валентность глаголов: прямое, косвенное, предложное",
+  "titleNL": "Valentie van werkwoorden",
+  "level": "B2",
+  "summary": "Валентность — сколько и каких дополнений требует глагол: прямое (lijdend voorwerp), косвенное (meewerkend voorwerp), предложное (voorzetselvoorwerp). Для B2 и NT2 II нужно уверенно различать падежные отношения, чтобы ставить правильный порядок слов и правильно использовать пассив.",
+  "rule": {
+    "formula": "[S] + [V] + [mv.voorw. Wie/Wat: 3-му лицу] + [lijdend voorw. Wat: 4-му лицу] + [voorzetselvoorw.]",
+    "explanation": "Прямое дополнение отвечает на вопрос 'что? кого?' (lijdend voorwerp — 'страдающий объект'), косвенное — на вопрос 'кому? для кого?' (meewerkend voorwerp — 'участвующий'). Глагол может иметь 0, 1, 2 или 3 дополнения. Пассивизировать можно только глаголы с прямым дополнением.",
+    "whenToUse": [
+      "Проверка: 'Ik geef [mijn vriend] [een cadeau].' → meewerkend (mijn vriend), lijdend (een cadeau).",
+      "Если объект вводится предлогом 'aan/op/voor' — это voorzetselvoorwerp (не прямое).",
+      "В пассиве субъект превращается в 'door + agent': Het cadeau wordt (door mij) gegeven aan mijn vriend.",
+      "В B2-тексте указывайте явно всех участников (кто делает, кому, что)."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Типы валентности",
+      "headers": ["Тип", "Название", "Вопрос", "Пример"],
+      "rows": [
+        ["монов.", "onovergankelijk", "—", "slapen, lopen, vallen"],
+        ["перех.", "overgankelijk", "wat/wie?", "Ik lees [het boek]."],
+        ["c кос.", "ditransitief", "aan/voor wie? wat?", "Ik geef [hem] [een cadeau]."],
+        ["предл.", "prepositioneel", "waar... aan/op/over?", "Ik denk [aan jou]."],
+        ["двусл.", "met complement", "clause", "Ik vind het jammer [dat je gaat]."]
+      ]
+    },
+    {
+      "title": "Глаголы с двумя объектами (ditransitief)",
+      "headers": ["Глагол", "Пример", "Перевод"],
+      "rows": [
+        ["geven", "Ik geef mijn vriend een boek.", "Я даю другу книгу."],
+        ["aanbieden", "Hij biedt ons een kop koffie aan.", "Он предлагает нам кофе."],
+        ["sturen", "We sturen de klant een offerte.", "Мы отправляем клиенту предложение."],
+        ["laten zien", "Zij laat mij de foto zien.", "Она показывает мне фотографию."],
+        ["vertellen", "Hij vertelt zijn kinderen een verhaal.", "Он рассказывает детям историю."],
+        ["betalen", "De baas betaalt de werknemer het loon.", "Шеф платит работнику зарплату."],
+        ["schrijven", "Ik schrijf mijn oma een brief.", "Я пишу бабушке письмо."]
+      ]
+    },
+    {
+      "title": "Порядок: meewerkend + lijdend ИЛИ lijdend + aan + mv.voorw.",
+      "headers": ["Конструкция", "Пример"],
+      "rows": [
+        ["без предлога (meew. — первый)", "Ik geef mijn vriend een cadeau."],
+        ["с предлогом aan (emphasize)", "Ik geef een cadeau aan mijn vriend."],
+        ["местоимение объект — в начало?", "Ik geef het hem (два местоимения: lijdend + meewerkend)."],
+        ["в придаточном — всё в конец", "...dat ik hem een cadeau heb gegeven."]
+      ]
+    },
+    {
+      "title": "Пассивизация по валентности",
+      "headers": ["Актив", "Пассив", "Заметка"],
+      "rows": [
+        ["Ik lees het boek.", "Het boek wordt (door mij) gelezen.", "прямое → подлежащее пассива"],
+        ["Ik geef hem een cadeau.", "Een cadeau wordt hem gegeven. / Hij krijgt een cadeau.", "meewerkend остаётся в дативе; альт. с 'krijgen-passief'"],
+        ["Ik denk aan jou.", "Er wordt aan jou gedacht.", "voorzetselvoorwerp → неличный пассив с er"],
+        ["Ik slaap.", "Er wordt geslapen.", "непереходный → только безличный пассив с er"]
+      ]
+    },
+    {
+      "title": "Глаголы, требующие придаточного",
+      "headers": ["Глагол", "Конструкция", "Пример"],
+      "rows": [
+        ["hopen dat", "+ dat-clause", "Ik hoop dat je komt."],
+        ["beseffen dat", "+ dat-clause", "Ik besef dat het lastig is."],
+        ["benadrukken dat", "+ dat-clause", "Hij benadrukt dat we stipt moeten zijn."],
+        ["zich afvragen of", "+ of-clause", "Ik vraag me af of hij komt."],
+        ["overwegen om te", "+ om te + inf.", "Ik overweeg om te verhuizen."],
+        ["weigeren om te", "+ om te + inf.", "Hij weigert om te tekenen."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Как определить, прямое или косвенное",
+      "items": [
+        "Вопрос 'Wat / Wie? (4-го падежа)' → lijdend voorwerp.",
+        "Вопрос 'Aan wie / Voor wie?' (3-го падежа) → meewerkend voorwerp.",
+        "Дополнение с предлогом aan/op/voor/over (фиксированным) → voorzetselvoorwerp — по сути часть глагола."
+      ]
+    },
+    {
+      "title": "Порядок объектов в тексте B2",
+      "items": [
+        "Короткое известное перед длинным новым: 'Ik geef 'm (hem) een groot, opvallend cadeau.'",
+        "В формальном тексте с 'aan + mv.voorw.' порядок свободнее: 'We bieden een interessante stage aan studenten met ervaring.'",
+        "Для фокуса на получателе — 'aan ...' в конец."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik schrijf mijn vader elke week een brief.", "ru": "Я пишу отцу письмо каждую неделю." },
+    { "nl": "De docent legt de studenten de theorie uit.", "ru": "Преподаватель объясняет студентам теорию." },
+    { "nl": "Hij heeft ons niets verteld.", "ru": "Он нам ничего не рассказал." },
+    { "nl": "Er wordt hier veel gebouwd.", "ru": "Здесь много строят (безличный пассив)." },
+    { "nl": "Ik hoop dat alles goed komt.", "ru": "Я надеюсь, что всё будет хорошо." },
+    { "nl": "Het boek werd aan mij gegeven.", "ru": "Книга была дана мне." }
+  ],
+  "exceptions": [
+    "'Zeggen' требует 'tegen' (а не 'aan'): 'Ik zei tegen hem dat ...' — 'Я сказал ему, что...'.",
+    "Некоторые глаголы меняют смысл с разной валентностью: 'denken' (думать) vs 'denken aan' (думать о) vs 'denken over' (обдумывать).",
+    "'Vragen' может быть с двумя объектами без предлога: 'Ik vraag hem iets' — 'Я спрашиваю его о чём-то'.",
+    "Безличный пассив 'Er werd gedanst' не имеет точного русского аналога — перевод 'плясали'."
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik geef een cadeau mijn vriend.", "correct": "Ik geef mijn vriend een cadeau.", "why": "Без предлога meewerkend идёт первым." },
+    { "wrong": "Ik zei aan hem de waarheid.", "correct": "Ik zei hem de waarheid. / Ik zei tegen hem dat ...", "why": "'zeggen' — либо без предлога, либо с 'tegen'." },
+    { "wrong": "Het wordt geslapen.", "correct": "Er wordt geslapen.", "why": "Безличный пассив требует 'er' в начале." },
+    { "wrong": "Ik denk aan dat hij komt.", "correct": "Ik denk eraan dat hij komt. / Ik denk dat hij komt.", "why": "При придаточной части используется 'eraan'." }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "В 'Ik geef hem een boek' что является lijdend voorwerp?", "options": ["Ik", "hem", "een boek"], "answer": "een boek", "explanation": "отвечает на 'wat?'" },
+    { "type": "choice", "question": "Можно ли пассивизировать 'Ik slaap'?", "options": ["да, 'Ik word geslapen'", "только безличный: 'Er wordt geslapen'", "нельзя"], "answer": "только безличный: 'Er wordt geslapen'", "explanation": "для непереходных возможен только безличный пассив." },
+    { "type": "fill-blank", "sentence": "Ik zei ___ hem dat ik niet kon komen.", "answer": "tegen", "explanation": "zeggen + tegen iemand" },
+    { "type": "word-order", "words": ["dat", "ik", "hem", "gisteren", "een", "boek", "heb", "gegeven"], "answer": "...dat ik hem gisteren een boek heb gegeven.", "explanation": "в придаточном: meewerkend + обст. + lijdend + вспом. + причастие." },
+    { "type": "choice", "question": "Какой глагол требует придаточного с 'om te'?", "options": ["hopen", "overwegen", "weten"], "answer": "overwegen", "explanation": "overwegen om te + inf." }
+  ],
+  "relatedTopics": ["word-order", "passive-voice", "verb-preposition"],
+  "inLessons": [35, 40, 45, 48, 50]
+}

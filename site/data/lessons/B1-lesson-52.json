@@ -1,0 +1,309 @@
+{
+  "id": "B1-lesson-52",
+  "num": 52,
+  "level": "B1",
+  "title": "Относительные местоимения (die/dat/wat)",
+  "minutes": 15,
+  "objectives": [
+    "Правильно выбирать die или dat по роду слова (de/het)",
+    "Использовать wat после alles/iets/niets и после целой фразы",
+    "Соединять предложения формой waar+предлог (waarop, waarmee, waarover)",
+    "Для людей использовать предлог + wie",
+    "Строить сложные предложения с придаточными определительными"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Относительные местоимения (die/dat/wat)",
+      "content": "**Уровень**: B1 Intermediate | **Время**: 15 минут | **Тема**: придаточные определительные"
+    },
+    {
+      "type": "text",
+      "title": "Зачем это нужно",
+      "content": "Относительные местоимения соединяют два предложения в одно, делая речь сложнее и естественнее:\n- Простое: `De man komt. De man is mijn oom.`\n- Сложное: `De man die komt, is mijn oom.`\nБез этого B1/B2 экзамены практически не сдать — это основа сложного предложения."
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 1: die vs dat — главное правило",
+      "content": "Выбор зависит от **рода** антецедента:\n- `de`-слово (м.р./ж.р.) → **die**\n- `het`-слово (ср.р., ед.ч.) → **dat**\n- Мн. число — **всегда die** (даже для het-слов!)\n**Примеры**:\n- `De man die daar staat` (de man → die)\n- `Het boek dat ik lees` (het boek → dat)\n- `De kinderen die spelen` (мн.ч. → die)\n- `De boeken die op tafel liggen` (мн.ч. → die)",
+      "tables": [
+        {
+          "title": "Быстрая шпаргалка",
+          "headers": [
+            "Антецедент",
+            "Форма",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "de-слово ед.ч.",
+              "die",
+              "De vrouw die belt"
+            ],
+            [
+              "het-слово ед.ч.",
+              "dat",
+              "Het huis dat ik koop"
+            ],
+            [
+              "Мн.ч. (любой род)",
+              "die",
+              "De kinderen die spelen / De huizen die ik zie"
+            ],
+            [
+              "Уменьшительное на -je (всегда het-слово)",
+              "dat",
+              "Het meisje dat daar staat"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 2: wat и waar+предлог",
+      "content": "**wat** используется, когда антецедент:\n- alles/iets/niets/het enige/het mooiste: `Alles wat je zegt, is waar.`\n- Целая предыдущая фраза: `Hij komt niet, wat jammer is.`\n**waar+предлог** (слитно) — для предметов с предлогом:\n- waarop (= op welke), waarmee (met), waarover (over), waarvoor (voor), waarvan (van), waaraan (aan), waarin (in)\nПример: `De stoel waarop ik zit, is nieuw.`\nЭто то же самое, что `De stoel waar ik op zit, is nieuw.` — можно и раздельно.",
+      "tables": [
+        {
+          "title": "waar+предлог — частые формы",
+          "headers": [
+            "Предлог",
+            "Форма",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "met",
+              "waarmee",
+              "De pen waarmee ik schrijf"
+            ],
+            [
+              "over",
+              "waarover",
+              "Het onderwerp waarover we praten"
+            ],
+            [
+              "op",
+              "waarop",
+              "De stoel waarop ik zit"
+            ],
+            [
+              "voor",
+              "waarvoor",
+              "Het doel waarvoor ik werk"
+            ],
+            [
+              "van",
+              "waarvan",
+              "De film waarvan ik droom"
+            ],
+            [
+              "in",
+              "waarin",
+              "De kamer waarin we zitten"
+            ],
+            [
+              "aan",
+              "waaraan",
+              "Het idee waaraan ik denk"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Для людей: предлог + wie",
+      "content": "Когда речь о **человеке** и нужен предлог, вместо `waar+предлог` пишут предлог + `wie`:\n- `De vrouw met wie ik werk` (с кем)\n- `De jongen van wie ik dit boek heb` (от кого)\n- `De persoon aan wie ik denk` (о ком)\nНе пиши `waarmee` о людях в официальной речи — используй `met wie`."
+    },
+    {
+      "type": "vocabulary",
+      "title": "Словарь и маркеры",
+      "words": [
+        {
+          "nl": "die",
+          "ru": "который (de-слова, мн.ч.)",
+          "hint": "связывает предложения"
+        },
+        {
+          "nl": "dat",
+          "ru": "который (het-слова ед.ч.)",
+          "hint": "тж. союз 'что'"
+        },
+        {
+          "nl": "wat",
+          "ru": "что (alles/iets/niets)",
+          "hint": "или о целой фразе"
+        },
+        {
+          "nl": "waarmee",
+          "ru": "с помощью которого",
+          "hint": "предмет + met"
+        },
+        {
+          "nl": "waarover",
+          "ru": "о котором",
+          "hint": "предмет + over"
+        },
+        {
+          "nl": "waarop",
+          "ru": "на котором",
+          "hint": "предмет + op"
+        },
+        {
+          "nl": "waarvoor",
+          "ru": "для которого",
+          "hint": "предмет + voor"
+        },
+        {
+          "nl": "waarin",
+          "ru": "в котором",
+          "hint": "предмет + in"
+        },
+        {
+          "nl": "waaraan",
+          "ru": "которому",
+          "hint": "предмет + aan"
+        },
+        {
+          "nl": "waarvan",
+          "ru": "из/от которого",
+          "hint": "предмет + van"
+        },
+        {
+          "nl": "met wie",
+          "ru": "с кем",
+          "hint": "человек + met"
+        },
+        {
+          "nl": "van wie",
+          "ru": "от кого / чей",
+          "hint": "человек + van"
+        },
+        {
+          "nl": "aan wie",
+          "ru": "кому",
+          "hint": "человек + aan"
+        },
+        {
+          "nl": "voor wie",
+          "ru": "для кого",
+          "hint": "человек + voor"
+        },
+        {
+          "nl": "alles wat",
+          "ru": "всё, что",
+          "hint": "после alles — wat"
+        },
+        {
+          "nl": "iets wat",
+          "ru": "нечто, что",
+          "hint": "после iets — wat"
+        },
+        {
+          "nl": "niets wat",
+          "ru": "ничего, что",
+          "hint": "после niets — wat"
+        },
+        {
+          "nl": "het enige wat",
+          "ru": "единственное, что",
+          "hint": "после het enige — wat"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог: Квартира",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Dit is de buurt waar ik woon. Het huis dat ik huur, ligt in die straat."
+        },
+        {
+          "speaker": "B",
+          "text": "Mooi! En dat is de winkel waar je boodschappen doet?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ja. De supermarkt die daar is, is heel goedkoop. De verkoopster met wie ik altijd praat, komt uit Polen."
+        },
+        {
+          "speaker": "B",
+          "text": "Interessant. Wat is dat voor gebouw daar?"
+        },
+        {
+          "speaker": "A",
+          "text": "Het gebouw waarin mijn werk is. Het is een project waarvoor ik al drie jaar werk."
+        },
+        {
+          "speaker": "B",
+          "text": "Alles wat je vertelt, klinkt geweldig!"
+        }
+      ],
+      "translation": "A: Это район, где я живу. Дом, который я снимаю, находится на той улице.\nB: Красиво! А это магазин, где ты делаешь покупки?\nA: Да. Супермаркет, который там, очень дешёвый. Продавщица, с которой я всегда общаюсь, из Польши.\nB: Интересно. А что это за здание там?\nA: Здание, в котором моя работа. Это проект, над которым я уже три года работаю.\nB: Всё, что ты рассказываешь, звучит здорово!"
+    },
+    {
+      "type": "grammar",
+      "title": "Порядок слов в придаточном",
+      "content": "Придаточное с die/dat/wat/waar+prep — это **bijzin** (придаточное). Правила:\n- Относительное местоимение идёт в начало придаточного\n- Глагол — в конец\n`De man die ik gisteren heb ontmoet, komt uit Brussel.`\n`Het boek dat mijn zus mij heeft gegeven, is fantastisch.`\nПри нескольких глаголах в конце: смысловой впереди, вспомогательный в конце (или наоборот — оба варианта допустимы)."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнения",
+      "items": [
+        {
+          "question": "De vrouw __ daar staat, is mijn moeder.",
+          "answer": "die"
+        },
+        {
+          "question": "Het huis __ wij kopen, is groot.",
+          "answer": "dat"
+        },
+        {
+          "question": "De kinderen __ in het park spelen, zijn blij.",
+          "answer": "die"
+        },
+        {
+          "question": "Alles __ je doet, is belangrijk.",
+          "answer": "wat"
+        },
+        {
+          "question": "De pen __ ik schrijf, is blauw. (met)",
+          "answer": "waarmee"
+        },
+        {
+          "question": "De collega __ __ ik werk, is nieuw. (met, человек)",
+          "answer": "met wie"
+        },
+        {
+          "question": "Hij komt morgen niet, __ jammer is.",
+          "answer": "wat"
+        },
+        {
+          "question": "De film __ ik dacht, was saai. (aan)",
+          "answer": "waaraan"
+        },
+        {
+          "question": "Het meisje __ daar zit, is mijn nichtje.",
+          "answer": "dat"
+        },
+        {
+          "question": "De boeken __ ik heb gelezen, waren interessant.",
+          "answer": "die"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Стиль речи",
+      "content": "В официальной письменной речи почти всегда пишут **слитно**: `De stoel waarop ik zit`. В разговорной речи чаще разделяют: `De stoel waar ik op zit`. На экзаменах Staatsexamen используй слитную форму — она нормативная."
+    },
+    {
+      "type": "text",
+      "title": "Самопроверка",
+      "content": "- [ ] Определяю de/het — выбираю die/dat\n- [ ] Помню: мн.ч. всегда die\n- [ ] Знаю waar+prep для предметов\n- [ ] Для людей использую предлог + wie"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-52.json"
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "nl": "Kom!",
+    "ru": "Иди!",
+    "example": "Kom eens hier, alsjeblieft.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Luister!",
+    "ru": "Слушай!",
+    "example": "Luister goed naar wat ik zeg.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Kijk!",
+    "ru": "Смотри!",
+    "example": "Kijk, daar is de trein.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Wacht!",
+    "ru": "Подожди!",
+    "example": "Wacht even, ik kom eraan.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Help!",
+    "ru": "Помоги!",
+    "example": "Help me alsjeblieft met deze taak.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Zeg het!",
+    "ru": "Скажи!",
+    "example": "Zeg het maar, ik luister.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Ga zitten.",
+    "ru": "Садись.",
+    "example": "Ga zitten, wij beginnen zo.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Laten we gaan!",
+    "ru": "Пойдём!",
+    "example": "Laten we gaan, het is al laat.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Laten we beginnen.",
+    "ru": "Давайте начнём.",
+    "example": "Laten we met de les beginnen.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Doe de deur dicht.",
+    "ru": "Закрой дверь.",
+    "example": "Doe de deur dicht, het tocht.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Doe het raam open.",
+    "ru": "Открой окно.",
+    "example": "Doe het raam open, het is warm.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Sta op!",
+    "ru": "Вставай!",
+    "example": "Sta op, het is al acht uur.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Let op!",
+    "ru": "Осторожно!",
+    "example": "Let op, er komt een auto.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Kijk uit!",
+    "ru": "Берегись!",
+    "example": "Kijk uit voor de fiets.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Komt u binnen.",
+    "ru": "Входите.",
+    "example": "Komt u binnen, we wachten op u.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Neemt u plaats.",
+    "ru": "Садитесь.",
+    "example": "Neemt u plaats, de dokter komt zo.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Wees niet bang.",
+    "ru": "Не бойся.",
+    "example": "Wees niet bang, alles komt goed.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Wees voorzichtig.",
+    "ru": "Будь осторожен.",
+    "example": "Wees voorzichtig op de weg.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Doe dat niet!",
+    "ru": "Не делай этого!",
+    "example": "Doe dat niet, het is gevaarlijk!",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Probeer het!",
+    "ru": "Попробуй!",
+    "example": "Probeer het nog een keer.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Geef mij.",
+    "ru": "Дай мне.",
+    "example": "Geef mij de pen, alsjeblieft.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Help me!",
+    "ru": "Помоги мне!",
+    "example": "Help me met de boodschappen.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Stop!",
+    "ru": "Стой!",
+    "example": "Stop, we zijn er.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Neem mee.",
+    "ru": "Возьми с собой.",
+    "example": "Neem een paraplu mee, het gaat regenen.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "Eet smakelijk!",
+    "ru": "Приятного аппетита!",
+    "example": "Eet smakelijk, geniet ervan!",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "even",
+    "ru": "минутку (смягчитель)",
+    "example": "Wacht even, ik ben zo terug.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "maar",
+    "ru": "ну (смягчитель)",
+    "example": "Ga maar zitten.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "eens",
+    "ru": "как-нибудь (смягчитель)",
+    "example": "Kom eens hier.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "toch",
+    "ru": "ведь (смягчитель)",
+    "example": "Luister toch!",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "alstublieft",
+    "ru": "пожалуйста (формально)",
+    "example": "Helpt u mij alstublieft.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "snijden",
+    "ru": "резать",
+    "example": "Snijd de ui fijn.",
+    "level": "A1",
+    "lesson": 49
+  },
+  {
+    "nl": "zetten",
+    "ru": "поставить",
+    "example": "Zet de pan op het vuur.",
+    "level": "A1",
+    "lesson": 49
+  }
+]

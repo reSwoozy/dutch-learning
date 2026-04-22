@@ -1,0 +1,250 @@
+[
+  {
+    "nl": "vacature",
+    "ru": "вакансия",
+    "example": "Er is een nieuwe vacature.",
+    "pronunciation": "va-ka-TOO-re",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "solliciteren",
+    "ru": "подавать заявление на работу",
+    "example": "Ik ga solliciteren voor deze baan.",
+    "pronunciation": "sol-li-see-TEH-ren",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "sollicitatiebrief",
+    "ru": "сопроводительное письмо",
+    "example": "Ik schrijf een sollicitatiebrief.",
+    "pronunciation": "sol-li-see-TAH-tsee-breef",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "cv",
+    "ru": "резюме",
+    "example": "Mijn cv is up-to-date.",
+    "pronunciation": "see-vee",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "werkervaring",
+    "ru": "опыт работы",
+    "example": "Ik heb vijf jaar werkervaring.",
+    "pronunciation": "WERK-er-vah-ring",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "diploma",
+    "ru": "диплом",
+    "example": "Ik heb een diploma in marketing.",
+    "pronunciation": "di-PLO-ma",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "certificaat",
+    "ru": "сертификат",
+    "example": "Ik heb een certificaat gehaald.",
+    "pronunciation": "ser-ti-fi-KAAT",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "referenties",
+    "ru": "рекомендации",
+    "example": "Kunt u referenties geven?",
+    "pronunciation": "reh-feh-REN-tsees",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "vaardigheden",
+    "ru": "навыки",
+    "example": "Mijn vaardigheden zijn uitstekend.",
+    "pronunciation": "VAAR-dikh-heh-den",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "kwalificaties",
+    "ru": "квалификации",
+    "example": "Ik heb de juiste kwalificaties.",
+    "pronunciation": "kwa-li-fi-KAH-tsees",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "gesprek",
+    "ru": "собеседование",
+    "example": "Het gesprek gaat goed.",
+    "pronunciation": "khe-SPREK",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "interviewer",
+    "ru": "интервьюер",
+    "example": "De interviewer is vriendelijk.",
+    "pronunciation": "IN-ter-view-er",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "kandidaat",
+    "ru": "кандидат",
+    "example": "Ik ben een goede kandidaat.",
+    "pronunciation": "kan-di-DAAT",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "indruk maken",
+    "ru": "произвести впечатление",
+    "example": "Ik wil een goede indruk maken.",
+    "pronunciation": "IN-druk MAH-ken",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "geschikt zijn voor",
+    "ru": "подходить для",
+    "example": "Ik ben geschikt voor deze functie.",
+    "pronunciation": "khe-SKHIKT zeyn voor",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "sterke punten",
+    "ru": "сильные стороны",
+    "example": "Wat zijn uw sterke punten?",
+    "pronunciation": "STER-ke PUN-ten",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "zwakke punten",
+    "ru": "слабые стороны",
+    "example": "Ik werk aan mijn zwakke punten.",
+    "pronunciation": "ZVAK-ke PUN-ten",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "motivatie",
+    "ru": "мотивация",
+    "example": "Mijn motivatie is hoog.",
+    "pronunciation": "mo-ti-VAH-tsee",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "ambitie",
+    "ru": "амбиции",
+    "example": "Ik heb veel ambitie.",
+    "pronunciation": "am-BI-tsee",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "teamwork",
+    "ru": "командная работа",
+    "example": "Teamwork is belangrijk.",
+    "pronunciation": "TEAM-work",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "vast contract",
+    "ru": "постоянный контракт",
+    "example": "Ik zoek een vast contract.",
+    "pronunciation": "vast kon-TRAKT",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "tijdelijk contract",
+    "ru": "временный контракт",
+    "example": "Dit is een tijdelijk contract.",
+    "pronunciation": "TEY-de-lek kon-TRAKT",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "parttime",
+    "ru": "неполный рабочий день",
+    "example": "Ik werk parttime.",
+    "pronunciation": "PART-time",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "fulltime",
+    "ru": "полный рабочий день",
+    "example": "Zij werkt fulltime.",
+    "pronunciation": "FUL-time",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "salaris",
+    "ru": "зарплата",
+    "example": "Het salaris is goed.",
+    "pronunciation": "sa-LAH-ris",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "vakantiegeld",
+    "ru": "отпускные",
+    "example": "Vakantiegeld is 8% extra.",
+    "pronunciation": "va-KAN-tsee-khelt",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "pensioenregeling",
+    "ru": "пенсионная схема",
+    "example": "De pensioenregeling is uitstekend.",
+    "pronunciation": "pen-see-OON-reh-kheh-ling",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "zorgverzekering",
+    "ru": "медицинская страховка",
+    "example": "Zorgverzekering is verplicht.",
+    "pronunciation": "ZORKHD-ver-zeh-ke-ring",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "reiskostenvergoeding",
+    "ru": "компенсация транспортных расходов",
+    "example": "Ik krijg reiskostenvergoeding.",
+    "pronunciation": "REYS-kos-ten-ver-khoo-ding",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "bijscholing",
+    "ru": "повышение квалификации",
+    "example": "Bijscholing is belangrijk.",
+    "pronunciation": "BEY-skho-ling",
+    "level": "B1",
+    "lesson": 28
+  },
+  {
+    "nl": "promotie",
+    "ru": "повышение в должности",
+    "example": "Ik hoop op een promotie.",
+    "pronunciation": "pro-MO-tsee",
+    "level": "B1",
+    "lesson": 28
+  }
+]

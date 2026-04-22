@@ -1,0 +1,440 @@
+{
+  "id": "A2-lesson-20",
+  "num": 20,
+  "level": "A2",
+  "title": "Предлоги места и времени",
+  "minutes": 15,
+  "objectives": [
+    "Правильно использовать предлоги места",
+    "Выражать время с помощью предлогов",
+    "Описывать местоположение предметов и людей",
+    "Планировать встречи и события",
+    "Понимать пространственные отношения"
+  ],
+  "sections": [
+    {
+      "type": "grammar",
+      "title": "Предлоги места и времени",
+      "content": "**Уровень**: A2 Элементарный | **Время**: 15 минут | **День**: 20 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Правильно использовать предлоги места\n- Выражать время с помощью предлогов\n- Описывать местоположение предметов и людей\n- Планировать встречи и события\n- Понимать пространственные отношения"
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 1: Предлоги места (5 минут)",
+      "content": "**Основные предлоги места**:\n#### В и НА (in, op, aan):\n#### Направления (naar, van, uit):\n#### Расположение (onder, boven, naast):",
+      "tables": [
+        {
+          "headers": [
+            "Nederlands",
+            "Русский",
+            "Использование",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "in",
+              "в",
+              "внутри чего-то",
+              "in de kast, in het huis"
+            ],
+            [
+              "op",
+              "на",
+              "на поверхности",
+              "op de tafel, op straat"
+            ],
+            [
+              "aan",
+              "у, при",
+              "рядом с чем-то",
+              "aan zee, aan de muur"
+            ],
+            [
+              "Nederlands",
+              "Русский",
+              "Использование",
+              "Пример"
+            ],
+            [
+              "naar",
+              "к, в",
+              "направление к",
+              "naar school, naar huis"
+            ],
+            [
+              "van",
+              "от, из",
+              "исходная точка",
+              "van Amsterdam, van mij"
+            ],
+            [
+              "uit",
+              "из",
+              "изнутри наружу",
+              "uit de kast, uit Nederland"
+            ],
+            [
+              "Nederlands",
+              "Русский",
+              "Использование",
+              "Пример"
+            ],
+            [
+              "onder",
+              "под",
+              "ниже чего-то",
+              "onder de tafel"
+            ],
+            [
+              "boven",
+              "над",
+              "выше чего-то",
+              "boven het bed"
+            ],
+            [
+              "naast",
+              "рядом",
+              "сбоку от",
+              "naast de bank"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 2: Предлоги времени (5 минут)",
+      "content": "**Основные предлоги времени**:\n#### Точное время (om, op):\n#### Периоды времени (in, tijdens, gedurende):\n#### Временные отношения (voor, na, sinds):",
+      "tables": [
+        {
+          "headers": [
+            "Nederlands",
+            "Русский",
+            "Использование",
+            "Пример"
+          ],
+          "rows": [
+            [
+              "om",
+              "в",
+              "точное время",
+              "om acht uur, om half vijf"
+            ],
+            [
+              "op",
+              "в",
+              "дни/даты",
+              "op maandag, op 5 mei"
+            ],
+            [
+              "Nederlands",
+              "Русский",
+              "Использование",
+              "Пример"
+            ],
+            [
+              "in",
+              "в",
+              "месяцы, сезоны",
+              "in januari, in de winter"
+            ],
+            [
+              "tijdens",
+              "во время",
+              "в процессе",
+              "tijdens het eten"
+            ],
+            [
+              "gedurende",
+              "в течение",
+              "продолжительность",
+              "gedurende een week"
+            ],
+            [
+              "Nederlands",
+              "Русский",
+              "Использование",
+              "Пример"
+            ],
+            [
+              "voor",
+              "до, перед",
+              "раньше чего-то",
+              "voor het eten"
+            ],
+            [
+              "na",
+              "после",
+              "позже чего-то",
+              "na het werk"
+            ],
+            [
+              "sinds",
+              "с",
+              "начальная точка",
+              "sinds gisteren"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 3: Сложные предлоги (3 минуты)",
+      "content": "**Составные предлоги**:\n#### Места и направления:\n#### Особые случаи:",
+      "examples": [
+        {
+          "nl": "tegenover",
+          "ru": "напротив: \"Het park ligt tegenover het station\""
+        },
+        {
+          "nl": "tussen",
+          "ru": "между: \"Het huis staat tussen twee bomen\""
+        },
+        {
+          "nl": "achter",
+          "ru": "за: \"De auto staat achter het huis\""
+        },
+        {
+          "nl": "voor",
+          "ru": "перед: \"Voor de deur staat een fiets\""
+        },
+        {
+          "nl": "bij",
+          "ru": "у, рядом: \"Bij de bakker, bij mijn ouders\""
+        },
+        {
+          "nl": "door",
+          "ru": "через: \"Door het park lopen\""
+        },
+        {
+          "nl": "over",
+          "ru": "через, о: \"Over de brug gaan, over het werk praten\""
+        },
+        {
+          "nl": "met",
+          "ru": "с: \"Met de trein reizen, met vrienden eten\""
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "1. Выбор правильного предлога места",
+      "content": "#### IN vs OP vs AAN:\n**IN** - полное окружение:\n**OP** - контакт с поверхностью:\n**AAN** - прикрепление, близость:",
+      "examples": [
+        {
+          "nl": "in de kamer",
+          "ru": "в комнате"
+        },
+        {
+          "nl": "in Nederland",
+          "ru": "в Нидерландах"
+        },
+        {
+          "nl": "in de auto",
+          "ru": "в машине"
+        },
+        {
+          "nl": "op de grond",
+          "ru": "на земле"
+        },
+        {
+          "nl": "op het strand",
+          "ru": "на пляже"
+        },
+        {
+          "nl": "op kantoor",
+          "ru": "в офисе (идиома)"
+        },
+        {
+          "nl": "aan de muur",
+          "ru": "на стене (прикреплено)"
+        },
+        {
+          "nl": "aan zee",
+          "ru": "у моря"
+        },
+        {
+          "nl": "aan tafel",
+          "ru": "за столом"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "2. Временные предлоги - правила",
+      "content": "#### OM vs OP vs IN:\n**OM** - точное время:\n**OP** - дни, даты:\n**IN** - месяцы, годы, сезоны:",
+      "examples": [
+        {
+          "nl": "om acht uur",
+          "ru": "в восемь часов"
+        },
+        {
+          "nl": "om kwart voor vijf",
+          "ru": "в четверть пятого"
+        },
+        {
+          "nl": "op zondag",
+          "ru": "в воскресенье"
+        },
+        {
+          "nl": "op 25 december",
+          "ru": "25 декабря"
+        },
+        {
+          "nl": "in maart",
+          "ru": "в марте"
+        },
+        {
+          "nl": "in 2024",
+          "ru": "в 2024 году"
+        },
+        {
+          "nl": "in de zomer",
+          "ru": "летом"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "3. Предлоги направления",
+      "content": "#### NAAR vs IN vs UIT:\n**NAAR** - направление к месту:\n**IN** - вхождение внутрь:\n**UIT** - выход изнутри:\n---",
+      "examples": [
+        {
+          "nl": "Ik ga naar Amsterdam",
+          "ru": "Я еду в Амстердам"
+        },
+        {
+          "nl": "Ik ga de winkel in",
+          "ru": "Я захожу в магазин"
+        },
+        {
+          "nl": "Ik kom uit de winkel",
+          "ru": "Я выхожу из магазина"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Предлоги в повседневной жизни"
+    },
+    {
+      "type": "text",
+      "title": "Дома:",
+      "content": "- **Het boek ligt op de tafel** - Книга лежит на столе\n- **De kat slaapt onder het bed** - Кот спит под кроватью\n- **De lamp hangt boven de eettafel** - Лампа висит над обеденным столом\n- **Mijn jas hangt achter de deur** - Моя куртка висит за дверью"
+    },
+    {
+      "type": "text",
+      "title": "В городе:",
+      "content": "- **Het station ligt naast het winkelcentrum** - Вокзал находится рядом с торговым центром\n- **De bank staat tegenover de apotheek** - Банк стоит напротив аптеки\n- **Loop door het park naar de school** - Иди через парк к школе\n- **Het restaurant is tussen de bakker en de slager** - Ресторан между булочной и мясной лавкой"
+    },
+    {
+      "type": "text",
+      "title": "Встречи и время:",
+      "content": "- **We spreken af om drie uur** - Встречаемся в три часа\n- **De vergadering is tijdens de lunch** - Встреча во время обеда\n- **Na het weekend gaan we op vakantie** - После выходных едем в отпуск\n- **Sinds vorige maand werk ik hier** - С прошлого месяца работаю здесь"
+    },
+    {
+      "type": "grammar",
+      "title": "Предлоги в голландской культуре",
+      "content": "Особенности использования предлогов в Нидерландах:\n**Пунктуальность и время**:\n**Географические особенности**:\n**Общественные места**:\n**Работа и встречи**:\n**Для интеграции**: Правильное использование предлогов покажет хорошее знание языка и поможет точно выражать свои мысли.\n---",
+      "examples": [
+        {
+          "nl": "\"Om klokslag acht uur\"",
+          "ru": "ровно в восемь (точность важна)"
+        },
+        {
+          "nl": "\"Voor de tijd\"",
+          "ru": "заранее (приходить раньше - хорошо)"
+        },
+        {
+          "nl": "\"Na de tijd\"",
+          "ru": "опоздание (нежелательно)"
+        },
+        {
+          "nl": "\"Onder de zeespiegel\"",
+          "ru": "ниже уровня моря (актуально для НЛ)"
+        },
+        {
+          "nl": "\"Boven Amsterdam\"",
+          "ru": "севернее Амстердама"
+        },
+        {
+          "nl": "\"Aan de kust\"",
+          "ru": "у побережья (всегда близко в НЛ)"
+        },
+        {
+          "nl": "\"Op het plein\"",
+          "ru": "на площади (центр общественной жизни)"
+        },
+        {
+          "nl": "\"In de kroeg\"",
+          "ru": "в пабе (важная часть культуры)"
+        },
+        {
+          "nl": "\"Bij de buren\"",
+          "ru": "у соседей (тесные отношения)"
+        },
+        {
+          "nl": "\"Op kantoor\"",
+          "ru": "в офисе (стандартная идиома)"
+        },
+        {
+          "nl": "\"Tijdens de vergadering\"",
+          "ru": "во время совещания"
+        },
+        {
+          "nl": "\"Na het werk\"",
+          "ru": "после работы (четкое разделение)"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 1: Выбор предлога места",
+      "content": "Выбери правильный предлог:\n1. Het boek ligt _____ de kast. (in/op/aan)\n2. We wonen _____ Nederland. (in/op/bij)\n3. De schilderij hangt _____ de muur. (in/op/aan)\n4. De auto staat _____ het huis. (voor/tijdens/sinds)"
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 2: Предлоги времени",
+      "content": "Вставь правильный предлог:\n1. De les begint _____ acht uur. (om/op/in)\n2. _____ maandag heb ik vrij. (Om/Op/In)\n3. _____ de winter ga ik skiën. (Om/Op/In)\n4. _____ het eten kijk ik tv. (Voor/Tijdens/Na)"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Описание местоположения",
+      "items": [
+        {
+          "question": "Кот под столом"
+        },
+        {
+          "question": "Лампа над кроватью"
+        },
+        {
+          "question": "Дом между деревьями"
+        },
+        {
+          "question": "Машина перед гаражом"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Указание пути:",
+      "content": "- **Ga rechtdoor tot de kruising** - Иди прямо до перекрестка\n- **Sla links af na de brug** - Поверни налево после моста\n- **Het is aan je rechterhand** - Это справа от тебя\n- **Tegenover de kerk vind je het** - Напротив церкви найдешь"
+    },
+    {
+      "type": "text",
+      "title": "Планирование:",
+      "content": "- **Voor het ontbijt ga ik sporten** - Перед завтраком занимаюсь спортом\n- **Tijdens de vakantie blijf ik thuis** - Во время отпуска остаюсь дома\n- **Na de winter wordt het warmer** - После зимы становится теплее\n- **Sinds januari woon ik hier** - С января живу здесь"
+    },
+    {
+      "type": "text",
+      "title": "В транспорте:",
+      "content": "- **In de trein naar Amsterdam** - В поезде в Амстердам\n- **Op de fiets naar het werk** - На велосипеде на работу\n- **Met de bus naar school** - На автобусе в школу\n- **Door de tunnel rijden** - Ехать через туннель"
+    }
+  ],
+  "vocabularyFile": "A2-lesson-20.json"
+}

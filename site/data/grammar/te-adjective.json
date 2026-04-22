@@ -1,0 +1,117 @@
+{
+  "id": "te-adjective",
+  "title": "Te + прилагательное (слишком)",
+  "titleNL": "Te + bijvoeglijk naamwoord",
+  "level": "A2",
+  "summary": "Частица 'te' перед прилагательным или наречием означает 'слишком'. Не путать с инфинитивом 'te + werkwoord'. Расширенная конструкция 'te ... om te + infinitief' = 'слишком ... чтобы (с)делать'.",
+  "rule": {
+    "formula": "te + прил./нареч. = 'слишком' | te + прил. + om te + inf = 'слишком ... чтобы' | для сравнения с 'очень' используют heel/erg/zo",
+    "explanation": "'te' — короткое и очень частое слово в значении 'чересчур'. Обычно идёт перед предикативным прилагательным (после zijn, worden, vinden). Может стоять и перед наречием (te snel, te laat). Если хочешь сказать 'очень', а не 'слишком', — используй heel/erg/zo, потому что 'te' всегда несёт отрицательный смысл ('больше, чем нужно').",
+    "whenToUse": [
+      "Оценка избыточности: Het is te duur. (Это слишком дорого.)",
+      "После zijn/worden/vinden: Ik vind het te warm. (Я считаю, что слишком жарко.)",
+      "С наречием: Hij rijdt te snel. (Он ездит слишком быстро.)",
+      "Конструкция 'слишком ..., чтобы ...': Het is te laat om nog te bellen. (Слишком поздно, чтобы ещё звонить.)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "te vs heel/erg/zo",
+      "headers": ["Слово", "Смысл", "Оценка", "Пример"],
+      "rows": [
+        ["te", "слишком, чересчур", "негативная — 'больше, чем нужно'", "Het is te duur."],
+        ["heel", "очень", "нейтральная", "Het is heel duur."],
+        ["erg", "очень (разговорнее)", "нейтральная / усиление", "Het is erg duur."],
+        ["zo", "так, настолько", "подчёркивающая", "Het is zo duur!"],
+        ["nogal", "довольно, скорее", "смягчающая", "Het is nogal duur."]
+      ]
+    },
+    {
+      "title": "te + прил. после zijn/worden/vinden",
+      "headers": ["Конструкция", "Пример", "Перевод"],
+      "rows": [
+        ["zijn + te + прил.", "Het is te duur.", "Это слишком дорого."],
+        ["worden + te + прил.", "Het wordt te koud buiten.", "Становится слишком холодно на улице."],
+        ["vinden + obj + te + прил.", "Ik vind het te zout.", "Мне кажется, слишком солёно."],
+        ["te + нареч. + глагол", "Hij rijdt te snel.", "Он едет слишком быстро."]
+      ]
+    },
+    {
+      "title": "Конструкция 'te ... om te + inf'",
+      "headers": ["Схема", "Пример", "Перевод"],
+      "rows": [
+        ["te + прил. + om te + inf", "Het is te laat om nog te bellen.", "Слишком поздно, чтобы ещё звонить."],
+        ["te + прил. + om + obj + te + inf", "Het is te koud om buiten te zitten.", "Слишком холодно, чтобы сидеть снаружи."],
+        ["te + нареч. + om te + inf", "Hij rijdt te snel om veilig te zijn.", "Он едет слишком быстро, чтобы быть безопасным."],
+        ["С модальным оттенком", "Ik ben te moe om verder te werken.", "Я слишком устал, чтобы работать дальше."]
+      ]
+    },
+    {
+      "title": "te + прил. внутри группы с сущ. (редко)",
+      "headers": ["Вариант", "Пример", "Стилистика"],
+      "rows": [
+        ["te + прил. + -e + сущ.", "een te dure auto", "допустимо, но реже: 'машина, которая слишком дорогая'"],
+        ["Перестроить в предикатив", "De auto is te duur.", "более естественно"],
+        ["Вопрос", "Is dat niet te duur?", "обычный приём"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Не путай 'te' как 'слишком' и 'te' как частицу инфинитива",
+      "items": [
+        "'te + прилагательное' = слишком: Het is te duur.",
+        "'te + инфинитив' = частица инфинитива: Ik probeer te slapen. (см. тему 'te-инфинитив').",
+        "Ключ: после 'te' стоит глагол (инфинитив) — это инфинитивная частица; стоит прил./нареч. — значит 'слишком'."
+      ]
+    },
+    {
+      "title": "Как смягчить 'te'",
+      "items": [
+        "'een beetje te ...' — чуть-чуть слишком: Het is een beetje te zout.",
+        "'iets te ...' — немного слишком: Iets te duur.",
+        "'veel te ...' — чересчур сильно: Veel te laat! (Совсем поздно!)"
+      ]
+    },
+    {
+      "title": "С другими частями речи",
+      "items": [
+        "te + глагольное наречие: te weinig, te veel — 'слишком мало / слишком много'.",
+        "te + числительное невозможно: нельзя 'te drie'; говорят 'meer dan drie'.",
+        "te + сравнительная степень возможна: te beter, te slechter — редкость, обычно используют 'nog'."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Deze jas is te duur voor mij.", "ru": "Эта куртка слишком дорогая для меня." },
+    { "nl": "Het is te warm om te slapen.", "ru": "Слишком жарко, чтобы спать." },
+    { "nl": "Ik vind de soep te zout.", "ru": "Суп кажется мне слишком солёным." },
+    { "nl": "Hij is te jong om alleen te reizen.", "ru": "Он слишком молод, чтобы путешествовать один." },
+    { "nl": "Zij werkt veel te hard.", "ru": "Она работает чересчур много." },
+    { "nl": "Het is iets te laat geworden.", "ru": "Стало немного слишком поздно." },
+    { "nl": "Niet te snel, graag.", "ru": "Не слишком быстро, пожалуйста." }
+  ],
+  "exceptions": [
+    "'te' в некоторых устойчивых сочетаниях не значит 'слишком': te voet (пешком), te koop (на продажу), te huur (в аренду) — это другое слово.",
+    "В сравнении 'te ... dan' не употребляется; вместо этого 'te ... voor': te moeilijk voor mij (слишком сложно для меня).",
+    "С глаголом 'zullen' 'te' не комбинируется прямо: 'te moeten zijn' встречается, но редко.",
+    "Выражение 'te ... naar mijn zin' = 'слишком ... на мой вкус': Het is te druk naar mijn zin."
+  ],
+  "commonMistakes": [
+    { "wrong": "Het is heel te duur.", "correct": "Het is te duur. / Het is heel duur.", "why": "'te' и 'heel' — разные усилители, вместе не сочетаются." },
+    { "wrong": "Het is te om te laat bellen.", "correct": "Het is te laat om nog te bellen.", "why": "Порядок: te + прил. + om te + inf." },
+    { "wrong": "Ik ben te moe werken.", "correct": "Ik ben te moe om te werken.", "why": "После 'te + прил.' нужно 'om te + inf'." },
+    { "wrong": "Het is zo te warm.", "correct": "Het is te warm. / Het is zo warm.", "why": "'zo' и 'te' — разные наречия степени, не сочетаются." },
+    { "wrong": "Dit is een te groot huis voor ons. (в значении 'очень большой')", "correct": "Dit is een heel groot huis voor ons.", "why": "'te' всегда значит 'слишком', а не 'очень'." }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "Het is ___ koud om buiten te zitten.", "options": ["heel", "te", "zo"], "answer": "te", "explanation": "Значение 'слишком, нельзя' — 'te'." },
+    { "type": "fill-blank", "sentence": "Ik vind de koffie ___ sterk. (слишком)", "answer": "te", "explanation": "'te sterk' — слишком крепкий." },
+    { "type": "word-order", "words": ["het", "is", "te", "laat", "om", "nog", "te", "bellen"], "answer": "Het is te laat om nog te bellen.", "explanation": "Схема: te + прил. + om te + inf." },
+    { "type": "choice", "question": "Как сказать 'Очень красивая картина' (нейтрально)?", "options": ["Een te mooi schilderij", "Een heel mooi schilderij"], "answer": "Een heel mooi schilderij", "explanation": "'te' подразумевает 'слишком'; для нейтрального 'очень' — heel/erg." },
+    { "type": "fill-blank", "sentence": "Hij is ___ jong om alleen te reizen.", "answer": "te", "explanation": "'слишком молод, чтобы путешествовать одному'." },
+    { "type": "choice", "question": "Правильный порядок:", "options": ["Ik ben om te werken te moe.", "Ik ben te moe om te werken."], "answer": "Ik ben te moe om te werken.", "explanation": "Схема: te + прил. + om te + inf, все слова на своих местах." }
+  ],
+  "relatedTopics": ["adjectives", "adverbs", "comparatives", "te-infinitive"],
+  "inLessons": [14, 19, 20]
+}

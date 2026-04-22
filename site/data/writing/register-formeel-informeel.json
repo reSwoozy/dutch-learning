@@ -1,0 +1,26 @@
+{
+  "id": "register-formeel-informeel",
+  "title": "Formeel vs. informeel register",
+  "titleRu": "Формальный и неформальный стиль",
+  "level": "B1",
+  "type": "reference",
+  "description": "Ключевые различия между формальным (u) и неформальным (je/jij) стилем. Важно не смешивать.",
+  "structure": [
+    {"title": "Обращение", "note": "Formeel: u / uw. Informeel: je / jij / jouw."},
+    {"title": "Глагольные формы", "note": "После 'u' — форма 3-го лица: 'u hebt / heeft'. После 'je': 'je hebt'."},
+    {"title": "Лексика", "note": "Formeel: verzoeken, mededelen, omtrent, inzake, tevens. Informeel: vragen, zeggen, over, ook."},
+    {"title": "Сокращения", "note": "Formeel: не используется 'k, 't, 'm, d'r. Только полные формы."},
+    {"title": "Stiaffectie", "note": "Formeel: нейтрально, без восклицаний. Informeel: 'super', 'leuk', emoticonы."}
+  ],
+  "phrases": [
+    "Formeel — пары замен:\n- vragen → verzoeken\n- krijgen → ontvangen\n- sturen → toezenden\n- praten → spreken\n- beginnen → aanvangen\n- eindigen → beëindigen\n- over → omtrent / inzake",
+    "Неформальные выражения (избегать в формальном): 'hoi', 'doei', 'tot ziens' (полуформально), 'super', 'best wel', 'echt waar'.",
+    "Типичные формальные: 'bij dezen', 'onderhavig', 'middels', 'betreffende', 'alsnog', 'desalniettemin'."
+  ],
+  "model": "Один и тот же смысл, два стиля:\n\nInformeel:\n'Hoi Mark,\nKun je mij het rapport even opsturen? Bedankt alvast!\nGroetjes,\nAnna'\n\nFormeel:\n'Geachte heer Jansen,\nGraag ontvang ik het genoemde rapport op korte termijn. Alvast hartelijk dank voor uw medewerking.\nMet vriendelijke groet,\nA. Petrova'",
+  "tips": [
+    "Никогда не смешивайте 'u' и 'je' в одном письме.",
+    "В цифровой переписке можно смягчить формальный стиль ('Beste ... , Alvast dank,'), но не использовать 'hoi'/'doei'.",
+    "Если собеседник сам переходит на 'je' — можно следовать. Но не инициировать без приглашения в деловом контексте."
+  ]
+}

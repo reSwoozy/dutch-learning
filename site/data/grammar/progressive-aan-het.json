@@ -1,0 +1,118 @@
+{
+  "id": "progressive-aan-het",
+  "title": "Прогрессив: aan het + инфинитив",
+  "titleNL": "Aan het + infinitief (progressief)",
+  "level": "A2",
+  "summary": "Конструкция 'zijn + aan het + infinitief' описывает действие, происходящее прямо сейчас. Это главный способ выразить 'я делаю именно сейчас' — аналог английского 'I am doing'.",
+  "rule": {
+    "formula": "Подлежащее + zijn (спряг.) + aan het + infinitief (в конце)",
+    "explanation": "Форма 'zijn' спрягается по лицу (ben/bent/is/zijn). 'aan het' не меняется. Инфинитив стоит в конце предложения. Это длительный вид — действие в процессе. В перфектуме используется 'zijn': Ik ben aan het werken geweest.",
+    "whenToUse": [
+      "Действие происходит прямо сейчас: Ik ben aan het werken. — Я (сейчас) работаю.",
+      "Фоновое действие в прошлом: Toen hij belde, was ik aan het koken.",
+      "Подчеркнуть длительность: Ze zijn al uren aan het praten."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Спряжение 'zijn' + aan het + inf.",
+      "headers": ["Лицо", "Форма", "Пример"],
+      "rows": [
+        ["ik", "ben aan het ...", "Ik ben aan het lezen."],
+        ["jij/je", "bent aan het ...", "Jij bent aan het werken."],
+        ["u", "bent aan het ...", "U bent aan het wachten."],
+        ["hij/zij/het", "is aan het ...", "Hij is aan het slapen."],
+        ["wij/we", "zijn aan het ...", "Wij zijn aan het eten."],
+        ["jullie", "zijn aan het ...", "Jullie zijn aan het kletsen."],
+        ["zij/ze (мн.)", "zijn aan het ...", "Ze zijn aan het voetballen."]
+      ]
+    },
+    {
+      "title": "Сравнение с обычным Presens",
+      "headers": ["Presens (факт / привычка)", "Aan het + inf (сейчас)", "Разница"],
+      "rows": [
+        ["Ik werk.", "Ik ben aan het werken.", "Работаю (в принципе) / работаю именно сейчас."],
+        ["Hij leest elke dag.", "Hij is nu aan het lezen.", "Каждый день / прямо сейчас."],
+        ["Wij koken vaak samen.", "Wij zijn aan het koken.", "Часто / сейчас в процессе."]
+      ]
+    },
+    {
+      "title": "В прошедшем и придаточном",
+      "headers": ["Контекст", "Пример", "Перевод"],
+      "rows": [
+        ["Imperfectum", "Ik was aan het werken toen je belde.", "Я работал, когда ты позвонил."],
+        ["Perfectum", "Ik ben de hele dag aan het werken geweest.", "Я весь день работал."],
+        ["Придаточное", "...omdat ik aan het werken ben.", "...потому что я работаю (сейчас)."],
+        ["С отрицанием", "Ik ben niet aan het slapen.", "Я не сплю."]
+      ]
+    },
+    {
+      "title": "Когда НЕ используется 'aan het'",
+      "headers": ["Ситуация", "Верно", "Неверно"],
+      "rows": [
+        ["Глаголы состояния", "Ik weet het.", "Ik ben het aan het weten."],
+        ["Глаголы чувств", "Ik hou van je.", "Ik ben van je aan het houden."],
+        ["Факты / истины", "De zon schijnt elke dag.", "De zon is elke dag aan het schijnen."],
+        ["Общая привычка", "Ik drink koffie.", "Ik ben koffie aan het drinken. (только если прямо сейчас)"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Без дополнения — только 'aan het + inf'",
+      "items": [
+        "Если нет прямого дополнения: Ik ben aan het werken / aan het lezen / aan het koken.",
+        "Дополнение ставится ПЕРЕД 'aan het': Ik ben een boek aan het lezen. Wij zijn het eten aan het koken.",
+        "Это отличает aan-het-конструкцию от глаголов с отделяемой приставкой."
+      ]
+    },
+    {
+      "title": "Перфектум: 'ben ... geweest'",
+      "items": [
+        "Перфектум прогрессива = zijn + aan het + inf + geweest.",
+        "Ik ben de hele ochtend aan het schoonmaken geweest. (Я всё утро убирался.)",
+        "Редко используется — чаще заменяют на Ik heb de hele ochtend schoongemaakt."
+      ]
+    },
+    {
+      "title": "Альтернативы",
+      "items": [
+        "Вместо 'aan het + inf' в разговорной речи часто используют позиционные глаголы: Hij staat te koken / Zij zit te lezen (см. тему 'Staan/zitten/liggen + te + inf').",
+        "Для явного 'прямо сейчас' добавляют 'nu', 'op dit moment', 'net': Ik ben nu aan het werken.",
+        "С динамичным глаголом настоящее время тоже может значить 'сейчас': Ik werk. — если по контексту ясно."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik ben aan het koken. Kun je later bellen?", "ru": "Я готовлю. Можешь позвонить позже?" },
+    { "nl": "Wat ben je aan het doen?", "ru": "Что ты (сейчас) делаешь?" },
+    { "nl": "De kinderen zijn buiten aan het spelen.", "ru": "Дети играют на улице." },
+    { "nl": "Toen hij thuiskwam, was ik het eten aan het maken.", "ru": "Когда он пришёл домой, я готовил еду." },
+    { "nl": "Wij zijn een nieuw huis aan het bouwen.", "ru": "Мы строим новый дом." },
+    { "nl": "Sorry, ik ben met een collega aan het praten.", "ru": "Извини, я разговариваю с коллегой." },
+    { "nl": "Zij is het boek aan het lezen dat ik haar gaf.", "ru": "Она читает книгу, которую я ей дал." }
+  ],
+  "exceptions": [
+    "Не все глаголы сочетаются с 'aan het'. Статичные глаголы (weten, kennen, houden van, hebben — в значении владения) не используются.",
+    "Отделяемые глаголы: приставка и основа склеиваются: Ik ben aan het opbellen (а не 'op aan het bellen').",
+    "В пассиве прогрессив используется редко — обычно пересказывают: Het huis wordt gebouwd → заменяет 'aan het worden gebouwd'.",
+    "С глаголом 'gaan' прогрессив не строят: нельзя 'Ik ben aan het gaan'; говорят 'Ik ga nu'."
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik ben aan het een boek lezen.", "correct": "Ik ben een boek aan het lezen.", "why": "Дополнение ставится перед 'aan het', а не после." },
+    { "wrong": "Hij is aan het weten het antwoord.", "correct": "Hij weet het antwoord.", "why": "'weten' — статичный глагол, не используется в прогрессиве." },
+    { "wrong": "Wij aan het eten zijn.", "correct": "Wij zijn aan het eten.", "why": "'zijn' стоит на 2-й позиции (V2), инфинитив в конце." },
+    { "wrong": "Ik ben werken.", "correct": "Ik ben aan het werken.", "why": "Нужно полное 'aan het' — это единая конструкция." },
+    { "wrong": "Hij is aan het slapt.", "correct": "Hij is aan het slapen.", "why": "После 'aan het' идёт ИНФИНИТИВ, не спряжённая форма." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Ik ___ aan het koken. (быть, ед.ч.)", "answer": "ben", "explanation": "ik + ben: Ik ben aan het koken." },
+    { "type": "word-order", "words": ["wij", "een", "film", "aan", "het", "kijken", "zijn"], "answer": "Wij zijn een film aan het kijken.", "explanation": "Дополнение ('een film') между 'zijn' и 'aan het'; инфинитив в конце." },
+    { "type": "choice", "question": "Как сказать 'Что ты сейчас делаешь?'", "options": ["Wat doe je aan het?", "Wat ben je aan het doen?", "Wat aan het je doen bent?"], "answer": "Wat ben je aan het doen?", "explanation": "Wh-вопрос: Wat (1) + ben (2) + je (3) + aan het doen (конец)." },
+    { "type": "fill-blank", "sentence": "De kinderen ___ buiten aan het spelen.", "answer": "zijn", "explanation": "Мн.ч. 'de kinderen' → zijn." },
+    { "type": "choice", "question": "Правильно ли: 'Ik ben aan het houden van je'?", "options": ["Да", "Нет, 'houden van' — глагол чувства, прогрессив не используется"], "answer": "Нет, 'houden van' — глагол чувства, прогрессив не используется", "explanation": "Глаголы состояния/чувств не сочетаются с aan-het." },
+    { "type": "word-order", "words": ["toen", "hij", "belde", "was", "ik", "aan", "het", "werken"], "answer": "Toen hij belde, was ik aan het werken.", "explanation": "Imperfectum прогрессива: 'was aan het + inf'." }
+  ],
+  "relatedTopics": ["present-tense", "posture-te-infinitive", "word-order", "perfectum"],
+  "inLessons": [13, 15, 23]
+}

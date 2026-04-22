@@ -1,0 +1,252 @@
+{
+  "id": "B1-lesson-25",
+  "num": 25,
+  "level": "B1",
+  "title": "Сложные предложения и союзы",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Сложные предложения и союзы",
+      "content": "**Научиться строить сложные предложения с различными союзами для выражения сложных идей и логических связей.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "grammar",
+      "title": "Новая грамматика"
+    },
+    {
+      "type": "text",
+      "title": "Союзы для сложных предложений",
+      "content": "#### 1⃣ **Причина и следствие (Oorzaak en gevolg)**\n##### **Omdat (потому что)**\n```\nIk leer Nederlands omdat ik in Nederland woon.\n(Я изучаю нидерландский, потому что живу в Нидерландах)\n```\n##### **Doordat (из-за того что)**\n```\nDoordat het regent, blijf ik thuis.\n(Из-за того, что идет дождь, я остаюсь дома)\n```\n##### **Daarom (поэтому)**\n```\nHet regent, daarom blijf ik thuis.\n(Идет дождь, поэтому я остаюсь дома)\n```\n#### 2⃣ **Противопоставление (Tegenstelling)**\n##### **Maar (но)**\n```\nIk wil uitgaan, maar het regent.\n(Я хочу пойти гулять, но идет дождь)\n```\n##### **Hoewel (хотя)**\n```\nHoewel het regent, ga ik naar buiten.\n(Хотя идет дождь, я иду на улицу)\n```\n##### **Ondanks dat (несмотря на то что)**\n```\nOndanks dat hij ziek is, gaat hij werken.\n(Несмотря на то, что он болен, он идет работать)\n```\n#### 3⃣ **Условие (Voorwaarde)**\n##### **Als (если)**\n```\nAls het mooi weer is, gaan we picknicken.\n(Если будет хорошая погода, мы пойдем на пикник)\n```\n##### **Tenzij (если не/кроме как)**\n```\nIk kom, tenzij ik ziek ben.\n(Я приду, если не буду болен)\n```\n#### 4⃣ **Время (Tijd)**\n##### **Terwijl (пока/в то время как)**\n```\nTerwijl ik kook, kijk jij televisie.\n(Пока я готовлю, ты смотришь телевизор)\n```\n##### **Nadat (после того как)**\n```\nNadat ik gegeten heb, ga ik wandelen.\n(После того как поем, пойду гулять)\n```\n##### **Voordat (прежде чем)**\n```\nVoordat je vertrekt, bel je me.\n(Прежде чем уйдешь, позвони мне)\n```"
+    },
+    {
+      "type": "grammar",
+      "title": "Порядок слов в сложных предложениях"
+    },
+    {
+      "type": "text",
+      "title": "Главное + придаточное предложение",
+      "content": "```\n[Hoofdzin] + [Bijzin]\nIk denk + dat hij gelijk heeft.\n(Я думаю, что он прав)\n```"
+    },
+    {
+      "type": "text",
+      "title": "Придаточное + главное предложение",
+      "content": "```\n[Bijzin] + [Hoofdzin]\nOmdat het regent, + blijf ik thuis.\n(Потому что идет дождь, я остаюсь дома)\n```"
+    },
+    {
+      "type": "grammar",
+      "title": "Важно: В придаточном предложении глагол стоит в конце!",
+      "content": "---"
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1: На работе",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Waarom ben je zo moe?"
+        },
+        {
+          "speaker": "B",
+          "text": "Omdat ik gisteren laat naar bed ben gegaan."
+        },
+        {
+          "speaker": "A",
+          "text": "Terwijl je toch vroeg moet opstaan voor je werk."
+        },
+        {
+          "speaker": "B",
+          "text": "Ja, maar ik moest mijn rapport afmaken voordat de deadline was."
+        },
+        {
+          "speaker": "A",
+          "text": "Ondanks dat je moe bent, zie je er goed uit."
+        },
+        {
+          "speaker": "B",
+          "text": "Dank je! Als ik vanavond vroeg slaap, ben ik morgen fitter."
+        }
+      ],
+      "translation": "A: Почему ты такой усталый?\nB: Потому что вчера поздно лег спать.\nA: Хотя тебе нужно рано вставать на работу.\nB: Да, но мне нужно было закончить отчет до дедлайна.\nA: Несмотря на то что ты устал, выглядишь хорошо.\nB: Спасибо! Если лягу спать рано вечером, завтра буду бодрее."
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2: Планы на выходные",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Gaan we morgen naar het strand?"
+        },
+        {
+          "speaker": "B",
+          "text": "Alleen als het niet regent."
+        },
+        {
+          "speaker": "A",
+          "text": "Hoewel de weersvoorspelling niet goed is, hoop ik dat we kunnen gaan."
+        },
+        {
+          "speaker": "B",
+          "text": "Daarom heb ik ook een plan B gemaakt."
+        },
+        {
+          "speaker": "A",
+          "text": "Wat is je plan B?"
+        },
+        {
+          "speaker": "B",
+          "text": "Tenzij je bezwaar hebt, kunnen we naar het museum."
+        },
+        {
+          "speaker": "A",
+          "text": "Nadat we het museum hebben bezocht, gaan we ergens eten."
+        }
+      ],
+      "translation": "A: Пойдем завтра на пляж?\nB: Только если не будет дождя.\nA: Хотя прогноз погоды плохой, надеюсь, что сможем пойти.\nB: Поэтому у меня есть план Б.\nA: Какой у тебя план Б?\nB: Если ты не возражаешь, можем пойти в музей.\nA: После того как посетим музей, пойдем где-то поесть."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Соедините предложения",
+      "items": [
+        {
+          "question": "Het regent. / Ik blijf thuis. (omdat)"
+        },
+        {
+          "question": "Ik leer hard. / Ik wil slagen. (omdat)"
+        },
+        {
+          "question": "Hij is ziek. / Hij gaat werken. (hoewel)"
+        },
+        {
+          "question": "Je hebt tijd. / Je kunt me helpen. (als)"
+        },
+        {
+          "question": "Ze eet. / Ze kijkt televisie. (terwijl)"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Поставьте слова в правильном порядке",
+      "items": [
+        {
+          "question": "omdat / hij / Nederlands / spreekt / goed / hij / in Nederland / woont"
+        },
+        {
+          "question": "hoewel / het / koud / is / gaan / we / wandelen"
+        },
+        {
+          "question": "als / je / wilt / kun / je / komen / morgen"
+        },
+        {
+          "question": "terwijl / ik / werk / luister / naar / muziek / ik"
+        },
+        {
+          "question": "nadat / ze / gegeten / heeft / gaat / ze / slapen"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Выберите правильный союз",
+      "items": [
+        {
+          "question": "_____ het regent, neem ik een paraplu mee. (Omdat/Als/Terwijl)"
+        },
+        {
+          "question": "Ik ga naar bed, _____ ik moe ben. (doordat/omdat/tenzij)"
+        },
+        {
+          "question": "_____ hij jong is, is hij heel wijs. (Hoewel/Omdat/Als)"
+        },
+        {
+          "question": "Ze studeert hard, _____ ze wil slagen. (terwijl/omdat/hoewel)"
+        },
+        {
+          "question": "_____ we klaar zijn, gaan we naar huis. (Nadat/Voordat/Terwijl)"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Ролевая игра",
+      "content": "**Ситуация**: Вы планируете отпуск с другом. Обсудите планы, используя сложные предложения.\n**Полезные фразы**:\n- Als het weer goed is, kunnen we...\n- Omdat we niet veel geld hebben...\n- Hoewel ik liever naar... wil...\n- Nadat we de tickets hebben geboekt...\n- Tenzij je andere plannen hebt..."
+    },
+    {
+      "type": "culture",
+      "title": "Рабочие переговоры в Нидерландах",
+      "content": "В Нидерландах важно четко выражать причинно-следственные связи в деловом общении:\n- **Omdat** часто используется для объяснения решений\n- **Hoewel** показывает, что вы рассмотрели альтернативы\n- **Als** используется для постановки условий в переговорах\n- **Daarom** помогает сделать логические выводы\n**Пример деловой речи**:\n```\n\"Omdat de markt verandert, moeten we onze strategie aanpassen.\nHoewel dit risico's met zich meebrengt, denk ik dat we daarom\nsneller moeten handelen. Als we nu beginnen, kunnen we als eerste\nop de markt zijn.\"\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Союзы и связующие слова",
+      "words": [
+        {
+          "nl": "bovendien",
+          "ru": "кроме того"
+        },
+        {
+          "nl": "echter",
+          "ru": "однако"
+        },
+        {
+          "nl": "daarbij",
+          "ru": "при этом"
+        },
+        {
+          "nl": "integendeel",
+          "ru": "наоборот"
+        },
+        {
+          "nl": "bijvoorbeeld",
+          "ru": "например"
+        },
+        {
+          "nl": "met andere woorden",
+          "ru": "другими словами"
+        },
+        {
+          "nl": "kortom",
+          "ru": "короче говоря"
+        },
+        {
+          "nl": "enerzijds... anderzijds",
+          "ru": "с одной стороны... с другой стороны"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Для структурирования речи",
+      "words": [
+        {
+          "nl": "ten eerste",
+          "ru": "во-первых"
+        },
+        {
+          "nl": "ten tweede",
+          "ru": "во-вторых"
+        },
+        {
+          "nl": "ten slotte",
+          "ru": "наконец"
+        },
+        {
+          "nl": "samenvattend",
+          "ru": "подводя итог"
+        },
+        {
+          "nl": "concluderend",
+          "ru": "в заключение"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Проверьте себя",
+      "content": "**Я могу**:\n- [ ] Использовать различные союзы для выражения причины, условия, времени\n- [ ] Правильно строить порядок слов в сложных предложениях\n- [ ] Объяснять свои действия и решения, используя логические связи\n- [ ] Выражать противопоставления и условия\n- [ ] Структурировать сложную речь с помощью связующих слов"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-25.json"
+}

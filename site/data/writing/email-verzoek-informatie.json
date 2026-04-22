@@ -1,0 +1,28 @@
+{
+  "id": "email-verzoek-informatie",
+  "title": "Verzoek om informatie",
+  "titleRu": "Запрос информации",
+  "level": "B1",
+  "type": "email",
+  "description": "Формальное письмо с запросом информации: например, о курсе, вакансии, услуге, условии страхования.",
+  "structure": [
+    {"title": "Aanhef", "note": "Geachte heer/mevrouw, ..."},
+    {"title": "Reden van het bericht", "note": "Кратко: откуда узнали, что интересует."},
+    {"title": "Concrete vragen", "note": "3–5 конкретных вопросов списком."},
+    {"title": "Afsluiting", "note": "Благодарность + подпись."}
+  ],
+  "phrases": [
+    "Via uw website / een advertentie / een kennis heb ik vernomen dat...",
+    "Ik ben geïnteresseerd in... en zou graag meer informatie ontvangen.",
+    "Kunt u mij het volgende laten weten:",
+    "Is het mogelijk om een brochure / informatiepakket toegestuurd te krijgen?",
+    "Bij voorbaat hartelijk dank voor uw reactie.",
+    "Met vriendelijke groet,"
+  ],
+  "model": "Geachte heer, mevrouw,\n\nVia uw website heb ik gelezen dat uw taleninstituut in september een nieuwe cursus Nederlands op B2-niveau start. Ik overweeg mij hiervoor in te schrijven en zou graag aanvullende informatie ontvangen.\n\nConcreet heb ik de volgende vragen:\n- Op welke dagen en tijden vindt de cursus plaats?\n- Hoeveel lesuren per week betreft het en hoe lang duurt de cursus in totaal?\n- Wat zijn de kosten en is er een mogelijkheid tot termijnbetaling?\n- Wordt de cursus afgesloten met een examen of certificaat?\n- Is er eventueel een instaptoets?\n\nHet zou prettig zijn als u mij ook een korte brochure of een lesrooster kunt toesturen.\n\nBij voorbaat hartelijk dank voor uw reactie.\n\nMet vriendelijke groet,\n\nAleksei Ivanov\nalekseiivanov@mail.nl\n06-12345678",
+  "tips": [
+    "Составляйте вопросы списком — так читателю проще ответить.",
+    "Не начинайте фразой 'Ik heb een vraag.' — переходите к сути.",
+    "Избегайте слишком прямых просьб типа 'Stuur me...'. Предпочтите 'Zou u mij ... kunnen toesturen?'"
+  ]
+}

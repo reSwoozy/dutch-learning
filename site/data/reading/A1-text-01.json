@@ -1,0 +1,42 @@
+{
+  "id": "A1-text-01",
+  "level": "A1",
+  "title": "Een dag van Lisa",
+  "topic": "dagelijks-leven",
+  "readingTime": "2 min",
+  "body": "Lisa woont in Utrecht. Ze is 24 jaar oud. Iedere ochtend staat ze om zeven uur op. Ze neemt een douche en trekt haar kleren aan. Daarna ontbijt ze. Ze eet brood met kaas en drinkt koffie.\n\nOm acht uur pakt Lisa haar fiets. Ze werkt in een winkel in het centrum. De winkel is op vijftien minuten fietsen van haar huis. Lisa werkt tot vijf uur. Ze helpt klanten en praat met collega's.\n\n's Avonds kookt Lisa samen met haar vriendin Sanne. Ze wonen in hetzelfde huis. Na het eten kijken ze soms een film of lezen ze een boek. Om half elf gaan ze naar bed. Lisa is dan moe, maar tevreden.",
+  "glossary": [
+    {"nl": "opstaan", "ru": "вставать"},
+    {"nl": "de douche", "ru": "душ"},
+    {"nl": "aantrekken", "ru": "надевать"},
+    {"nl": "ontbijten", "ru": "завтракать"},
+    {"nl": "de fiets pakken", "ru": "взять велосипед"},
+    {"nl": "het centrum", "ru": "центр"},
+    {"nl": "de klant", "ru": "клиент"},
+    {"nl": "de collega", "ru": "коллега"},
+    {"nl": "samen", "ru": "вместе"},
+    {"nl": "tevreden", "ru": "довольный"}
+  ],
+  "questions": [
+    {
+      "q": "Hoe laat staat Lisa op?",
+      "options": ["Om 6 uur", "Om 7 uur", "Om 8 uur"],
+      "answer": 1
+    },
+    {
+      "q": "Hoe gaat Lisa naar haar werk?",
+      "options": ["Met de auto", "Met de bus", "Met de fiets"],
+      "answer": 2
+    },
+    {
+      "q": "Met wie woont Lisa?",
+      "options": ["Met haar moeder", "Met haar vriendin Sanne", "Alleen"],
+      "answer": 1
+    },
+    {
+      "q": "Wat doet Lisa 's avonds?",
+      "options": ["Ze werkt nog", "Ze kookt en kijkt een film", "Ze gaat uit"],
+      "answer": 1
+    }
+  ]
+}

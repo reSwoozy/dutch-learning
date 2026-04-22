@@ -1,0 +1,512 @@
+{
+  "id": "B1-lesson-29",
+  "num": 29,
+  "level": "B1",
+  "title": "Банки и финансы",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Банки и финансы",
+      "content": "**Освоить банковскую и финансовую систему Нидерландов: услуги банков, кредиты, налоги, страхование и планирование бюджета.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Основные банки (Grote banken)",
+      "words": [
+        {
+          "nl": "ABN AMRO",
+          "ru": "Один из крупнейших банков, широкая сеть"
+        },
+        {
+          "nl": "ING",
+          "ru": "Интернациональный банк, удобный онлайн"
+        },
+        {
+          "nl": "Rabobank",
+          "ru": "Кооперативный банк, сильная позиция в сельском хозяйстве"
+        },
+        {
+          "nl": "SNS Bank",
+          "ru": "Региональный банк, персональный подход"
+        },
+        {
+          "nl": "Bunq",
+          "ru": "Современный цифровой банк"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Типы банковских счетов",
+      "words": [
+        {
+          "nl": "Текущий счет",
+          "ru": "betaalrekening",
+          "hint": "Ежедневные операции"
+        },
+        {
+          "nl": "Сберегательный",
+          "ru": "spaarrekening",
+          "hint": "Накопления"
+        },
+        {
+          "nl": "Совместный счет",
+          "ru": "gezamenlijke rekening",
+          "hint": "Для семейных пар"
+        },
+        {
+          "nl": "Бизнес-счет",
+          "ru": "zakelijke rekening",
+          "hint": "Для предпринимателей"
+        },
+        {
+          "nl": "Студенческий",
+          "ru": "studentenrekening",
+          "hint": "Льготные условия"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Типы карт",
+      "words": [
+        {
+          "nl": "Дебетовая",
+          "ru": "betaalpas / pinpas",
+          "hint": "Основная карта для оплаты"
+        },
+        {
+          "nl": "Кредитная",
+          "ru": "creditcard",
+          "hint": "Кредитные покупки"
+        },
+        {
+          "nl": "Maestro",
+          "ru": "Maestro",
+          "hint": "Международные покупки"
+        },
+        {
+          "nl": "Contactless",
+          "ru": "contactloos",
+          "hint": "Бесконтактная оплата"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Способы оплаты",
+      "words": [
+        {
+          "nl": "SEPA перевод",
+          "ru": "SEPA-overboeking",
+          "hint": "Обычно бесплатно в ЕС"
+        },
+        {
+          "nl": "iDEAL",
+          "ru": "iDEAL",
+          "hint": "Онлайн-платежи, бесплатно"
+        },
+        {
+          "nl": "Наличные",
+          "ru": "contant geld",
+          "hint": "Ограниченное использование"
+        },
+        {
+          "nl": "Tikkie",
+          "ru": "Tikkie",
+          "hint": "Переводы между друзьями"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Ипотека (Hypotheek)",
+      "content": "**Этапы получения ипотеки**:\n```\nInkomenstoets (Проверка доходов)\n↓\nTaxatie van het huis (Оценка дома)\n↓\nHypotheekadvies (Ипотечное консультирование)\n↓\nHypotheekofferte (Предложение по ипотеке)\n↓\nHypotheekakte (Ипотечный договор)\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Типы ипотеки",
+      "words": [
+        {
+          "nl": "Аннуитетная",
+          "ru": "annuïteitenhypotheek",
+          "hint": "Равные ежемесячные платежи"
+        },
+        {
+          "nl": "Линейная",
+          "ru": "lineaire hypotheek",
+          "hint": "Уменьшающиеся платежи"
+        },
+        {
+          "nl": "Процентная",
+          "ru": "aflossingsvrije hypotheek",
+          "hint": "Только проценты"
+        },
+        {
+          "nl": "Спаровочная",
+          "ru": "spaarhypotheek",
+          "hint": "С накопительным компонентом"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Факторы для одобрения ипотеки",
+      "words": [
+        {
+          "nl": "Доход",
+          "ru": "Минимум 3 года стабильного дохода"
+        },
+        {
+          "nl": "Возраст",
+          "ru": "До 67 лет на момент погашения"
+        },
+        {
+          "nl": "Первоначальный взнос",
+          "ru": "Минимум 10% от стоимости"
+        },
+        {
+          "nl": "Долговая нагрузка",
+          "ru": "Не более 28% от дохода"
+        },
+        {
+          "nl": "BKR проверка",
+          "ru": "Хорошая кредитная история"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Основные налоги",
+      "words": [
+        {
+          "nl": "Подоходный",
+          "ru": "inkomstenbelasting",
+          "hint": "Прогрессивная шкала"
+        },
+        {
+          "nl": "НДС",
+          "ru": "BTW",
+          "hint": "Товары и услуги"
+        },
+        {
+          "nl": "Муниципальный",
+          "ru": "gemeentelijke belastingen",
+          "hint": "Местные услуги"
+        },
+        {
+          "nl": "Дорожный",
+          "ru": "motorrijtuigenbelasting",
+          "hint": "Владение автомобилем"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Налоговые льготы",
+      "words": [
+        {
+          "nl": "Общая скидка",
+          "ru": "algemene heffingskorting",
+          "hint": "€2,888 в год"
+        },
+        {
+          "nl": "Трудовая скидка",
+          "ru": "arbeidskorting",
+          "hint": "До €4,260 в год"
+        },
+        {
+          "nl": "Ипотечные проценты",
+          "ru": "hypotheekrente",
+          "hint": "Вычет процентов по ипотеке"
+        },
+        {
+          "nl": "Пенсионные взносы",
+          "ru": "pensioenopbouw",
+          "hint": "Вычет пенсионных накоплений"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Диалог: В банке",
+      "content": "**Klant (Клиент)**: Goedemorgen, ik wil graag een bankrekening openen.\n**Bankmedewerker (Сотрудник банка)**: Goedemorgen! Welk type rekening hebt u nodig?\n**Klant**: Een gewone betaalrekening voor dagelijks gebruik.\n**Bankmedewerker**: Perfect! Hebt u uw paspoort en BSN-nummer bij u?\n**Klant**: Ja, hier zijn mijn documenten. Zijn er maandelijkse kosten?\n**Bankmedewerker**: Voor een standaard betaalrekening zijn de kosten €2,50 per maand. Daarbij krijgt u een pinpas en internetbankieren.\n**Klant**: Krijg ik ook een creditcard?\n**Bankmedewerker**: Die kunt u apart aanvragen. Daar gelden andere voorwaarden voor.\n**Klant**: Oké, laten we beginnen met de betaalrekening."
+    },
+    {
+      "type": "text",
+      "title": "Диалог: Ипотечное консультирование",
+      "content": "**Adviseur (Консультант)**: Welkom! U bent geïnteresseerd in een hypotheek?\n**Klant**: Ja, we willen een huis kopen voor €350.000.\n**Adviseur**: Mooi! Wat zijn uw gezamenlijke bruto-inkomsten?\n**Klant**: Samen verdienen we €80.000 per jaar.\n**Adviseur**: Dan kunnen jullie ongeveer €320.000 lenen. Hebben jullie eigen geld?\n**Klant**: We hebben €50.000 gespaard.\n**Adviseur**: Uitstekend! Met die eigen inbreng is de financiering goed mogelijk. Welk type hypotheek interesseert u?\n**Klant**: We denken aan een annuïteitenhypotheek.\n**Adviseur**: Dat is een populaire keuze. De maandlasten zijn dan ongeveer €1.200."
+    },
+    {
+      "type": "vocabulary",
+      "title": "Обязательное страхование",
+      "words": [
+        {
+          "nl": "Медицинское",
+          "ru": "zorgverzekering",
+          "hint": "Да"
+        },
+        {
+          "nl": "WA автомобиля",
+          "ru": "WA-verzekering",
+          "hint": "Да (при наличии авто)"
+        },
+        {
+          "nl": "AOW пенсия",
+          "ru": "AOW",
+          "hint": "Автоматически"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Дополнительное страхование",
+      "words": [
+        {
+          "nl": "Домашнее имущество",
+          "ru": "inboedelverzekering",
+          "hint": "Защита вещей в доме"
+        },
+        {
+          "nl": "Строение дома",
+          "ru": "opstalverzekering",
+          "hint": "Защита здания"
+        },
+        {
+          "nl": "Ответственность",
+          "ru": "aansprakelijkheidsverzekering",
+          "hint": "Гражданская ответственность"
+        },
+        {
+          "nl": "Жизни",
+          "ru": "levensverzekering",
+          "hint": "Защита семьи"
+        },
+        {
+          "nl": "Правовая помощь",
+          "ru": "rechtsbijstandverzekering",
+          "hint": "Юридические расходы"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Банковская лексика",
+      "items": [
+        {
+          "question": "Я хочу открыть сберегательный счет."
+        },
+        {
+          "question": "Где ближайший банкомат?"
+        },
+        {
+          "question": "Сколько стоит международный перевод?"
+        },
+        {
+          "question": "Моя карта заблокирована."
+        },
+        {
+          "question": "Можно ли увеличить кредитный лимит?"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Способы оплаты",
+      "items": [
+        {
+          "question": "Покупка в супермаркете → _______"
+        },
+        {
+          "question": "Онлайн-заказ → _______"
+        },
+        {
+          "question": "Перевод другу → _______"
+        },
+        {
+          "question": "Оплата в ресторане → _______"
+        },
+        {
+          "question": "Покупка дома → _______"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Расчет ипотеки",
+      "items": [
+        {
+          "question": "Сколько максимум могут занять? (4,5 × доход)"
+        },
+        {
+          "question": "Сколько нужно собственных средств? (минимум 10%)"
+        },
+        {
+          "question": "Подходит ли им этот дом?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Планирование бюджета",
+      "content": "```\n50% - Необходимые расходы (жилье, еда, транспорт)\n30% - Желания (развлечения, хобби)\n20% - Сбережения и инвестиции\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Накопления и инвестии",
+      "words": [
+        {
+          "nl": "Сберегательный счет",
+          "ru": "spaarrekening",
+          "hint": "0.1-1%"
+        },
+        {
+          "nl": "Депозит",
+          "ru": "deposito",
+          "hint": "1-2%"
+        },
+        {
+          "nl": "Облигации",
+          "ru": "obligaties",
+          "hint": "2-4%"
+        },
+        {
+          "nl": "Акции",
+          "ru": "aandelen",
+          "hint": "5-10%"
+        },
+        {
+          "nl": "ETF фонды",
+          "ru": "ETF",
+          "hint": "4-8%"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Финансовые цели по возрасту",
+      "words": [
+        {
+          "nl": "20-30",
+          "ru": "Создание резерва, начало инвестиций"
+        },
+        {
+          "nl": "30-40",
+          "ru": "Ипотека, семейные накопления"
+        },
+        {
+          "nl": "40-50",
+          "ru": "Пенсионные накопления, образование детей"
+        },
+        {
+          "nl": "50+",
+          "ru": "Максимизация пенсии, снижение рисков"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Интернет-банкинг",
+      "words": [
+        {
+          "nl": "Баланс",
+          "ru": "saldo bekijken"
+        },
+        {
+          "nl": "Перевод",
+          "ru": "geld overmaken"
+        },
+        {
+          "nl": "История",
+          "ru": "transactiegeschiedenis"
+        },
+        {
+          "nl": "Заявка на карту",
+          "ru": "nieuwe pas aanvragen"
+        },
+        {
+          "nl": "Настройки",
+          "ru": "instellingen wijzigen"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Популярные финансовые приложения",
+      "words": [
+        {
+          "nl": "Tikkie",
+          "ru": "Быстрые переводы"
+        },
+        {
+          "nl": "Splitwise",
+          "ru": "Разделение счетов"
+        },
+        {
+          "nl": "YNAB",
+          "ru": "Планирование бюджета"
+        },
+        {
+          "nl": "Bux",
+          "ru": "Инвестиции"
+        },
+        {
+          "nl": "Bitcoin apps",
+          "ru": "Криптовалюты"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Финансовое поведение голландцев",
+      "content": "** Бережливость (Zuinigheid)**:\n- Голландцы известны своей экономностью\n- Ведут точный учет расходов\n- Предпочитают качественные долговечные вещи\n** Планирование**:\n- Долгосрочное финансовое планирование\n- Раннее начало пенсионных накоплений\n- Страхование рисков\n** Отношение к долгам**:\n- Ипотека - это инвестиция, а не долг\n- Избегание потребительских кредитов\n- Предпочтение накоплений займам"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые фразы урока",
+      "words": [
+        {
+          "nl": "Ik wil een rekening openen",
+          "ru": "Я хочу открыть счет"
+        },
+        {
+          "nl": "Hoeveel kost een overboeking?",
+          "ru": "Сколько стоит перевод?"
+        },
+        {
+          "nl": "Mijn pinpas is gestolen",
+          "ru": "Моя карта украдена"
+        },
+        {
+          "nl": "Ik wil geld beleggen",
+          "ru": "Я хочу инвестировать деньги"
+        },
+        {
+          "nl": "Wat zijn de hypotheekrentes?",
+          "ru": "Какие процентные ставки по ипотеке?"
+        },
+        {
+          "nl": "Ik heb financieel advies nodig",
+          "ru": "Мне нужен финансовый совет"
+        },
+        {
+          "nl": "Hoe werkt de belasting hier?",
+          "ru": "Как здесь работают налоги?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 28** (Работа и карьера): Зарплата поступает на банковский счет\n- **Урок 27** (Пассивный залог): \"Geld wordt overgemaakt\" (Деньги переводятся)"
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 30: Жилье и аренда (Wonen en huren)**\n- Поиск жилья в Нидерландах\n- Права арендаторов и арендодателей\n- Коммунальные услуги\n- Покупка недвижимости\n**Подготовка**: Подумайте о своих жилищных потребностях в Нидерландах!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-29.json"
+}

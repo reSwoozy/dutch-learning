@@ -1,0 +1,354 @@
+[
+  {
+    "nl": "nul",
+    "ru": "ноль",
+    "example": "Ik heb nul problemen.",
+    "pronunciation": "nʏl",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "een",
+    "ru": "один",
+    "example": "Ik wil een koffie.",
+    "pronunciation": "eːn",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "twee",
+    "ru": "два",
+    "example": "Ik heb twee broers.",
+    "pronunciation": "tʋeː",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "drie",
+    "ru": "три",
+    "example": "Het is drie uur.",
+    "pronunciation": "dri",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "vier",
+    "ru": "четыре",
+    "example": "Mijn dochter is vier jaar.",
+    "pronunciation": "vir",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "vijf",
+    "ru": "пять",
+    "example": "Om vijf uur ga ik naar huis.",
+    "pronunciation": "vɛi̯f",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "zes",
+    "ru": "шесть",
+    "example": "Zes dagen per week.",
+    "pronunciation": "zɛs",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "zeven",
+    "ru": "семь",
+    "example": "Om zeven uur eten we.",
+    "pronunciation": "ˈzeːvə(n)",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "acht",
+    "ru": "восемь",
+    "example": "Ik sta om acht uur op.",
+    "pronunciation": "ɑxt",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "negen",
+    "ru": "девять",
+    "example": "Het is negen minuten over drie.",
+    "pronunciation": "ˈneːɣə(n)",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "tien",
+    "ru": "десять",
+    "example": "Tien euro kosten die schoenen.",
+    "pronunciation": "tin",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "elf",
+    "ru": "одиннадцать",
+    "example": "Het is elf uur 's ochtends.",
+    "pronunciation": "ɛlf",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "twaalf",
+    "ru": "двенадцать",
+    "example": "Om twaalf uur lunch ik.",
+    "pronunciation": "tʋaːlf",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "dertien",
+    "ru": "тринадцать",
+    "example": "Mijn zoon is dertien jaar oud.",
+    "pronunciation": "dɛrˈtin",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "veertien",
+    "ru": "четырнадцать",
+    "example": "Veertien dagen geleden.",
+    "pronunciation": "veːrˈtin",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "vijftien",
+    "ru": "пятнадцать",
+    "example": "Kwart over drie is vijftien over drie.",
+    "pronunciation": "vɛi̯fˈtin",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "zestien",
+    "ru": "шестнадцать",
+    "example": "Zestien jaar oud worden.",
+    "pronunciation": "zɛsˈtin",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "zeventien",
+    "ru": "семнадцать",
+    "example": "Zeventien minuten te laat.",
+    "pronunciation": "zeːvə(n)ˈtin",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "achttien",
+    "ru": "восемнадцать",
+    "example": "Achttien jaar en volwassen.",
+    "pronunciation": "ɑxtˈtin",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "negentien",
+    "ru": "девятнадцать",
+    "example": "Negentien graden buiten.",
+    "pronunciation": "neːɣə(n)ˈtin",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "twintig",
+    "ru": "двадцать",
+    "example": "Twintig euro in mijn portemonnee.",
+    "pronunciation": "ˈtʋɪntəx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "dertig",
+    "ru": "тридцать",
+    "example": "Dertig minuten per dag sporten.",
+    "pronunciation": "ˈdɛrtəx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "veertig",
+    "ru": "сорок",
+    "example": "Veertig uur per week werken.",
+    "pronunciation": "ˈveːrtəx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "vijftig",
+    "ru": "пятьдесят",
+    "example": "Mijn moeder is vijftig jaar.",
+    "pronunciation": "ˈvɛi̯ftəx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "zestig",
+    "ru": "шестьдесят",
+    "example": "Zestig kilometer per uur rijden.",
+    "pronunciation": "ˈzɛstəx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "zeventig",
+    "ru": "семьдесят",
+    "example": "Zeventig procent van de mensen.",
+    "pronunciation": "ˈzeːvə(n)təx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "tachtig",
+    "ru": "восемьдесят",
+    "example": "Tachtig jaar oud worden.",
+    "pronunciation": "ˈtɑxtəx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "negentig",
+    "ru": "девяносто",
+    "example": "Negentig graden draaien.",
+    "pronunciation": "ˈneːɣə(n)təx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "honderd",
+    "ru": "сто",
+    "example": "Honderd euro uitgeven.",
+    "pronunciation": "ˈɦɔndərt",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "het uur",
+    "ru": "час",
+    "example": "Het duurt een uur.",
+    "pronunciation": "ɦət yːr",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "de minuut",
+    "ru": "минута",
+    "example": "Vijf minuten wachten.",
+    "pronunciation": "də miˈnyt",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "de tijd",
+    "ru": "время",
+    "example": "Heb je tijd voor koffie?",
+    "pronunciation": "də tɛi̯t",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "voor",
+    "ru": "до",
+    "example": "Kwart voor vijf.",
+    "pronunciation": "voːr",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "over",
+    "ru": "после",
+    "example": "Tien over drie.",
+    "pronunciation": "ˈoːvər",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "half",
+    "ru": "половина",
+    "example": "Half zes betekent vijf dertig.",
+    "pronunciation": "ɦɑlf",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "kwart",
+    "ru": "четверть",
+    "example": "Kwart over acht.",
+    "pronunciation": "kʋɑrt",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "vandaag",
+    "ru": "сегодня",
+    "example": "Vandaag is het maandag.",
+    "pronunciation": "vɑnˈdaːx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "maandag",
+    "ru": "понедельник",
+    "example": "Maandag begin ik met werken.",
+    "pronunciation": "ˈmaːndɑx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "dinsdag",
+    "ru": "вторник",
+    "example": "Dinsdag heb ik een afspraak.",
+    "pronunciation": "ˈdɪnsdɑx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "woensdag",
+    "ru": "среда",
+    "example": "Woensdag is de helft van de week.",
+    "pronunciation": "ˈʋunsdɑx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "donderdag",
+    "ru": "четверг",
+    "example": "Donderdag ga ik boodschappen doen.",
+    "pronunciation": "ˈdɔndərdɑx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "vrijdag",
+    "ru": "пятница",
+    "example": "Vrijdag is de laatste werkdag.",
+    "pronunciation": "ˈvrɛi̯dɑx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "zaterdag",
+    "ru": "суббота",
+    "example": "Zaterdag slaap ik uit.",
+    "pronunciation": "ˈzaːtərdɑx",
+    "level": "A1",
+    "lesson": 4
+  },
+  {
+    "nl": "zondag",
+    "ru": "воскресенье",
+    "example": "Zondag bezoek ik mijn ouders.",
+    "pronunciation": "ˈzɔndɑx",
+    "level": "A1",
+    "lesson": 4
+  }
+]

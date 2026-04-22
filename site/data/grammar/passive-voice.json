@@ -1,0 +1,85 @@
+{
+  "id": "passive-voice",
+  "title": "Пассивный залог",
+  "titleNL": "Lijdende vorm (passief)",
+  "level": "B1",
+  "summary": "Пассивный залог образуется с worden (процесс) или zijn (результат) + причастие. Используется, когда важно действие, а не кто его совершает.",
+  "rule": {
+    "formula": "Настоящее: worden + voltooid deelwoord | Прошедшее: werden + v.d. | Результат: zijn + v.d.",
+    "explanation": "worden-passief описывает процесс (действие совершается). zijn-passief описывает результат (действие уже совершено). Деятель вводится предлогом door.",
+    "whenToUse": [
+      "Процесс: Het huis wordt gebouwd. (Дом строится.)",
+      "Результат: Het huis is gebouwd. (Дом построен.)",
+      "Деятель неизвестен/неважен: Er wordt veel gefietst in Nederland.",
+      "Официальный стиль: De wet werd aangenomen."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Пассив с worden (процесс)",
+      "headers": ["Время", "Формула", "Пример"],
+      "rows": [
+        ["Настоящее", "word(t/en) + v.d.", "Het boek wordt gelezen."],
+        ["Прошедшее (OVT)", "werd(en) + v.d.", "Het boek werd gelezen."],
+        ["Perfectum", "is/zijn + v.d.", "Het boek is gelezen."],
+        ["Plusquamperfectum", "was/waren + v.d.", "Het boek was gelezen."]
+      ]
+    },
+    {
+      "title": "Спряжение worden",
+      "headers": ["Лицо", "Настоящее", "Прошедшее"],
+      "rows": [
+        ["ik", "word", "werd"],
+        ["jij/je", "wordt", "werd"],
+        ["hij/zij/het", "wordt", "werd"],
+        ["wij/we", "worden", "werden"],
+        ["jullie", "worden", "werden"],
+        ["zij/ze", "worden", "werden"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "worden vs zijn в пассиве",
+      "items": [
+        "worden = процесс: Het huis wordt nu gebouwd. (Дом сейчас строится.)",
+        "zijn = результат: Het huis is al gebouwd. (Дом уже построен.)",
+        "В perfectum пассива worden исчезает: Het huis is gebouwd. (не: Het huis is geworden gebouwd.)"
+      ]
+    },
+    {
+      "title": "Безличный пассив с er",
+      "items": [
+        "Когда нет конкретного подлежащего: Er wordt hier veel gefietst.",
+        "Er wordt geklopt. (Стучат.)",
+        "Er werd gelachen. (Смеялись.)"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Het eten wordt door de kok bereid.", "ru": "Еда готовится поваром." },
+    { "nl": "De brief werd gisteren verstuurd.", "ru": "Письмо было отправлено вчера." },
+    { "nl": "De deur is gesloten.", "ru": "Дверь закрыта. (результат)" },
+    { "nl": "Er wordt in Nederland veel gefietst.", "ru": "В Нидерландах много ездят на велосипеде." },
+    { "nl": "Het museum wordt door veel toeristen bezocht.", "ru": "Музей посещается многими туристами." },
+    { "nl": "De wet werd door het parlement aangenomen.", "ru": "Закон был принят парламентом." }
+  ],
+  "exceptions": [
+    "В perfectum пассива worden не используется: Het is gebouwd (не: Het is geworden gebouwd)",
+    "Не все глаголы могут быть в пассиве: непереходные глаголы (без прямого дополнения) -- только безличный пассив с er",
+    "door = кем (деятель): door de politie, door mijn moeder"
+  ],
+  "commonMistakes": [
+    { "wrong": "Het huis is geworden gebouwd.", "correct": "Het huis is gebouwd.", "why": "В perfectum пассива worden исчезает" },
+    { "wrong": "Het boek wordt gelezen bij mij.", "correct": "Het boek wordt door mij gelezen.", "why": "Деятель вводится предлогом door (не bij)" },
+    { "wrong": "De deur wordt gesloten. (результат)", "correct": "De deur is gesloten.", "why": "Для результата используется zijn, не worden" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Het eten __ door de kok bereid. (настоящее, процесс)", "answer": "wordt", "explanation": "Настоящее пассив: wordt + v.d." },
+    { "type": "fill-blank", "sentence": "De brief __ gisteren verstuurd. (прошедшее)", "answer": "werd", "explanation": "Прошедшее пассив: werd + v.d." },
+    { "type": "choice", "question": "De deur __ gesloten. (результат)", "options": ["wordt", "is", "werd"], "answer": "is", "explanation": "Результат -> zijn-passief" },
+    { "type": "fill-blank", "sentence": "Er __ hier veel __. (fietsen, безличный пассив)", "answer": "wordt ... gefietst", "explanation": "Безличный пассив: er wordt + v.d." }
+  ],
+  "relatedTopics": ["perfectum", "past-simple", "er-construction", "word-order", "ipp-double-infinitive"],
+  "inLessons": [27, 36, 41]
+}

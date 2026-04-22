@@ -1,0 +1,31 @@
+{
+  "id": "argumentatief-b2",
+  "title": "Argumentatieve tekst (B2)",
+  "titleRu": "Аргументативный текст (B2)",
+  "level": "B2",
+  "type": "model",
+  "description": "Текст-рассуждение: тезис, аргументы «за» и «против», вывод. Используется в экзамене NT2 II и в академическом контексте.",
+  "structure": [
+    {"title": "Inleiding", "note": "Введите тему и сформулируйте тезис (stelling)."},
+    {"title": "Argumenten voor", "note": "2–3 аргумента 'за' с примерами."},
+    {"title": "Argumenten tegen", "note": "2–3 контраргумента, желательно с ответом на них (weerlegging)."},
+    {"title": "Eigen standpunt", "note": "Свою позицию и её обоснование."},
+    {"title": "Conclusie", "note": "Короткое резюме + вывод."}
+  ],
+  "phrases": [
+    "In de discussie over ... wordt regelmatig gesteld dat...",
+    "Enerzijds..., anderzijds...",
+    "Een belangrijk argument vóór ... is dat...",
+    "Tegenstanders wijzen echter op...",
+    "Hoewel ik dit argument begrijp, meen ik dat...",
+    "Al met al ben ik van mening dat...",
+    "Samenvattend kan worden gesteld dat..."
+  ],
+  "model": "STELLING: Het openbaar vervoer in Nederland moet voor iedereen onder de 18 jaar gratis zijn.\n\nMODEL (ca. 250 woorden):\n\nDe vraag of het openbaar vervoer voor jongeren onder de achttien jaar gratis zou moeten zijn, houdt de gemoederen de laatste jaren bezig. Voorstanders zien hierin een manier om kansengelijkheid te vergroten; tegenstanders vrezen voor de kosten en het effect op andere reizigers. In deze tekst zet ik de belangrijkste argumenten op een rij en kom ik tot een eigen standpunt.\n\nEen belangrijk argument vóór gratis openbaar vervoer voor jongeren is dat het de toegang tot onderwijs, stage en vrijetijdsactiviteiten vergroot. Met name jongeren uit gezinnen met een smalle beurs kunnen hierdoor meer mogelijkheden benutten. Daarnaast zou het de drukte op scholen-fietspaden verminderen en de luchtkwaliteit in steden ten goede komen.\n\nTegenstanders wijzen echter op de financiële gevolgen. Gratis reizen voor een grote groep betekent een substantiële uitgave, die uiteindelijk door de belastingbetaler of door andere reizigers gedragen moet worden. Ook bestaat de vrees dat de treinen en bussen in de spits nog voller worden, wat de reiservaring voor werkenden verslechtert.\n\nHoewel ik deze bezwaren serieus neem, weegt voor mij het belang van kansengelijkheid zwaarder. Gratis reizen hoeft bovendien niet volledig te zijn: men zou kunnen kiezen voor een regeling buiten de spits, of kinderen uit gezinnen tot een bepaald inkomen. Zo wordt het effect maximaal, terwijl de kosten beheersbaar blijven.\n\nSamenvattend ben ik van mening dat gratis openbaar vervoer voor jongeren een waardevol instrument is, mits de regeling slim wordt vormgegeven. De investering betaalt zich op termijn terug in bredere maatschappelijke participatie.",
+  "tips": [
+    "Чёткая структура важнее красивых слов: один параграф = одна мысль.",
+    "Аргумент = утверждение + обоснование + пример.",
+    "Избегайте 'ik vind' в каждом предложении — используйте 'naar mijn mening', 'gelet op... meen ik dat...'.",
+    "Контраргумент и его опровержение повышают оценку по 'inhoud' и 'woordgebruik'."
+  ]
+}

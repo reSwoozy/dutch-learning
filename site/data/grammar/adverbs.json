@@ -1,0 +1,132 @@
+{
+  "id": "adverbs",
+  "title": "Наречия и их позиция",
+  "titleNL": "Bijwoorden",
+  "level": "A2",
+  "summary": "Наречие уточняет глагол, прилагательное или другое наречие. В нидерландском наречие по форме часто совпадает с предикативным прилагательным (snel, goed, mooi). Ключевое — порядок нескольких наречий в предложении: TMP (tijd — manier — plaats).",
+  "rule": {
+    "formula": "Средняя часть предложения: Tijd → Manier → Plaats (TMP) | naречие-частотности перед глаголом смысловым | niet после прямого дополнения с de/het",
+    "explanation": "Нидерландские наречия не получают окончания (как в русском). Если в предложении несколько обстоятельств, они идут в порядке Время — Образ действия — Место. Наречия-частотности (vaak, altijd, nooit, soms) стоят перед смысловым глаголом и после спрягаемого. Наречия степени (heel, erg, zo, te) — перед прилагательным/наречием, которое они уточняют.",
+    "whenToUse": [
+      "Время: gisteren, vandaag, morgen, nu, straks, meteen, vroeg, laat.",
+      "Образ действия: snel, langzaam, goed, slecht, hard, rustig, graag.",
+      "Место: hier, daar, thuis, buiten, beneden, overal, ergens.",
+      "Частотность: altijd, vaak, meestal, soms, zelden, nooit.",
+      "Степень: heel, erg, zo, te, nogal, vrij, behoorlijk.",
+      "Модальность: misschien, waarschijnlijk, helaas, gelukkig, natuurlijk."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Основные типы наречий",
+      "headers": ["Тип", "Примеры", "Отвечает на вопрос"],
+      "rows": [
+        ["Времени (tijd)", "nu, gisteren, morgen, straks, vroeg, laat", "wanneer?"],
+        ["Образа действия (manier)", "snel, goed, hard, graag, samen, alleen", "hoe?"],
+        ["Места (plaats)", "hier, daar, thuis, buiten, overal, ergens, nergens", "waar?"],
+        ["Частотности", "altijd, vaak, meestal, soms, zelden, nooit", "hoe vaak?"],
+        ["Степени", "heel, erg, zo, te, nogal, vrij", "in welke mate?"],
+        ["Модальности", "misschien, helaas, gelukkig, natuurlijk, eigenlijk", "отношение говорящего"]
+      ]
+    },
+    {
+      "title": "Правило TMP: порядок нескольких наречий",
+      "headers": ["Подлежащее", "Глагол", "Tijd (когда)", "Manier (как)", "Plaats (где/куда)"],
+      "rows": [
+        ["Ik", "ga", "morgen", "met de trein", "naar Amsterdam."],
+        ["Zij", "werkt", "elke dag", "hard", "op kantoor."],
+        ["Wij", "fietsen", "'s ochtends", "graag", "door het park."],
+        ["Hij", "heeft", "gisteren", "snel", "naar huis gebeld."]
+      ]
+    },
+    {
+      "title": "Позиция наречий-частотности",
+      "headers": ["С одним глаголом", "С двумя глаголами", "В придаточном"],
+      "rows": [
+        ["Ik drink altijd koffie.", "Ik heb altijd koffie gedronken.", "...dat ik altijd koffie drink."],
+        ["Hij komt nooit te laat.", "Hij is nooit te laat gekomen.", "...omdat hij nooit te laat komt."],
+        ["Wij eten soms vis.", "Wij hebben soms vis gegeten.", "...dat wij soms vis eten."]
+      ]
+    },
+    {
+      "title": "Прилагательное vs наречие (одна форма)",
+      "headers": ["Форма", "Как прилагательное", "Как наречие"],
+      "rows": [
+        ["snel", "een snelle auto (быстрая машина)", "Hij rijdt snel. (едет быстро)"],
+        ["goed", "een goede film (хороший фильм)", "Zij spreekt goed. (говорит хорошо)"],
+        ["hard", "een harde stoel (жёсткий стул)", "Hij werkt hard. (много работает)"],
+        ["mooi", "een mooie dag (красивый день)", "Zij zingt mooi. (поёт красиво)"]
+      ]
+    },
+    {
+      "title": "graag / liever / het liefst",
+      "headers": ["Степень", "Значение", "Пример"],
+      "rows": [
+        ["graag", "охотно, с удовольствием", "Ik drink graag thee."],
+        ["liever", "скорее, предпочтительнее", "Ik drink liever koffie."],
+        ["het liefst", "больше всего", "Ik drink het liefst water."]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Место 'niet' и наречия",
+      "items": [
+        "niet обычно идёт ПЕРЕД наречием образа действия и места, если отрицает всё предложение: Ik ga niet snel naar huis.",
+        "Если niet отрицает именно наречие — сразу перед ним с контрастом: Hij werkt niet hard, maar slim.",
+        "Наречия частотности (nooit, altijd) сами по себе — отрицательные/усиливающие, с niet не комбинируются: 'Ik ga nooit' (не 'Ik ga niet nooit')."
+      ]
+    },
+    {
+      "title": "Наречия степени перед прилагательным/наречием",
+      "items": [
+        "heel + прил.: heel mooi, heel snel (очень).",
+        "erg + прил.: erg leuk, erg goed (очень; чуть разговорнее).",
+        "zo + прил.: zo groot, zo snel (так, настолько).",
+        "te + прил.: te duur, te laat (слишком — см. отдельную тему 'te + прилагательное').",
+        "nogal / vrij + прил.: nogal koud, vrij goed (довольно, скорее)."
+      ]
+    },
+    {
+      "title": "Модальные наречия в 1-й позиции = инверсия",
+      "items": [
+        "Misschien kom ik later. (может быть, я приду позже) — инверсия после misschien.",
+        "Helaas kan hij niet komen. (к сожалению...) — то же.",
+        "Natuurlijk doe ik dat. (конечно, сделаю) — то же правило V2."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik ga morgen met de bus naar school.", "ru": "Я завтра еду на автобусе в школу. (TMP: tijd → manier → plaats)" },
+    { "nl": "Zij spreekt heel goed Nederlands.", "ru": "Она очень хорошо говорит по-нидерландски." },
+    { "nl": "Hij komt altijd te laat op het werk.", "ru": "Он всегда опаздывает на работу." },
+    { "nl": "Misschien regent het morgen.", "ru": "Возможно, завтра будет дождь. (инверсия после misschien)" },
+    { "nl": "Ik drink liever thee dan koffie.", "ru": "Я предпочитаю чай кофе." },
+    { "nl": "Wij hebben gisteren rustig thuis gegeten.", "ru": "Мы вчера спокойно поели дома." },
+    { "nl": "Helaas kan ik niet komen.", "ru": "К сожалению, я не могу прийти." },
+    { "nl": "Hij rijdt te snel in de stad.", "ru": "Он ездит слишком быстро в городе." }
+  ],
+  "exceptions": [
+    "Некоторые прилагательные на -lijk имеют наречное значение без изменения: natuurlijk, persoonlijk, eerlijk.",
+    "'goed' как наречие — не меняется; как прилагательное перед сущ. получает -e: een goede vriend vs ik voel me goed.",
+    "Формы 'graag/liever/het liefst' — сравнительная система наречий без стандартных суффиксов -er/-st.",
+    "В разговорной речи allowed 'ook' занимает свою позицию: Ik heb dat ook gezien (после спрягаемого глагола)."
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik ga naar Amsterdam morgen met de trein.", "correct": "Ik ga morgen met de trein naar Amsterdam.", "why": "Порядок TMP: сначала время, потом образ действия, потом место." },
+    { "wrong": "Ik altijd drink koffie.", "correct": "Ik drink altijd koffie.", "why": "Частотное наречие идёт ПОСЛЕ спрягаемого глагола, не перед ним." },
+    { "wrong": "Zij spreekt Nederlands heel goed.", "correct": "Zij spreekt heel goed Nederlands.", "why": "Наречие образа действия обычно идёт перед дополнением без артикля, особенно если оно с усилителем." },
+    { "wrong": "Misschien ik kom later.", "correct": "Misschien kom ik later.", "why": "После модального наречия в 1-й позиции — инверсия (правило V2)." },
+    { "wrong": "Hij werkt hardly. (англ.)", "correct": "Hij werkt hard.", "why": "Нидерландское наречие не получает суффикса; 'hard' используется и как прил., и как наречие." }
+  ],
+  "exercises": [
+    { "type": "word-order", "words": ["ik", "morgen", "met", "de", "bus", "ga", "naar", "school"], "answer": "Ik ga morgen met de bus naar school.", "explanation": "TMP: morgen (T) → met de bus (M) → naar school (P)." },
+    { "type": "choice", "question": "Правильный порядок: Hij werkt ___.", "options": ["elke dag hard op kantoor", "hard elke dag op kantoor", "op kantoor hard elke dag"], "answer": "elke dag hard op kantoor", "explanation": "TMP: tijd (elke dag) → manier (hard) → plaats (op kantoor)." },
+    { "type": "fill-blank", "sentence": "Ik drink ___ thee dan koffie. (предпочитаю)", "answer": "liever", "explanation": "graag → liever → het liefst — сравнительная степень наречия." },
+    { "type": "choice", "question": "___ regent het morgen.", "options": ["Ik misschien", "Misschien ik", "Misschien"], "answer": "Misschien", "explanation": "Модальное наречие на 1-й позиции + инверсия: 'Misschien regent het morgen.'" },
+    { "type": "fill-blank", "sentence": "Hij komt ___ te laat. (никогда не опаздывает)", "answer": "nooit", "explanation": "'nooit' уже несёт отрицание, 'niet' не нужно." },
+    { "type": "choice", "question": "'Zij zingt ___.'", "options": ["mooie", "mooi"], "answer": "mooi", "explanation": "Наречие — без -e; прилагательное после 'zijn' тоже без -e (предикативно)." }
+  ],
+  "relatedTopics": ["word-order", "comparatives", "negation", "te-adjective"],
+  "inLessons": [13, 15, 19, 20]
+}

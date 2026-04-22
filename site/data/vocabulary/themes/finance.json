@@ -1,0 +1,402 @@
+{
+  "title": "Geld & financiën",
+  "level": "B1",
+  "tags": [
+    "bank",
+    "belasting",
+    "sparen",
+    "toeslagen"
+  ],
+  "words": [
+    {
+      "nl": "de betaalrekening",
+      "ru": "текущий счёт",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de spaarrekening",
+      "ru": "сберегательный счёт",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de en-of-rekening",
+      "ru": "совместный счёт",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de zakelijke rekening",
+      "ru": "бизнес-счёт",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "het saldo",
+      "ru": "остаток",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "het negatief saldo",
+      "ru": "минус на счёте",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "het rood staan",
+      "ru": "быть в минусе",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de roodstandlimiet",
+      "ru": "лимит овердрафта",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de overboeking",
+      "ru": "перевод",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de spoedoverboeking",
+      "ru": "срочный перевод",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de iDEAL-betaling",
+      "ru": "платёж iDEAL",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de SEPA-incasso",
+      "ru": "SEPA-автоплатёж",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de storno",
+      "ru": "отзыв платежа",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de machtiging intrekken",
+      "ru": "отозвать разрешение на списание",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de contante betaling",
+      "ru": "оплата наличными",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de contactloos betalen",
+      "ru": "бесконтактная оплата",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de portemonnee-app",
+      "ru": "платёжное приложение",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de tikkie",
+      "ru": "запрос на оплату (Tikkie)",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de transactiehistorie",
+      "ru": "история операций",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "het afschrift",
+      "ru": "банковская выписка",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de spaardoel",
+      "ru": "цель накоплений",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de noodpot",
+      "ru": "финансовая подушка",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de beleggingsrekening",
+      "ru": "инвестиционный счёт",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "het beleggingsfonds",
+      "ru": "инвестиционный фонд",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de indextracker",
+      "ru": "индексный фонд",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de ETF",
+      "ru": "ETF",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de obligatie",
+      "ru": "облигация",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de dividend",
+      "ru": "дивиденд",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "het rendement",
+      "ru": "доходность",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de inflatie",
+      "ru": "инфляция",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de koopkrachtdaling",
+      "ru": "падение покупательной способности",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de vermogensrendementsheffing",
+      "ru": "налог на капитал (box 3)",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de box 1",
+      "ru": "налоговый бокс 1 (доход от труда)",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de box 2",
+      "ru": "налоговый бокс 2 (крупные доли)",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de box 3",
+      "ru": "налоговый бокс 3 (сбережения)",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de heffingskorting",
+      "ru": "налоговый вычет",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de arbeidskorting",
+      "ru": "налоговый вычет за труд",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de algemene heffingskorting",
+      "ru": "общий налоговый вычет",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de fiscale partner",
+      "ru": "налоговый партнёр",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de IB47",
+      "ru": "справка IB47",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de jaaropgave",
+      "ru": "годовая справка о зарплате",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de loonstrook",
+      "ru": "расчётный листок",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de voorlopige aanslag",
+      "ru": "предварительное налоговое извещение",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de definitieve aanslag",
+      "ru": "окончательное извещение",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de teruggaaf",
+      "ru": "возврат налога",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de toeslagen aanvragen",
+      "ru": "запросить пособия (Toeslagen)",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de huurtoeslag",
+      "ru": "жилищная надбавка",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de zorgtoeslag",
+      "ru": "медицинская надбавка",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de kinderopvangtoeslag",
+      "ru": "надбавка на детский сад",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "het kindgebonden budget",
+      "ru": "детский бюджет",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de bijstand",
+      "ru": "социальное пособие",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de participatiewet",
+      "ru": "закон об участии",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de individuele inkomenstoeslag",
+      "ru": "индивидуальная доплата к доходу",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de bijzondere bijstand",
+      "ru": "особая материальная помощь",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de voedselbank",
+      "ru": "продовольственный банк",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de kwijtschelding",
+      "ru": "освобождение от платежа",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de betalingsregeling",
+      "ru": "договорённость о рассрочке",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de schuldsanering",
+      "ru": "реструктуризация долгов",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de spaarhypotheek",
+      "ru": "сберегательная ипотека",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de annuïteitenhypotheek",
+      "ru": "аннуитетная ипотека",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de crowdfunding",
+      "ru": "краудфандинг",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de crowdlending",
+      "ru": "крауд-кредитование",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de cryptowallet",
+      "ru": "криптокошелёк",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de duurzaam beleggen",
+      "ru": "устойчивое инвестирование",
+      "level": "B1",
+      "theme": "finance"
+    },
+    {
+      "nl": "de ESG-criteria",
+      "ru": "ESG-критерии",
+      "level": "B1",
+      "theme": "finance"
+    }
+  ]
+}

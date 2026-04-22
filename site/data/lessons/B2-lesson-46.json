@@ -1,0 +1,71 @@
+{
+  "id": "B2-lesson-46",
+  "num": 46,
+  "level": "B2",
+  "title": "Интегрированные задания",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Интегрированные задания",
+      "content": "Выполнять интегрированные задания: аудирование → краткий конспект → письмо/выступление с опорой на услышанное. Управлять временем и структурой ответа.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "grammar",
+      "title": "Стратегии и тайминг",
+      "content": "- 1) Предпросмотр вопросов (1–2 мин)\n- 2) Прослушивание с опорами (5 мин) — ключевые слова/цифры\n- 3) План ответа (2 мин) — тезисы + связки\n- 4) Письмо/монолог (5–6 мин) — ввод/ядро/вывод\nШаблон письма/выступления: Context → Doel → Kern (3 тезиса с «bovendien/echter/zodat») → Conclusie (kortom)\n---"
+    },
+    {
+      "type": "text",
+      "title": "Пример задания",
+      "content": "Слушайте отрывок и напишите 100–120 слов:\n- Подведите итог, укажите 2–3 ключевые факта и одно последствие.\n- Используйте signaalwoorden и формальный регистр."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Structureer een antwoord",
+      "content": "Zet de volgende zinnen in de juiste volgorde (Context → Kern → Conclusie):\na) Kortom, investeren in duurzame energie is noodzakelijk.\nb) Het rapport beschrijft de energietransitie in Nederland.\nc) Ten eerste zijn de kosten van zonne-energie gedaald; bovendien stijgt de vraag.\nd) Echter, de infrastructuur moet worden aangepast.\n<details>\n<summary>Ответ</summary>\nb → c → d → a (Context → Argument 1 → Contrast → Conclusie)\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Schrijf een mini-essay (100 woorden)",
+      "content": "Onderwerp: \"Moet thuiswerken de norm worden?\"\nGebruik het sjabloon:\n- Context (1-2 zinnen): situatie na corona\n- Kern (3-4 zinnen): ten eerste..., bovendien..., echter...\n- Conclusie (1-2 zinnen): kortom/samenvattend..."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Вставь правильные слова",
+      "items": [
+        {
+          "question": "__ de vergrijzing neemt de druk op de zorg toe. (причина)"
+        },
+        {
+          "question": "De overheid investeert meer, __ de wachtlijsten te verkorten. (цель)"
+        },
+        {
+          "question": "De resultaten zijn positief; __ blijven er uitdagingen. (контраст)",
+          "answers": [
+            "1. Doordat / Door",
+            "2. om ... te (цель)",
+            "3. echter / desondanks"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 4: Monoloog (90 seconden)",
+      "content": "Bereid een monoloog voor over: \"De voordelen en nadelen van sociale media.\"\n- Gebruik: ten eerste, bovendien, echter, kortom\n- Noem minstens 2 voordelen en 2 nadelen"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 5: Чек-лист самопроверки",
+      "content": "Na je essay/monoloog, controleer:\n- [ ] Duidelijke structuur (inleiding-kern-slot)?\n- [ ] Minstens 4 signaalwoorden gebruikt?\n- [ ] Formeel register (geen spreektaal)?\n- [ ] Argumenten onderbouwd met voorbeelden?\n- [ ] Conclusie sluit aan bij de kern?"
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- geïntegreerde taak — интегрированное задание\n- notities maken — делать заметки\n- tijdmanagement — тайм‑менеджмент\n- signaalwoorden — сигнальные слова\n- kern/hoofdgedachte — ядро/главная мысль\n- gevolg/oorzaak — следствие/причина\n- argumentatie — аргументация\n- structuur — структура\n- register — регистр\n- evaluatiecriteria — критерии оценки\n- samenvatten — резюмировать\n- onderbouwen — обосновывать\n- uitwerken — раскрывать (тезис)\n- relevant — релевантный\n- bondig — лаконичный\n- coherent — связный\n- consistent — согласованный\n- tempo — темп\n- articulatie — артикуляция\n- intonatie — интонация\n- spreekduur — длительность выступления\n- afsluiting — завершение\n- herzien — пересматривать (текст)"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-46.json"
+}

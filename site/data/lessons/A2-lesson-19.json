@@ -1,0 +1,213 @@
+{
+  "id": "A2-lesson-19",
+  "num": 19,
+  "level": "A2",
+  "title": "Сравнения и степени сравнения",
+  "minutes": 15,
+  "objectives": [
+    "Сравнивать предметы, людей и явления",
+    "Использовать степени сравнения прилагательных",
+    "Выражать равенство и неравенство",
+    "Говорить о предпочтениях и выборе",
+    "Понимать голландские культурные сравнения"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Сравнения и степени сравнения",
+      "content": "**Уровень**: A2 Элементарный | **Время**: 15 минут | **День**: 19 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Сравнивать предметы, людей и явления\n- Использовать степени сравнения прилагательных\n- Выражать равенство и неравенство\n- Говорить о предпочтениях и выборе\n- Понимать голландские культурные сравнения"
+    },
+    {
+      "type": "text",
+      "title": "Фаза 1: Основы сравнения (4 минуты)",
+      "content": "**Три степени сравнения**:\n#### Положительная степень (gewone trap):\n**Базовая форма прилагательного**:\n- **groot** - большой\n- **klein** - маленький\n- **mooi** - красивый\n- **duur** - дорогой\n#### Сравнительная степень (vergrotende trap):\n**Формула**: прилагательное + **-er**\n- **groot** → **groter** - больше\n- **klein** → **kleiner** - меньше\n- **mooi** → **mooier** - красивее\n- **duur** → **duurder** - дороже\n#### Превосходная степень (overtreffende trap):\n**Формула**: **het** + прилагательное + **-st(e)**\n- **groot** → **het grootst(e)** - самый большой\n- **klein** → **het kleinst(e)** - самый маленький\n- **mooi** → **het mooiste** - самый красивый\n- **duur** → **het duurst(e)** - самый дорогой"
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 2: Конструкции сравнения (5 минут)",
+      "content": "**Способы сравнения**:\n#### DAN - \"чем\" (неравенство):\n#### ALS - \"как\" (равенство):\n#### EVEN...ALS - \"одинаково\":",
+      "examples": [
+        {
+          "nl": "Amsterdam is groter dan Utrecht",
+          "ru": "Амстердам больше Утрехта"
+        },
+        {
+          "nl": "Deze auto is duurder dan die",
+          "ru": "Эта машина дороже той"
+        },
+        {
+          "nl": "Hij is jonger dan zijn broer",
+          "ru": "Он младше своего брата"
+        },
+        {
+          "nl": "Deze tas is net zo duur als die",
+          "ru": "Эта сумка такая же дорогая как та"
+        },
+        {
+          "nl": "Ik ben zo groot als jij",
+          "ru": "Я такой же высокий как ты"
+        },
+        {
+          "nl": "Het weer is even slecht als gisteren",
+          "ru": "Погода такая же плохая как вчера"
+        },
+        {
+          "nl": "Hij is even slim als zij",
+          "ru": "Он такой же умный как она"
+        },
+        {
+          "nl": "Deze koffie is even lekker als die",
+          "ru": "Этот кофе такой же вкусный как тот"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Неправильные сравнения (4 минуты)",
+      "words": [
+        {
+          "nl": "goed",
+          "ru": "beter",
+          "hint": "хороший"
+        },
+        {
+          "nl": "veel",
+          "ru": "meer",
+          "hint": "много"
+        },
+        {
+          "nl": "weinig",
+          "ru": "minder",
+          "hint": "мало"
+        },
+        {
+          "nl": "graag",
+          "ru": "liever",
+          "hint": "охотно"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "1. Правила образования сравнительной степени",
+      "content": "#### Стандартное добавление -er:\n- **jong** → **jonger** (молодой → моложе)\n- **oud** → **ouder** (старый → старше)\n- **snel** → **sneller** (быстрый → быстрее)\n#### Удвоение согласной:\n- **groot** → **groter** (не **grooter**)\n- **dik** → **dikker** (толстый → толще)\n- **nat** → **natter** (мокрый → мокрее)\n#### Изменение гласной:\n- **ver** → **verder** (далекий → дальше)"
+    },
+    {
+      "type": "grammar",
+      "title": "2. Правила образования превосходной степени",
+      "content": "#### Стандартное добавление -st:\n- **jong** → **het jongst** / **jongste**\n- **mooi** → **het mooist** / **mooiste**\n#### С определенным артиклем:",
+      "examples": [
+        {
+          "nl": "de jongste man",
+          "ru": "самый молодой мужчина"
+        },
+        {
+          "nl": "het mooiste huis",
+          "ru": "самый красивый дом"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "3. Особые конструкции",
+      "content": "#### Hoe + сравнительная степень + hoe + сравнительная степень:\n---",
+      "examples": [
+        {
+          "nl": "Hoe ouder, hoe wijzer",
+          "ru": "Чем старше, тем мудрее"
+        },
+        {
+          "nl": "Hoe meer, hoe beter",
+          "ru": "Чем больше, тем лучше"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Размеры и количество:",
+      "content": "- **groot/klein** - большой/маленький\n- **lang/kort** - длинный/короткий\n- **breed/smal** - широкий/узкий\n- **hoog/laag** - высокий/низкий\n- **veel/weinig** - много/мало"
+    },
+    {
+      "type": "text",
+      "title": "Качества:",
+      "content": "- **goed/slecht** - хороший/плохой\n- **mooi/lelijk** - красивый/некрасивый\n- **nieuw/oud** - новый/старый\n- **schoon/vies** - чистый/грязный\n- **makkelijk/moeilijk** - легкий/трудный"
+    },
+    {
+      "type": "text",
+      "title": "Цены и стоимость:",
+      "content": "- **duur/goedkoop** - дорогой/дешевый\n- **waardevol** - ценный\n- **gratis** - бесплатный"
+    },
+    {
+      "type": "text",
+      "title": "Время и скорость:",
+      "content": "- **snel/langzaam** - быстрый/медленный\n- **vroeg/laat** - ранний/поздний"
+    },
+    {
+      "type": "culture",
+      "title": "Сравнения в голландской культуре",
+      "content": "Понимание того, как голландцы делают сравнения:\n**Прямота в сравнениях**:\n- Голландцы очень прямолинейны в оценках\n- **\"Dit is beter\"** - говорят без обиняков\n- Не боятся сравнивать людей и вещи открыто\n**Практичность превыше всего**:\n- **\"Goedkoper is beter\"** - дешевле значит лучше\n- **\"Functioneler\"** - более функциональный (важное качество)\n- **\"Efficiënter\"** - более эффективный\n**Известные голландские сравнения**:\n- **\"Zo Dutch als kaas\"** - типично голландский как сыр\n- **\"Beter een vogel in de hand dan tien in de lucht\"** - лучше синица в руках\n- **\"Hoe meer zielen, hoe meer vreugd\"** - чем больше людей, тем веселее\n**В деловой среде**:\n- Постоянно сравнивают эффективность\n- **\"Cost-effective\"** - затратоэффективный\n- **\"Meer rendabel\"** - более прибыльный\n**Для интеграции**: Умение делать четкие сравнения поможет в работе и повседневной жизни в Нидерландах."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Степени сравнения",
+      "items": [
+        {
+          "question": "**mooi** → _______ → _______"
+        },
+        {
+          "question": "**goed** → _______ → _______"
+        },
+        {
+          "question": "**duur** → _______ → _______"
+        },
+        {
+          "question": "**groot** → _______ → _______"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 2: Выбор конструкции",
+      "content": "Выбери правильную конструкцию (dan/als):\n1. Deze auto is sneller _____ die auto.\n2. Mijn huis is net zo groot _____ jouw huis.\n3. Amsterdam is groter _____ Utrecht.\n4. Koffie is even lekker _____ thee."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Практические сравнения",
+      "items": [
+        {
+          "question": "iPhone vs Samsung (дороже)"
+        },
+        {
+          "question": "Велосипед vs машина (быстрее)"
+        },
+        {
+          "question": "Лето vs зима (теплее)"
+        },
+        {
+          "question": "Амстердам vs Москва (меньше)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "В супермаркете:",
+      "content": "- **Deze appels zijn zoeter dan die** - Эти яблоки слаще тех\n- **Welke melk is het goedkoopst?** - Какое молоко самое дешевое?\n- **Bio producten zijn duurder** - Био продукты дороже"
+    },
+    {
+      "type": "text",
+      "title": "При выборе дома:",
+      "content": "- **Deze wijk is rustiger** - Этот район спокойнее\n- **Verder van het centrum, maar goedkoper** - Дальше от центра, но дешевле\n- **Het grootste balkon** - Самый большой балкон"
+    },
+    {
+      "type": "text",
+      "title": "О погоде:",
+      "content": "- **Vandaag is warmer dan gisteren** - Сегодня теплее чем вчера\n- **De winter is kouder dan de herfst** - Зима холоднее осени\n- **Het mooiste weer** - Самая лучшая погода"
+    }
+  ],
+  "vocabularyFile": "A2-lesson-19.json"
+}

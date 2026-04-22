@@ -1,0 +1,250 @@
+[
+  {
+    "nl": "huisarts",
+    "ru": "семейный врач",
+    "example": "Ik ga naar de huisarts.",
+    "pronunciation": "HOYS-arts",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "ziekenhuis",
+    "ru": "больница",
+    "example": "Het ziekenhuis is groot.",
+    "pronunciation": "ZEE-ken-hoys",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "dokter",
+    "ru": "врач",
+    "example": "De dokter onderzoekt mij.",
+    "pronunciation": "DOK-ter",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "specialist",
+    "ru": "специалист",
+    "example": "Ik heb een afspraak met een specialist.",
+    "pronunciation": "speh-see-ah-LIST",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "patiënt",
+    "ru": "пациент",
+    "example": "De patiënt wacht in de wachtkamer.",
+    "pronunciation": "pa-see-ENT",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "zorgverzekering",
+    "ru": "медицинская страховка",
+    "example": "Zorgverzekering is verplicht.",
+    "pronunciation": "ZORKHD-ver-zeh-ke-ring",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "eigen risico",
+    "ru": "собственный риск",
+    "example": "Mijn eigen risico is €385.",
+    "pronunciation": "EY-khen ri-ZEE-ko",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "basispakket",
+    "ru": "базовый пакет",
+    "example": "Het basispakket dekt veel zorg.",
+    "pronunciation": "BAH-sis-pa-ket",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "apotheek",
+    "ru": "аптека",
+    "example": "Ik haal medicijnen bij de apotheek.",
+    "pronunciation": "a-po-TEEK",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "medicijn",
+    "ru": "лекарство",
+    "example": "Neem dit medicijn driemaal daags.",
+    "pronunciation": "meh-di-SEYN",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "recept",
+    "ru": "рецепт",
+    "example": "De dokter schrijft een recept.",
+    "pronunciation": "reh-SEPT",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "afspraak",
+    "ru": "запись/встреча",
+    "example": "Ik maak een afspraak.",
+    "pronunciation": "AF-spraak",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "klacht",
+    "ru": "жалоба/симптом",
+    "example": "Wat zijn uw klachten?",
+    "pronunciation": "klakht",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "hoofdpijn",
+    "ru": "головная боль",
+    "example": "Ik heb hoofdpijn.",
+    "pronunciation": "HOOFT-peyn",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "koorts",
+    "ru": "температура",
+    "example": "Hij heeft koorts.",
+    "pronunciation": "koarts",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "keelpijn",
+    "ru": "боль в горле",
+    "example": "Zij heeft keelpijn.",
+    "pronunciation": "KEAL-peyn",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "verkouden",
+    "ru": "простуженный",
+    "example": "Ik ben verkouden.",
+    "pronunciation": "ver-KOW-den",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "griep",
+    "ru": "грипп",
+    "example": "De griep gaat rond.",
+    "pronunciation": "khreep",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "behandeling",
+    "ru": "лечение",
+    "example": "De behandeling helpt goed.",
+    "pronunciation": "be-HAN-de-ling",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "operatie",
+    "ru": "операция",
+    "example": "Hij heeft een operatie nodig.",
+    "pronunciation": "o-peh-RAH-tsee",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "ambulance",
+    "ru": "скорая помощь",
+    "example": "De ambulance komt snel.",
+    "pronunciation": "am-bu-LAN-se",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "spoedpost",
+    "ru": "пункт скорой помощи",
+    "example": "Ga naar de spoedpost.",
+    "pronunciation": "SPOOT-post",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "112",
+    "ru": "сто двенадцать",
+    "example": "Bel 112 in noodgevallen.",
+    "pronunciation": "een-twaalf",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "bijwerking",
+    "ru": "побочный эффект",
+    "example": "Heeft u bijwerkingen?",
+    "pronunciation": "BEY-ver-king",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "kuur",
+    "ru": "курс лечения",
+    "example": "Maak de antibioticakuur af.",
+    "pronunciation": "koor",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "participium",
+    "ru": "причастие",
+    "example": "Een participium is een werkwoordsvorm.",
+    "pronunciation": "par-ti-SEE-pee-um",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "tegenwoordig deelwoord",
+    "ru": "настоящее причастие",
+    "example": "'Lopend' is een tegenwoordig deelwoord.",
+    "pronunciation": "TEH-khen-vor-dikh DEAL-voort",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "voltooid deelwoord",
+    "ru": "прошедшее причастие",
+    "example": "'Gelopen' is een voltooid deelwoord.",
+    "pronunciation": "vol-TOYT DEAL-voort",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "onderzoek",
+    "ru": "обследование",
+    "example": "Het onderzoek duurt een uur.",
+    "pronunciation": "ON-der-zook",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "diagnose",
+    "ru": "диагноз",
+    "example": "De dokter stelt een diagnose.",
+    "pronunciation": "dee-akh-NOH-ze",
+    "level": "B1",
+    "lesson": 32
+  },
+  {
+    "nl": "gezond",
+    "ru": "здоровый",
+    "example": "Ik ben gezond.",
+    "pronunciation": "khe-ZONT",
+    "level": "B1",
+    "lesson": 32
+  }
+]

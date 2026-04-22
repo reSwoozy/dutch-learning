@@ -1,0 +1,391 @@
+{
+  "id": "B1-lesson-28",
+  "num": 28,
+  "level": "B1",
+  "title": "Работа и карьера",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Работа и карьера",
+      "content": "**Изучить все аспекты трудовой деятельности в Нидерландах: поиск работы, собеседования, трудовые права и карьерное развитие.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Поиск работы (Werk zoeken)",
+      "words": [
+        {
+          "nl": "vacature",
+          "ru": "вакансия"
+        },
+        {
+          "nl": "solliciteren",
+          "ru": "подавать заявление на работу"
+        },
+        {
+          "nl": "sollicitatiebrief",
+          "ru": "сопроводительное письмо"
+        },
+        {
+          "nl": "cv / curriculum vitae",
+          "ru": "резюме"
+        },
+        {
+          "nl": "werkervaring",
+          "ru": "опыт работы"
+        },
+        {
+          "nl": "diploma",
+          "ru": "диплом"
+        },
+        {
+          "nl": "certificaat",
+          "ru": "сертификат"
+        },
+        {
+          "nl": "referenties",
+          "ru": "рекомендации"
+        },
+        {
+          "nl": "vaardigheden",
+          "ru": "навыки"
+        },
+        {
+          "nl": "kwalificaties",
+          "ru": "квалификации"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Собеседование (Sollicitatiegesprek)",
+      "words": [
+        {
+          "nl": "gesprek",
+          "ru": "собеседование"
+        },
+        {
+          "nl": "interviewer",
+          "ru": "интервьюер"
+        },
+        {
+          "nl": "kandidaat",
+          "ru": "кандидат"
+        },
+        {
+          "nl": "indruk maken",
+          "ru": "произвести впечатление"
+        },
+        {
+          "nl": "geschikt zijn voor",
+          "ru": "подходить для"
+        },
+        {
+          "nl": "sterke punten",
+          "ru": "сильные стороны"
+        },
+        {
+          "nl": "zwakke punten",
+          "ru": "слабые стороны"
+        },
+        {
+          "nl": "motivatie",
+          "ru": "мотивация"
+        },
+        {
+          "nl": "ambitie",
+          "ru": "амбиции"
+        },
+        {
+          "nl": "teamwork",
+          "ru": "командная работа"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Типы трудовых договоров (Arbeidscontracten)",
+      "words": [
+        {
+          "nl": "Постоянный",
+          "ru": "vast contract",
+          "hint": "Бессрочный"
+        },
+        {
+          "nl": "Временный",
+          "ru": "tijdelijk contract",
+          "hint": "На определенный срок"
+        },
+        {
+          "nl": "Частичная занятость",
+          "ru": "parttime contract",
+          "hint": "Менее 36 часов в неделю"
+        },
+        {
+          "nl": "Полная занятость",
+          "ru": "fulltime contract",
+          "hint": "36-40 часов в неделю"
+        },
+        {
+          "nl": "Нулевые часы",
+          "ru": "nulurencontract",
+          "hint": "Гибкий график"
+        },
+        {
+          "nl": "Стажировка",
+          "ru": "stage",
+          "hint": "Для получения опыта"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Структура зарплаты",
+      "content": "Bruto salaris (Зарплата до налогов)\n- Inkomstenbelasting (Подоходный налог)\n- AOW-premie (Пенсионные взносы)\n- WLZ-premie (Медицинское страхование)\n= Netto salaris (Зарплата после налогов)",
+      "codeExamples": [
+        "Bruto salaris (Зарплата до налогов)\n- Inkomstenbelasting (Подоходный налог)\n- AOW-premie (Пенсионные взносы)\n- WLZ-premie (Медицинское страхование)\n= Netto salaris (Зарплата после налогов)"
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Дополнительные льготы (Secundaire arbeidsvoorwaarden)",
+      "words": [
+        {
+          "nl": "vakantiegeld",
+          "ru": "отпускные (обычно 8% от зарплаты)"
+        },
+        {
+          "nl": "13e maand",
+          "ru": "13-я зарплата"
+        },
+        {
+          "nl": "pensioenregeling",
+          "ru": "пенсионная схема"
+        },
+        {
+          "nl": "zorgverzekering",
+          "ru": "медицинская страховка"
+        },
+        {
+          "nl": "reiskostenvergoeding",
+          "ru": "компенсация транспортных расходов"
+        },
+        {
+          "nl": "thuiswerkvergoeding",
+          "ru": "компенсация за работу из дома"
+        },
+        {
+          "nl": "opleidingen",
+          "ru": "обучение и курсы"
+        },
+        {
+          "nl": "flexibele werktijden",
+          "ru": "гибкий рабочий график"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Диалог: Собеседование на работу",
+      "content": "**Interviewer**: Goedemorgen! Welkom bij ons bedrijf. Kunt u zichzelf voorstellen?\n**Kandidaat**: Goedemorgen! Mijn naam is Anna en ik ben 28 jaar oud. Ik heb een diploma in marketing en drie jaar werkervaring bij een internationale firma.\n**Interviewer**: Interessant! Waarom solliciteert u voor deze functie?\n**Kandidaat**: Ik zoek nieuwe uitdagingen en uw bedrijf heeft een uitstekende reputatie. Bovendien kan ik hier mijn vaardigheden in digitale marketing verder ontwikkelen.\n**Interviewer**: Wat zijn uw sterke punten?\n**Kandidaat**: Ik ben creatief, werk goed in teamverband en spreek vloeiend Nederlands, Engels en Russisch. Ook ben ik zeer gemotiveerd om nieuwe dingen te leren.\n**Interviewer**: Hebt u vragen over de functie?\n**Kandidaat**: Ja, kunt u meer vertellen over de mogelijkheden voor professionele ontwikkeling en de werkcultuur hier?\n**Interviewer**: Zeker! We investeren veel in onze medewerkers..."
+    },
+    {
+      "type": "text",
+      "title": "Диалог: Первый день на работе",
+      "content": "**Nieuwe collega (Новый коллега)**: Hallo! Jij bent zeker de nieuwe marketingmedewerker?\n**Anna**: Ja, klopt! Ik ben Anna. Leuk je te ontmoeten!\n**Collega**: Welkom in het team! Ik ben Mark, ik werk al vijf jaar hier. Zal ik je rondleiden?\n**Anna**: Dat zou geweldig zijn! Waar kan ik mijn spullen neerzetten?\n**Collega**: Hier is je werkplek. De koffiehoek is daar, en de vergaderruimtes zijn op de tweede verdieping. Om 10:00 hebben we een teammeeting.\n**Anna**: Perfect! Hoe werkt het hier met de pauzes?\n**Collega**: We hebben om 10:30 een koffiepauze en de lunch is van 12:00 tot 13:00. Zeer ontspannen hier!\n**Anna**: Klinkt goed! Ik kijk ernaar uit om met iedereen samen te werken."
+    },
+    {
+      "type": "vocabulary",
+      "title": "Рабочее время и отпуска",
+      "words": [
+        {
+          "nl": "Standaard werkweek",
+          "ru": "36-40 часов в неделю"
+        },
+        {
+          "nl": "Minimale vakantie",
+          "ru": "20 дней в год (при полной занятости)"
+        },
+        {
+          "nl": "Ziekteverlof",
+          "ru": "Больничный оплачивается до 2 лет"
+        },
+        {
+          "nl": "Zwangerschapsverlof",
+          "ru": "Декретный отпуск 16 недель"
+        },
+        {
+          "nl": "Vaderschapsverlof",
+          "ru": "Отпуск по уходу за ребенком 9 недель"
+        },
+        {
+          "nl": "Recht op pauze",
+          "ru": "Право на перерыв при работе более 5.5 часов"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Защита от увольнения",
+      "content": "**В Нидерландах работники хорошо защищены**:\n- Работодатель должен иметь веские причины для увольнения\n- Обязательный период уведомления (opzegtermijn)\n- Возможность обжалования в UWV (Агентство по трудоустройству)\n- Выходное пособие при увольнении по инициативе работодателя"
+    },
+    {
+      "type": "text",
+      "title": "Планирование карьеры",
+      "content": "```\nZelfanalyse (Самоанализ)\n↓\nDoelen stellen (Постановка целей)\n↓\nVaardigheden ontwikkelen (Развитие навыков)\n↓\nNetwerken (Нетворкинг)\n↓\nFeedback vragen (Запрос обратной связи)\n↓\nEvaluatie en aanpassing (Оценка и корректировка)\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Профессиональное развитие",
+      "words": [
+        {
+          "nl": "bijscholing",
+          "ru": "повышение квалификации"
+        },
+        {
+          "nl": "cursus",
+          "ru": "курс"
+        },
+        {
+          "nl": "training",
+          "ru": "тренинг"
+        },
+        {
+          "nl": "workshop",
+          "ru": "мастер-класс"
+        },
+        {
+          "nl": "conferentie",
+          "ru": "конференция"
+        },
+        {
+          "nl": "mentoring",
+          "ru": "наставничество"
+        },
+        {
+          "nl": "coaching",
+          "ru": "коучинг"
+        },
+        {
+          "nl": "feedback",
+          "ru": "обратная связь"
+        },
+        {
+          "nl": "evaluatie",
+          "ru": "оценка"
+        },
+        {
+          "nl": "promotie",
+          "ru": "повышение в должности"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Словарь работы",
+      "items": [
+        {
+          "question": "Я ищу постоянную работу в IT-сфере."
+        },
+        {
+          "question": "Моё резюме включает пятилетний опыт работы."
+        },
+        {
+          "question": "На собеседовании я хочу произвести хорошее впечатление."
+        },
+        {
+          "question": "У меня есть сертификат по управлению проектами."
+        },
+        {
+          "question": "Я готов работать в команде и изучать новые навыки."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Создание CV на голландском",
+      "content": "Заполните разделы CV:\n**Persoonlijke gegevens**:\n- Naam: _______\n- Adres: _______\n- Telefoon: _______\n- E-mail: _______\n**Werkervaring**:\n- 2020-2023: _______\n- 2018-2020: _______\n**Opleiding**:\n- Universiteit: _______\n- Diploma: _______\n**Vaardigheden**:\n- Talen: _______\n- Computer: _______"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Вопросы для собеседования",
+      "items": [
+        {
+          "question": "Waarom wilt u voor ons werken?"
+        },
+        {
+          "question": "Wat zijn uw sterke en zwakke punten?"
+        },
+        {
+          "question": "Waar ziet u uzelf over vijf jaar?"
+        },
+        {
+          "question": "Hoe gaat u om met stress?"
+        },
+        {
+          "question": "Waarom moeten wij u aannemen?"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Голландская рабочая культура",
+      "content": "** Directheid (Прямота)**:\n- Голландцы говорят то, что думают\n- Конструктивная критика - это норма\n- \"Nee\" означает \"нет\", без скрытых смыслов\n** Work-life balance**:\n- Работа не должна мешать личной жизни\n- Частичная занятость очень распространена\n- Работа из дома широко принята\n** Egalitarisme (Эгалитаризм)**:\n- Плоская иерархия в компаниях\n- Каждый может высказать свое мнение\n- Босс доступен для общения\n** Punctualiteit (Пунктуальность)**:\n- Приходите точно вовремя\n- Опоздание - неуважение к другим\n- Планируйте встречи заранее"
+    },
+    {
+      "type": "culture",
+      "title": "Полезные советы для работы в Нидерландах",
+      "content": "1. **Изучите голландский язык** - даже если работаете на английском\n2. **Налаживайте связи** - networking очень важен\n3. **Будьте прямыми, но вежливыми** - голландский стиль общения\n4. **Участвуйте в borrels** (корпоративных мероприятиях)\n5. **Инвестируйте в профессиональное развитие**"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые фразы урока",
+      "words": [
+        {
+          "nl": "Ik solliciteer voor deze functie",
+          "ru": "Я подаю заявление на эту должность"
+        },
+        {
+          "nl": "Ik heb drie jaar werkervaring",
+          "ru": "У меня три года опыта работы"
+        },
+        {
+          "nl": "Wat zijn de secundaire arbeidsvoorwaarden?",
+          "ru": "Какие дополнительные льготы?"
+        },
+        {
+          "nl": "Ik werk graag in teamverband",
+          "ru": "Я люблю работать в команде"
+        },
+        {
+          "nl": "Wanneer kan ik beginnen?",
+          "ru": "Когда я могу начать?"
+        },
+        {
+          "nl": "Het salaris is bespreekbaar",
+          "ru": "Зарплата обсуждается"
+        },
+        {
+          "nl": "Ik zoek nieuwe uitdagingen",
+          "ru": "Я ищу новые вызовы"
+        },
+        {
+          "nl": "Kunt u meer vertellen over de functie?",
+          "ru": "Можете рассказать больше о должности?"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 27** (Пассивный залог): \"Er wordt veel gewerkt in dit bedrijf\" (В этой компании много работают)\n- **Урок 26** (Условные предложения): \"Als ik deze baan krijg, zou ik heel blij zijn\" (Если я получу эту работу, я буду очень счастлив)"
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 29: Банки и финансы (Banken en financiën)**\n- Банковские услуги в Нидерландах\n- Кредиты и ипотека\n- Налоги и страхование\n- Инвестиции и сбережения\n**Подготовка**: Подумайте о своих финансовых целях в Нидерландах!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-28.json"
+}

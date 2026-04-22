@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "formeel-email",
+      "titleRu": "Формальные письма (email)",
+      "titleNl": "Formele e-mails",
+      "items": [
+        {"id": "email-klacht", "title": "Klacht aan een bedrijf", "level": "B1", "type": "email"},
+        {"id": "email-verzoek-informatie", "title": "Verzoek om informatie", "level": "B1", "type": "email"},
+        {"id": "email-afspraak-verzetten", "title": "Afspraak verzetten", "level": "A2", "type": "email"},
+        {"id": "email-motivatiebrief", "title": "Motivatiebrief / sollicitatiemail", "level": "B2", "type": "email"},
+        {"id": "email-bezwaar-gemeente", "title": "Bezwaar aan de gemeente", "level": "B2", "type": "email"}
+      ]
+    },
+    {
+      "id": "nt2-schrijftaken",
+      "titleRu": "NT2 schrijftaken",
+      "titleNl": "Staatsexamen NT2 schrijftaken",
+      "items": [
+        {"id": "zinstaak-basis", "title": "Zinstaak: формат и модельные ответы", "level": "B1", "type": "model"},
+        {"id": "korte-schrijftaak", "title": "Korte schrijftaak: структура + пример", "level": "B1", "type": "model"},
+        {"id": "middellange-schrijftaak", "title": "Middellange schrijftaak (B2)", "level": "B2", "type": "model"},
+        {"id": "argumentatief-b2", "title": "Argumentatieve tekst (B2)", "level": "B2", "type": "model"}
+      ]
+    },
+    {
+      "id": "bouwstenen",
+      "titleRu": "Стандартные блоки и фразы",
+      "titleNl": "Bouwstenen",
+      "items": [
+        {"id": "aanhef-afsluiting", "title": "Aanhef en afsluiting", "level": "A2", "type": "reference"},
+        {"id": "verbindingswoorden", "title": "Verbindingswoorden / signaalwoorden", "level": "B1", "type": "reference"},
+        {"id": "register-formeel-informeel", "title": "Formeel vs. informeel register", "level": "B1", "type": "reference"},
+        {"id": "checklist-correctheid", "title": "Checklist: woordvolgorde, tijden, spelling", "level": "B1", "type": "reference"}
+      ]
+    }
+  ]
+}

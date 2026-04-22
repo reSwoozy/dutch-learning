@@ -1,0 +1,172 @@
+{
+  "description": "Статьи о культуре, обществе и повседневной жизни Нидерландов. Материалы выровнены по A2–B1 уровню восприятия, но читать полезно на любом этапе.",
+  "categories": [
+    {
+      "id": "society",
+      "title": "Общество",
+      "description": "Как устроены ключевые институты страны: право, работа, здравоохранение, образование.",
+      "articles": [
+        {
+          "id": "basics",
+          "file": "society/basics.json",
+          "title": "Основы государственного устройства",
+          "summary": "Монархия, парламент, провинции, базовые гражданские права."
+        },
+        {
+          "id": "work",
+          "file": "society/work.json",
+          "title": "Работа и трудовые отношения",
+          "summary": "Контракты, налоги, пособия, профсоюзы, рынок труда."
+        },
+        {
+          "id": "healthcare",
+          "file": "society/healthcare.json",
+          "title": "Система здравоохранения",
+          "summary": "Страховки, huisarts, специалисты, аптеки."
+        },
+        {
+          "id": "education",
+          "file": "society/education.json",
+          "title": "Система образования",
+          "summary": "От basisschool до университета, VMBO/HAVO/VWO."
+        }
+      ]
+    },
+    {
+      "id": "everyday-life",
+      "title": "Повседневная жизнь",
+      "description": "Ежедневные практики: жильё, транспорт, покупки, финансы.",
+      "articles": [
+        {
+          "id": "housing",
+          "file": "everyday-life/housing.json",
+          "title": "Жильё и аренда",
+          "summary": "Аренда, покупка, права жильца, жилищные пособия."
+        },
+        {
+          "id": "transport",
+          "file": "everyday-life/transport.json",
+          "title": "Транспорт",
+          "summary": "Велосипед, поезда, OV-chipkaart, автомобили."
+        },
+        {
+          "id": "shopping",
+          "file": "everyday-life/shopping.json",
+          "title": "Покупки и услуги",
+          "summary": "Супермаркеты, PIN, возвраты, рынки."
+        },
+        {
+          "id": "banking",
+          "file": "everyday-life/banking.json",
+          "title": "Банки и финансы",
+          "summary": "Счета, iDEAL, ипотека, пенсионные схемы."
+        }
+      ]
+    },
+    {
+      "id": "traditions",
+      "title": "Традиции",
+      "description": "Праздники, нормы поведения, региональные особенности.",
+      "articles": [
+        {
+          "id": "holidays",
+          "file": "traditions/holidays.json",
+          "title": "Праздники и памятные даты",
+          "summary": "Sinterklaas, Koningsdag, Bevrijdingsdag и другие."
+        },
+        {
+          "id": "customs",
+          "file": "traditions/customs.json",
+          "title": "Обычаи и этикет",
+          "summary": "Прямолинейность, пунктуальность, приём гостей, going dutch."
+        },
+        {
+          "id": "regions",
+          "file": "traditions/regions.json",
+          "title": "Регионы Нидерландов",
+          "summary": "Randstad, Brabant, Friesland и другие — разные лица одной страны."
+        }
+      ]
+    },
+    {
+      "id": "knm-dossiers",
+      "title": "KNM-досье (для inburgering)",
+      "description": "Структурированные материалы по темам экзамена «Знание нидерландского общества» (KNM): werk, zorg, onderwijs, wonen, verkeer, omgangsvormen, politiek.",
+      "articles": [
+        {
+          "id": "knm-werk",
+          "file": "knm/werk.json",
+          "title": "KNM: Werk en inkomen",
+          "summary": "Поиск работы, контракты, налоги, пособия, пенсия."
+        },
+        {
+          "id": "knm-zorg",
+          "file": "knm/zorg.json",
+          "title": "KNM: Zorg en gezondheid",
+          "summary": "Страховка, huisarts, специалисты, скорая помощь."
+        },
+        {
+          "id": "knm-onderwijs",
+          "file": "knm/onderwijs.json",
+          "title": "KNM: Onderwijs",
+          "summary": "Школьная система: VMBO/HAVO/VWO, MBO/HBO/WO, leerplicht."
+        },
+        {
+          "id": "knm-wonen",
+          "file": "knm/wonen.json",
+          "title": "KNM: Wonen",
+          "summary": "Аренда, покупка, huurtoeslag, права жильца."
+        },
+        {
+          "id": "knm-verkeer",
+          "file": "knm/verkeer.json",
+          "title": "KNM: Verkeer en vervoer",
+          "summary": "Велосипед, OV-chipkaart, автомобиль, ПДД."
+        },
+        {
+          "id": "knm-omgangsvormen",
+          "file": "knm/omgangsvormen.json",
+          "title": "KNM: Omgangsvormen",
+          "summary": "Прямолинейность, пунктуальность, равенство, гостеприимство."
+        },
+        {
+          "id": "knm-politiek",
+          "file": "knm/politiek.json",
+          "title": "KNM: Politiek en burgerzaken",
+          "summary": "Монархия, парламент, выборы, права и свободы."
+        }
+      ]
+    },
+    {
+      "id": "integration-exam",
+      "title": "Экзамен по интеграции",
+      "description": "Всё, что нужно знать для подготовки к inburgeringsexamen.",
+      "articles": [
+        {
+          "id": "structure",
+          "file": "integration-exam/structure.json",
+          "title": "Структура экзамена",
+          "summary": "Модули, сроки, формат."
+        },
+        {
+          "id": "language-requirements",
+          "file": "integration-exam/language-requirements.json",
+          "title": "Языковые требования",
+          "summary": "Уровни A2/B1, освобождения, сроки."
+        },
+        {
+          "id": "knm-prep",
+          "file": "integration-exam/knm-prep.json",
+          "title": "Подготовка к KNM",
+          "summary": "Знание общества: темы, ресурсы, частые ошибки."
+        },
+        {
+          "id": "strategies",
+          "file": "integration-exam/strategies.json",
+          "title": "Стратегии подготовки",
+          "summary": "План на 6–12 месяцев, советы по каждому модулю."
+        }
+      ]
+    }
+  ]
+}

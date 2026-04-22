@@ -1,0 +1,370 @@
+[
+  {
+    "nl": "de familie",
+    "ru": "семья",
+    "example": "Dit is mijn hele familie.",
+    "pronunciation": "də faˈmili",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de ouders",
+    "ru": "родители",
+    "example": "Mijn ouders wonen in Amsterdam.",
+    "pronunciation": "də ˈɑu̯dərs",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de vader",
+    "ru": "отец",
+    "example": "Mijn vader werkt als leraar.",
+    "pronunciation": "də ˈvaːdər",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de moeder",
+    "ru": "мать",
+    "example": "Mijn moeder kookt heel goed.",
+    "pronunciation": "də ˈmudər",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de zoon",
+    "ru": "сын",
+    "example": "Hun zoon is achttien jaar oud.",
+    "pronunciation": "də soːn",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de dochter",
+    "ru": "дочь",
+    "example": "Onze dochter studeert geneeskunde.",
+    "pronunciation": "də ˈdɔxtər",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de broer",
+    "ru": "брат",
+    "example": "Mijn broer woont in Rotterdam.",
+    "pronunciation": "də brur",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de zus",
+    "ru": "сестра",
+    "example": "Ik heb een jongere zus.",
+    "pronunciation": "də zʏs",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de opa",
+    "ru": "дедушка",
+    "example": "Opa vertelt altijd leuke verhalen.",
+    "pronunciation": "də ˈoːpaː",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de oma",
+    "ru": "бабушка",
+    "example": "Oma bakt de lekkerste koekjes.",
+    "pronunciation": "də ˈoːmaː",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de oom",
+    "ru": "дядя",
+    "example": "Oom Jan heeft een boot.",
+    "pronunciation": "də oːm",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de tante",
+    "ru": "тетя",
+    "example": "Tante Marie spreekt drie talen.",
+    "pronunciation": "də ˈtɑntə",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "het kind",
+    "ru": "ребенок",
+    "example": "Het kind speelt in de tuin.",
+    "pronunciation": "ɦət kɪnt",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de kinderen",
+    "ru": "дети",
+    "example": "De kinderen gaan naar school.",
+    "pronunciation": "də ˈkɪndərən",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de neef",
+    "ru": "племянник/двоюродный брат",
+    "example": "Mijn neef studeert in Groningen.",
+    "pronunciation": "də neːf",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de nicht",
+    "ru": "племянница/двоюродная сестра",
+    "example": "Nicht Emma is heel sportief.",
+    "pronunciation": "də nɪxt",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de man",
+    "ru": "муж",
+    "example": "Haar man werkt bij een bank.",
+    "pronunciation": "də mɑn",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de vrouw",
+    "ru": "жена",
+    "example": "Zijn vrouw is dokter.",
+    "pronunciation": "də vrɑu̯",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "mijn",
+    "ru": "мой/моя/мое",
+    "example": "Dit is mijn nieuwe fiets.",
+    "pronunciation": "mɛi̯n",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "jouw",
+    "ru": "твой/твоя/твое",
+    "example": "Is dit jouw tas?",
+    "pronunciation": "jɑu̯",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "je",
+    "ru": "твой/твоя/твое (короткая форма)",
+    "example": "Hoe heet je vader?",
+    "pronunciation": "jə",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "zijn",
+    "ru": "его",
+    "example": "Zijn auto is blauw.",
+    "pronunciation": "zɛi̯n",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "haar",
+    "ru": "ее",
+    "example": "Haar huis is groot.",
+    "pronunciation": "ɦaːr",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "ons",
+    "ru": "наш/наше (с het-словами)",
+    "example": "Dit is ons huis.",
+    "pronunciation": "ɔns",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "onze",
+    "ru": "наша/наши (с de-словами)",
+    "example": "Onze kat is zwart.",
+    "pronunciation": "ˈɔnzə",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "jullie",
+    "ru": "ваш/ваша/ваше",
+    "example": "Jullie kinderen zijn lief.",
+    "pronunciation": "ˈjʏli",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "hun",
+    "ru": "их",
+    "example": "Hun hond is heel vriendelijk.",
+    "pronunciation": "ɦʏn",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "lang",
+    "ru": "высокий/длинный",
+    "example": "Mijn broer is erg lang.",
+    "pronunciation": "lɑŋ",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "kort",
+    "ru": "низкий/короткий",
+    "example": "Zij heeft kort haar.",
+    "pronunciation": "kɔrt",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "groot",
+    "ru": "большой",
+    "example": "Hun huis is groot.",
+    "pronunciation": "ɣroːt",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "klein",
+    "ru": "маленький",
+    "example": "De baby is nog klein.",
+    "pronunciation": "klɛi̯n",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "dik",
+    "ru": "толстый",
+    "example": "De kat is een beetje dik.",
+    "pronunciation": "dɪk",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "dun",
+    "ru": "худой",
+    "example": "Hij is lang en dun.",
+    "pronunciation": "dʏn",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "mooi",
+    "ru": "красивый",
+    "example": "Wat een mooie jurk!",
+    "pronunciation": "moːi",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "lelijk",
+    "ru": "некрасивый",
+    "example": "Die kleur is lelijk.",
+    "pronunciation": "ˈleːlək",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "jong",
+    "ru": "молодой",
+    "example": "Wij zijn nog jong.",
+    "pronunciation": "jɔŋ",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "oud",
+    "ru": "старый",
+    "example": "Mijn grootvader is oud.",
+    "pronunciation": "ɑu̯t",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "het haar",
+    "ru": "волосы",
+    "example": "Zij heeft mooi haar.",
+    "pronunciation": "ɦət ɦaːr",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "blond",
+    "ru": "блондин/блондинка",
+    "example": "Mijn zus is blond.",
+    "pronunciation": "blɔnt",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "bruin",
+    "ru": "коричневый/карий",
+    "example": "Hij heeft bruin haar.",
+    "pronunciation": "brœy̯n",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "zwart",
+    "ru": "черный",
+    "example": "Zwart haar is mooi.",
+    "pronunciation": "zʋɑrt",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "de ogen",
+    "ru": "глаза",
+    "example": "Zij heeft blauwe ogen.",
+    "pronunciation": "də ˈoːɣə(n)",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "blauw",
+    "ru": "голубой",
+    "example": "Blauw staat je goed.",
+    "pronunciation": "blɑu̯",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "groen",
+    "ru": "зеленый",
+    "example": "Groene ogen zijn zeldzaam.",
+    "pronunciation": "ɣrun",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "aardig",
+    "ru": "милый/добрый",
+    "example": "Onze buren zijn aardig.",
+    "pronunciation": "ˈaːrdəx",
+    "level": "A1",
+    "lesson": 5
+  },
+  {
+    "nl": "vriendelijk",
+    "ru": "дружелюбный",
+    "example": "De verkoopster is vriendelijk.",
+    "pronunciation": "ˈvrindələk",
+    "level": "A1",
+    "lesson": 5
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "id": "B2-lesson-44",
+  "num": 44,
+  "level": "B2",
+  "title": "Деловое общение: встречи и email",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Деловое общение: встречи и email",
+      "content": "Проводить деловые встречи: предлагать, уточнять, возражать конструктивно, подводить итоги; писать follow‑up письма с решениями и следующими шагами.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "text",
+      "title": "Встреча: роли и повестка",
+      "content": "- Rollen: voorzitter (ведущий), notulist (секретарь), deelnemers (участники)\n- Agenda: opening → mededelingen → agendapunten → rondvraag → afsluiting\nФразы:\n- Открытие: Zullen we beginnen? / Het doel van vandaag is...\n- Предложение: Ik stel voor dat... / Laten we overwegen om...\n- Уточнение: Bedoel je dat...? / Kun je dat toelichten?\n- Несогласие: Ik ben het daar niet mee eens, omdat... / Een alternatief is...\n- Итог: Samenvattend besluiten we dat... / De vervolgstappen zijn..."
+    },
+    {
+      "type": "grammar",
+      "title": "Email: структура follow‑up",
+      "content": "- Aanhef → Dank/Referentie → Besluiten → Actiepunten + eigenaar → Termijnen → Afsluiting\nШаблон:\nOnderwerp: Follow‑up vergadering [datum]\nGeachte/Beste ...,\nNaar aanleiding van onze vergadering bevestig ik de besluiten:\n1) ... 2) ... Actiepunten: A (eigenaar, termijn), B (...)\nMet vriendelijke groet,\n...\n---",
+      "codeExamples": [
+        "Onderwerp: Follow‑up vergadering [datum]\nGeachte/Beste ...,\nNaar aanleiding van onze vergadering bevestig ik de besluiten:\n1) ... 2) ... Actiepunten: A (eigenaar, termijn), B (...)\nMet vriendelijke groet,\n..."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Мини‑сценка",
+      "content": "```\nA (voorzitter): Het doel is prioriteiten bepalen.\nB: Ik stel voor dat we eerst project X afronden.\nC: Ik ben het daar deels mee eens; echter is de capaciteit beperkt.\nA: Samenvattend: X afronden; bovendien starten we een kleine pilot voor Y.\n```"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Вставь подходящую фразу для встречи",
+      "items": [
+        {
+          "question": "__, het doel van deze vergadering is de planning bespreken."
+        },
+        {
+          "question": "__ dat we eerst het budget bekijken?"
+        },
+        {
+          "question": "__ dat...? Kun je dat __?"
+        },
+        {
+          "question": "Ik __ het daar niet mee __, omdat de kosten te hoog zijn."
+        },
+        {
+          "question": "__, we besluiten om project X te starten.",
+          "answers": [
+            "1. Zullen we beginnen (открытие)",
+            "2. Ik stel voor (предложение)",
+            "3. Bedoel je ... toelichten (уточнение)",
+            "4. ben ... eens (несогласие)",
+            "5. Samenvattend (итог)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Преобразуй неформальное в формальное",
+      "content": "| Неформально | Формально |\n|-------------|-----------|\n| Hoi allemaal, laten we starten. | -> `_______` |\n| Ik vind dat we X moeten doen. | -> `_______` |\n| Dat snap ik niet. | -> `_______` |\n| Oké, we zijn klaar. | -> `_______` |\n<details>\n<summary>Ответы</summary>\n1. Goedemiddag, zullen we beginnen?\n2. Ik stel voor dat we X uitvoeren.\n3. Kunt u dat nader toelichten?\n4. Hiermee sluiten we de vergadering af.\n</details>"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Schrijf een follow-up email",
+      "content": "Schrijf een email (6-8 zinnen) met:\n- Aanhef + referentie naar de vergadering\n- 2 besluiten\n- 2 actiepunten met eigenaar en termijn\n- Afsluiting"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 4: Говорение",
+      "items": [
+        {
+          "question": "Open de vergadering en noem het doel."
+        },
+        {
+          "question": "Doe een voorstel."
+        },
+        {
+          "question": "Reageer op een bezwaar."
+        },
+        {
+          "question": "Vat samen en noem de vervolgstappen."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- vergadering — встреча\n- voorzitter — ведущий\n- notulist — секретарь\n- agendapunt — пункт повестки\n- mededeling — объявление\n- rondvraag — вопросы в конце\n- afsluiting — завершение\n- voorstel doen — сделать предложение\n- toelichten — пояснять\n- bezwaar/bedenking — возражение/сомнение\n- alternatief — альтернатива\n- consensus — согласие\n- besluit — решение\n- actiepunt — пункт действия\n- eigenaar (owner) — ответственный\n- termijn — срок\n- prioriteit — приоритет\n- capaciteit — мощность/ресурс\n- follow‑up — последующие действия\n- bevestigen — подтверждать\n- naar aanleiding van — в связи с\n- onderwerp — тема письма\n- bijgevoegd — приложенный\n- samenvatten — подытоживать\n- vastleggen — зафиксировать"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-44.json"
+}

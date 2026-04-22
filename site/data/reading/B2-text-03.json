@@ -1,0 +1,73 @@
+{
+  "id": "B2-text-03",
+  "level": "B2",
+  "title": "Arbeidsmarkt in transitie",
+  "topic": "werk-economie",
+  "readingTime": "5 min",
+  "body": "De Nederlandse arbeidsmarkt bevindt zich in een periode van snelle verandering. Aan de ene kant is de krapte ongekend: in de zorg, het onderwijs, de techniek en de ICT blijven duizenden vacatures langdurig openstaan. Aan de andere kant groeit de groep werknemers die zich zorgen maakt over baanzekerheid, mede vanwege de opkomst van kunstmatige intelligentie en automatisering.\n\nSinds de coronacrisis zijn veel werkenden kritischer geworden op hun werkgever. Hybride werken, flexibele uren en oog voor mentale gezondheid zijn geen gunsten meer, maar verwachtingen. Werkgevers die deze verwachtingen niet inlossen, zien hun personeelsverloop oplopen. Uit onderzoek van werkgeversorganisaties blijkt dat bedrijven die investeren in ontwikkeling en autonomie aanzienlijk minder moeite hebben om talent te behouden.\n\nOpvallend is de groei van het aantal zelfstandigen zonder personeel (zzp'ers). Inmiddels werkt meer dan één op de tien Nederlanders op zzp-basis. De politiek worstelt met de vraag hoe deze groep te beschermen zonder de flexibiliteit die veel zzp'ers juist aantrekt te ondermijnen. Een wetsvoorstel beoogt een duidelijker onderscheid tussen werknemer en zelfstandige, maar stuit op stevige kritiek uit diverse hoeken.\n\nEen andere ontwikkeling is 'leven lang leren'. De halfwaardetijd van kennis wordt korter; wie aan het begin van zijn carrière een diploma behaalt, moet zich gedurende het werkzame leven blijven bijscholen. Overheid, werkgevers en onderwijsinstellingen investeren gezamenlijk in programma's voor om- en bijscholing, vaak gericht op sectoren met grote tekorten, zoals techniek, energietransitie en zorg.\n\nExperts benadrukken dat de arbeidsmarkt van de toekomst niet eenvoudig te voorspellen is. Automatisering zal bepaalde taken overnemen, maar ook nieuwe beroepen creëren. Sociale vaardigheden, creativiteit en het vermogen om samen te werken met slimme systemen zullen belangrijker worden dan ooit. De grote vraag is hoe we ervoor zorgen dat de vruchten van deze transitie eerlijk verdeeld worden.",
+  "glossary": [
+    {"nl": "de krapte", "ru": "нехватка (на рынке труда)"},
+    {"nl": "de baanzekerheid", "ru": "уверенность в рабочем месте"},
+    {"nl": "de kunstmatige intelligentie", "ru": "искусственный интеллект"},
+    {"nl": "het hybride werken", "ru": "гибридная работа"},
+    {"nl": "de gunst", "ru": "одолжение"},
+    {"nl": "inlossen", "ru": "выполнять (обещание)"},
+    {"nl": "het personeelsverloop", "ru": "текучесть кадров"},
+    {"nl": "de zzp'er", "ru": "самозанятый"},
+    {"nl": "worstelen met", "ru": "биться над, мучиться с"},
+    {"nl": "ondermijnen", "ru": "подрывать"},
+    {"nl": "het wetsvoorstel", "ru": "законопроект"},
+    {"nl": "de halfwaardetijd", "ru": "период полураспада (о знаниях)"},
+    {"nl": "bijscholen", "ru": "повышать квалификацию"},
+    {"nl": "omscholen", "ru": "переучивать"},
+    {"nl": "de energietransitie", "ru": "энергопереход"},
+    {"nl": "de vruchten (plukken)", "ru": "плоды (пожинать)"}
+  ],
+  "questions": [
+    {
+      "q": "Welke paradox beschrijft het artikel?",
+      "options": [
+        "Veel werklozen maar geen krapte",
+        "Krapte op de arbeidsmarkt én zorgen over baanzekerheid",
+        "Overal genoeg personeel"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat zijn nu verwachtingen in plaats van gunsten?",
+      "options": [
+        "Vaste contracten en hoge lonen",
+        "Hybride werken, flexibele uren, mentale gezondheid",
+        "Jaarlijkse bonussen"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat is de uitdaging rondom zzp'ers?",
+      "options": [
+        "Er zijn er te weinig",
+        "Beschermen zonder flexibiliteit te ondermijnen",
+        "Ze verdienen te veel"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Wat houdt 'leven lang leren' in?",
+      "options": [
+        "Kinderen langer naar school",
+        "Blijven bijscholen gedurende de carrière",
+        "Nooit meer werken"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Welke vaardigheden worden belangrijker?",
+      "options": [
+        "Alleen technische kennis",
+        "Sociale vaardigheden, creativiteit, samenwerking met slimme systemen",
+        "Enkel handwerk"
+      ],
+      "answer": 1
+    }
+  ]
+}

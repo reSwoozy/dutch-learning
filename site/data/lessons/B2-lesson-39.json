@@ -1,0 +1,98 @@
+{
+  "id": "B2-lesson-39",
+  "num": 39,
+  "level": "B2",
+  "title": "Дебаты и аргументация",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Дебаты и аргументация",
+      "content": "Строить убедительные аргументы и контраргументы с опорой на факты, использовать хеджинг (смягчение уверенности), примеры и структурные маркеры в устных дебатах и текстах мнения.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+    },
+    {
+      "type": "grammar",
+      "title": "Структура аргумента",
+      "content": "- Тезис → Аргумент → Доказательство/пример → Мини‑вывод\n- Контраргумент → Опровержение (rebuttal) → Итог\nМаркерные слова:\n- тезис: naar mijn mening, ik ben van mening dat, het lijkt mij dat\n- аргумент: ten eerste, bovendien, daarnaast\n- контраст: echter, daarentegen, toch\n- доказательство: dit bewijst dat, dit voorbeeld laat zien dat, volgens cijfers/onderzoek\n- оговорка: vermoedelijk, waarschijnlijk, mogelijk, in zekere mate\n---"
+    },
+    {
+      "type": "text",
+      "title": "Мини‑дебаты",
+      "content": "```\nA: Naar mijn mening moet de stad investeren in fietspaden.\nB: Daarentegen vind ik dat het openbaar vervoer prioriteit heeft.\nA: Dit voorbeeld laat zien dat meer fietspaden verkeersdruk verminderen.\nB: Echter ontbreken recente cijfers; mogelijk overschat je het effect.\nA: Volgens onderzoek van 2023 is de fileduur met 12% gedaald.\nB: Kortom, beide opties verdienen aandacht; bovendien kunnen we ze combineren.\n```"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Добавь хеджинг (смягчение)",
+      "items": [
+        {
+          "question": "\"Thuiswerken is beter dan op kantoor werken.\""
+        },
+        {
+          "question": "\"Sociale media veroorzaken depressie bij jongeren.\""
+        },
+        {
+          "question": "\"De economie zal volgend jaar groeien.\"",
+          "answers": [
+            "1. Het lijkt mij dat thuiswerken in zekere mate effectiever kan zijn dan op kantoor werken.",
+            "2. Mogelijk dragen sociale media bij aan depressieve klachten bij jongeren.",
+            "3. Vermoedelijk / Waarschijnlijk zal de economie volgend jaar groeien."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Тезис + аргумент + контраргумент",
+      "items": [
+        {
+          "question": "Een stelling (naar mijn mening...)"
+        },
+        {
+          "question": "Een argument met bewijs (ten eerste... dit bewijst dat...)"
+        },
+        {
+          "question": "Een tegenargument (daarentegen / echter...)"
+        },
+        {
+          "question": "Een weerlegging (toch / desondanks...)"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Вставь маркеры мнения и аргументации",
+      "items": [
+        {
+          "question": "__ is investeren in onderwijs de beste oplossing."
+        },
+        {
+          "question": "__ laat zien dat landen met meer onderwijs een hogere welvaart hebben."
+        },
+        {
+          "question": "__ zijn de kosten op korte termijn hoog."
+        },
+        {
+          "question": "__ wegen de langetermijnvoordelen op tegen de kosten.",
+          "answers": [
+            "1. Naar mijn mening / Ik ben van mening dat",
+            "2. Dit voorbeeld / Onderzoek",
+            "3. Echter / Daarentegen",
+            "4. Desondanks / Toch"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 4: Мини-дебаты (говорение)",
+      "content": "Kies een stelling en bereid 2 argumenten VOOR en 2 TEGEN voor:\n- \"Nederland moet meer kernenergie gebruiken.\"\n- \"Iedereen moet verplicht een tweede taal leren.\"\nGebruik: naar mijn mening, ten eerste, bovendien, echter, kortom"
+    },
+    {
+      "type": "text",
+      "title": "Словарь урока (20–25)",
+      "content": "- naar mijn mening — по моему мнению\n- ik ben van mening dat — я считаю, что\n- het lijkt mij dat — мне кажется, что\n- ten eerste / bovendien — во‑первых / кроме того\n- echter / daarentegen — однако / с другой стороны\n- dit bewijst dat — это доказывает, что\n- dit voorbeeld laat zien dat — этот пример показывает, что\n- volgens cijfers/onderzoek — согласно данным/исследованию\n- in zekere mate — в определённой степени\n- vermoedelijk — предположительно\n- waarschijnlijk — вероятно\n- mogelijk — возможно\n- onderbouwen — обосновывать\n- weerleggen — опровергать\n- nuanceren — уточнять, вносить нюансы\n- consensus — консенсус\n- betoog — аргументированное выступление/эссе\n- tegenargument — контраргумент\n- weerlegging — опровержение\n- stelling — тезис\n- conclusie — вывод\n- statistiek — статистика\n- betrouwbaarheid — надёжность (данных)\n- steekproef — выборка"
+    }
+  ],
+  "vocabularyFile": "B2-lesson-39.json"
+}

@@ -1,0 +1,138 @@
+{
+  "id": "fixed-expressions",
+  "title": "Устойчивые выражения и идиомы",
+  "titleNL": "Vaste uitdrukkingen en idiomen",
+  "level": "B2",
+  "summary": "Фразеологизмы и устойчивые обороты — то, что отличает речь B2+ от среднего. Для NT2 II и собеседований нужно понимать идиомы в чтении и уметь использовать 20-30 из них в своей речи. Многие — образы из морской/сельской истории Нидерландов.",
+  "rule": {
+    "formula": "Идиому нельзя разбирать по словам — учится и употребляется как единое целое.",
+    "explanation": "Устойчивые выражения делятся на: (1) идиомы — с переносным значением, нельзя перевести дословно; (2) коллокации — частотные пары (beslissing nemen, maatregelen treffen); (3) пословицы (spreekwoorden). На экзамене полезнее знать коллокации — они встречаются в формальных текстах. Идиомы — бонус для устной части.",
+    "whenToUse": [
+      "На собеседовании: 1-2 идиомы = живая речь, 5+ = звучит заучено.",
+      "В эссе: предпочитайте коллокации, не идиомы.",
+      "В разговорной речи: идиомы уместны почти всегда.",
+      "При чтении: не пытайтесь перевести дословно — распознайте идиому и ищите перевод."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Частые коллокации (глагол + существительное)",
+      "headers": ["Выражение", "Перевод", "Пример"],
+      "rows": [
+        ["een beslissing nemen", "принять решение", "Ik heb een beslissing genomen."],
+        ["een afspraak maken", "назначить встречу", "Laten we een afspraak maken."],
+        ["een vraag stellen", "задать вопрос", "Mag ik een vraag stellen?"],
+        ["maatregelen treffen / nemen", "принимать меры", "De overheid treft maatregelen."],
+        ["aandacht besteden aan", "уделять внимание", "Besteed aandacht aan de details."],
+        ["een rol spelen", "играть роль", "Geld speelt een grote rol."],
+        ["een poging doen", "предпринять попытку", "Ik doe een poging."],
+        ["een cursus volgen", "проходить курс", "Ik volg een cursus Nederlands."],
+        ["gelijk hebben", "быть правым", "Je hebt gelijk."],
+        ["ruzie maken", "ссориться", "Ze maken altijd ruzie."]
+      ]
+    },
+    {
+      "title": "Коллокации с 'het'",
+      "headers": ["Выражение", "Перевод"],
+      "rows": [
+        ["het heeft geen zin", "нет смысла"],
+        ["het is de moeite waard", "это того стоит"],
+        ["het ligt eraan (hoe)", "зависит от того, как"],
+        ["het klopt (niet)", "это (не) верно"],
+        ["het valt wel mee", "не так уж плохо"],
+        ["het valt tegen", "разочаровывает"],
+        ["het gaat om", "речь идёт о"],
+        ["het heeft te maken met", "связано с"]
+      ]
+    },
+    {
+      "title": "Идиомы повседневной речи",
+      "headers": ["Идиома", "Дословно", "Смысл"],
+      "rows": [
+        ["de kat uit de boom kijken", "смотреть кошку из дерева", "выжидать, присматриваться"],
+        ["een kat in de zak kopen", "купить кота в мешке", "то же, что в русском"],
+        ["iets onder de knie hebben", "иметь под коленом", "хорошо овладеть"],
+        ["de hand aan de ploeg slaan", "взяться за плуг", "приняться за работу"],
+        ["uit de kunst", "из искусства", "потрясающе"],
+        ["een oogje in het zeil houden", "держать глаз на парусе", "присматривать"],
+        ["uit je dak gaan", "выскочить из крыши", "прийти в восторг"],
+        ["de hond in de pot vinden", "найти собаку в горшке", "опоздать к еде / приехать к разбитому корыту"],
+        ["een koud kunstje", "холодное искусство", "пустяковое дело"],
+        ["niet over één nacht ijs gaan", "не идти по льду одной ночи", "не принимать решение поспешно"]
+      ]
+    },
+    {
+      "title": "Идиомы с 'maken' и 'doen'",
+      "headers": ["Идиома", "Перевод"],
+      "rows": [
+        ["ergens een punt van maken", "делать из чего-то проблему"],
+        ["een rondje maken", "прогуляться / купить выпивку"],
+        ["het goed doen", "преуспевать"],
+        ["niets te doen hebben", "нечего делать"],
+        ["te maken hebben met", "иметь отношение к"],
+        ["iets ongedaan maken", "отменить, свести на нет"]
+      ]
+    },
+    {
+      "title": "Полезные формулы для B2-говорения",
+      "headers": ["Функция", "Формула"],
+      "rows": [
+        ["мнение", "Mijns inziens / Naar mijn mening / Volgens mij"],
+        ["согласие", "Daar ben ik het mee eens / Dat klopt / Je hebt gelijk"],
+        ["несогласие", "Daar ben ik het niet mee eens / Ik betwijfel of..."],
+        ["условное", "Als het aan mij lag, zou ik..."],
+        ["пример", "Neem bijvoorbeeld... / Ter illustratie..."],
+        ["итог", "Al met al... / Samengevat..."],
+        ["признание", "Ik moet toegeven dat..."],
+        ["предложение", "Wat als we... / Waarom niet...?"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Стратегия изучения",
+      "items": [
+        "Заведите отдельный раздел в карточках 'uitdrukkingen' — повторяйте вместе с примерами.",
+        "Выписывайте идиомы, встреченные в сериалах/подкастах — учится лучше в контексте.",
+        "Для экзамена хватит 50 коллокаций + 15 идиом; не пытайтесь запомнить все."
+      ]
+    },
+    {
+      "title": "Опасности",
+      "items": [
+        "Не переводите русские идиомы дословно — 'iets op de lange baan schuiven' = откладывать, но 'iets op de plank leggen' — не голландская идиома.",
+        "Избегайте идиом в деловой переписке — они воспринимаются как фамильярность.",
+        "Следите за регистром: 'de pijp uit gaan' (умереть) — очень разговорно/грубо."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Daar ga ik niet over één nacht ijs.", "ru": "По этому поводу я не буду спешить с решением." },
+    { "nl": "Ik heb de taal al aardig onder de knie.", "ru": "Я уже прилично владею языком." },
+    { "nl": "Het heeft geen zin om nu te bellen.", "ru": "Нет смысла сейчас звонить." },
+    { "nl": "De politie treft strenge maatregelen.", "ru": "Полиция принимает строгие меры." },
+    { "nl": "Volgens mij heb je gelijk.", "ru": "По-моему, ты прав." },
+    { "nl": "Dat valt wel mee!", "ru": "Не так уж страшно!" },
+    { "nl": "Geld speelt een grote rol in deze beslissing.", "ru": "Деньги играют большую роль в этом решении." }
+  ],
+  "exceptions": [
+    "'Gelijk hebben' — НЕ 'waarheid zeggen'. Русское 'говорить правду' = 'de waarheid zeggen', но 'быть правым' = 'gelijk hebben'.",
+    "Некоторые идиомы имеют разное значение в разговорной и формальной речи: 'op de hoogte zijn' (формально: в курсе) = ок.",
+    "Идиомы с цветами и животными часто не переводятся: 'de blauwe enveloppe' — налоговое извещение."
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik heb recht.", "correct": "Ik heb gelijk.", "why": "'recht hebben' = иметь право на что-то (юридически), 'gelijk hebben' = быть правым." },
+    { "wrong": "Ik maak een beslissing.", "correct": "Ik neem een beslissing.", "why": "коллокация с 'nemen', не 'maken'." },
+    { "wrong": "Volgens mijn mening", "correct": "Naar mijn mening / Volgens mij", "why": "два способа, не смешивайте." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Ik heb een beslissing ___ .", "answer": "genomen", "explanation": "beslissing nemen" },
+    { "type": "choice", "question": "Что значит 'iets onder de knie hebben'?", "options": ["игнорировать", "хорошо овладеть", "прятать"], "answer": "хорошо овладеть", "explanation": "устойчивое: 'иметь под коленом' = освоить." },
+    { "type": "fill-blank", "sentence": "Dat heeft niets te ___ met de zaak.", "answer": "maken", "explanation": "te maken hebben met" },
+    { "type": "choice", "question": "Как сказать формально 'по-моему'?", "options": ["weet je", "naar mijn mening", "voor mij"], "answer": "naar mijn mening", "explanation": "формальная формула" },
+    { "type": "choice", "question": "'Het valt mee' значит...", "options": ["разочаровывает", "не так плохо", "падает"], "answer": "не так плохо", "explanation": "устойчивое выражение" },
+    { "type": "word-order", "words": ["de", "politie", "treft", "maatregelen"], "answer": "De politie treft maatregelen.", "explanation": "коллокация 'maatregelen treffen'" }
+  ],
+  "relatedTopics": ["verb-preposition", "register-and-style", "modal-particles"],
+  "inLessons": [34, 40, 46, 48, 52]
+}

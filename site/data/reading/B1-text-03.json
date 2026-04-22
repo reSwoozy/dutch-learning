@@ -1,0 +1,50 @@
+{
+  "id": "B1-text-03",
+  "level": "B1",
+  "title": "Fietsen in Nederland",
+  "topic": "cultuur-verkeer",
+  "readingTime": "4 min",
+  "body": "In Nederland zijn meer fietsen dan inwoners. Gemiddeld heeft elke Nederlander ruim één fiets, soms zelfs twee of drie: een gewone stadsfiets, een sportieve fiets en misschien een elektrische fiets voor langere afstanden. Dat is niet zonder reden: het land is plat, de afstanden zijn relatief klein en fietspaden zijn overal aanwezig.\n\nDe fietscultuur begon al in het begin van de twintigste eeuw, maar maakte in de jaren zeventig een enorme sprong voorwaarts. Na een aantal jaren waarin het autoverkeer was toegenomen en het aantal verkeersslachtoffers zorgwekkend hoog was, startte de beweging 'Stop de Kindermoord'. Die protesteerde tegen het gevaarlijke verkeer voor kinderen. De overheid besloot serieus te investeren in fietsinfrastructuur.\n\nTegenwoordig bestaan in veel steden aparte, brede fietspaden met eigen stoplichten. Er zijn ook 'fietsstraten', waar auto's te gast zijn en stapvoets moeten rijden. Grote stations hebben enorme fietsenstallingen: in Utrecht staat de grootste ter wereld, met ruim twaalfduizend plekken. Je huurt gemakkelijk een OV-fiets als je met de trein aankomt.\n\nFietsen heeft veel voordelen. Het is gezond, goedkoop en milieuvriendelijk. De Nederlandse overheid stimuleert fietsen via belastingvoordelen: wie van zijn werkgever een fiets krijgt, betaalt daar bijna geen belasting over. Werknemers kunnen bovendien een kilometervergoeding krijgen voor elke fietskilometer.\n\nToch zijn er ook uitdagingen. In de spits is het in veel steden druk op de fietspaden, en er gebeuren meer ongelukken omdat mensen telefoons gebruiken tijdens het fietsen. Sinds enkele jaren geldt daarom een wettelijk verbod op het vasthouden van een mobiele telefoon op de fiets.",
+  "glossary": [
+    {"nl": "de inwoner", "ru": "житель"},
+    {"nl": "het fietspad", "ru": "велодорожка"},
+    {"nl": "een sprong voorwaarts", "ru": "скачок вперёд"},
+    {"nl": "het verkeersslachtoffer", "ru": "жертва ДТП"},
+    {"nl": "zorgwekkend", "ru": "вызывающий беспокойство"},
+    {"nl": "de fietsstraat", "ru": "велосипедная улица"},
+    {"nl": "stapvoets", "ru": "шагом (очень медленно)"},
+    {"nl": "de fietsenstalling", "ru": "велопарковка"},
+    {"nl": "milieuvriendelijk", "ru": "экологичный"},
+    {"nl": "stimuleren", "ru": "стимулировать"},
+    {"nl": "de kilometervergoeding", "ru": "компенсация за километр"},
+    {"nl": "de spits", "ru": "час-пик"},
+    {"nl": "het verbod", "ru": "запрет"}
+  ],
+  "questions": [
+    {
+      "q": "Hoeveel fietsen heeft gemiddeld een Nederlander?",
+      "options": ["Minder dan één", "Ongeveer één, soms meer", "Precies drie"],
+      "answer": 1
+    },
+    {
+      "q": "Waarom investeerde de overheid in de jaren zeventig in fietsinfrastructuur?",
+      "options": ["Om geld te besparen", "Vanwege protest tegen gevaarlijk verkeer en veel verkeersslachtoffers", "Om toeristen aan te trekken"],
+      "answer": 1
+    },
+    {
+      "q": "Wat is bijzonder aan 'fietsstraten'?",
+      "options": ["Alleen elektrische fietsen mogen daar", "Auto's zijn te gast en moeten stapvoets rijden", "Fietsen mogen daar niet"],
+      "answer": 1
+    },
+    {
+      "q": "Hoe stimuleert de overheid fietsen?",
+      "options": ["Gratis fietsen voor iedereen", "Belastingvoordelen en kilometervergoeding", "Verbod op auto's"],
+      "answer": 1
+    },
+    {
+      "q": "Wat is sinds enkele jaren wettelijk verboden?",
+      "options": ["Elektrische fietsen", "Een mobiele telefoon vasthouden tijdens fietsen", "Naar het werk fietsen"],
+      "answer": 1
+    }
+  ]
+}

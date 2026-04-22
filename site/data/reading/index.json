@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "levels": [
+    {
+      "id": "A1",
+      "titleRu": "A1 — Знакомство",
+      "texts": [
+        {"id": "A1-text-01", "title": "Een dag van Anna", "topic": "dagelijks leven", "readingTime": "2 min"},
+        {"id": "A1-text-02", "title": "Boodschappen doen", "topic": "winkelen", "readingTime": "2 min"},
+        {"id": "A1-text-03", "title": "Het weer in Nederland", "topic": "weer", "readingTime": "2 min"},
+        {"id": "A1-text-04", "title": "Een berichtje aan oma", "topic": "communicatie", "readingTime": "2 min"},
+        {"id": "A1-text-05", "title": "Mijn familie", "topic": "familie", "readingTime": "2 min"}
+      ]
+    },
+    {
+      "id": "A2",
+      "titleRu": "A2 — Elementair",
+      "texts": [
+        {"id": "A2-text-01", "title": "Een nieuwe baan", "topic": "werk", "readingTime": "3 min"},
+        {"id": "A2-text-02", "title": "Vakantie in Friesland", "topic": "vrije tijd", "readingTime": "3 min"},
+        {"id": "A2-text-03", "title": "Gezond leven", "topic": "gezondheid", "readingTime": "3 min"},
+        {"id": "A2-text-04", "title": "Burenruzie", "topic": "wonen", "readingTime": "3 min"},
+        {"id": "A2-text-05", "title": "Bij de huisarts", "topic": "gezondheid", "readingTime": "3 min"}
+      ]
+    },
+    {
+      "id": "B1",
+      "titleRu": "B1 — Inburgering",
+      "texts": [
+        {"id": "B1-text-01", "title": "Thuiswerken in Nederland", "topic": "werk-maatschappij", "readingTime": "4 min"},
+        {"id": "B1-text-02", "title": "Het Nederlandse zorgsysteem", "topic": "gezondheid-beleid", "readingTime": "4 min"},
+        {"id": "B1-text-03", "title": "Fietsen in Nederland", "topic": "vervoer-cultuur", "readingTime": "4 min"},
+        {"id": "B1-text-04", "title": "Jongeren en sociale media", "topic": "maatschappij-media", "readingTime": "4 min"},
+        {"id": "B1-text-05", "title": "Duurzaam wonen", "topic": "milieu-wonen", "readingTime": "4 min"}
+      ]
+    },
+    {
+      "id": "B2",
+      "titleRu": "B2 — Staatsexamen NT2 II",
+      "texts": [
+        {"id": "B2-text-01", "title": "De woningmarkt onder druk", "topic": "wonen-economie", "readingTime": "5 min"},
+        {"id": "B2-text-02", "title": "Klimaatbeleid: tussen ambitie en realiteit", "topic": "milieu-beleid", "readingTime": "5 min"},
+        {"id": "B2-text-03", "title": "Arbeidsmarkt in transitie", "topic": "werk-economie", "readingTime": "5 min"},
+        {"id": "B2-text-04", "title": "Polarisatie in het publieke debat", "topic": "maatschappij-politiek", "readingTime": "5 min"},
+        {"id": "B2-text-05", "title": "De rol van universiteiten in de kennisssamenleving", "topic": "onderwijs-wetenschap", "readingTime": "5 min"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "email-afspraak-verzetten",
+  "title": "Afspraak verzetten",
+  "titleRu": "Перенос встречи",
+  "level": "A2",
+  "type": "email",
+  "description": "Короткое письмо о переносе встречи или отмене записи (к врачу, к учителю, в муниципалитет).",
+  "structure": [
+    {"title": "Aanhef", "note": "Geachte mevrouw / heer ..., если имя известно."},
+    {"title": "Reden", "note": "Объяснить, что нужно перенести встречу и почему (кратко)."},
+    {"title": "Voorstel", "note": "Предложить новые дни / время."},
+    {"title": "Afsluiting", "note": "Благодарность + подпись."}
+  ],
+  "phrases": [
+    "Op [datum] heb ik een afspraak met u om [tijd].",
+    "Helaas kan ik op die dag niet komen, omdat...",
+    "Ik wil de afspraak graag verzetten naar een andere datum.",
+    "Past het u om ... (op woensdag 14 mei om 10.00 uur)?",
+    "Ik hoor graag van u.",
+    "Alvast bedankt en met vriendelijke groet,"
+  ],
+  "model": "Geachte mevrouw De Vries,\n\nOp donderdag 12 mei om 15.30 uur heb ik een afspraak bij u op het consultatiebureau voor mijn dochter. Helaas kan ik op die dag niet komen, omdat ik dan voor mijn werk naar Brussel moet.\n\nIk wil de afspraak graag verzetten. Past het u volgende week, bijvoorbeeld op dinsdag 17 mei rond dezelfde tijd? Zo niet, dan hoor ik graag welke momenten bij u nog vrij zijn.\n\nAlvast bedankt en met vriendelijke groet,\n\nAnna Petrova",
+  "tips": [
+    "Не нужно объяснять подробно причину — одной короткой фразы достаточно.",
+    "Предложите 1–2 альтернативных варианта — это ускорит процесс.",
+    "Для официальных организаций используйте 'u', не 'je'."
+  ]
+}

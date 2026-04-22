@@ -1,0 +1,340 @@
+{
+  "id": "B1-lesson-31",
+  "num": 31,
+  "level": "B1",
+  "title": "Правительство и законы",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Правительство и законы",
+      "content": "**Понять структуру голландского государства, основные законы и научиться взаимодействовать с государственными органами.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "grammar",
+      "title": "Структура власти в Нидерландах"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Монархия (De Monarchie)",
+      "words": [
+        {
+          "nl": "Король",
+          "ru": "De Koning",
+          "hint": "Глава государства, ceremonial role"
+        },
+        {
+          "nl": "Королева",
+          "ru": "De Koningin",
+          "hint": "Супруга короля"
+        },
+        {
+          "nl": "Наследник престола",
+          "ru": "De troonopvolger",
+          "hint": "Будущий монарх"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Исполнительная власть (De Uitvoerende Macht)",
+      "content": "```\nKoning (Формальный глава)\n↓\nMinisterraad (Совет министров)\n├── Minister-president (Премьер-министр)\n├── Vice-minister-president\n└── Ministers (Министры различных ведомств)\n```\n**Основные министерства**:\n- **Algemene Zaken** - Общие дела (канцелярия премьера)\n- **Financiën** - Финансы\n- **Justitie en Veiligheid** - Юстиция и безопасность\n- **Onderwijs** - Образование\n- **Volksgezondheid** - Здравоохранение"
+    },
+    {
+      "type": "text",
+      "title": "Законодательная власть (De Wetgevende Macht)",
+      "content": "#### **Staten-Generaal (Парламент)**\n| Палата | Голландский | Состав | Функции |\n|--------|-------------|--------|---------|\n| **Нижняя палата** | Tweede Kamer | 150 депутатов, 4 года | Основные законы, бюджет |\n| **Верхняя палата** | Eerste Kamer | 75 сенаторов, 4 года | Проверка законов |\n#### **Избирательная система**\n- **Пропорциональная система** - каждая партия получает места пропорционально голосам\n- **Избирательный порог**: 0.67% (примерно 1 место в Tweede Kamer)\n- **Коалиционные правительства** - обычно 3-4 партии"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Политический спектр",
+      "words": [
+        {
+          "nl": "Левые",
+          "ru": "PvdA (труд), SP (социалисты)",
+          "hint": "Социал-демократия"
+        },
+        {
+          "nl": "Центр-левые",
+          "ru": "D66 (демократы)",
+          "hint": "Либеральная демократия"
+        },
+        {
+          "nl": "Центр-правые",
+          "ru": "VVD (либералы), CDA (христиане)",
+          "hint": "Либерализм, христианство"
+        },
+        {
+          "nl": "Правые",
+          "ru": "PVV (свобода), FvD (демократия)",
+          "hint": "Национализм, евроскептицизм"
+        },
+        {
+          "nl": "Зеленые",
+          "ru": "GroenLinks (зеленые левые)",
+          "hint": "Экология, прогрессивизм"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Коалиционная политика",
+      "content": "```\nВыборы → Переговоры → Формирование коалиции → Regeerakkoord (соглашение) → Правительство\n```\n**Особенности**:\n- Редко одна партия получает большинство\n- Длительные переговоры (часто месяцы)\n- Компромиссы и консенсус\n- Стабильные правительства (обычно полный срок)"
+    },
+    {
+      "type": "text",
+      "title": "Судебная власть (De Rechtelijke Macht)",
+      "content": "```\nHoge Raad (Верховный суд)\n↓\nGerechtshoven (Апелляционные суды)\n↓\nRechtbanken (Районные суды)\n↓\nKantonrechters (Мировые судьи)\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Основные области права",
+      "words": [
+        {
+          "nl": "Гражданское право",
+          "ru": "Burgerlijk recht",
+          "hint": "Контракты, собственность, семья"
+        },
+        {
+          "nl": "Уголовное право",
+          "ru": "Strafrecht",
+          "hint": "Преступления, наказания"
+        },
+        {
+          "nl": "Административное право",
+          "ru": "Bestuursrecht",
+          "hint": "Отношения с государством"
+        },
+        {
+          "nl": "Трудовое право",
+          "ru": "Arbeidsrecht",
+          "hint": "Трудовые отношения"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Правоохранительные органы",
+      "words": [
+        {
+          "nl": "Politie",
+          "ru": "Общественный порядок, расследования"
+        },
+        {
+          "nl": "Koninklijke Marechaussee",
+          "ru": "Пограничная служба, охрана"
+        },
+        {
+          "nl": "Openbaar Ministerie",
+          "ru": "Прокуратура"
+        },
+        {
+          "nl": "Rechterlijke Macht",
+          "ru": "Судебная система"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Цифровые услуги",
+      "content": "#### **DigiD (Цифровая идентификация)**\n- **Функции**: Доступ к государственным сайтам\n- **Уровни**: DigiD Basis, DigiD Midden, DigiD Hoog\n- **Использование**: Belastingdienst, GBA, toeslagen, etc.\n#### **MijnOverheid.nl**\n- **Berichtenbox**: Официальная почта от государства\n- **Documenten**: Хранение важных документов\n- **Gegevens**: Персональная информация"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Основные госорганы",
+      "words": [
+        {
+          "nl": "Налоговая служба",
+          "ru": "Belastingdienst",
+          "hint": "Налоги, льготы, toeslagen"
+        },
+        {
+          "nl": "Статистика",
+          "ru": "CBS",
+          "hint": "Статистические данные"
+        },
+        {
+          "nl": "Регистрация населения",
+          "ru": "BRP/GBA",
+          "hint": "Регистрация жителей"
+        },
+        {
+          "nl": "Иммиграционная служба",
+          "ru": "IND",
+          "hint": "Вид на жительство, гражданство"
+        },
+        {
+          "nl": "Агентство по трудоустройству",
+          "ru": "UWV",
+          "hint": "Пособия по безработице"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Диалог: В муниципалитете",
+      "content": "**Ambtenaar (Чиновник)**: Goedemorgen! Waarmee kan ik u helpen?\n**Burger (Гражданин)**: Ik wil me inschrijven in de GBA. Ik ben net verhuisd naar deze gemeente.\n**Ambtenaar**: Natuurlijk! Heeft u al een BSN-nummer?\n**Burger**: Ja, dat heb ik. Ook heb ik mijn paspoort en het huurcontract bij me.\n**Ambtenaar**: Perfect! Dan kan ik u direct inschrijven. Vanaf welke datum woont u op het nieuwe adres?\n**Burger**: Vanaf 1 februari. Moet ik ook ergens anders afmelden?\n**Ambtenaar**: Nee, dat doen wij automatisch. U krijgt binnen een week uw nieuwe uittreksel GBA.\n**Burger**: Mooi! Zijn er gemeentelijke belastingen die ik moet betalen?\n**Ambtenaar**: Ja, u krijgt automatisch een aanslag voor de afvalstoffenheffing en rioolheffing."
+    },
+    {
+      "type": "text",
+      "title": "Диалог: В налоговой службе",
+      "content": "**Belastingadviseur (Налоговый консультант)**: Welkom bij de Belastingdienst. Wat is uw vraag?\n**Belastingplichtige (Налогоплательщик)**: Ik heb een brief gekregen over mijn aangifte. Ik begrijp het niet goed.\n**Adviseur**: Laat me even kijken. Ah, het gaat om uw hypotheekrenteaftrek. Heeft u vorig jaar een huis gekocht?\n**Belastingplichtige**: Ja, in maart. Ik heb alle documenten van de bank.\n**Adviseur**: Dan kunt u de hypotheekrente aftrekken van uw belasting. Heeft u dit opgegeven in uw aangifte?\n**Belastingplichtige**: Nee, dat wist ik niet. Kan ik dat nog aanpassen?\n**Adviseur**: Zeker! U kunt binnen vijf jaar een herzieningsverzoek indienen. Ik help u daarbij.\n**Belastingplichtige**: Hoeveel kan ik terugkrijgen?\n**Adviseur**: Dat hangt af van uw inkomen en hypotheekbedrag. Waarschijnlijk enkele duizenden euro's."
+    },
+    {
+      "type": "text",
+      "title": "Что такое косвенная речь?",
+      "content": "Косвенная речь используется для передачи чужих слов.\n**Прямая речь**: Hij zegt: \"Ik ga naar huis.\"\n**Косвенная речь**: Hij zegt dat hij naar huis gaat."
+    },
+    {
+      "type": "text",
+      "title": "Образование косвенной речи",
+      "content": "#### **Утверждения (dat + изменение лица)**\n```\nПрямая: \"Ik werk bij de gemeente.\"\nКосвенная: Hij zegt dat hij bij de gemeente werkt.\nПрямая: \"Wij stemmen op deze partij.\"\nКосвенная: Zij zeiden dat zij op die partij stemden.\n```\n#### **Вопросы (of/vraagwoorden)**\n```\nПрямая: \"Heb je een DigiD?\"\nКосвенная: Hij vraagt of ik een DigiD heb.\nПрямая: \"Wanneer zijn de verkiezingen?\"\nКосвенная: Zij vroeg wanneer de verkiezingen waren.\n```\n#### **Приказы (om + te + infinitief)**\n```\nПрямая: \"Ga naar het gemeentehuis!\"\nКосвенная: Hij zei om naar het gemeentehuis te gaan.\n```"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Изменение времен в косвенной речи",
+      "words": [
+        {
+          "nl": "Настоящее**: werk",
+          "ru": "Прошлое**: werkte"
+        },
+        {
+          "nl": "Прошлое**: werkte",
+          "ru": "Прошлое совершенное**: had gewerkt"
+        },
+        {
+          "nl": "Перфект**: heb gewerkt",
+          "ru": "Прошлое совершенное**: had gewerkt"
+        },
+        {
+          "nl": "Будущее**: zal werken",
+          "ru": "Условное**: zou werken"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Государственная система",
+      "items": [
+        {
+          "question": "Король является главой государства."
+        },
+        {
+          "question": "Парламент состоит из двух палат."
+        },
+        {
+          "question": "Премьер-министр возглавляет правительство."
+        },
+        {
+          "question": "Выборы проходят каждые четыре года."
+        },
+        {
+          "question": "Коалиционные правительства обычны в Нидерландах."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Косвенная речь",
+      "items": [
+        {
+          "question": "De minister zegt: \"De belastingen gaan omhoog.\""
+        },
+        {
+          "question": "Hij vraagt: \"Wanneer zijn de verkiezingen?\""
+        },
+        {
+          "question": "Zij zei: \"Ik stem op deze partij.\""
+        },
+        {
+          "question": "De ambtenaar zegt: \"Breng uw paspoort mee.\""
+        },
+        {
+          "question": "Wij vragen: \"Hebben jullie DigiD?\""
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Государственные органы",
+      "items": [
+        {
+          "question": "Belastingdienst → a) Статистика"
+        },
+        {
+          "question": "IND → b) Налоги"
+        },
+        {
+          "question": "CBS → c) Вид на жительство"
+        },
+        {
+          "question": "UWV → d) Регистрация населения"
+        },
+        {
+          "question": "GBA → e) Пособие по безработице"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Особенности голландской демократии",
+      "content": "** Consensus politiek (Политика консенсуса)**:\n- Поиск компромиссов между партиями\n- Длительные переговоры для достижения согласия\n- Избежание радикальных изменений\n- Стабильность через сотрудничество\n** Proportional representation**:\n- Каждый голос имеет значение\n- Малые партии могут попасть в парламент\n- Разнообразие политических взглядов\n- Необходимость коалиций\n** Verzuiling (Столпы общества)**:\n- Исторические колонны: католики, протестанты, социалисты, либералы\n- Современные остатки в партийной системе\n- Влияние на образование и СМИ"
+    },
+    {
+      "type": "text",
+      "title": "Цифровое правительство",
+      "content": "** DigiD система**:\n- Высокий уровень цифровизации\n- Безопасность и приватность\n- Удобство для граждан\n- Сокращение бюрократии\n** Правительственные приложения**:\n- **CoronaCheck** - проверка вакцинации\n- **DigiD app** - мобильная идентификация\n- **112 app** - экстренные службы\n- **Mijn DigiD** - управление учетной записью"
+    },
+    {
+      "type": "text",
+      "title": "Статистика участия",
+      "content": "- **Явка на выборы**: ~80% (высокая для Европы)\n- **Доверие к правительству**: 60-70%\n- **Использование DigiD**: 95% взрослого населения\n- **Удовлетворенность госуслугами**: 75%"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые фразы урока",
+      "words": [
+        {
+          "nl": "De regering bestaat uit een coalitie",
+          "ru": "Правительство состоит из коалиции"
+        },
+        {
+          "nl": "Ik ga stemmen bij de verkiezingen",
+          "ru": "Я буду голосовать на выборах"
+        },
+        {
+          "nl": "Hij zei dat hij op die partij stemt",
+          "ru": "Он сказал, что голосует за эту партию"
+        },
+        {
+          "nl": "Ik moet me inschrijven bij de gemeente",
+          "ru": "Мне нужно зарегистрироваться в муниципалитете"
+        },
+        {
+          "nl": "Het parlement heeft twee kamers",
+          "ru": "У парламента две палаты"
+        },
+        {
+          "nl": "De wet wordt door de Tweede Kamer aangenomen",
+          "ru": "Закон принимается Второй палатой"
+        },
+        {
+          "nl": "U kunt DigiD gebruiken voor overheidsdiensten",
+          "ru": "Вы можете использовать DigiD для госуслуг"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 30** (Жилье и аренда): Регистрация в GBA при переезде\n- **Урок 29** (Банки и финансы): Налоги и взаимодействие с Belastingdienst\n- **Урок 27** (Пассивный залог): \"Wetten worden aangenomen\" (Законы принимаются)"
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 32: Медицинская помощь (Medische hulp)**\n- Система здравоохранения в Нидерландах\n- Семейный врач и специалисты\n- Медицинское страхование\n- Экстренные ситуации\n**Подготовка**: Подумайте о своих потребностях в медицинской помощи!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-31.json"
+}

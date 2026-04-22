@@ -1,0 +1,50 @@
+{
+  "id": "B1-text-01",
+  "level": "B1",
+  "title": "Thuiswerken: zegen of vloek?",
+  "topic": "werk-maatschappij",
+  "readingTime": "4 min",
+  "body": "Sinds de coronapandemie is thuiswerken voor veel Nederlanders normaal geworden. Waar werkgevers vroeger vooral wilden dat iedereen op kantoor zat, is het nu heel gewoon om twee of drie dagen per week vanuit huis te werken. Volgens het Centraal Bureau voor de Statistiek werkt ongeveer de helft van de werknemers in Nederland regelmatig thuis.\n\nVoor veel mensen is dat een uitkomst. Ze hebben meer tijd voor het gezin, hoeven niet in de file te staan en kunnen tussen het werk door een wasmachine aanzetten of boodschappen doen. Ook zeggen werknemers dat ze zich beter kunnen concentreren, omdat collega's niet steeds even iets komen vragen.\n\nMaar er zijn ook nadelen. Sommige mensen voelen zich eenzaam en missen het contact met collega's. Anderen werken juist te veel, omdat ze de grens tussen werk en privé niet meer kunnen trekken. Uit een enquête blijkt dat vooral jongeren het thuiswerken lastig vinden: ze leren hun vak immers door met ervaren mensen samen te werken.\n\nWerkgevers zoeken nu naar een balans. Veel bedrijven hebben een 'hybride beleid' afgesproken: minimaal twee dagen op kantoor, de rest is flexibel. Tegelijkertijd investeren ze meer in de inrichting van het kantoor, zodat mensen graag komen. De kantoortuin met vaste bureaus maakt plaats voor gezellige zones waar teams kunnen overleggen.\n\nDe grote vraag is hoe we dit op lange termijn doen. Deskundigen wijzen erop dat een evenwichtige aanpak gezonder is dan vijf dagen thuis of vijf dagen op kantoor. Elke organisatie zal moeten experimenteren om te vinden wat werkt.",
+  "glossary": [
+    {"nl": "de zegen", "ru": "благословение"},
+    {"nl": "de vloek", "ru": "проклятие"},
+    {"nl": "de werkgever", "ru": "работодатель"},
+    {"nl": "de werknemer", "ru": "работник"},
+    {"nl": "de uitkomst", "ru": "выход, облегчение"},
+    {"nl": "zich concentreren", "ru": "концентрироваться"},
+    {"nl": "de enquête", "ru": "опрос"},
+    {"nl": "de grens trekken", "ru": "проводить границу"},
+    {"nl": "het hybride beleid", "ru": "гибридная политика"},
+    {"nl": "de kantoortuin", "ru": "опен-офис"},
+    {"nl": "overleggen", "ru": "обсуждать"},
+    {"nl": "evenwichtig", "ru": "сбалансированный"},
+    {"nl": "de aanpak", "ru": "подход"}
+  ],
+  "questions": [
+    {
+      "q": "Hoeveel werknemers werken regelmatig thuis in Nederland?",
+      "options": ["Ongeveer een kwart", "Ongeveer de helft", "Bijna iedereen"],
+      "answer": 1
+    },
+    {
+      "q": "Wat is volgens de tekst een voordeel van thuiswerken?",
+      "options": ["Betere concentratie en minder file", "Meer contact met collega's", "Je wordt sneller bevorderd"],
+      "answer": 0
+    },
+    {
+      "q": "Welke groep vindt thuiswerken vaak lastig?",
+      "options": ["Ouderen", "Jongeren die nog hun vak leren", "Mensen met een hoog salaris"],
+      "answer": 1
+    },
+    {
+      "q": "Wat is een 'hybride beleid'?",
+      "options": ["Alleen thuiswerken", "Minimaal twee dagen op kantoor, rest flexibel", "Elke dag op kantoor"],
+      "answer": 1
+    },
+    {
+      "q": "Wat adviseren deskundigen?",
+      "options": ["Vijf dagen thuiswerken is het beste", "Een evenwichtige aanpak per organisatie", "Terug naar de oude situatie"],
+      "answer": 1
+    }
+  ]
+}

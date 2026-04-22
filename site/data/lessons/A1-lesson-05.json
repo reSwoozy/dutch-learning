@@ -1,0 +1,371 @@
+{
+  "id": "A1-lesson-05",
+  "num": 5,
+  "level": "A1",
+  "title": "Семья и описание людей",
+  "minutes": 15,
+  "objectives": [
+    "Называть всех членов семьи на нидерландском",
+    "Описывать внешность людей (рост, волосы, глаза)",
+    "Использовать притяжательные местоимения (mijn, jouw, zijn)",
+    "Рассказывать о своей семье",
+    "Понимать голландские семейные ценности"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Семья и описание людей",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 5 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Называть всех членов семьи на нидерландском\n- Описывать внешность людей (рост, волосы, глаза)\n- Использовать притяжательные местоимения (mijn, jouw, zijn)\n- Рассказывать о своей семье\n- Понимать голландские семейные ценности"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Члены семьи (4 минуты)",
+      "words": [
+        {
+          "nl": "de familie",
+          "ru": "семья",
+          "pronunciation": "[də faˈmili]",
+          "hint": "de broer"
+        },
+        {
+          "nl": "de broer",
+          "ru": "брат",
+          "pronunciation": "[də brur]"
+        },
+        {
+          "nl": "de ouders",
+          "ru": "родители",
+          "pronunciation": "[də ˈɑu̯dərs]",
+          "hint": "de zus"
+        },
+        {
+          "nl": "de zus",
+          "ru": "сестра",
+          "pronunciation": "[də zʏs]"
+        },
+        {
+          "nl": "de vader",
+          "ru": "отец",
+          "pronunciation": "[də ˈvaːdər]",
+          "hint": "de opa"
+        },
+        {
+          "nl": "de opa",
+          "ru": "дедушка",
+          "pronunciation": "[də ˈoːpaː]"
+        },
+        {
+          "nl": "de moeder",
+          "ru": "мать",
+          "pronunciation": "[də ˈmudər]",
+          "hint": "de oma"
+        },
+        {
+          "nl": "de oma",
+          "ru": "бабушка",
+          "pronunciation": "[də ˈoːmaː]"
+        },
+        {
+          "nl": "de zoon",
+          "ru": "сын",
+          "pronunciation": "[də soːn]",
+          "hint": "de oom"
+        },
+        {
+          "nl": "de oom",
+          "ru": "дядя",
+          "pronunciation": "[də oːm]"
+        },
+        {
+          "nl": "de dochter",
+          "ru": "дочь",
+          "pronunciation": "[də ˈdɔxtər]",
+          "hint": "de tante"
+        },
+        {
+          "nl": "de tante",
+          "ru": "тетя",
+          "pronunciation": "[də ˈtɑntə]"
+        },
+        {
+          "nl": "Nederlands",
+          "ru": "Русский",
+          "hint": "Произношение"
+        },
+        {
+          "nl": "het kind",
+          "ru": "ребенок",
+          "pronunciation": "[ɦət kɪnt]"
+        },
+        {
+          "nl": "de kinderen",
+          "ru": "дети",
+          "pronunciation": "[də ˈkɪndərən]"
+        },
+        {
+          "nl": "de neef",
+          "ru": "племянник/двоюродный брат",
+          "pronunciation": "[də neːf]"
+        },
+        {
+          "nl": "de nicht",
+          "ru": "племянница/двоюродная сестра",
+          "pronunciation": "[də nɪxt]"
+        },
+        {
+          "nl": "de man",
+          "ru": "муж",
+          "pronunciation": "[də mɑn]"
+        },
+        {
+          "nl": "de vrouw",
+          "ru": "жена",
+          "pronunciation": "[də vrɑu̯]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Притяжательные местоимения (3 минуты)",
+      "words": [
+        {
+          "nl": "mijn",
+          "ru": "мой/моя/мое",
+          "hint": "[mɛi̯n]"
+        },
+        {
+          "nl": "jouw/je",
+          "ru": "твой/твоя/твое",
+          "hint": "[jɑu̯]/[jə]"
+        },
+        {
+          "nl": "zijn",
+          "ru": "его",
+          "hint": "[zɛi̯n]"
+        },
+        {
+          "nl": "haar",
+          "ru": "ее",
+          "hint": "[ɦaːr]"
+        },
+        {
+          "nl": "ons/onze",
+          "ru": "наш/наша/наше",
+          "hint": "[ɔns]/[ˈɔnzə]"
+        },
+        {
+          "nl": "jullie",
+          "ru": "ваш/ваша/ваше",
+          "hint": "[ˈjʏli]"
+        },
+        {
+          "nl": "hun",
+          "ru": "их",
+          "hint": "[ɦʏn]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Описание внешности (4 минуты)",
+      "words": [
+        {
+          "nl": "lang",
+          "ru": "высокий/длинный",
+          "pronunciation": "[lɑŋ]",
+          "hint": "het haar"
+        },
+        {
+          "nl": "het haar",
+          "ru": "волосы",
+          "pronunciation": "[ɦət ɦaːr]"
+        },
+        {
+          "nl": "kort",
+          "ru": "низкий/короткий",
+          "pronunciation": "[kɔrt]",
+          "hint": "blond"
+        },
+        {
+          "nl": "blond",
+          "ru": "блондин(ка)",
+          "pronunciation": "[blɔnt]"
+        },
+        {
+          "nl": "groot",
+          "ru": "большой",
+          "pronunciation": "[ɣroːt]",
+          "hint": "bruin"
+        },
+        {
+          "nl": "bruin",
+          "ru": "коричневый",
+          "pronunciation": "[brœy̯n]"
+        },
+        {
+          "nl": "klein",
+          "ru": "маленький",
+          "pronunciation": "[klɛi̯n]",
+          "hint": "zwart"
+        },
+        {
+          "nl": "zwart",
+          "ru": "черный",
+          "pronunciation": "[zʋɑrt]"
+        },
+        {
+          "nl": "dik",
+          "ru": "толстый",
+          "pronunciation": "[dɪk]",
+          "hint": "de ogen"
+        },
+        {
+          "nl": "de ogen",
+          "ru": "глаза",
+          "pronunciation": "[də ˈoːɣə(n)]"
+        },
+        {
+          "nl": "dun",
+          "ru": "худой",
+          "pronunciation": "[dʏn]",
+          "hint": "blauw"
+        },
+        {
+          "nl": "blauw",
+          "ru": "голубой",
+          "pronunciation": "[blɑu̯]"
+        },
+        {
+          "nl": "mooi",
+          "ru": "красивый",
+          "pronunciation": "[moːi]",
+          "hint": "groen"
+        },
+        {
+          "nl": "groen",
+          "ru": "зеленый",
+          "pronunciation": "[ɣrun]"
+        },
+        {
+          "nl": "lelijk",
+          "ru": "некрасивый",
+          "pronunciation": "[ˈleːlək]",
+          "hint": "bruin"
+        },
+        {
+          "nl": "bruin",
+          "ru": "карие",
+          "pronunciation": "[brœy̯n]"
+        },
+        {
+          "nl": "jong",
+          "ru": "молодой",
+          "pronunciation": "[jɔŋ]",
+          "hint": "aardig"
+        },
+        {
+          "nl": "aardig",
+          "ru": "милый/добрый",
+          "pronunciation": "[ˈaːrdəx]"
+        },
+        {
+          "nl": "oud",
+          "ru": "старый",
+          "pronunciation": "[ɑu̯t]",
+          "hint": "vriendelijk"
+        },
+        {
+          "nl": "vriendelijk",
+          "ru": "дружелюбный",
+          "pronunciation": "[ˈvrindələk]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 4: Полезные фразы о семье (2 минуты)",
+      "words": [
+        {
+          "nl": "Dit is mijn familie",
+          "ru": "Это моя семья"
+        },
+        {
+          "nl": "Mijn vader heet Anton",
+          "ru": "Моего отца зовут Антон"
+        },
+        {
+          "nl": "Ik heb een broer en twee zussen",
+          "ru": "У меня есть брат и две сестры"
+        },
+        {
+          "nl": "Wij hebben drie kinderen",
+          "ru": "У нас трое детей"
+        },
+        {
+          "nl": "Hoe groot is jouw familie?",
+          "ru": "Насколько большая твоя семья?"
+        },
+        {
+          "nl": "Hij lijkt op zijn vader",
+          "ru": "Он похож на своего отца"
+        },
+        {
+          "nl": "Zij heeft blond haar en blauwe ogen",
+          "ru": "У нее светлые волосы и голубые глаза"
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 5: Упражнения (2 минуты)",
+      "items": [
+        {
+          "question": "___ vader (мой) → `__________`"
+        },
+        {
+          "question": "___ moeder (твоя) → `__________`"
+        },
+        {
+          "question": "___ broer (его) → `__________`"
+        },
+        {
+          "question": "___ zus (ее) → `__________`"
+        },
+        {
+          "question": "___ kinderen (наши) → `__________`"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "1. Притяжательные местоимения",
+      "content": "- **mijn vader** - мой отец\n- **jouw moeder** - твоя мама\n- **zijn auto** - его машина\n- **haar huis** - ее дом"
+    },
+    {
+      "type": "text",
+      "title": "2. Особенность ons/onze",
+      "content": "- **ons huis** (het-слово) - наш дом\n- **onze auto** (de-слово) - наша машина\n- **onze kinderen** (множественное) - наши дети"
+    },
+    {
+      "type": "grammar",
+      "title": "3. Глагол hebben (иметь)",
+      "content": "- **Ik heb** een broer - У меня есть брат\n- **Jij hebt** twee zussen - У тебя есть две сестры\n- **Hij heeft** blond haar - У него светлые волосы\n- **Wij hebben** drie kinderen - У нас трое детей"
+    },
+    {
+      "type": "text",
+      "title": "4. Описание внешности",
+      "content": "- **Hij is lang en dun** - Он высокий и худой\n- **Zij heeft bruin haar** - У нее каштановые волосы\n- **Pattern**: [Кто] + is + [прилагательное] / [Кто] + heeft + [что]\n**Подробнее**: [Притяжательные местоимения](../../../REFERENCE/grammar/A1-grammar/possessives.md)"
+    },
+    {
+      "type": "culture",
+      "title": "Семейные ценности в Нидерландах",
+      "content": "Голландские семьи имеют свои особенности, важные для интеграции:\n**Структура семьи**:\n- **Ядерная семья**: родители + дети - основа общества\n- **Равенство полов**: мужчины активно участвуют в воспитании детей\n- **Работающие мамы**: большинство женщин работают (часто part-time)\n**Общение в семье**:\n- **Прямота и честность**: говорят то, что думают\n- **Обсуждение проблем**: открыто решают семейные вопросы\n- **Независимость детей**: поощряют самостоятельность с раннего возраста\n**Семейное время**:\n- **Gezelligheid** - уют, тепло в семейном кругу\n- **Совместные ужины**: важная традиция\n- **Велосипедные прогулки**: семейный досуг\n**Полезные фразы**:\n- \"Gezellig samen\" - Уютно вместе\n- \"Hoe is het thuis?\" - Как дела дома?\n- \"Familie is belangrijk\" - Семья важна\n**Для интеграции**: Понимание семейных ценностей поможет лучше влиться в голландское общество и найти общие темы для разговора."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-05.json"
+}

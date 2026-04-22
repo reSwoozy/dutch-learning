@@ -1,0 +1,3012 @@
+[
+  {
+    "nl": "de mogelijkheid",
+    "ru": "возможность",
+    "level": "B1"
+  },
+  {
+    "nl": "de oplossing",
+    "ru": "решение (задачи)",
+    "level": "B1"
+  },
+  {
+    "nl": "het probleem",
+    "ru": "проблема",
+    "level": "B1"
+  },
+  {
+    "nl": "de oorzaak",
+    "ru": "причина",
+    "level": "B1"
+  },
+  {
+    "nl": "het gevolg",
+    "ru": "следствие, последствие",
+    "level": "B1"
+  },
+  {
+    "nl": "het doel",
+    "ru": "цель",
+    "level": "B1"
+  },
+  {
+    "nl": "de reden",
+    "ru": "причина, основание",
+    "level": "B1"
+  },
+  {
+    "nl": "het voorbeeld",
+    "ru": "пример",
+    "level": "B1"
+  },
+  {
+    "nl": "het verschil",
+    "ru": "разница",
+    "level": "B1"
+  },
+  {
+    "nl": "de overeenkomst",
+    "ru": "сходство; соглашение",
+    "level": "B1"
+  },
+  {
+    "nl": "de ervaring",
+    "ru": "опыт",
+    "level": "B1"
+  },
+  {
+    "nl": "de kennis",
+    "ru": "знание",
+    "level": "B1"
+  },
+  {
+    "nl": "de mening",
+    "ru": "мнение",
+    "level": "B1"
+  },
+  {
+    "nl": "het standpunt",
+    "ru": "точка зрения",
+    "level": "B1"
+  },
+  {
+    "nl": "het advies",
+    "ru": "совет",
+    "level": "B1"
+  },
+  {
+    "nl": "het gesprek",
+    "ru": "разговор, беседа",
+    "level": "B1"
+  },
+  {
+    "nl": "de discussie",
+    "ru": "обсуждение, дискуссия",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitnodiging",
+    "ru": "приглашение",
+    "level": "B1"
+  },
+  {
+    "nl": "de reactie",
+    "ru": "реакция",
+    "level": "B1"
+  },
+  {
+    "nl": "de conclusie",
+    "ru": "вывод",
+    "level": "B1"
+  },
+  {
+    "nl": "de samenvatting",
+    "ru": "резюме, краткое содержание",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitleg",
+    "ru": "объяснение",
+    "level": "B1"
+  },
+  {
+    "nl": "de beschrijving",
+    "ru": "описание",
+    "level": "B1"
+  },
+  {
+    "nl": "de opdracht",
+    "ru": "задание",
+    "level": "B1"
+  },
+  {
+    "nl": "de afspraak",
+    "ru": "договорённость, встреча",
+    "level": "B1"
+  },
+  {
+    "nl": "de bijeenkomst",
+    "ru": "собрание, встреча",
+    "level": "B1"
+  },
+  {
+    "nl": "de vergadering",
+    "ru": "совещание, заседание",
+    "level": "B1"
+  },
+  {
+    "nl": "de bespreking",
+    "ru": "обсуждение",
+    "level": "B1"
+  },
+  {
+    "nl": "de deadline",
+    "ru": "срок сдачи",
+    "level": "B1"
+  },
+  {
+    "nl": "het voorstel",
+    "ru": "предложение",
+    "level": "B1"
+  },
+  {
+    "nl": "de regeling",
+    "ru": "порядок, схема",
+    "level": "B1"
+  },
+  {
+    "nl": "de procedure",
+    "ru": "процедура",
+    "level": "B1"
+  },
+  {
+    "nl": "de voorwaarde",
+    "ru": "условие",
+    "level": "B1"
+  },
+  {
+    "nl": "het gevolg trekken",
+    "ru": "делать вывод",
+    "level": "B1"
+  },
+  {
+    "nl": "de aanvraag",
+    "ru": "заявление, заявка",
+    "level": "B1"
+  },
+  {
+    "nl": "het verzoek",
+    "ru": "просьба, запрос",
+    "level": "B1"
+  },
+  {
+    "nl": "de klacht",
+    "ru": "жалоба",
+    "level": "B1"
+  },
+  {
+    "nl": "de oplichting",
+    "ru": "обман, мошенничество",
+    "level": "B1"
+  },
+  {
+    "nl": "het misverstand",
+    "ru": "недопонимание",
+    "level": "B1"
+  },
+  {
+    "nl": "het conflict",
+    "ru": "конфликт",
+    "level": "B1"
+  },
+  {
+    "nl": "de ruzie",
+    "ru": "ссора",
+    "level": "B1"
+  },
+  {
+    "nl": "de verandering",
+    "ru": "изменение",
+    "level": "B1"
+  },
+  {
+    "nl": "de ontwikkeling",
+    "ru": "развитие",
+    "level": "B1"
+  },
+  {
+    "nl": "de groei",
+    "ru": "рост",
+    "level": "B1"
+  },
+  {
+    "nl": "de daling",
+    "ru": "снижение, падение",
+    "level": "B1"
+  },
+  {
+    "nl": "de stijging",
+    "ru": "рост, подъём",
+    "level": "B1"
+  },
+  {
+    "nl": "de toename",
+    "ru": "увеличение",
+    "level": "B1"
+  },
+  {
+    "nl": "de afname",
+    "ru": "уменьшение",
+    "level": "B1"
+  },
+  {
+    "nl": "de vooruitgang",
+    "ru": "прогресс",
+    "level": "B1"
+  },
+  {
+    "nl": "de achteruitgang",
+    "ru": "регресс, упадок",
+    "level": "B1"
+  },
+  {
+    "nl": "de vernieuwing",
+    "ru": "обновление",
+    "level": "B1"
+  },
+  {
+    "nl": "de innovatie",
+    "ru": "инновация",
+    "level": "B1"
+  },
+  {
+    "nl": "de technologie",
+    "ru": "технология",
+    "level": "B1"
+  },
+  {
+    "nl": "de wetenschap",
+    "ru": "наука",
+    "level": "B1"
+  },
+  {
+    "nl": "het onderzoek",
+    "ru": "исследование",
+    "level": "B1"
+  },
+  {
+    "nl": "het resultaat",
+    "ru": "результат",
+    "level": "B1"
+  },
+  {
+    "nl": "het cijfer",
+    "ru": "цифра; оценка",
+    "level": "B1"
+  },
+  {
+    "nl": "het percentage",
+    "ru": "процент",
+    "level": "B1"
+  },
+  {
+    "nl": "het gemiddelde",
+    "ru": "среднее",
+    "level": "B1"
+  },
+  {
+    "nl": "het verband",
+    "ru": "связь, взаимосвязь",
+    "level": "B1"
+  },
+  {
+    "nl": "de invloed",
+    "ru": "влияние",
+    "level": "B1"
+  },
+  {
+    "nl": "de gevolgen",
+    "ru": "последствия",
+    "level": "B1"
+  },
+  {
+    "nl": "de tendens",
+    "ru": "тенденция",
+    "level": "B1"
+  },
+  {
+    "nl": "de trend",
+    "ru": "тренд",
+    "level": "B1"
+  },
+  {
+    "nl": "de verwachting",
+    "ru": "ожидание",
+    "level": "B1"
+  },
+  {
+    "nl": "de voorspelling",
+    "ru": "прогноз",
+    "level": "B1"
+  },
+  {
+    "nl": "de maatregel",
+    "ru": "мера",
+    "level": "B1"
+  },
+  {
+    "nl": "de wet",
+    "ru": "закон",
+    "level": "B1"
+  },
+  {
+    "nl": "de regel",
+    "ru": "правило",
+    "level": "B1"
+  },
+  {
+    "nl": "het recht",
+    "ru": "право",
+    "level": "B1"
+  },
+  {
+    "nl": "de plicht",
+    "ru": "обязанность",
+    "level": "B1"
+  },
+  {
+    "nl": "de verantwoordelijkheid",
+    "ru": "ответственность",
+    "level": "B1"
+  },
+  {
+    "nl": "de gelegenheid",
+    "ru": "случай, повод",
+    "level": "B1"
+  },
+  {
+    "nl": "de kans",
+    "ru": "шанс, вероятность",
+    "level": "B1"
+  },
+  {
+    "nl": "het risico",
+    "ru": "риск",
+    "level": "B1"
+  },
+  {
+    "nl": "het voordeel",
+    "ru": "преимущество",
+    "level": "B1"
+  },
+  {
+    "nl": "het nadeel",
+    "ru": "недостаток",
+    "level": "B1"
+  },
+  {
+    "nl": "de kwaliteit",
+    "ru": "качество",
+    "level": "B1"
+  },
+  {
+    "nl": "de hoeveelheid",
+    "ru": "количество",
+    "level": "B1"
+  },
+  {
+    "nl": "de maat",
+    "ru": "мера, размер",
+    "level": "B1"
+  },
+  {
+    "nl": "de grootte",
+    "ru": "размер, величина",
+    "level": "B1"
+  },
+  {
+    "nl": "het niveau",
+    "ru": "уровень",
+    "level": "B1"
+  },
+  {
+    "nl": "de graad",
+    "ru": "степень, градус",
+    "level": "B1"
+  },
+  {
+    "nl": "de intensiteit",
+    "ru": "интенсивность",
+    "level": "B1"
+  },
+  {
+    "nl": "de druk",
+    "ru": "давление",
+    "level": "B1"
+  },
+  {
+    "nl": "de spanning",
+    "ru": "напряжение",
+    "level": "B1"
+  },
+  {
+    "nl": "de stress",
+    "ru": "стресс",
+    "level": "B1"
+  },
+  {
+    "nl": "de rust",
+    "ru": "покой",
+    "level": "B1"
+  },
+  {
+    "nl": "het evenwicht",
+    "ru": "равновесие, баланс",
+    "level": "B1"
+  },
+  {
+    "nl": "de balans",
+    "ru": "баланс",
+    "level": "B1"
+  },
+  {
+    "nl": "de prioriteit",
+    "ru": "приоритет",
+    "level": "B1"
+  },
+  {
+    "nl": "de planning",
+    "ru": "планирование",
+    "level": "B1"
+  },
+  {
+    "nl": "het schema",
+    "ru": "расписание, схема",
+    "level": "B1"
+  },
+  {
+    "nl": "het doelwit",
+    "ru": "цель, мишень",
+    "level": "B1"
+  },
+  {
+    "nl": "de taak",
+    "ru": "задача",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitdaging",
+    "ru": "вызов, испытание",
+    "level": "B1"
+  },
+  {
+    "nl": "het succes",
+    "ru": "успех",
+    "level": "B1"
+  },
+  {
+    "nl": "de mislukking",
+    "ru": "неудача",
+    "level": "B1"
+  },
+  {
+    "nl": "de prestatie",
+    "ru": "достижение",
+    "level": "B1"
+  },
+  {
+    "nl": "de inspanning",
+    "ru": "усилие",
+    "level": "B1"
+  },
+  {
+    "nl": "de moeite",
+    "ru": "труд, усилие",
+    "level": "B1"
+  },
+  {
+    "nl": "de poging",
+    "ru": "попытка",
+    "level": "B1"
+  },
+  {
+    "nl": "het gedrag",
+    "ru": "поведение",
+    "level": "B1"
+  },
+  {
+    "nl": "de houding",
+    "ru": "отношение, позиция",
+    "level": "B1"
+  },
+  {
+    "nl": "de gewoonte",
+    "ru": "привычка",
+    "level": "B1"
+  },
+  {
+    "nl": "de traditie",
+    "ru": "традиция",
+    "level": "B1"
+  },
+  {
+    "nl": "de cultuur",
+    "ru": "культура",
+    "level": "B1"
+  },
+  {
+    "nl": "de samenleving",
+    "ru": "общество",
+    "level": "B1"
+  },
+  {
+    "nl": "de maatschappij",
+    "ru": "общество",
+    "level": "B1"
+  },
+  {
+    "nl": "de bevolking",
+    "ru": "население",
+    "level": "B1"
+  },
+  {
+    "nl": "de gemeenschap",
+    "ru": "сообщество",
+    "level": "B1"
+  },
+  {
+    "nl": "de overheid",
+    "ru": "государство, власти",
+    "level": "B1"
+  },
+  {
+    "nl": "de regering",
+    "ru": "правительство",
+    "level": "B1"
+  },
+  {
+    "nl": "de minister",
+    "ru": "министр",
+    "level": "B1"
+  },
+  {
+    "nl": "het ministerie",
+    "ru": "министерство",
+    "level": "B1"
+  },
+  {
+    "nl": "de gemeente",
+    "ru": "муниципалитет",
+    "level": "B1"
+  },
+  {
+    "nl": "de provincie",
+    "ru": "провинция",
+    "level": "B1"
+  },
+  {
+    "nl": "de politicus",
+    "ru": "политик",
+    "level": "B1"
+  },
+  {
+    "nl": "de politiek",
+    "ru": "политика",
+    "level": "B1"
+  },
+  {
+    "nl": "de partij",
+    "ru": "партия",
+    "level": "B1"
+  },
+  {
+    "nl": "de verkiezing",
+    "ru": "выборы",
+    "level": "B1"
+  },
+  {
+    "nl": "de stem",
+    "ru": "голос",
+    "level": "B1"
+  },
+  {
+    "nl": "de democratie",
+    "ru": "демократия",
+    "level": "B1"
+  },
+  {
+    "nl": "de burger",
+    "ru": "гражданин",
+    "level": "B1"
+  },
+  {
+    "nl": "de rechter",
+    "ru": "судья",
+    "level": "B1"
+  },
+  {
+    "nl": "de advocaat",
+    "ru": "адвокат",
+    "level": "B1"
+  },
+  {
+    "nl": "de rechtbank",
+    "ru": "суд",
+    "level": "B1"
+  },
+  {
+    "nl": "de boete",
+    "ru": "штраф",
+    "level": "B1"
+  },
+  {
+    "nl": "de straf",
+    "ru": "наказание",
+    "level": "B1"
+  },
+  {
+    "nl": "het misdrijf",
+    "ru": "преступление",
+    "level": "B1"
+  },
+  {
+    "nl": "de dader",
+    "ru": "правонарушитель",
+    "level": "B1"
+  },
+  {
+    "nl": "het slachtoffer",
+    "ru": "жертва",
+    "level": "B1"
+  },
+  {
+    "nl": "de getuige",
+    "ru": "свидетель",
+    "level": "B1"
+  },
+  {
+    "nl": "het bewijs",
+    "ru": "доказательство",
+    "level": "B1"
+  },
+  {
+    "nl": "de aangifte",
+    "ru": "заявление в полицию",
+    "level": "B1"
+  },
+  {
+    "nl": "de verzekering",
+    "ru": "страховка",
+    "level": "B1"
+  },
+  {
+    "nl": "de belasting",
+    "ru": "налог",
+    "level": "B1"
+  },
+  {
+    "nl": "de bijdrage",
+    "ru": "вклад, взнос",
+    "level": "B1"
+  },
+  {
+    "nl": "de toeslag",
+    "ru": "надбавка, доплата",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitkering",
+    "ru": "пособие",
+    "level": "B1"
+  },
+  {
+    "nl": "de subsidie",
+    "ru": "субсидия",
+    "level": "B1"
+  },
+  {
+    "nl": "de lening",
+    "ru": "заём, кредит",
+    "level": "B1"
+  },
+  {
+    "nl": "de schuld",
+    "ru": "долг; вина",
+    "level": "B1"
+  },
+  {
+    "nl": "de rente",
+    "ru": "процент (по вкладу/кредиту)",
+    "level": "B1"
+  },
+  {
+    "nl": "de hypotheek",
+    "ru": "ипотека",
+    "level": "B1"
+  },
+  {
+    "nl": "het inkomen",
+    "ru": "доход",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitgaven",
+    "ru": "расходы",
+    "level": "B1"
+  },
+  {
+    "nl": "het budget",
+    "ru": "бюджет",
+    "level": "B1"
+  },
+  {
+    "nl": "de besparing",
+    "ru": "экономия, сбережение",
+    "level": "B1"
+  },
+  {
+    "nl": "de winst",
+    "ru": "прибыль",
+    "level": "B1"
+  },
+  {
+    "nl": "het verlies",
+    "ru": "убыток, потеря",
+    "level": "B1"
+  },
+  {
+    "nl": "de concurrentie",
+    "ru": "конкуренция",
+    "level": "B1"
+  },
+  {
+    "nl": "de klant",
+    "ru": "клиент",
+    "level": "B1"
+  },
+  {
+    "nl": "de leverancier",
+    "ru": "поставщик",
+    "level": "B1"
+  },
+  {
+    "nl": "de werkgever",
+    "ru": "работодатель",
+    "level": "B1"
+  },
+  {
+    "nl": "de werknemer",
+    "ru": "работник",
+    "level": "B1"
+  },
+  {
+    "nl": "het personeel",
+    "ru": "персонал",
+    "level": "B1"
+  },
+  {
+    "nl": "de collega",
+    "ru": "коллега",
+    "level": "B1"
+  },
+  {
+    "nl": "de leidinggevende",
+    "ru": "руководитель",
+    "level": "B1"
+  },
+  {
+    "nl": "de directeur",
+    "ru": "директор",
+    "level": "B1"
+  },
+  {
+    "nl": "de sollicitatie",
+    "ru": "подача заявки на работу",
+    "level": "B1"
+  },
+  {
+    "nl": "het sollicitatiegesprek",
+    "ru": "собеседование",
+    "level": "B1"
+  },
+  {
+    "nl": "de motivatiebrief",
+    "ru": "мотивационное письмо",
+    "level": "B1"
+  },
+  {
+    "nl": "het cv",
+    "ru": "резюме",
+    "level": "B1"
+  },
+  {
+    "nl": "het contract",
+    "ru": "контракт",
+    "level": "B1"
+  },
+  {
+    "nl": "de arbeidsvoorwaarden",
+    "ru": "условия труда",
+    "level": "B1"
+  },
+  {
+    "nl": "het proefperiode",
+    "ru": "испытательный срок",
+    "level": "B1"
+  },
+  {
+    "nl": "het ontslag",
+    "ru": "увольнение",
+    "level": "B1"
+  },
+  {
+    "nl": "de werkloosheid",
+    "ru": "безработица",
+    "level": "B1"
+  },
+  {
+    "nl": "de vacature",
+    "ru": "вакансия",
+    "level": "B1"
+  },
+  {
+    "nl": "de functie",
+    "ru": "должность, функция",
+    "level": "B1"
+  },
+  {
+    "nl": "de loopbaan",
+    "ru": "карьера",
+    "level": "B1"
+  },
+  {
+    "nl": "de opleiding",
+    "ru": "образование, обучение",
+    "level": "B1"
+  },
+  {
+    "nl": "de cursus",
+    "ru": "курс",
+    "level": "B1"
+  },
+  {
+    "nl": "de training",
+    "ru": "тренинг",
+    "level": "B1"
+  },
+  {
+    "nl": "de scholing",
+    "ru": "обучение, подготовка",
+    "level": "B1"
+  },
+  {
+    "nl": "het diploma",
+    "ru": "диплом",
+    "level": "B1"
+  },
+  {
+    "nl": "het certificaat",
+    "ru": "сертификат",
+    "level": "B1"
+  },
+  {
+    "nl": "het getuigschrift",
+    "ru": "свидетельство",
+    "level": "B1"
+  },
+  {
+    "nl": "de basisschool",
+    "ru": "начальная школа",
+    "level": "B1"
+  },
+  {
+    "nl": "de middelbare school",
+    "ru": "средняя школа",
+    "level": "B1"
+  },
+  {
+    "nl": "het voortgezet onderwijs",
+    "ru": "среднее образование",
+    "level": "B1"
+  },
+  {
+    "nl": "het hoger onderwijs",
+    "ru": "высшее образование",
+    "level": "B1"
+  },
+  {
+    "nl": "de universiteit",
+    "ru": "университет",
+    "level": "B1"
+  },
+  {
+    "nl": "de hogeschool",
+    "ru": "прикладной университет (HBO)",
+    "level": "B1"
+  },
+  {
+    "nl": "de faculteit",
+    "ru": "факультет",
+    "level": "B1"
+  },
+  {
+    "nl": "de studie",
+    "ru": "учёба",
+    "level": "B1"
+  },
+  {
+    "nl": "het vak",
+    "ru": "предмет; профессия",
+    "level": "B1"
+  },
+  {
+    "nl": "het college",
+    "ru": "лекция, занятие",
+    "level": "B1"
+  },
+  {
+    "nl": "het werkcollege",
+    "ru": "семинар",
+    "level": "B1"
+  },
+  {
+    "nl": "het tentamen",
+    "ru": "экзамен",
+    "level": "B1"
+  },
+  {
+    "nl": "de toets",
+    "ru": "тест, контрольная",
+    "level": "B1"
+  },
+  {
+    "nl": "het examen",
+    "ru": "экзамен",
+    "level": "B1"
+  },
+  {
+    "nl": "de scriptie",
+    "ru": "дипломная работа",
+    "level": "B1"
+  },
+  {
+    "nl": "het verslag",
+    "ru": "отчёт, доклад",
+    "level": "B1"
+  },
+  {
+    "nl": "de presentatie",
+    "ru": "презентация",
+    "level": "B1"
+  },
+  {
+    "nl": "het onderwerp",
+    "ru": "тема",
+    "level": "B1"
+  },
+  {
+    "nl": "de inhoud",
+    "ru": "содержание",
+    "level": "B1"
+  },
+  {
+    "nl": "het artikel",
+    "ru": "статья",
+    "level": "B1"
+  },
+  {
+    "nl": "de bron",
+    "ru": "источник",
+    "level": "B1"
+  },
+  {
+    "nl": "de informatie",
+    "ru": "информация",
+    "level": "B1"
+  },
+  {
+    "nl": "het gegeven",
+    "ru": "данные",
+    "level": "B1"
+  },
+  {
+    "nl": "de statistiek",
+    "ru": "статистика",
+    "level": "B1"
+  },
+  {
+    "nl": "het document",
+    "ru": "документ",
+    "level": "B1"
+  },
+  {
+    "nl": "het formulier",
+    "ru": "бланк, форма",
+    "level": "B1"
+  },
+  {
+    "nl": "het bewijsstuk",
+    "ru": "подтверждающий документ",
+    "level": "B1"
+  },
+  {
+    "nl": "de handtekening",
+    "ru": "подпись",
+    "level": "B1"
+  },
+  {
+    "nl": "het stempel",
+    "ru": "печать",
+    "level": "B1"
+  },
+  {
+    "nl": "de kopie",
+    "ru": "копия",
+    "level": "B1"
+  },
+  {
+    "nl": "het origineel",
+    "ru": "оригинал",
+    "level": "B1"
+  },
+  {
+    "nl": "de bijlage",
+    "ru": "приложение (к письму)",
+    "level": "B1"
+  },
+  {
+    "nl": "de brief",
+    "ru": "письмо",
+    "level": "B1"
+  },
+  {
+    "nl": "de e-mail",
+    "ru": "электронное письмо",
+    "level": "B1"
+  },
+  {
+    "nl": "het bericht",
+    "ru": "сообщение",
+    "level": "B1"
+  },
+  {
+    "nl": "de aankondiging",
+    "ru": "объявление",
+    "level": "B1"
+  },
+  {
+    "nl": "de oproep",
+    "ru": "призыв, обращение",
+    "level": "B1"
+  },
+  {
+    "nl": "de waarschuwing",
+    "ru": "предупреждение",
+    "level": "B1"
+  },
+  {
+    "nl": "de herinnering",
+    "ru": "напоминание; воспоминание",
+    "level": "B1"
+  },
+  {
+    "nl": "de gezondheid",
+    "ru": "здоровье",
+    "level": "B1"
+  },
+  {
+    "nl": "de ziekte",
+    "ru": "болезнь",
+    "level": "B1"
+  },
+  {
+    "nl": "de behandeling",
+    "ru": "лечение",
+    "level": "B1"
+  },
+  {
+    "nl": "de diagnose",
+    "ru": "диагноз",
+    "level": "B1"
+  },
+  {
+    "nl": "de klachten",
+    "ru": "жалобы (мед.)",
+    "level": "B1"
+  },
+  {
+    "nl": "de symptomen",
+    "ru": "симптомы",
+    "level": "B1"
+  },
+  {
+    "nl": "het medicijn",
+    "ru": "лекарство",
+    "level": "B1"
+  },
+  {
+    "nl": "het recept",
+    "ru": "рецепт",
+    "level": "B1"
+  },
+  {
+    "nl": "de operatie",
+    "ru": "операция",
+    "level": "B1"
+  },
+  {
+    "nl": "de afdeling",
+    "ru": "отделение",
+    "level": "B1"
+  },
+  {
+    "nl": "de specialist",
+    "ru": "специалист",
+    "level": "B1"
+  },
+  {
+    "nl": "de huisarts",
+    "ru": "семейный врач (терапевт)",
+    "level": "B1"
+  },
+  {
+    "nl": "de tandarts",
+    "ru": "стоматолог",
+    "level": "B1"
+  },
+  {
+    "nl": "de apotheek",
+    "ru": "аптека",
+    "level": "B1"
+  },
+  {
+    "nl": "de verzekeringspas",
+    "ru": "страховая карта",
+    "level": "B1"
+  },
+  {
+    "nl": "de zorgverzekering",
+    "ru": "медицинская страховка",
+    "level": "B1"
+  },
+  {
+    "nl": "het eigen risico",
+    "ru": "франшиза, не покрываемая сумма",
+    "level": "B1"
+  },
+  {
+    "nl": "de zorgtoeslag",
+    "ru": "компенсация за страховку",
+    "level": "B1"
+  },
+  {
+    "nl": "de preventie",
+    "ru": "профилактика",
+    "level": "B1"
+  },
+  {
+    "nl": "de voeding",
+    "ru": "питание",
+    "level": "B1"
+  },
+  {
+    "nl": "het dieet",
+    "ru": "диета",
+    "level": "B1"
+  },
+  {
+    "nl": "de beweging",
+    "ru": "движение, физическая активность",
+    "level": "B1"
+  },
+  {
+    "nl": "de sport",
+    "ru": "спорт",
+    "level": "B1"
+  },
+  {
+    "nl": "de training",
+    "ru": "тренировка",
+    "level": "B1"
+  },
+  {
+    "nl": "de wedstrijd",
+    "ru": "соревнование, матч",
+    "level": "B1"
+  },
+  {
+    "nl": "de vereniging",
+    "ru": "объединение, клуб",
+    "level": "B1"
+  },
+  {
+    "nl": "het lidmaatschap",
+    "ru": "членство",
+    "level": "B1"
+  },
+  {
+    "nl": "de relatie",
+    "ru": "отношения",
+    "level": "B1"
+  },
+  {
+    "nl": "de vriendschap",
+    "ru": "дружба",
+    "level": "B1"
+  },
+  {
+    "nl": "het huwelijk",
+    "ru": "брак",
+    "level": "B1"
+  },
+  {
+    "nl": "de echtscheiding",
+    "ru": "развод",
+    "level": "B1"
+  },
+  {
+    "nl": "de samenwonen",
+    "ru": "совместное проживание",
+    "level": "B1"
+  },
+  {
+    "nl": "de partner",
+    "ru": "партнёр",
+    "level": "B1"
+  },
+  {
+    "nl": "de ouders",
+    "ru": "родители",
+    "level": "B1"
+  },
+  {
+    "nl": "de opvoeding",
+    "ru": "воспитание",
+    "level": "B1"
+  },
+  {
+    "nl": "het kind",
+    "ru": "ребёнок",
+    "level": "B1"
+  },
+  {
+    "nl": "de jeugd",
+    "ru": "молодёжь; юность",
+    "level": "B1"
+  },
+  {
+    "nl": "de volwassene",
+    "ru": "взрослый",
+    "level": "B1"
+  },
+  {
+    "nl": "de ouderen",
+    "ru": "пожилые",
+    "level": "B1"
+  },
+  {
+    "nl": "de generatie",
+    "ru": "поколение",
+    "level": "B1"
+  },
+  {
+    "nl": "de emotie",
+    "ru": "эмоция",
+    "level": "B1"
+  },
+  {
+    "nl": "het gevoel",
+    "ru": "чувство",
+    "level": "B1"
+  },
+  {
+    "nl": "de angst",
+    "ru": "страх",
+    "level": "B1"
+  },
+  {
+    "nl": "de woede",
+    "ru": "гнев",
+    "level": "B1"
+  },
+  {
+    "nl": "de vreugde",
+    "ru": "радость",
+    "level": "B1"
+  },
+  {
+    "nl": "de teleurstelling",
+    "ru": "разочарование",
+    "level": "B1"
+  },
+  {
+    "nl": "de verrassing",
+    "ru": "сюрприз",
+    "level": "B1"
+  },
+  {
+    "nl": "de twijfel",
+    "ru": "сомнение",
+    "level": "B1"
+  },
+  {
+    "nl": "de hoop",
+    "ru": "надежда",
+    "level": "B1"
+  },
+  {
+    "nl": "de wens",
+    "ru": "желание",
+    "level": "B1"
+  },
+  {
+    "nl": "de droom",
+    "ru": "мечта, сон",
+    "level": "B1"
+  },
+  {
+    "nl": "de zorg",
+    "ru": "забота, беспокойство",
+    "level": "B1"
+  },
+  {
+    "nl": "het geluk",
+    "ru": "счастье; удача",
+    "level": "B1"
+  },
+  {
+    "nl": "de tevredenheid",
+    "ru": "удовлетворённость",
+    "level": "B1"
+  },
+  {
+    "nl": "de liefde",
+    "ru": "любовь",
+    "level": "B1"
+  },
+  {
+    "nl": "de haat",
+    "ru": "ненависть",
+    "level": "B1"
+  },
+  {
+    "nl": "de aandacht",
+    "ru": "внимание",
+    "level": "B1"
+  },
+  {
+    "nl": "de belangstelling",
+    "ru": "интерес",
+    "level": "B1"
+  },
+  {
+    "nl": "de interesse",
+    "ru": "интерес",
+    "level": "B1"
+  },
+  {
+    "nl": "de nieuwsgierigheid",
+    "ru": "любопытство",
+    "level": "B1"
+  },
+  {
+    "nl": "de verveling",
+    "ru": "скука",
+    "level": "B1"
+  },
+  {
+    "nl": "de eenzaamheid",
+    "ru": "одиночество",
+    "level": "B1"
+  },
+  {
+    "nl": "de vrijheid",
+    "ru": "свобода",
+    "level": "B1"
+  },
+  {
+    "nl": "de veiligheid",
+    "ru": "безопасность",
+    "level": "B1"
+  },
+  {
+    "nl": "het geweld",
+    "ru": "насилие",
+    "level": "B1"
+  },
+  {
+    "nl": "de discriminatie",
+    "ru": "дискриминация",
+    "level": "B1"
+  },
+  {
+    "nl": "de integratie",
+    "ru": "интеграция",
+    "level": "B1"
+  },
+  {
+    "nl": "de migratie",
+    "ru": "миграция",
+    "level": "B1"
+  },
+  {
+    "nl": "de vluchteling",
+    "ru": "беженец",
+    "level": "B1"
+  },
+  {
+    "nl": "de asielzoeker",
+    "ru": "соискатель убежища",
+    "level": "B1"
+  },
+  {
+    "nl": "de nationaliteit",
+    "ru": "гражданство",
+    "level": "B1"
+  },
+  {
+    "nl": "de identiteit",
+    "ru": "идентичность, удостоверение личности",
+    "level": "B1"
+  },
+  {
+    "nl": "de verblijfsvergunning",
+    "ru": "вид на жительство",
+    "level": "B1"
+  },
+  {
+    "nl": "het paspoort",
+    "ru": "паспорт",
+    "level": "B1"
+  },
+  {
+    "nl": "het rijbewijs",
+    "ru": "водительские права",
+    "level": "B1"
+  },
+  {
+    "nl": "de inburgering",
+    "ru": "адаптация, интеграция (в Нидерландах)",
+    "level": "B1"
+  },
+  {
+    "nl": "de taal",
+    "ru": "язык",
+    "level": "B1"
+  },
+  {
+    "nl": "de vertaling",
+    "ru": "перевод",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitspraak",
+    "ru": "произношение; высказывание",
+    "level": "B1"
+  },
+  {
+    "nl": "de grammatica",
+    "ru": "грамматика",
+    "level": "B1"
+  },
+  {
+    "nl": "de woordenschat",
+    "ru": "словарный запас",
+    "level": "B1"
+  },
+  {
+    "nl": "de moedertaal",
+    "ru": "родной язык",
+    "level": "B1"
+  },
+  {
+    "nl": "de vreemde taal",
+    "ru": "иностранный язык",
+    "level": "B1"
+  },
+  {
+    "nl": "de omgeving",
+    "ru": "окружение, среда",
+    "level": "B1"
+  },
+  {
+    "nl": "de buurt",
+    "ru": "район, округа",
+    "level": "B1"
+  },
+  {
+    "nl": "de wijk",
+    "ru": "квартал, район",
+    "level": "B1"
+  },
+  {
+    "nl": "het platteland",
+    "ru": "сельская местность",
+    "level": "B1"
+  },
+  {
+    "nl": "de stad",
+    "ru": "город",
+    "level": "B1"
+  },
+  {
+    "nl": "het dorp",
+    "ru": "деревня",
+    "level": "B1"
+  },
+  {
+    "nl": "het centrum",
+    "ru": "центр",
+    "level": "B1"
+  },
+  {
+    "nl": "de buitenwijk",
+    "ru": "пригород",
+    "level": "B1"
+  },
+  {
+    "nl": "het verkeer",
+    "ru": "движение, трафик",
+    "level": "B1"
+  },
+  {
+    "nl": "de file",
+    "ru": "пробка (на дороге)",
+    "level": "B1"
+  },
+  {
+    "nl": "het openbaar vervoer",
+    "ru": "общественный транспорт",
+    "level": "B1"
+  },
+  {
+    "nl": "de ov-chipkaart",
+    "ru": "транспортная карта OV",
+    "level": "B1"
+  },
+  {
+    "nl": "het abonnement",
+    "ru": "абонемент",
+    "level": "B1"
+  },
+  {
+    "nl": "de reis",
+    "ru": "поездка, путешествие",
+    "level": "B1"
+  },
+  {
+    "nl": "de bestemming",
+    "ru": "место назначения",
+    "level": "B1"
+  },
+  {
+    "nl": "de vertraging",
+    "ru": "задержка, опоздание",
+    "level": "B1"
+  },
+  {
+    "nl": "de omleiding",
+    "ru": "объезд",
+    "level": "B1"
+  },
+  {
+    "nl": "de storing",
+    "ru": "неисправность, сбой",
+    "level": "B1"
+  },
+  {
+    "nl": "de veiligheidsvoorschriften",
+    "ru": "правила безопасности",
+    "level": "B1"
+  },
+  {
+    "nl": "het milieu",
+    "ru": "окружающая среда",
+    "level": "B1"
+  },
+  {
+    "nl": "de duurzaamheid",
+    "ru": "устойчивость, экологичность",
+    "level": "B1"
+  },
+  {
+    "nl": "de vervuiling",
+    "ru": "загрязнение",
+    "level": "B1"
+  },
+  {
+    "nl": "het afval",
+    "ru": "мусор, отходы",
+    "level": "B1"
+  },
+  {
+    "nl": "de recycling",
+    "ru": "переработка",
+    "level": "B1"
+  },
+  {
+    "nl": "de klimaatverandering",
+    "ru": "изменение климата",
+    "level": "B1"
+  },
+  {
+    "nl": "het broeikaseffect",
+    "ru": "парниковый эффект",
+    "level": "B1"
+  },
+  {
+    "nl": "de energie",
+    "ru": "энергия",
+    "level": "B1"
+  },
+  {
+    "nl": "de zonne-energie",
+    "ru": "солнечная энергия",
+    "level": "B1"
+  },
+  {
+    "nl": "de windenergie",
+    "ru": "ветровая энергия",
+    "level": "B1"
+  },
+  {
+    "nl": "de waterstof",
+    "ru": "водород",
+    "level": "B1"
+  },
+  {
+    "nl": "de kolencentrale",
+    "ru": "угольная электростанция",
+    "level": "B1"
+  },
+  {
+    "nl": "de kerncentrale",
+    "ru": "атомная электростанция",
+    "level": "B1"
+  },
+  {
+    "nl": "het nieuws",
+    "ru": "новости",
+    "level": "B1"
+  },
+  {
+    "nl": "de krant",
+    "ru": "газета",
+    "level": "B1"
+  },
+  {
+    "nl": "het tijdschrift",
+    "ru": "журнал",
+    "level": "B1"
+  },
+  {
+    "nl": "de journalist",
+    "ru": "журналист",
+    "level": "B1"
+  },
+  {
+    "nl": "de redactie",
+    "ru": "редакция",
+    "level": "B1"
+  },
+  {
+    "nl": "de uitzending",
+    "ru": "телепередача, эфир",
+    "level": "B1"
+  },
+  {
+    "nl": "het programma",
+    "ru": "программа",
+    "level": "B1"
+  },
+  {
+    "nl": "de documentaire",
+    "ru": "документальный фильм",
+    "level": "B1"
+  },
+  {
+    "nl": "de reclame",
+    "ru": "реклама",
+    "level": "B1"
+  },
+  {
+    "nl": "de advertentie",
+    "ru": "объявление, реклама",
+    "level": "B1"
+  },
+  {
+    "nl": "het merk",
+    "ru": "бренд, марка",
+    "level": "B1"
+  },
+  {
+    "nl": "de consument",
+    "ru": "потребитель",
+    "level": "B1"
+  },
+  {
+    "nl": "de aanbieding",
+    "ru": "акция, предложение",
+    "level": "B1"
+  },
+  {
+    "nl": "de korting",
+    "ru": "скидка",
+    "level": "B1"
+  },
+  {
+    "nl": "de garantie",
+    "ru": "гарантия",
+    "level": "B1"
+  },
+  {
+    "nl": "de levering",
+    "ru": "доставка",
+    "level": "B1"
+  },
+  {
+    "nl": "de betaling",
+    "ru": "оплата",
+    "level": "B1"
+  },
+  {
+    "nl": "de factuur",
+    "ru": "счёт, фактура",
+    "level": "B1"
+  },
+  {
+    "nl": "de kassabon",
+    "ru": "чек",
+    "level": "B1"
+  },
+  {
+    "nl": "het wisselgeld",
+    "ru": "сдача",
+    "level": "B1"
+  },
+  {
+    "nl": "de rekening",
+    "ru": "счёт (в банке/ресторане)",
+    "level": "B1"
+  },
+  {
+    "nl": "de overschrijving",
+    "ru": "банковский перевод",
+    "level": "B1"
+  },
+  {
+    "nl": "de automatische incasso",
+    "ru": "автоплатёж",
+    "level": "B1"
+  },
+  {
+    "nl": "de pinpas",
+    "ru": "банковская карта",
+    "level": "B1"
+  },
+  {
+    "nl": "de creditcard",
+    "ru": "кредитная карта",
+    "level": "B1"
+  },
+  {
+    "nl": "de geldautomaat",
+    "ru": "банкомат",
+    "level": "B1"
+  },
+  {
+    "nl": "de vrijetijd",
+    "ru": "свободное время, досуг",
+    "level": "B1"
+  },
+  {
+    "nl": "de hobby",
+    "ru": "хобби",
+    "level": "B1"
+  },
+  {
+    "nl": "het festival",
+    "ru": "фестиваль",
+    "level": "B1"
+  },
+  {
+    "nl": "het concert",
+    "ru": "концерт",
+    "level": "B1"
+  },
+  {
+    "nl": "de voorstelling",
+    "ru": "спектакль",
+    "level": "B1"
+  },
+  {
+    "nl": "de tentoonstelling",
+    "ru": "выставка",
+    "level": "B1"
+  },
+  {
+    "nl": "het museum",
+    "ru": "музей",
+    "level": "B1"
+  },
+  {
+    "nl": "de bioscoop",
+    "ru": "кинотеатр",
+    "level": "B1"
+  },
+  {
+    "nl": "de bibliotheek",
+    "ru": "библиотека",
+    "level": "B1"
+  },
+  {
+    "nl": "beschouwen",
+    "ru": "рассматривать, считать",
+    "level": "B1"
+  },
+  {
+    "nl": "overwegen",
+    "ru": "обдумывать",
+    "level": "B1"
+  },
+  {
+    "nl": "vermoeden",
+    "ru": "предполагать",
+    "level": "B1"
+  },
+  {
+    "nl": "aannemen",
+    "ru": "принимать; предполагать",
+    "level": "B1"
+  },
+  {
+    "nl": "veronderstellen",
+    "ru": "предполагать",
+    "level": "B1"
+  },
+  {
+    "nl": "vaststellen",
+    "ru": "устанавливать, определять",
+    "level": "B1"
+  },
+  {
+    "nl": "bepalen",
+    "ru": "определять",
+    "level": "B1"
+  },
+  {
+    "nl": "inschatten",
+    "ru": "оценивать, прикидывать",
+    "level": "B1"
+  },
+  {
+    "nl": "beoordelen",
+    "ru": "оценивать, судить",
+    "level": "B1"
+  },
+  {
+    "nl": "vergelijken",
+    "ru": "сравнивать",
+    "level": "B1"
+  },
+  {
+    "nl": "onderscheiden",
+    "ru": "различать",
+    "level": "B1"
+  },
+  {
+    "nl": "verwerken",
+    "ru": "обрабатывать",
+    "level": "B1"
+  },
+  {
+    "nl": "verwijzen",
+    "ru": "ссылаться, отсылать",
+    "level": "B1"
+  },
+  {
+    "nl": "aangeven",
+    "ru": "указывать; сообщать",
+    "level": "B1"
+  },
+  {
+    "nl": "aantonen",
+    "ru": "доказывать, показывать",
+    "level": "B1"
+  },
+  {
+    "nl": "bewijzen",
+    "ru": "доказывать",
+    "level": "B1"
+  },
+  {
+    "nl": "toelichten",
+    "ru": "пояснять",
+    "level": "B1"
+  },
+  {
+    "nl": "verduidelijken",
+    "ru": "уточнять",
+    "level": "B1"
+  },
+  {
+    "nl": "samenvatten",
+    "ru": "подытоживать",
+    "level": "B1"
+  },
+  {
+    "nl": "benadrukken",
+    "ru": "подчёркивать",
+    "level": "B1"
+  },
+  {
+    "nl": "uitbreiden",
+    "ru": "расширять",
+    "level": "B1"
+  },
+  {
+    "nl": "beperken",
+    "ru": "ограничивать",
+    "level": "B1"
+  },
+  {
+    "nl": "vervangen",
+    "ru": "заменять",
+    "level": "B1"
+  },
+  {
+    "nl": "vernieuwen",
+    "ru": "обновлять",
+    "level": "B1"
+  },
+  {
+    "nl": "verbeteren",
+    "ru": "улучшать",
+    "level": "B1"
+  },
+  {
+    "nl": "verslechteren",
+    "ru": "ухудшаться",
+    "level": "B1"
+  },
+  {
+    "nl": "veranderen",
+    "ru": "менять",
+    "level": "B1"
+  },
+  {
+    "nl": "wijzigen",
+    "ru": "изменять",
+    "level": "B1"
+  },
+  {
+    "nl": "ontwikkelen",
+    "ru": "развивать",
+    "level": "B1"
+  },
+  {
+    "nl": "groeien",
+    "ru": "расти",
+    "level": "B1"
+  },
+  {
+    "nl": "dalen",
+    "ru": "снижаться",
+    "level": "B1"
+  },
+  {
+    "nl": "stijgen",
+    "ru": "расти, повышаться",
+    "level": "B1"
+  },
+  {
+    "nl": "toenemen",
+    "ru": "увеличиваться",
+    "level": "B1"
+  },
+  {
+    "nl": "afnemen",
+    "ru": "уменьшаться",
+    "level": "B1"
+  },
+  {
+    "nl": "vermijden",
+    "ru": "избегать",
+    "level": "B1"
+  },
+  {
+    "nl": "voorkomen",
+    "ru": "предотвращать; встречаться",
+    "level": "B1"
+  },
+  {
+    "nl": "oplossen",
+    "ru": "решать (задачу)",
+    "level": "B1"
+  },
+  {
+    "nl": "bevestigen",
+    "ru": "подтверждать",
+    "level": "B1"
+  },
+  {
+    "nl": "weerleggen",
+    "ru": "опровергать",
+    "level": "B1"
+  },
+  {
+    "nl": "ontkennen",
+    "ru": "отрицать",
+    "level": "B1"
+  },
+  {
+    "nl": "toegeven",
+    "ru": "признавать",
+    "level": "B1"
+  },
+  {
+    "nl": "beweren",
+    "ru": "утверждать",
+    "level": "B1"
+  },
+  {
+    "nl": "verklaren",
+    "ru": "объяснять, заявлять",
+    "level": "B1"
+  },
+  {
+    "nl": "beslissen",
+    "ru": "решать",
+    "level": "B1"
+  },
+  {
+    "nl": "kiezen",
+    "ru": "выбирать",
+    "level": "B1"
+  },
+  {
+    "nl": "voorkeur geven",
+    "ru": "отдавать предпочтение",
+    "level": "B1"
+  },
+  {
+    "nl": "afwijzen",
+    "ru": "отклонять, отказывать",
+    "level": "B1"
+  },
+  {
+    "nl": "accepteren",
+    "ru": "принимать",
+    "level": "B1"
+  },
+  {
+    "nl": "weigeren",
+    "ru": "отказываться",
+    "level": "B1"
+  },
+  {
+    "nl": "negeren",
+    "ru": "игнорировать",
+    "level": "B1"
+  },
+  {
+    "nl": "bijdragen",
+    "ru": "вносить вклад",
+    "level": "B1"
+  },
+  {
+    "nl": "deelnemen",
+    "ru": "участвовать",
+    "level": "B1"
+  },
+  {
+    "nl": "organiseren",
+    "ru": "организовывать",
+    "level": "B1"
+  },
+  {
+    "nl": "regelen",
+    "ru": "устраивать, организовывать",
+    "level": "B1"
+  },
+  {
+    "nl": "verzorgen",
+    "ru": "заботиться, обеспечивать",
+    "level": "B1"
+  },
+  {
+    "nl": "beheren",
+    "ru": "управлять (делами, счётом)",
+    "level": "B1"
+  },
+  {
+    "nl": "leiden",
+    "ru": "вести, руководить",
+    "level": "B1"
+  },
+  {
+    "nl": "begeleiden",
+    "ru": "сопровождать, курировать",
+    "level": "B1"
+  },
+  {
+    "nl": "ondersteunen",
+    "ru": "поддерживать",
+    "level": "B1"
+  },
+  {
+    "nl": "aanmoedigen",
+    "ru": "поощрять",
+    "level": "B1"
+  },
+  {
+    "nl": "stimuleren",
+    "ru": "стимулировать",
+    "level": "B1"
+  },
+  {
+    "nl": "motiveren",
+    "ru": "мотивировать",
+    "level": "B1"
+  },
+  {
+    "nl": "inspireren",
+    "ru": "вдохновлять",
+    "level": "B1"
+  },
+  {
+    "nl": "adviseren",
+    "ru": "советовать",
+    "level": "B1"
+  },
+  {
+    "nl": "waarschuwen",
+    "ru": "предупреждать",
+    "level": "B1"
+  },
+  {
+    "nl": "informeren",
+    "ru": "информировать",
+    "level": "B1"
+  },
+  {
+    "nl": "melden",
+    "ru": "сообщать, докладывать",
+    "level": "B1"
+  },
+  {
+    "nl": "rapporteren",
+    "ru": "отчитываться",
+    "level": "B1"
+  },
+  {
+    "nl": "klagen",
+    "ru": "жаловаться",
+    "level": "B1"
+  },
+  {
+    "nl": "eisen",
+    "ru": "требовать",
+    "level": "B1"
+  },
+  {
+    "nl": "verzoeken",
+    "ru": "просить",
+    "level": "B1"
+  },
+  {
+    "nl": "smeken",
+    "ru": "умолять",
+    "level": "B1"
+  },
+  {
+    "nl": "onderhandelen",
+    "ru": "вести переговоры",
+    "level": "B1"
+  },
+  {
+    "nl": "overeenkomen",
+    "ru": "договариваться",
+    "level": "B1"
+  },
+  {
+    "nl": "afspreken",
+    "ru": "договариваться о встрече",
+    "level": "B1"
+  },
+  {
+    "nl": "voorstellen",
+    "ru": "предлагать; представлять",
+    "level": "B1"
+  },
+  {
+    "nl": "voorleggen",
+    "ru": "представлять на рассмотрение",
+    "level": "B1"
+  },
+  {
+    "nl": "indienen",
+    "ru": "подавать (документы)",
+    "level": "B1"
+  },
+  {
+    "nl": "aanvragen",
+    "ru": "подавать заявку",
+    "level": "B1"
+  },
+  {
+    "nl": "doorgeven",
+    "ru": "передавать дальше",
+    "level": "B1"
+  },
+  {
+    "nl": "overhandigen",
+    "ru": "вручать",
+    "level": "B1"
+  },
+  {
+    "nl": "ontvangen",
+    "ru": "получать",
+    "level": "B1"
+  },
+  {
+    "nl": "verwerken",
+    "ru": "обрабатывать (данные)",
+    "level": "B1"
+  },
+  {
+    "nl": "opslaan",
+    "ru": "сохранять, хранить",
+    "level": "B1"
+  },
+  {
+    "nl": "downloaden",
+    "ru": "скачивать",
+    "level": "B1"
+  },
+  {
+    "nl": "uploaden",
+    "ru": "загружать",
+    "level": "B1"
+  },
+  {
+    "nl": "verwijderen",
+    "ru": "удалять",
+    "level": "B1"
+  },
+  {
+    "nl": "toevoegen",
+    "ru": "добавлять",
+    "level": "B1"
+  },
+  {
+    "nl": "invullen",
+    "ru": "заполнять (бланк)",
+    "level": "B1"
+  },
+  {
+    "nl": "aanvinken",
+    "ru": "ставить галочку",
+    "level": "B1"
+  },
+  {
+    "nl": "ondertekenen",
+    "ru": "подписывать",
+    "level": "B1"
+  },
+  {
+    "nl": "versturen",
+    "ru": "отправлять",
+    "level": "B1"
+  },
+  {
+    "nl": "opsturen",
+    "ru": "высылать",
+    "level": "B1"
+  },
+  {
+    "nl": "reageren",
+    "ru": "реагировать, отвечать",
+    "level": "B1"
+  },
+  {
+    "nl": "beantwoorden",
+    "ru": "отвечать (на что-то)",
+    "level": "B1"
+  },
+  {
+    "nl": "terugbellen",
+    "ru": "перезванивать",
+    "level": "B1"
+  },
+  {
+    "nl": "doorverbinden",
+    "ru": "соединять (по телефону)",
+    "level": "B1"
+  },
+  {
+    "nl": "ophangen",
+    "ru": "класть трубку; вешать",
+    "level": "B1"
+  },
+  {
+    "nl": "beleefd",
+    "ru": "вежливый",
+    "level": "B1"
+  },
+  {
+    "nl": "onbeleefd",
+    "ru": "грубый",
+    "level": "B1"
+  },
+  {
+    "nl": "respectvol",
+    "ru": "уважительный",
+    "level": "B1"
+  },
+  {
+    "nl": "eerlijk",
+    "ru": "честный",
+    "level": "B1"
+  },
+  {
+    "nl": "oneerlijk",
+    "ru": "нечестный",
+    "level": "B1"
+  },
+  {
+    "nl": "betrouwbaar",
+    "ru": "надёжный",
+    "level": "B1"
+  },
+  {
+    "nl": "verantwoordelijk",
+    "ru": "ответственный",
+    "level": "B1"
+  },
+  {
+    "nl": "nauwkeurig",
+    "ru": "точный",
+    "level": "B1"
+  },
+  {
+    "nl": "ijverig",
+    "ru": "усердный",
+    "level": "B1"
+  },
+  {
+    "nl": "flexibel",
+    "ru": "гибкий",
+    "level": "B1"
+  },
+  {
+    "nl": "creatief",
+    "ru": "творческий",
+    "level": "B1"
+  },
+  {
+    "nl": "efficiënt",
+    "ru": "эффективный",
+    "level": "B1"
+  },
+  {
+    "nl": "effectief",
+    "ru": "результативный",
+    "level": "B1"
+  },
+  {
+    "nl": "geschikt",
+    "ru": "подходящий",
+    "level": "B1"
+  },
+  {
+    "nl": "ongeschikt",
+    "ru": "неподходящий",
+    "level": "B1"
+  },
+  {
+    "nl": "relevant",
+    "ru": "релевантный",
+    "level": "B1"
+  },
+  {
+    "nl": "irrelevant",
+    "ru": "не относящийся к делу",
+    "level": "B1"
+  },
+  {
+    "nl": "duidelijk",
+    "ru": "понятный, ясный",
+    "level": "B1"
+  },
+  {
+    "nl": "onduidelijk",
+    "ru": "неясный",
+    "level": "B1"
+  },
+  {
+    "nl": "ingewikkeld",
+    "ru": "сложный, запутанный",
+    "level": "B1"
+  },
+  {
+    "nl": "eenvoudig",
+    "ru": "простой",
+    "level": "B1"
+  },
+  {
+    "nl": "logisch",
+    "ru": "логичный",
+    "level": "B1"
+  },
+  {
+    "nl": "onlogisch",
+    "ru": "нелогичный",
+    "level": "B1"
+  },
+  {
+    "nl": "realistisch",
+    "ru": "реалистичный",
+    "level": "B1"
+  },
+  {
+    "nl": "haalbaar",
+    "ru": "достижимый",
+    "level": "B1"
+  },
+  {
+    "nl": "onmogelijk",
+    "ru": "невозможный",
+    "level": "B1"
+  },
+  {
+    "nl": "waarschijnlijk",
+    "ru": "вероятный",
+    "level": "B1"
+  },
+  {
+    "nl": "onwaarschijnlijk",
+    "ru": "маловероятный",
+    "level": "B1"
+  },
+  {
+    "nl": "zeker",
+    "ru": "уверенный",
+    "level": "B1"
+  },
+  {
+    "nl": "onzeker",
+    "ru": "неуверенный, неопределённый",
+    "level": "B1"
+  },
+  {
+    "nl": "tijdelijk",
+    "ru": "временный",
+    "level": "B1"
+  },
+  {
+    "nl": "permanent",
+    "ru": "постоянный",
+    "level": "B1"
+  },
+  {
+    "nl": "dringend",
+    "ru": "срочный",
+    "level": "B1"
+  },
+  {
+    "nl": "urgent",
+    "ru": "срочный, неотложный",
+    "level": "B1"
+  },
+  {
+    "nl": "belangrijk",
+    "ru": "важный",
+    "level": "B1"
+  },
+  {
+    "nl": "onbelangrijk",
+    "ru": "неважный",
+    "level": "B1"
+  },
+  {
+    "nl": "nuttig",
+    "ru": "полезный",
+    "level": "B1"
+  },
+  {
+    "nl": "zinvol",
+    "ru": "осмысленный",
+    "level": "B1"
+  },
+  {
+    "nl": "zinloos",
+    "ru": "бессмысленный",
+    "level": "B1"
+  },
+  {
+    "nl": "redelijk",
+    "ru": "разумный; достаточно",
+    "level": "B1"
+  },
+  {
+    "nl": "onredelijk",
+    "ru": "неразумный",
+    "level": "B1"
+  },
+  {
+    "nl": "gepast",
+    "ru": "уместный",
+    "level": "B1"
+  },
+  {
+    "nl": "ongepast",
+    "ru": "неуместный",
+    "level": "B1"
+  },
+  {
+    "nl": "geldig",
+    "ru": "действительный (документ)",
+    "level": "B1"
+  },
+  {
+    "nl": "ongeldig",
+    "ru": "недействительный",
+    "level": "B1"
+  },
+  {
+    "nl": "verplicht",
+    "ru": "обязательный",
+    "level": "B1"
+  },
+  {
+    "nl": "vrijwillig",
+    "ru": "добровольный",
+    "level": "B1"
+  },
+  {
+    "nl": "openbaar",
+    "ru": "публичный, общественный",
+    "level": "B1"
+  },
+  {
+    "nl": "privé",
+    "ru": "частный",
+    "level": "B1"
+  },
+  {
+    "nl": "formeel",
+    "ru": "формальный",
+    "level": "B1"
+  },
+  {
+    "nl": "informeel",
+    "ru": "неформальный",
+    "level": "B1"
+  },
+  {
+    "nl": "officieel",
+    "ru": "официальный",
+    "level": "B1"
+  },
+  {
+    "nl": "onofficieel",
+    "ru": "неофициальный",
+    "level": "B1"
+  },
+  {
+    "nl": "gedetailleerd",
+    "ru": "детальный",
+    "level": "B1"
+  },
+  {
+    "nl": "kort",
+    "ru": "короткий",
+    "level": "B1"
+  },
+  {
+    "nl": "uitgebreid",
+    "ru": "развёрнутый, подробный",
+    "level": "B1"
+  },
+  {
+    "nl": "beknopt",
+    "ru": "сжатый, краткий",
+    "level": "B1"
+  },
+  {
+    "nl": "concreet",
+    "ru": "конкретный",
+    "level": "B1"
+  },
+  {
+    "nl": "abstract",
+    "ru": "абстрактный",
+    "level": "B1"
+  },
+  {
+    "nl": "specifiek",
+    "ru": "конкретный, специфический",
+    "level": "B1"
+  },
+  {
+    "nl": "algemeen",
+    "ru": "общий, всеобщий",
+    "level": "B1"
+  },
+  {
+    "nl": "unaniem",
+    "ru": "единогласный",
+    "level": "B1"
+  },
+  {
+    "nl": "controversieel",
+    "ru": "спорный",
+    "level": "B1"
+  },
+  {
+    "nl": "betwistbaar",
+    "ru": "спорный, дискуссионный",
+    "level": "B1"
+  },
+  {
+    "nl": "standaard",
+    "ru": "стандартный",
+    "level": "B1"
+  },
+  {
+    "nl": "alternatief",
+    "ru": "альтернативный",
+    "level": "B1"
+  },
+  {
+    "nl": "gebruikelijk",
+    "ru": "обычный, принятый",
+    "level": "B1"
+  },
+  {
+    "nl": "ongebruikelijk",
+    "ru": "необычный",
+    "level": "B1"
+  },
+  {
+    "nl": "vertrouwd",
+    "ru": "привычный",
+    "level": "B1"
+  },
+  {
+    "nl": "onbekend",
+    "ru": "незнакомый, неизвестный",
+    "level": "B1"
+  },
+  {
+    "nl": "bekend",
+    "ru": "известный",
+    "level": "B1"
+  },
+  {
+    "nl": "populair",
+    "ru": "популярный",
+    "level": "B1"
+  },
+  {
+    "nl": "impopulair",
+    "ru": "непопулярный",
+    "level": "B1"
+  },
+  {
+    "nl": "bovendien",
+    "ru": "кроме того",
+    "level": "B1"
+  },
+  {
+    "nl": "daarnaast",
+    "ru": "кроме того",
+    "level": "B1"
+  },
+  {
+    "nl": "verder",
+    "ru": "далее, кроме того",
+    "level": "B1"
+  },
+  {
+    "nl": "tenslotte",
+    "ru": "в конце концов",
+    "level": "B1"
+  },
+  {
+    "nl": "uiteindelijk",
+    "ru": "в итоге",
+    "level": "B1"
+  },
+  {
+    "nl": "overigens",
+    "ru": "впрочем, кстати",
+    "level": "B1"
+  },
+  {
+    "nl": "echter",
+    "ru": "однако",
+    "level": "B1"
+  },
+  {
+    "nl": "daarentegen",
+    "ru": "напротив",
+    "level": "B1"
+  },
+  {
+    "nl": "desondanks",
+    "ru": "несмотря на это",
+    "level": "B1"
+  },
+  {
+    "nl": "niettemin",
+    "ru": "тем не менее",
+    "level": "B1"
+  },
+  {
+    "nl": "vervolgens",
+    "ru": "затем",
+    "level": "B1"
+  },
+  {
+    "nl": "inmiddels",
+    "ru": "тем временем",
+    "level": "B1"
+  },
+  {
+    "nl": "tegenwoordig",
+    "ru": "в настоящее время",
+    "level": "B1"
+  },
+  {
+    "nl": "voorheen",
+    "ru": "раньше",
+    "level": "B1"
+  },
+  {
+    "nl": "destijds",
+    "ru": "в то время",
+    "level": "B1"
+  },
+  {
+    "nl": "ooit",
+    "ru": "когда-либо, однажды",
+    "level": "B1"
+  },
+  {
+    "nl": "nooit",
+    "ru": "никогда",
+    "level": "B1"
+  },
+  {
+    "nl": "altijd",
+    "ru": "всегда",
+    "level": "B1"
+  },
+  {
+    "nl": "regelmatig",
+    "ru": "регулярно",
+    "level": "B1"
+  },
+  {
+    "nl": "onregelmatig",
+    "ru": "нерегулярно",
+    "level": "B1"
+  },
+  {
+    "nl": "incidenteel",
+    "ru": "изредка, эпизодически",
+    "level": "B1"
+  },
+  {
+    "nl": "geleidelijk",
+    "ru": "постепенно",
+    "level": "B1"
+  },
+  {
+    "nl": "plotseling",
+    "ru": "внезапно",
+    "level": "B1"
+  },
+  {
+    "nl": "onmiddellijk",
+    "ru": "немедленно",
+    "level": "B1"
+  },
+  {
+    "nl": "voorlopig",
+    "ru": "пока, временно",
+    "level": "B1"
+  },
+  {
+    "nl": "vermoedelijk",
+    "ru": "предположительно",
+    "level": "B1"
+  },
+  {
+    "nl": "wellicht",
+    "ru": "возможно",
+    "level": "B1"
+  },
+  {
+    "nl": "mogelijk",
+    "ru": "возможно",
+    "level": "B1"
+  },
+  {
+    "nl": "onmogelijk",
+    "ru": "невозможно",
+    "level": "B1"
+  },
+  {
+    "nl": "ongeveer",
+    "ru": "примерно",
+    "level": "B1"
+  },
+  {
+    "nl": "circa",
+    "ru": "около, примерно",
+    "level": "B1"
+  },
+  {
+    "nl": "ruim",
+    "ru": "более чем",
+    "level": "B1"
+  },
+  {
+    "nl": "amper",
+    "ru": "едва",
+    "level": "B1"
+  },
+  {
+    "nl": "nauwelijks",
+    "ru": "едва ли",
+    "level": "B1"
+  },
+  {
+    "nl": "tamelijk",
+    "ru": "довольно",
+    "level": "B1"
+  },
+  {
+    "nl": "redelijk",
+    "ru": "достаточно",
+    "level": "B1"
+  },
+  {
+    "nl": "erg",
+    "ru": "очень",
+    "level": "B1"
+  },
+  {
+    "nl": "uiterst",
+    "ru": "крайне",
+    "level": "B1"
+  },
+  {
+    "nl": "buitengewoon",
+    "ru": "исключительно",
+    "level": "B1"
+  },
+  {
+    "nl": "gewoonlijk",
+    "ru": "обычно",
+    "level": "B1"
+  },
+  {
+    "nl": "doorgaans",
+    "ru": "как правило",
+    "level": "B1"
+  },
+  {
+    "nl": "veelal",
+    "ru": "в большинстве случаев",
+    "level": "B1"
+  },
+  {
+    "nl": "meestal",
+    "ru": "в основном",
+    "level": "B1"
+  },
+  {
+    "nl": "zelden",
+    "ru": "редко",
+    "level": "B1"
+  },
+  {
+    "nl": "dagelijks",
+    "ru": "ежедневно",
+    "level": "B1"
+  },
+  {
+    "nl": "wekelijks",
+    "ru": "еженедельно",
+    "level": "B1"
+  },
+  {
+    "nl": "maandelijks",
+    "ru": "ежемесячно",
+    "level": "B1"
+  },
+  {
+    "nl": "jaarlijks",
+    "ru": "ежегодно",
+    "level": "B1"
+  },
+  {
+    "nl": "met name",
+    "ru": "в особенности",
+    "level": "B1"
+  },
+  {
+    "nl": "vooral",
+    "ru": "прежде всего",
+    "level": "B1"
+  },
+  {
+    "nl": "in het bijzonder",
+    "ru": "в частности",
+    "level": "B1"
+  },
+  {
+    "nl": "ofwel",
+    "ru": "либо, или же",
+    "level": "B1"
+  },
+  {
+    "nl": "oftewel",
+    "ru": "то есть",
+    "level": "B1"
+  },
+  {
+    "nl": "namelijk",
+    "ru": "а именно",
+    "level": "B1"
+  },
+  {
+    "nl": "immers",
+    "ru": "ведь",
+    "level": "B1"
+  },
+  {
+    "nl": "aldus",
+    "ru": "таким образом",
+    "level": "B1"
+  },
+  {
+    "nl": "derhalve",
+    "ru": "следовательно",
+    "level": "B1"
+  },
+  {
+    "nl": "bijgevolg",
+    "ru": "следовательно",
+    "level": "B1"
+  },
+  {
+    "nl": "vandaar",
+    "ru": "поэтому",
+    "level": "B1"
+  },
+  {
+    "nl": "kortom",
+    "ru": "короче говоря",
+    "level": "B1"
+  },
+  {
+    "nl": "samengevat",
+    "ru": "обобщая",
+    "level": "B1"
+  },
+  {
+    "nl": "anderzijds",
+    "ru": "с другой стороны",
+    "level": "B1"
+  },
+  {
+    "nl": "enerzijds",
+    "ru": "с одной стороны",
+    "level": "B1"
+  }
+]

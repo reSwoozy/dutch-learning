@@ -1,0 +1,378 @@
+{
+  "title": "Wonen & huisvesting",
+  "level": "B1",
+  "tags": [
+    "huren",
+    "kopen",
+    "woning",
+    "vve"
+  ],
+  "words": [
+    {
+      "nl": "de woningzoekende",
+      "ru": "ищущий жильё",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "het woningaanbod",
+      "ru": "предложения жилья",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de woningmarkt",
+      "ru": "рынок жилья",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de bezichtiging plannen",
+      "ru": "запланировать осмотр",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de makelaar",
+      "ru": "риэлтор",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de aankoopmakelaar",
+      "ru": "риэлтор-покупатель",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de verkoopmakelaar",
+      "ru": "риэлтор-продавец",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de vraagprijs",
+      "ru": "запрашиваемая цена",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "het bod uitbrengen",
+      "ru": "сделать предложение",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "onder voorbehoud",
+      "ru": "при условии",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de ontbindende voorwaarde",
+      "ru": "условие расторжения",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de financieringsvoorbehoud",
+      "ru": "условие финансирования",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de koopovereenkomst",
+      "ru": "договор купли-продажи",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de bedenktijd",
+      "ru": "срок для размышления (3 дня)",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de waarborgsom",
+      "ru": "задаток",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de bankgarantie",
+      "ru": "банковская гарантия",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de erfpacht",
+      "ru": "долгосрочная аренда земли",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "het appartementsrecht",
+      "ru": "квартирное право",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de splitsingsakte",
+      "ru": "акт о разделе",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de VVE-bijdrage",
+      "ru": "взнос ТСЖ",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de reservefonds",
+      "ru": "резервный фонд (VVE)",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "het meerjaren onderhoudsplan",
+      "ru": "многолетний план ремонта",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de funderingsproblemen",
+      "ru": "проблемы с фундаментом",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de asbest",
+      "ru": "асбест",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de vochtproblemen",
+      "ru": "проблемы с сыростью",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "het lekkage",
+      "ru": "протечка",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de ventilatie",
+      "ru": "вентиляция",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de centrale verwarming",
+      "ru": "центральное отопление",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de stadsverwarming",
+      "ru": "городское отопление",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de warmtenet",
+      "ru": "сеть централизованного тепла",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de nutsvoorzieningen",
+      "ru": "коммунальные услуги",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de gemeentelijke belastingen",
+      "ru": "местные налоги",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de onroerendezaakbelasting",
+      "ru": "налог на недвижимость (OZB)",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de rioolheffing",
+      "ru": "сбор за канализацию",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de afvalstoffenheffing",
+      "ru": "сбор за вывоз мусора",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de waterschapsbelasting",
+      "ru": "налог водного управления",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de WOZ-waarde",
+      "ru": "кадастровая стоимость (WOZ)",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de buurtvereniging",
+      "ru": "соседский союз",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de burenruzie",
+      "ru": "соседский конфликт",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "het bestemmingsplan",
+      "ru": "генеральный план",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de omgevingsvergunning",
+      "ru": "разрешение на перепланировку",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de verbouwing",
+      "ru": "перестройка",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de aanbouw",
+      "ru": "пристройка",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de dakkapel",
+      "ru": "мансардное окно",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de serre",
+      "ru": "веранда",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de zolder",
+      "ru": "чердак",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de kelder",
+      "ru": "подвал",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de garage",
+      "ru": "гараж",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de schuur",
+      "ru": "сарай",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de tuin",
+      "ru": "сад, двор",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "het balkon",
+      "ru": "балкон",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de benedenwoning",
+      "ru": "нижняя квартира",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de bovenwoning",
+      "ru": "верхняя квартира",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de eengezinswoning",
+      "ru": "отдельный дом",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de rijtjeshuis",
+      "ru": "таунхаус",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de hoekwoning",
+      "ru": "угловой дом",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de tussenwoning",
+      "ru": "средний дом",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de twee-onder-een-kap",
+      "ru": "полу-отдельный дом",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de vrijstaande woning",
+      "ru": "отдельно стоящий дом",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de woonboot",
+      "ru": "дом-корабль",
+      "level": "B1",
+      "theme": "housing"
+    },
+    {
+      "nl": "de anti-kraakwoning",
+      "ru": "жильё для анти-сквоттинга",
+      "level": "B1",
+      "theme": "housing"
+    }
+  ]
+}

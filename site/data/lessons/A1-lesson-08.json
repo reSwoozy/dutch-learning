@@ -1,0 +1,427 @@
+{
+  "id": "A1-lesson-08",
+  "num": 8,
+  "level": "A1",
+  "title": "Одежда и цвета",
+  "minutes": 15,
+  "objectives": [
+    "Называть основные предметы одежды",
+    "Описывать цвета на нидерландском",
+    "Рассказывать, что ты носишь",
+    "Делать покупки в магазине одежды",
+    "Понимать голландский стиль одежды"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Одежда и цвета",
+      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 8 из 48"
+    },
+    {
+      "type": "text",
+      "title": "Цели урока",
+      "content": "После этого урока ты сможешь:\n- Называть основные предметы одежды\n- Описывать цвета на нидерландском\n- Рассказывать, что ты носишь\n- Делать покупки в магазине одежды\n- Понимать голландский стиль одежды"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Основная одежда (4 минуты)",
+      "words": [
+        {
+          "nl": "de kleren",
+          "ru": "одежда",
+          "pronunciation": "[də ˈkleːrən]",
+          "hint": "de jas"
+        },
+        {
+          "nl": "de jas",
+          "ru": "куртка",
+          "pronunciation": "[də jɑs]"
+        },
+        {
+          "nl": "het shirt",
+          "ru": "рубашка",
+          "pronunciation": "[ɦət ʃɪrt]",
+          "hint": "de broek"
+        },
+        {
+          "nl": "de broek",
+          "ru": "брюки",
+          "pronunciation": "[də bruk]"
+        },
+        {
+          "nl": "de jurk",
+          "ru": "платье",
+          "pronunciation": "[də jɛrk]",
+          "hint": "de rok"
+        },
+        {
+          "nl": "de rok",
+          "ru": "юбка",
+          "pronunciation": "[də rɔk]"
+        },
+        {
+          "nl": "de trui",
+          "ru": "свитер",
+          "pronunciation": "[də trœy̯]",
+          "hint": "het jasje"
+        },
+        {
+          "nl": "het jasje",
+          "ru": "пиджак",
+          "pronunciation": "[ɦət ˈjɑʃə]"
+        },
+        {
+          "nl": "de schoenen",
+          "ru": "обувь",
+          "pronunciation": "[də ˈsxunə]",
+          "hint": "de sokken"
+        },
+        {
+          "nl": "de sokken",
+          "ru": "носки",
+          "pronunciation": "[də ˈsɔkən]"
+        },
+        {
+          "nl": "de hoed",
+          "ru": "шляпа",
+          "pronunciation": "[də ɦut]",
+          "hint": "de handschoenen"
+        },
+        {
+          "nl": "de handschoenen",
+          "ru": "перчатки",
+          "pronunciation": "[də ˈɦɑntsxunə]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2: Цвета (4 минуты)",
+      "words": [
+        {
+          "nl": "rood",
+          "ru": "красный",
+          "pronunciation": "[roːt]",
+          "hint": "groen"
+        },
+        {
+          "nl": "groen",
+          "ru": "зеленый",
+          "pronunciation": "[ɣrun]"
+        },
+        {
+          "nl": "blauw",
+          "ru": "синий",
+          "pronunciation": "[blɑu̯]",
+          "hint": "geel"
+        },
+        {
+          "nl": "geel",
+          "ru": "желтый",
+          "pronunciation": "[ɣeːl]"
+        },
+        {
+          "nl": "zwart",
+          "ru": "черный",
+          "pronunciation": "[zwɑrt]",
+          "hint": "wit"
+        },
+        {
+          "nl": "wit",
+          "ru": "белый",
+          "pronunciation": "[ʋɪt]"
+        },
+        {
+          "nl": "roze",
+          "ru": "розовый",
+          "pronunciation": "[ˈroːzə]",
+          "hint": "paars"
+        },
+        {
+          "nl": "paars",
+          "ru": "фиолетовый",
+          "pronunciation": "[paːrs]"
+        },
+        {
+          "nl": "bruin",
+          "ru": "коричневый",
+          "pronunciation": "[brœy̯n]",
+          "hint": "grijs"
+        },
+        {
+          "nl": "grijs",
+          "ru": "серый",
+          "pronunciation": "[ɣrɛi̯s]"
+        },
+        {
+          "nl": "oranje",
+          "ru": "оранжевый",
+          "pronunciation": "[oːˈrɑɲə]",
+          "hint": "licht/donker"
+        },
+        {
+          "nl": "licht/donker",
+          "ru": "светлый/темный",
+          "pronunciation": "[lɪxt/ˈdɔŋkər]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 3: Покупки одежды (4 минуты)",
+      "words": [
+        {
+          "nl": "Ik zoek een shirt",
+          "ru": "Я ищу рубашку",
+          "pronunciation": "[ɪk zuk ən ʃɪrt]"
+        },
+        {
+          "nl": "Welke maat heeft u?",
+          "ru": "Какой у вас размер?",
+          "pronunciation": "[ˈʋɛlkə maːt ɦeːft y]"
+        },
+        {
+          "nl": "Maat M, alstublieft",
+          "ru": "Размер M, пожалуйста",
+          "pronunciation": "[maːt ɛm ˌɑlstyˈblift]"
+        },
+        {
+          "nl": "Hoeveel kost dit?",
+          "ru": "Сколько это стоит?",
+          "pronunciation": "[ˈɦuvəl kɔst dɪt]"
+        },
+        {
+          "nl": "Kan ik dit passen?",
+          "ru": "Могу я это примерить?",
+          "pronunciation": "[kɑn ɪk dɪt ˈpɑsən]"
+        },
+        {
+          "nl": "Het staat je goed",
+          "ru": "Тебе идет",
+          "pronunciation": "[ɦət staːt jə ɣut]"
+        },
+        {
+          "nl": "Dit is te duur",
+          "ru": "Это слишком дорого",
+          "pronunciation": "[dɪt ɪs tə dyːr]"
+        },
+        {
+          "nl": "Ik neem het",
+          "ru": "Я беру это",
+          "pronunciation": "[ɪk neːm ɦət]"
+        },
+        {
+          "nl": "Heeft u dit in het blauw?",
+          "ru": "У вас есть это в синем?",
+          "pronunciation": "[ɦeːft y dɪt ɪn ɦət blɑu̯]"
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 1",
+      "lines": [
+        {
+          "speaker": "Verkoper",
+          "text": "Goedemiddag! Kan ik u helpen?"
+        },
+        {
+          "speaker": "Klant",
+          "text": "Ja, ik zoek een jas."
+        },
+        {
+          "speaker": "Verkoper",
+          "text": "Welke kleur?"
+        },
+        {
+          "speaker": "Klant",
+          "text": "Zwart, alstublieft."
+        },
+        {
+          "speaker": "Verkoper",
+          "text": "Welke maat heeft u?"
+        },
+        {
+          "speaker": "Klant",
+          "text": "Maat L."
+        },
+        {
+          "speaker": "Verkoper",
+          "text": "Hier, deze zwarte jas. Wilt u hem passen?"
+        },
+        {
+          "speaker": "Klant",
+          "text": "Ja, graag. ... Hij past goed! Hoeveel kost hij?"
+        },
+        {
+          "speaker": "Verkoper",
+          "text": "Negentig euro."
+        },
+        {
+          "speaker": "Klant",
+          "text": "Dat is goed. Ik neem hem."
+        }
+      ]
+    },
+    {
+      "type": "dialogue",
+      "title": "Диалог 2",
+      "lines": [
+        {
+          "speaker": "A",
+          "text": "Wat draag je vandaag?"
+        },
+        {
+          "speaker": "B",
+          "text": "Ik draag een witte trui en een blauwe broek."
+        },
+        {
+          "speaker": "A",
+          "text": "En welke schoenen?"
+        },
+        {
+          "speaker": "B",
+          "text": "Zwarte schoenen. En jij?"
+        },
+        {
+          "speaker": "A",
+          "text": "Ik draag een rode jurk en bruine laarzen."
+        },
+        {
+          "speaker": "B",
+          "text": "Mooi! Die jurk staat je goed!"
+        },
+        {
+          "speaker": "A",
+          "text": "Dank je wel!"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "1. Прилагательные + цвета (склонение -e)",
+      "words": [
+        {
+          "nl": "de-woord",
+          "ru": "een rod**e** jurk",
+          "hint": "+e всегда"
+        },
+        {
+          "nl": "het-woord + de/het",
+          "ru": "het zwart**e** jasje",
+          "hint": "+e с определенным артиклем"
+        },
+        {
+          "nl": "het-woord + een",
+          "ru": "een zwart jasje",
+          "hint": "БЕЗ -e с een!"
+        },
+        {
+          "nl": "мн. число",
+          "ru": "blauw**e** schoenen",
+          "hint": "+e всегда"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "2. Глагол dragen (носить одежду)",
+      "tables": [
+        {
+          "headers": [
+            "Лицо",
+            "Форма"
+          ],
+          "rows": [
+            [
+              "ik",
+              "draag"
+            ],
+            [
+              "jij/je",
+              "draagt"
+            ],
+            [
+              "hij/zij",
+              "draagt"
+            ],
+            [
+              "wij/jullie/zij",
+              "dragen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "3. Указательные местоимения (deze/dit, die/dat)",
+      "content": "- **Deze jas** is mooi (de jas -> deze)\n- **Dit shirt** is nieuw (het shirt -> dit)\n- **Die schoenen** zijn duur (мн.ч. -> die)\n---"
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 1: Вставь правильный цвет с окончанием",
+      "items": [
+        {
+          "question": "Ik draag een __ broek. (zwart, de broek)"
+        },
+        {
+          "question": "Hij heeft een __ shirt. (wit, het shirt)"
+        },
+        {
+          "question": "Zij koopt __ schoenen. (rood)"
+        },
+        {
+          "question": "Het __ jasje is duur. (blauw)",
+          "answers": [
+            "1. zwarte (de-woord -> +e)",
+            "2. wit (een + het-woord -> без -e!)",
+            "3. rode (мн.ч. -> +e; rood -> rode)",
+            "4. blauwe (het + het-woord -> +e)"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Переведи на нидерландский",
+      "items": [
+        {
+          "question": "Сколько стоит эта юбка?"
+        },
+        {
+          "question": "У вас есть это в зеленом?"
+        },
+        {
+          "question": "Я ношу черные брюки и белую рубашку.",
+          "answers": [
+            "1. Hoeveel kost deze rok?",
+            "2. Heeft u dit in het groen?",
+            "3. Ik draag een zwarte broek en een wit shirt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Говорение (2 минуты)",
+      "items": [
+        {
+          "question": "Что ты сейчас носишь? (Ik draag...)"
+        },
+        {
+          "question": "Какой твой любимый цвет? (Mijn favoriete kleur is...)"
+        },
+        {
+          "question": "Что ты хочешь купить? (Ik wil een... kopen.)"
+        }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Голландский стиль одежды",
+      "content": "- **Практичность** -- комфорт важнее моды. Голландцы одеваются удобно.\n- **Погода** -- всегда бери куртку и зонт. Дождь может начаться в любой момент.\n- **Велосипед** -- обувь должна быть удобной для езды на велосипеде.\n- **Оранжевый** -- национальный цвет. В День Короля (Koningsdag, 27 апреля) все носят оранжевое.\n- **Casual** -- даже в офисе стиль часто повседневный, но аккуратный.\n**Для интеграции**: На собеседовании одевайся аккуратно, но не слишком формально. Костюм с галстуком -- скорее исключение."
+    }
+  ],
+  "vocabularyFile": "A1-lesson-08.json"
+}

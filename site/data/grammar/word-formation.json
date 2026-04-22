@@ -1,0 +1,130 @@
+{
+  "id": "word-formation",
+  "title": "Словообразование: приставки, суффиксы, композиты",
+  "titleNL": "Woordvorming",
+  "level": "B2",
+  "summary": "Один из главных инструментов расширения словарного запаса до B2. Зная набор приставок (ver-, be-, ont-, her-, uit-) и суффиксов (-heid, -ing, -baar, -lijk), вы понимаете незнакомые слова без словаря и строите нужные формы сами. Отдельная тема — композиты (samenstellingen): 'schoolgebouw', 'inburgeringsexamen'.",
+  "rule": {
+    "formula": "[приставка] + [корень] + [суффикс] / [слово] + [слово] = новое слово",
+    "explanation": "Голландские композиты пишутся слитно (иногда через 's': 'werkdag', 'station's'gebouw). Род составного слова = род последнего компонента. Приставка меняет смысл (ver- часто = 'ошибочно, переделать'). Суффикс меняет часть речи (-heid → существительное от прилагательного, -baar → прилагательное от глагола).",
+    "whenToUse": [
+      "Читаете длинное незнакомое слово → разберите его на части: ont-moet-ing = 'встреча'.",
+      "Нужно существительное от глагола → -ing (verhuizing), от прилагательного → -heid (mogelijkheid).",
+      "Нужно прилагательное 'возможный для X' → корень глагола + -baar (eetbaar, leesbaar).",
+      "Формальный текст B2 → предпочитайте nominalisation: 'het verbeteren van' вместо 'verbeter... '"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Важнейшие приставки глаголов (не отделяемые)",
+      "headers": ["Приставка", "Смысл", "Пример", "Перевод"],
+      "rows": [
+        ["be-", "делает глагол переходным", "bespreken", "обсуждать"],
+        ["ver-", "изменение / ошибка / перемещение", "verhuizen / verspreken", "переезжать / оговориться"],
+        ["ont-", "убирать / начинать", "ontdekken / ontmoeten", "открывать / встречать"],
+        ["her-", "повторное действие", "herhalen / herschrijven", "повторять / переписать"],
+        ["ge-", "окончательный результат", "gelukken / geloven", "удаться / верить"],
+        ["mis-", "ошибочно", "misverstaan / mislukken", "не понять / не удаться"],
+        ["er-", "возникновение", "erkennen / ervaren", "признавать / испытывать"]
+      ]
+    },
+    {
+      "title": "Отделяемые приставки (главные)",
+      "headers": ["Приставка", "Смысл", "Пример"],
+      "rows": [
+        ["aan-", "к, приближение", "aankomen — прибывать"],
+        ["af-", "от, прочь, завершение", "afmaken — заканчивать"],
+        ["op-", "вверх, подъём", "opstaan — вставать"],
+        ["uit-", "наружу, объяснить", "uitleggen — объяснять"],
+        ["mee-", "вместе с", "meenemen — брать с собой"],
+        ["door-", "сквозь", "doorgaan — продолжать"],
+        ["over-", "через, повторно", "overstappen — пересаживаться"],
+        ["terug-", "обратно", "teruggeven — возвращать"]
+      ]
+    },
+    {
+      "title": "Суффиксы существительных",
+      "headers": ["Суффикс", "От чего", "Пример", "Род"],
+      "rows": [
+        ["-ing", "от глагола", "verhuizing, betaling", "de"],
+        ["-heid", "от прилагательного", "mogelijkheid, vrijheid", "de"],
+        ["-te", "от прилагательного (абстракция)", "hoogte, breedte", "de"],
+        ["-schap", "коллектив/состояние", "vriendschap, maatschappij", "de"],
+        ["-er / -aar", "деятель", "werker, leraar", "de"],
+        ["-ster", "деятель женского рода", "werkster, lerares", "de"],
+        ["-je / -tje", "уменьшительное", "huisje, kindje", "het"],
+        ["-dom", "состояние/сфера", "vrijdom, eigendom", "het"]
+      ]
+    },
+    {
+      "title": "Суффиксы прилагательных",
+      "headers": ["Суффикс", "Смысл", "Пример"],
+      "rows": [
+        ["-lijk", "свойство", "vriendelijk, mogelijk"],
+        ["-baar", "возможный для X", "eetbaar, bruikbaar, leesbaar"],
+        ["-achtig", "похожий на", "kinderachtig, vaagachtig"],
+        ["-ig", "обладающий качеством", "zonnig, moedig"],
+        ["-loos", "лишённый чего-то", "werkloos, zinloos"],
+        ["-vol", "полный чего-то", "moedvol, waardevol"],
+        ["-isch", "(из иностранных)", "historisch, politiek"]
+      ]
+    },
+    {
+      "title": "Композиты (samenstellingen)",
+      "headers": ["Компоненты", "Слово", "Перевод"],
+      "rows": [
+        ["school + gebouw", "schoolgebouw", "школьное здание"],
+        ["werk + dag", "werkdag", "рабочий день"],
+        ["inburgering + s + examen", "inburgeringsexamen", "экзамен по интеграции"],
+        ["stad + s + centrum", "stadscentrum", "центр города"],
+        ["energie + voorziening", "energievoorziening", "энергоснабжение"],
+        ["volks + gezondheid", "volksgezondheid", "общественное здоровье"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "Стратегия для экзамена",
+      "items": [
+        "При чтении длинного слова: отделите суффикс → приставку → корень. Часто корень узнаваем.",
+        "В письменной работе B2 используйте nominalisation и суффикс -ing: 'het onderzoeken van...' звучит академично.",
+        "При устном ответе не бойтесь создавать композиты — если логика верна, носители поймут."
+      ]
+    },
+    {
+      "title": "Соединительная 's' в композитах",
+      "items": [
+        "Часто добавляется для благозвучия: stad's'centrum, werk's'tijd, staat's'examen.",
+        "Правило не строгое — запоминайте частые слова целиком.",
+        "Нет 's' после множественного числа: huizenmarkt, lidmaat."
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Dit boek is heel leesbaar.", "ru": "Эта книга очень легко читается." },
+    { "nl": "De werkloosheid is gedaald.", "ru": "Безработица снизилась." },
+    { "nl": "Ik heb me vergist.", "ru": "Я ошибся." },
+    { "nl": "We moeten deze les herhalen.", "ru": "Нам нужно повторить этот урок." },
+    { "nl": "Het stadscentrum is autovrij.", "ru": "Центр города свободен от машин." },
+    { "nl": "Zijn vriendelijkheid maakt indruk.", "ru": "Его дружелюбие производит впечатление." }
+  ],
+  "exceptions": [
+    "Некоторые композиты пишутся через дефис (обычно с собственными именами или числами): 'A1-niveau', 'e-mail'.",
+    "Иностранные суффиксы (-iteit, -ament, -atie) всегда de-woord: de kwaliteit, de organisatie.",
+    "Суффикс -heid → de, НО 'het bezoek', 'het begin' — базовые слова из глагола be-/ge- — het."
+  ],
+  "commonMistakes": [
+    { "wrong": "de werkloos", "correct": "de werkloze / het werkloos zijn / de werkloosheid", "why": "werkloos — прилагательное; существительное — werkloosheid." },
+    { "wrong": "ikhebrepeteren", "correct": "ik ga herhalen", "why": "приставка her- неотделяема, глагол herhalen." },
+    { "wrong": "ontmoetting", "correct": "ontmoeting", "why": "одно 't', правило: суффикс -ing добавляется к корню без удвоения." }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "De ___ (verhuizen → сущ.) is volgende maand.", "answer": "verhuizing", "explanation": "глагол + -ing" },
+    { "type": "fill-blank", "sentence": "Ze is erg ___ (vriend + lijk).", "answer": "vriendelijk", "explanation": "прилагательное: корень + -lijk" },
+    { "type": "choice", "question": "Wat betekent 'onleesbaar'?", "options": ["не читаемый", "перечитываемый", "написанный"], "answer": "не читаемый", "explanation": "on- + lees + -baar = 'не поддающийся чтению'." },
+    { "type": "fill-blank", "sentence": "De ___ (mogelijk → сущ.) is groot.", "answer": "mogelijkheid", "explanation": "прилагательное + -heid" },
+    { "type": "choice", "question": "В составе 'schoolgebouw' род определяется по...", "options": ["первому слову", "последнему слову", "алфавиту"], "answer": "последнему слову", "explanation": "het gebouw → het schoolgebouw" }
+  ],
+  "relatedTopics": ["articles", "diminutives", "register-and-style"],
+  "inLessons": [30, 38, 42, 47, 50]
+}

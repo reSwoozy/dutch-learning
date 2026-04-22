@@ -1,0 +1,111 @@
+{
+  "id": "prepositions",
+  "title": "Предлоги",
+  "titleNL": "Voorzetsels",
+  "level": "A2",
+  "summary": "Предлоги в нидерландском часто не совпадают с русскими. Ключевые: in, op, aan, met, voor, naar, bij, uit, van, om, tot, over, door, tussen, achter, naast, onder, boven.",
+  "rule": {
+    "formula": "Предлог + существительное/местоимение",
+    "explanation": "Предлоги указывают на место, время, направление, способ. Многие предлоги имеют несколько значений. Часто предлоги входят в устойчивые сочетания с глаголами.",
+    "whenToUse": [
+      "Место: Ik woon in Amsterdam. Het boek ligt op de tafel.",
+      "Время: In de zomer, op maandag, om 3 uur.",
+      "Направление: Ik ga naar school. Hij komt uit Rusland.",
+      "Способ: Ik ga met de trein. Zij schrijft met een pen."
+    ]
+  },
+  "tables": [
+    {
+      "title": "Предлоги места",
+      "headers": ["Предлог", "Значение", "Пример"],
+      "rows": [
+        ["in", "в (внутри)", "in de kamer, in Amsterdam, in het water"],
+        ["op", "на (поверхности)", "op de tafel, op straat, op kantoor"],
+        ["aan", "у/на (прикреплено)", "aan de muur, aan tafel, aan zee"],
+        ["bij", "у/рядом с", "bij de dokter, bij mij thuis, bij het station"],
+        ["naast", "рядом с", "naast de bank, naast mij"],
+        ["voor", "перед", "voor het huis, voor de deur"],
+        ["achter", "за/позади", "achter het huis, achter de auto"],
+        ["onder", "под", "onder de tafel, onder het bed"],
+        ["boven", "над/наверху", "boven de deur, boven mij"],
+        ["tussen", "между", "tussen de huizen, tussen 3 en 5 uur"],
+        ["tegenover", "напротив", "tegenover het station"]
+      ]
+    },
+    {
+      "title": "Предлоги времени",
+      "headers": ["Предлог", "Используется с", "Пример"],
+      "rows": [
+        ["in", "месяцы, годы, сезоны, части дня", "in januari, in 2026, in de zomer, in de ochtend"],
+        ["op", "дни недели, даты", "op maandag, op 5 mei, op mijn verjaardag"],
+        ["om", "точное время", "om 3 uur, om half acht"],
+        ["'s", "части дня (сокращение)", "'s ochtends, 's middags, 's avonds, 's nachts"],
+        ["van...tot", "от...до", "van 9 tot 5, van maandag tot vrijdag"],
+        ["voor", "до (дедлайн)", "voor 5 uur, voor maandag"],
+        ["na", "после", "na het eten, na de les"],
+        ["tijdens", "во время", "tijdens de vergadering, tijdens het eten"],
+        ["sinds", "с (момента)", "sinds 2020, sinds gisteren"]
+      ]
+    },
+    {
+      "title": "Предлоги направления",
+      "headers": ["Предлог", "Значение", "Пример"],
+      "rows": [
+        ["naar", "к/в (направление)", "naar school, naar Amsterdam, naar huis"],
+        ["uit", "из", "uit Rusland, uit de kamer, uit het raam"],
+        ["van", "от/из (происхождение)", "van Amsterdam naar Utrecht, een brief van mijn moeder"],
+        ["door", "через/сквозь", "door het park, door de stad"],
+        ["over", "через/над", "over de brug, over de straat"],
+        ["langs", "мимо/вдоль", "langs het kanaal, langs de winkels"]
+      ]
+    },
+    {
+      "title": "Устойчивые сочетания глагол + предлог",
+      "headers": ["Сочетание", "Перевод", "Пример"],
+      "rows": [
+        ["wachten op", "ждать (кого/чего)", "Ik wacht op de bus."],
+        ["denken aan", "думать о", "Ik denk aan jou."],
+        ["luisteren naar", "слушать", "Ik luister naar muziek."],
+        ["kijken naar", "смотреть на", "Ik kijk naar de film."],
+        ["zoeken naar", "искать", "Ik zoek naar mijn sleutels."],
+        ["beginnen met", "начинать с", "Ik begin met de les."],
+        ["stoppen met", "прекращать", "Ik stop met roken."],
+        ["houden van", "любить", "Ik houd van kaas."],
+        ["praten over", "говорить о", "Wij praten over het weer."],
+        ["vragen om", "просить", "Ik vraag om hulp."],
+        ["bellen naar/met", "звонить", "Ik bel naar de dokter."]
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik woon in een klein dorp bij Amsterdam.", "ru": "Я живу в маленькой деревне рядом с Амстердамом." },
+    { "nl": "Het schilderij hangt aan de muur.", "ru": "Картина висит на стене." },
+    { "nl": "Ik ga op maandag naar de sportschool.", "ru": "Я хожу в спортзал по понедельникам." },
+    { "nl": "De vergadering is om 10 uur.", "ru": "Собрание в 10 часов." },
+    { "nl": "Ik wacht al een uur op de bus.", "ru": "Я жду автобус уже час." },
+    { "nl": "Zij houdt van Nederlandse kaas.", "ru": "Она любит нидерландский сыр." },
+    { "nl": "Wij fietsen door het park.", "ru": "Мы едем на велосипеде через парк." },
+    { "nl": "Ik werk van 9 tot 5.", "ru": "Я работаю с 9 до 5." }
+  ],
+  "exceptions": [
+    "naar huis (домой) -- без артикля: Ik ga naar huis (не: naar het huis)",
+    "thuis (дома) -- наречие, не предлог: Ik ben thuis (не: in huis)",
+    "op kantoor (на работе/в офисе) -- без артикля",
+    "aan tafel (за столом) -- без артикля: Wij zitten aan tafel"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik denk over jou.", "correct": "Ik denk aan jou.", "why": "denken aan (не denken over) -- думать о ком-то" },
+    { "wrong": "Ik wacht voor de bus.", "correct": "Ik wacht op de bus.", "why": "wachten op (не wachten voor) -- ждать" },
+    { "wrong": "Ik ga in school.", "correct": "Ik ga naar school.", "why": "naar -- направление движения; in -- нахождение внутри" },
+    { "wrong": "Op de ochtend.", "correct": "In de ochtend / 's ochtends.", "why": "Части дня: in de... или 's... (не op)" }
+  ],
+  "exercises": [
+    { "type": "choice", "question": "Ik woon __ Amsterdam.", "options": ["in", "op", "aan", "bij"], "answer": "in", "explanation": "Жить в городе -> in" },
+    { "type": "choice", "question": "De les begint __ 9 uur.", "options": ["in", "op", "om", "aan"], "answer": "om", "explanation": "Точное время -> om" },
+    { "type": "choice", "question": "Ik wacht __ de trein.", "options": ["voor", "op", "naar", "aan"], "answer": "op", "explanation": "wachten op -> ждать" },
+    { "type": "fill-blank", "sentence": "Ik ga __ maandag __ de dokter.", "answer": "op ... naar", "explanation": "День недели -> op; направление -> naar" },
+    { "type": "choice", "question": "Zij houdt __ Nederlandse muziek.", "options": ["van", "aan", "met", "over"], "answer": "van", "explanation": "houden van -> любить" }
+  ],
+  "relatedTopics": ["word-order", "questions", "er-construction"],
+  "inLessons": [9, 16, 20, 28]
+}

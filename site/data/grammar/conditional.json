@@ -1,0 +1,77 @@
+{
+  "id": "conditional",
+  "title": "Условные предложения",
+  "titleNL": "Voorwaardelijke zinnen (conditionalis)",
+  "level": "B1",
+  "summary": "Условные предложения с als (если). Реальное условие: als + настоящее. Нереальное: als + imperfectum, zou + инфинитив.",
+  "rule": {
+    "formula": "Реальное: Als + настоящее, настоящее/будущее | Нереальное: Als + imperfectum, zou(den) + инфинитив",
+    "explanation": "Реальное условие описывает возможные ситуации. Нереальное -- гипотетические или невозможные. zou/zouden (от zullen в imperfectum) используется в главном предложении нереального условия.",
+    "whenToUse": [
+      "Реальное: Als het regent, neem ik een paraplu. (Если идет дождь, я беру зонт.)",
+      "Нереальное (настоящее): Als ik rijk was, zou ik een huis kopen. (Если бы я был богатым, я бы купил дом.)",
+      "Нереальное (прошлое): Als ik had geweten, zou ik zijn gekomen. (Если бы я знал, я бы пришел.)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "Типы условных предложений",
+      "headers": ["Тип", "Условие (als...)", "Результат", "Пример"],
+      "rows": [
+        ["Реальное", "als + настоящее", "настоящее / zullen + инф.", "Als het regent, blijf ik thuis."],
+        ["Нереальное (сейчас)", "als + imperfectum", "zou(den) + инфинитив", "Als ik tijd had, zou ik komen."],
+        ["Нереальное (прошлое)", "als + plusquamperf.", "zou(den) + hebben/zijn + v.d.", "Als ik had geweten, zou ik zijn gekomen."]
+      ]
+    },
+    {
+      "title": "Спряжение zou/zouden",
+      "headers": ["Лицо", "Форма"],
+      "rows": [
+        ["ik", "zou"],
+        ["jij/je", "zou"],
+        ["u", "zou"],
+        ["hij/zij/het", "zou"],
+        ["wij/we", "zouden"],
+        ["jullie", "zouden"],
+        ["zij/ze", "zouden"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "zou для вежливости",
+      "items": [
+        "zou используется не только в условных, но и для вежливых просьб",
+        "Zou je me kunnen helpen? (Не мог бы ты мне помочь?)",
+        "Zou u dit formulier willen invullen? (Не могли бы Вы заполнить эту форму?)",
+        "Ik zou graag een koffie willen. (Я бы хотел кофе.)"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Als het mooi weer is, gaan we naar het strand.", "ru": "Если хорошая погода, мы идем на пляж. (реальное)" },
+    { "nl": "Als ik jou was, zou ik harder studeren.", "ru": "Если бы я был тобой, я бы больше учился. (нереальное)" },
+    { "nl": "Als ik meer geld had, zou ik naar Japan reizen.", "ru": "Если бы у меня было больше денег, я бы поехал в Японию." },
+    { "nl": "Als ik dat had geweten, zou ik niet zijn gegaan.", "ru": "Если бы я это знал, я бы не поехал. (нереальное прошлое)" },
+    { "nl": "Zou je me willen helpen?", "ru": "Не мог бы ты мне помочь? (вежливость)" },
+    { "nl": "Ik zou graag een kopje koffie willen.", "ru": "Я бы хотел чашечку кофе." }
+  ],
+  "exceptions": [
+    "als ik jou was (не: als ik jou were) -- в нидерландском нет subjunctive как в английском",
+    "В разговорной речи нереальное условие иногда упрощается: Als ik geld had, kocht ik een auto. (без zou)",
+    "indien -- формальный синоним als: Indien u vragen heeft... (Если у Вас есть вопросы...)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Als ik rijk ben, zou ik een huis kopen.", "correct": "Als ik rijk was, zou ik een huis kopen.", "why": "Нереальное условие: als + imperfectum (не настоящее)" },
+    { "wrong": "Als het regent, zou ik thuis blijven.", "correct": "Als het regent, blijf ik thuis.", "why": "Реальное условие: настоящее время в обеих частях (не zou)" },
+    { "wrong": "Als ik zou rijk zijn...", "correct": "Als ik rijk was...", "why": "zou стоит в главном предложении, не в условии" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "Als het regent, __ ik thuis. (blijven, реальное)", "answer": "blijf", "explanation": "Реальное условие: настоящее время" },
+    { "type": "fill-blank", "sentence": "Als ik meer tijd __, __ ik Nederlands leren. (hebben, нереальное)", "answer": "had ... zou", "explanation": "Нереальное: als + imperfectum, zou + инф." },
+    { "type": "choice", "question": "__ je me willen helpen? (вежливая просьба)", "options": ["Kun", "Wil", "Zou", "Mag"], "answer": "Zou", "explanation": "Вежливая просьба -> zou" },
+    { "type": "fill-blank", "sentence": "Als ik jou __, __ ik harder studeren. (zijn, нереальное)", "answer": "was ... zou", "explanation": "Als ik jou was = если бы я был тобой" }
+  ],
+  "relatedTopics": ["conjunctions", "past-simple", "modal-verbs", "word-order", "zou-usage"],
+  "inLessons": [26, 36, 40]
+}

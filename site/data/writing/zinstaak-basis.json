@@ -1,0 +1,25 @@
+{
+  "id": "zinstaak-basis",
+  "title": "Zinstaak (NT2): формат и примеры",
+  "titleRu": "Zinstaak — что это и как выполнять",
+  "level": "B1",
+  "type": "model",
+  "description": "Zinstaak — короткое задание на NT2 Programma I: нужно вставить 1–3 слова в незаконченное предложение, опираясь на ситуацию.",
+  "structure": [
+    {"title": "Прочитать контекст", "note": "1–3 предложения с ситуацией."},
+    {"title": "Понять, что пропущено", "note": "Обычно — глагольная форма, артикль, предлог или связующее слово."},
+    {"title": "Заполнить пропуск", "note": "Точно тем числом слов, которое указано."},
+    {"title": "Проверить грамматику", "note": "Порядок слов, согласование, склонение артиклей."}
+  ],
+  "phrases": [
+    "Оценивается: правильность формы, точность смысла, соответствие количеству слов.",
+    "Типичные пропуски: in / op / naar, het / de / een, kan / moet / wil, omdat / want / maar.",
+    "Следить за инверсией после обстоятельства в начале предложения."
+  ],
+  "model": "Пример zinstaak:\n\nCONTEXT:\nKarin werkt fulltime. Ze heeft twee kinderen. Haar man werkt 's avonds.\n\nOPDRACHT:\nKarin brengt haar kinderen iedere ochtend __________ school. (1 woord)\n\nANTWOORD: naar.\n\nВторой пример:\n\nCONTEXT:\nMarco heeft een nieuwe baan gevonden. Zijn eerste werkdag is maandag.\n\nOPDRACHT:\nIk heb veel zin __________ mijn eerste werkdag. (1 woord)\n\nANTWOORD: in.\n\nТретий пример:\n\nCONTEXT:\nGisteren heb ik een pakje besteld op internet. Vanochtend is het bezorgd.\n\nOPDRACHT:\nHet pakje __________ vanochtend bezorgd. (1 woord)\n\nANTWOORD: is.",
+  "tips": [
+    "Считайте слова по заданию строго.",
+    "Не усложняйте: в zinstaak редко нужны длинные конструкции.",
+    "Если не уверены, вспомните частотные комбинации: zin hebben in, bang zijn voor, denken aan."
+  ]
+}

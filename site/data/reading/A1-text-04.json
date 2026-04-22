@@ -1,0 +1,41 @@
+{
+  "id": "A1-text-04",
+  "level": "A1",
+  "title": "Een e-mail naar een vriendin",
+  "topic": "communicatie",
+  "readingTime": "2 min",
+  "body": "Hoi Marie,\n\nHoe gaat het met jou? Met mij gaat het goed. Ik ben nu drie maanden in Amsterdam. Ik leer Nederlands op school. Mijn leraar heet Pieter en hij is heel aardig.\n\nNaast de school heb ik werk gevonden in een café. Ik werk drie dagen per week. Ik maak koffie en help de klanten. Mijn collega's zijn jong en vriendelijk.\n\nIn het weekend fiets ik door de stad. Amsterdam is heel mooi. Er zijn veel grachten en kleine winkels. Soms ga ik naar het museum. Het Rijksmuseum is mijn favoriet.\n\nKom je binnenkort naar Nederland? Je kunt bij mij logeren. Ik heb een logeerkamer.\n\nGroetjes,\nElena",
+  "glossary": [
+    {"nl": "hoe gaat het", "ru": "как дела"},
+    {"nl": "aardig", "ru": "милый, добрый"},
+    {"nl": "vinden", "ru": "находить"},
+    {"nl": "per week", "ru": "в неделю"},
+    {"nl": "de gracht", "ru": "канал (в городе)"},
+    {"nl": "binnenkort", "ru": "скоро"},
+    {"nl": "logeren", "ru": "останавливаться в гостях"},
+    {"nl": "de logeerkamer", "ru": "гостевая комната"},
+    {"nl": "groetjes", "ru": "привет, пока (приветствие/подпись)"}
+  ],
+  "questions": [
+    {
+      "q": "Hoe lang is Elena al in Amsterdam?",
+      "options": ["1 maand", "3 maanden", "6 maanden"],
+      "answer": 1
+    },
+    {
+      "q": "Waar werkt Elena?",
+      "options": ["In een café", "In een winkel", "In een museum"],
+      "answer": 0
+    },
+    {
+      "q": "Wat doet Elena in het weekend?",
+      "options": ["Ze werkt", "Ze fietst door de stad", "Ze blijft thuis"],
+      "answer": 1
+    },
+    {
+      "q": "Wat biedt Elena Marie aan?",
+      "options": ["Een baan", "Een fiets", "Een slaapplaats"],
+      "answer": 2
+    }
+  ]
+}

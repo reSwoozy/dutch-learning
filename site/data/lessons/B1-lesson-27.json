@@ -1,0 +1,253 @@
+{
+  "id": "B1-lesson-27",
+  "num": 27,
+  "level": "B1",
+  "title": "Пассивный залог",
+  "minutes": 15,
+  "objectives": [],
+  "sections": [
+    {
+      "type": "grammar",
+      "title": "Пассивный залог"
+    },
+    {
+      "type": "text",
+      "title": "Цель урока",
+      "content": "**Научиться использовать пассивный залог для подчеркивания действия или когда исполнитель неизвестен или неважен.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+    },
+    {
+      "type": "grammar",
+      "title": "Новая грамматика"
+    },
+    {
+      "type": "grammar",
+      "title": "Что такое пассивный залог?",
+      "content": "В пассивном залоге подлежащее испытывает действие, а не выполняет его.\n**Активный залог**: Het kind eet de appel. (Ребенок ест яблоко)\n**Пассивный залог**: De appel wordt gegeten. (Яблоко съедается)\n#### **Образование пассивного залога**\n**Структура**: worden + прошедшее причастие (past participle)",
+      "tables": [
+        {
+          "headers": [
+            "Время",
+            "Активный залог",
+            "Пассивный залог"
+          ],
+          "rows": [
+            [
+              "Настоящее",
+              "Hij bouwt een huis",
+              "Een huis wordt gebouwd"
+            ],
+            [
+              "Прошедшее",
+              "Hij bouwde een huis",
+              "Een huis werd gebouwd"
+            ],
+            [
+              "Перфект",
+              "Hij heeft een huis gebouwd",
+              "Een huis is gebouwd"
+            ],
+            [
+              "Будущее",
+              "Hij zal een huis bouwen",
+              "Een huis zal worden gebouwd"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Спряжение worden",
+      "tables": [
+        {
+          "headers": [
+            "Лицо",
+            "Настоящее время",
+            "Прошедшее время"
+          ],
+          "rows": [
+            [
+              "ik",
+              "word",
+              "werd"
+            ],
+            [
+              "jij/je",
+              "wordt",
+              "werd"
+            ],
+            [
+              "hij/zij/het",
+              "wordt",
+              "werd"
+            ],
+            [
+              "wij/we",
+              "worden",
+              "werden"
+            ],
+            [
+              "jullie",
+              "worden",
+              "werden"
+            ],
+            [
+              "zij/ze",
+              "worden",
+              "werden"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Образование прошедшего причастия",
+      "content": "#### **Правильные глаголы**:\n- **ge- + основа + -t/-d**: maken → gemaakt, gebruiken → gebruikt\n- **Если основа заканчивается на p, t, k, f, s, ch**: -t\n- **В остальных случаях**: -d\n#### **Неправильные глаголы** (нужно запомнить):\n- schrijven → geschreven (писать → написанный)\n- lezen → gelezen (читать → прочитанный)\n- verkopen → verkocht (продавать → проданный)\n- kopen → gekocht (покупать → купленный)"
+    },
+    {
+      "type": "text",
+      "title": "Технические процессы",
+      "content": "```\nHet huis wordt gerenoveerd.\n(Дом ремонтируется)\nDe computer wordt gerepareerd.\n(Компьютер ремонтируется)\nDe medicijnen worden geproduceerd in de fabriek.\n(Лекарства производятся на фабрике)\n```"
+    },
+    {
+      "type": "text",
+      "title": "Новости и официальная информация",
+      "content": "```\nDe nieuwe wet wordt volgende maand ingevoerd.\n(Новый закон вводится в следующем месяце)\nEr wordt een nieuw ziekenhuis gebouwd.\n(Строится новая больница)\nDe resultaten worden morgen bekendgemaakt.\n(Результаты будут объявлены завтра)\n```"
+    },
+    {
+      "type": "text",
+      "title": "Указание на исполнителя (door + кто)",
+      "content": "```\nHet boek werd geschreven door een bekende auteur.\n(Книга была написана известным автором)\nDe brief wordt bezorgd door de postbode.\n(Письмо доставляется почтальоном)\nHet huis wordt verkocht door een makelaar.\n(Дом продается риелтором)\n```"
+    },
+    {
+      "type": "text",
+      "title": "Диалог: На стройке",
+      "content": "**Bouwleider (Прораб)**: Wat wordt er vandaag gedaan?\n**Werknemer (Рабочий)**: De muren worden geschilderd en de vloer wordt gelegd.\n**Bouwleider**: Door wie wordt het dak gerepareerd?\n**Werknemer**: Dat wordt door het dakdekkerbedrijf gedaan.\n**Bouwleider**: Wanneer wordt het project afgerond?\n**Werknemer**: Het wordt volgende week voltooid.\n**Bouwleider**: Perfect! Dan worden de sleutels overhandigd aan de eigenaar."
+    },
+    {
+      "type": "text",
+      "title": "Диалог: В ресторане",
+      "content": "**Klant (Клиент)**: Worden de groenten hier zelf gekweekt?\n**Ober (Официант)**: Ja, ze worden op onze eigen boerderij gekweekt.\n**Klant**: Hoe wordt het vlees bereid?\n**Ober**: Het wordt langzaam gegrild op de houtskoolgrill.\n**Klant**: Wordt er ook vegetarisch eten geserveerd?\n**Ober**: Zeker! Er worden dagelijks verse vegetarische gerechten gemaakt.\n**Klant**: Wanneer wordt de rekening gebracht?\n**Ober**: Die wordt aan het eind van de maaltijd gepresenteerd."
+    },
+    {
+      "type": "grammar",
+      "title": "Упражнение 1: Преобразование в пассивный залог",
+      "content": "Преобразуйте предложения из активного залога в пассивный:\n1. De kok bereidt het eten.\n→ Het eten wordt _____________.\n2. De leraar corrigeert de toetsen.\n→ De toetsen worden _____________.\n3. De postbode bezorgt de pakketjes.\n→ De pakketjes worden _____________.\n4. De politie onderzoekt de zaak.\n→ De zaak wordt _____________.\n5. De arbeiders bouwen de brug.\n→ De brug wordt _____________."
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 2: Выбор правильной формы",
+      "items": [
+        {
+          "question": "Het huis _______ vorig jaar gebouwd."
+        },
+        {
+          "question": "De auto _______ morgen gerepareerd."
+        },
+        {
+          "question": "Deze boeken _______ in Nederland gedrukt."
+        },
+        {
+          "question": "Het probleem _______ gisteren opgelost."
+        },
+        {
+          "question": "De computer _______ elke dag gebruikt."
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Упражнение 3: Создание предложений",
+      "items": [
+        {
+          "question": "de brief / schrijven / door de secretaresse"
+        },
+        {
+          "question": "het huis / verkopen / door de makelaar"
+        },
+        {
+          "question": "de medicijnen / maken / in de apotheek"
+        },
+        {
+          "question": "het examen / afnemen / volgende week"
+        },
+        {
+          "question": "de kamer / schoonmaken / elke dag"
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Пассивный залог в голландской культуре",
+      "content": "В Нидерландах пассивный залог часто используется в:\n** Деловом общении**: Для создания официального тона\n- \"Er wordt besloten dat...\" (Принимается решение, что...)\n- \"Het wordt aanbevolen om...\" (Рекомендуется...)\n** СМИ и новостях**: Для объективной подачи информации\n- \"Er wordt verwacht dat...\" (Ожидается, что...)\n- \"Het wordt gerapporteerd dat...\" (Сообщается, что...)\n** Правительственных документах**: Для безличного тона\n- \"Er wordt geïnvesteerd in...\" (Инвестируется в...)\n- \"Het wordt vastgesteld dat...\" (Устанавливается, что...)\n** Когда исполнитель очевиден или неважен**:\n- \"De vuilnis wordt opgehaald.\" (Мусор вывозится - ясно, что мусорщиками)\n- \"Er wordt gebeld.\" (Звонят - неважно кто)\n---"
+    },
+    {
+      "type": "vocabulary",
+      "title": "Ключевые слова урока",
+      "words": [
+        {
+          "nl": "passief",
+          "ru": "пассивный",
+          "hint": "Het passief wordt veel gebruikt"
+        },
+        {
+          "nl": "worden",
+          "ru": "становиться/быть",
+          "hint": "Het wordt gedaan"
+        },
+        {
+          "nl": "gebouwd",
+          "ru": "построенный",
+          "hint": "Het huis wordt gebouwd"
+        },
+        {
+          "nl": "gerepareerd",
+          "ru": "отремонтированный",
+          "hint": "De auto wordt gerepareerd"
+        },
+        {
+          "nl": "geschreven",
+          "ru": "написанный",
+          "hint": "De brief wordt geschreven"
+        },
+        {
+          "nl": "verkocht",
+          "ru": "проданный",
+          "hint": "Het huis wordt verkocht"
+        },
+        {
+          "nl": "gemaakt",
+          "ru": "сделанный",
+          "hint": "Het eten wordt gemaakt"
+        },
+        {
+          "nl": "bezorgd",
+          "ru": "доставленный",
+          "hint": "De post wordt bezorgd"
+        },
+        {
+          "nl": "gebruikt",
+          "ru": "использованный",
+          "hint": "De computer wordt gebruikt"
+        },
+        {
+          "nl": "onderzocht",
+          "ru": "исследованный",
+          "hint": "De zaak wordt onderzocht"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Связь с предыдущими уроками",
+      "content": "- **Урок 25** (Сложные предложения): Пассивный залог часто используется в сложных предложениях\n- **Урок 26** (Условные предложения): Можно комбинировать с условными конструкциями\n**Пример комбинации**:\n\"Als het huis wordt verkocht, zou ik naar Frankrijk verhuizen.\"\n(Если дом будет продан, я бы переехал во Францию)"
+    },
+    {
+      "type": "text",
+      "title": "В следующем уроке",
+      "content": "**Урок 28: Работа и карьера (Werk en carrière)**\n- Поиск работы в Нидерландах\n- Собеседования и CV\n- Трудовые права и обязанности\n- Карьерное развитие\n**Подготовка**: Подумайте о своих профессиональных целях в Нидерландах!"
+    }
+  ],
+  "vocabularyFile": "B1-lesson-27.json"
+}

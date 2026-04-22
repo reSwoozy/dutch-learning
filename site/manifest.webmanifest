@@ -1,0 +1,46 @@
+{
+  "name": "Dutch Learning System",
+  "short_name": "NL Learn",
+  "description": "Курс нидерландского языка A1–B2 с грамматикой, карточками и тестами.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0f1a",
+  "theme_color": "#0b0f1a",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Карточки к повторению",
+      "short_name": "Повтор",
+      "url": "./index.html#flashcards/review",
+      "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Уроки",
+      "short_name": "Уроки",
+      "url": "./index.html#lessons",
+      "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Чтение",
+      "short_name": "Чтение",
+      "url": "./index.html#reading",
+      "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    },
+    {
+      "name": "Ресурсы",
+      "short_name": "Ресурсы",
+      "url": "./index.html#resources",
+      "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+    }
+  ]
+}

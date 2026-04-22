@@ -1,0 +1,87 @@
+{
+  "id": "er-construction",
+  "title": "Конструкция с er",
+  "titleNL": "Het woordje 'er'",
+  "level": "B1",
+  "summary": "er -- одно из самых сложных слов в нидерландском. Имеет 5 функций: вводное er, местоименное er, количественное er, предложное er, пассивное er.",
+  "rule": {
+    "formula": "er + глагол (вводное) | er + van/mee/naar... (предложное) | er + числительное (количественное)",
+    "explanation": "er используется в разных контекстах. Главное -- понять, какую функцию оно выполняет в конкретном предложении.",
+    "whenToUse": [
+      "Вводное (existential): Er is een probleem. (Есть проблема.)",
+      "Местоименное (locative): Ik ben er geweest. (Я там был.)",
+      "Количественное: Ik heb er drie. (У меня их три.)",
+      "Предложное: Ik denk eraan. (Я думаю об этом.)",
+      "Пассивное: Er wordt hier gewerkt. (Здесь работают.)"
+    ]
+  },
+  "tables": [
+    {
+      "title": "5 функций er",
+      "headers": ["Функция", "Значение", "Пример", "Аналог в русском"],
+      "rows": [
+        ["Вводное", "есть/существует", "Er is een park in de stad.", "В городе есть парк."],
+        ["Местоименное", "там", "Ik woon er al 5 jaar.", "Я живу там уже 5 лет."],
+        ["Количественное", "их (заменяет сущ.)", "Hoeveel heb je er? -- Ik heb er drie.", "Сколько у тебя? -- У меня их три."],
+        ["Предложное", "er + предлог = об этом/с этим", "Ik denk eraan. (= aan het/dat)", "Я думаю об этом."],
+        ["Пассивное", "безличный пассив", "Er wordt hier niet gerookt.", "Здесь не курят."]
+      ]
+    },
+    {
+      "title": "Предложное er (er + предлог)",
+      "headers": ["Глагол + предлог", "С существительным", "С er (для вещей)", "С местоимением (для людей)"],
+      "rows": [
+        ["denken aan", "Ik denk aan het examen.", "Ik denk eraan.", "Ik denk aan hem."],
+        ["kijken naar", "Ik kijk naar de film.", "Ik kijk ernaar.", "Ik kijk naar haar."],
+        ["praten over", "Wij praten over het weer.", "Wij praten erover.", "Wij praten over hem."],
+        ["wachten op", "Ik wacht op de bus.", "Ik wacht erop.", "Ik wacht op jou."],
+        ["beginnen met", "Ik begin met de les.", "Ik begin ermee.", "---"]
+      ]
+    }
+  ],
+  "tips": [
+    {
+      "title": "er + предлог: только для вещей!",
+      "items": [
+        "Для вещей/понятий: eraan, ernaar, erover, erop, ermee",
+        "Для людей: aan hem, naar haar, over hen (НЕ eraan, ernaar...)",
+        "Ik denk eraan. (Я думаю об этом.) vs Ik denk aan haar. (Я думаю о ней.)"
+      ]
+    },
+    {
+      "title": "Вводное er обязательно",
+      "items": [
+        "Нельзя начать предложение с неопределенного подлежащего без er",
+        "Er is een man aan de deur. (не: Een man is aan de deur.)",
+        "Er zijn veel mensen in het park. (не: Veel mensen zijn in het park. -- можно, но значение другое)"
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Er is een supermarkt in de buurt.", "ru": "В районе есть супермаркет. (вводное)" },
+    { "nl": "Er zijn veel studenten in de klas.", "ru": "В классе много студентов. (вводное)" },
+    { "nl": "Ben je in Amsterdam geweest? -- Ja, ik ben er geweest.", "ru": "Ты был в Амстердаме? -- Да, я там был. (местоименное)" },
+    { "nl": "Hoeveel broers heb je? -- Ik heb er twee.", "ru": "Сколько у тебя братьев? -- У меня их два. (количественное)" },
+    { "nl": "Ik denk eraan om Nederlands te leren.", "ru": "Я думаю о том, чтобы учить нидерландский. (предложное)" },
+    { "nl": "Er wordt hier niet gerookt.", "ru": "Здесь не курят. (пассивное)" }
+  ],
+  "exceptions": [
+    "er может стоять в разных позициях в зависимости от функции",
+    "Вводное er -- обычно в начале или после глагола при инверсии: Morgen is er een feest.",
+    "Предложное er может разделяться: Ik denk er niet aan. (er...aan разделено niet)"
+  ],
+  "commonMistakes": [
+    { "wrong": "Ik denk eraan hem. (о нем)", "correct": "Ik denk aan hem.", "why": "er + предлог только для вещей, для людей -- предлог + местоимение" },
+    { "wrong": "Een probleem is.", "correct": "Er is een probleem.", "why": "Вводное er обязательно с неопределенным подлежащим" },
+    { "wrong": "Hoeveel heb je? (братьев)", "correct": "Hoeveel heb je er?", "why": "Количественное er заменяет существительное" }
+  ],
+  "exercises": [
+    { "type": "fill-blank", "sentence": "__ is een park in de buurt.", "answer": "Er", "explanation": "Вводное er: есть/существует" },
+    { "type": "fill-blank", "sentence": "Hoeveel kinderen heb je? -- Ik heb __ drie.", "answer": "er", "explanation": "Количественное er: заменяет kinderen" },
+    { "type": "fill-blank", "sentence": "Ik denk __ (aan het examen).", "answer": "eraan", "explanation": "Предложное er: denken aan -> eraan (для вещей)" },
+    { "type": "choice", "question": "Ik wacht __ (op de bus).", "options": ["erop", "op er", "er op"], "answer": "erop", "explanation": "er + op пишется слитно: erop" },
+    { "type": "choice", "question": "__ wordt hier niet gerookt.", "options": ["Er", "Het", "Men"], "answer": "Er", "explanation": "Безличный пассив -> Er wordt..." }
+  ],
+  "relatedTopics": ["prepositions", "passive-voice", "word-order", "questions"],
+  "inLessons": [20, 27, 33]
+}
