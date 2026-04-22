@@ -36,7 +36,7 @@ Object.assign(App, {
       else if (count >= 1) lvl = 1;
       cells.push(`<div class="heatmap-cell${lvl ? ' l' + lvl : ''}" title="${key}: ${count}"></div>`);
     }
-    return `<div class="heatmap">${cells.join('')}</div>`;
+    return `<div class="heatmap-scroll"><div class="heatmap">${cells.join('')}</div></div>`;
   },
 
   renderAccount(el) {
@@ -226,10 +226,10 @@ Object.assign(App, {
       </section>
     `;
 
-    const heatmap = el.querySelector('.heatmap');
-    if (heatmap) {
+    const heatmapScroll = el.querySelector('.heatmap-scroll');
+    if (heatmapScroll) {
       requestAnimationFrame(() => {
-        heatmap.scrollLeft = heatmap.scrollWidth;
+        heatmapScroll.scrollLeft = heatmapScroll.scrollWidth;
       });
     }
 

@@ -1240,6 +1240,11 @@ a.card:hover {
   color: var(--text-muted);
 }
 
+.heatmap-scroll {
+  margin: 1rem 0;
+  max-width: 100%;
+}
+
 .heatmap {
   display: grid;
   grid-template-columns: repeat(52, minmax(0, 1fr));
@@ -1247,7 +1252,6 @@ a.card:hover {
   grid-auto-flow: column;
   gap: 3px;
   width: 100%;
-  margin: 1rem 0;
 }
 
 .heatmap-cell {
@@ -1274,14 +1278,18 @@ a.card:hover {
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .continue-card { flex-direction: column; align-items: stretch; }
 
+  .heatmap-scroll {
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: .4rem;
+    scrollbar-width: thin;
+  }
+
   .heatmap {
     grid-template-columns: repeat(52, 11px);
     gap: 2px;
-    overflow-x: auto;
-    padding-bottom: .4rem;
-    overscroll-behavior-x: contain;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: thin;
+    width: max-content;
   }
 
   .heatmap-cell { width: 11px; height: 11px; aspect-ratio: auto; }
