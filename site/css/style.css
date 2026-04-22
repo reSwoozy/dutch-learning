@@ -1261,64 +1261,6 @@ a.stat-card:hover,
 .toast-success { background: var(--green); }
 .toast-error { background: var(--red); }
 
-body.file-protocol header,
-body.file-protocol .site-footer {
-  display: none;
-}
-
-body.file-protocol main.container {
-  max-width: 720px;
-  margin: 0 auto;
-  padding: 3rem 1.25rem;
-}
-
-.file-protocol-notice {
-  background: var(--bg-elevated, #1a1f2d);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 2rem;
-  color: var(--text);
-  box-shadow: 0 12px 32px rgba(0, 0, 0, .35);
-}
-
-.file-protocol-notice h1 {
-  margin: 0 0 .75rem;
-  font-size: 1.5rem;
-  line-height: 1.25;
-}
-
-.file-protocol-notice p {
-  color: var(--text-muted);
-  line-height: 1.55;
-  margin: 0 0 1rem;
-}
-
-.file-protocol-notice p.muted {
-  font-size: .875rem;
-}
-
-.file-protocol-notice ol {
-  margin: 0 0 1rem;
-  padding-left: 1.25rem;
-  line-height: 1.6;
-}
-
-.file-protocol-notice ol > li { margin-bottom: .5rem; }
-
-.file-protocol-notice ul {
-  margin: .35rem 0 0;
-  padding-left: 1.1rem;
-}
-
-.file-protocol-notice code {
-  background: var(--accent-soft);
-  color: var(--accent);
-  padding: .05rem .4rem;
-  border-radius: 4px;
-  font-size: .875rem;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-}
-
 @keyframes slideUp {
   from { opacity: 0; transform: translateY(1rem); }
   to { opacity: 1; transform: translateY(0); }

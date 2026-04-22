@@ -3725,6 +3725,5 @@ const SRS = {
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-  if (window.__dutchFileProtocol) return;
   App.init();
 });

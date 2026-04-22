@@ -1,0 +1,44 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isOwner(uid) {
+      return request.auth != null && request.auth.uid == uid;
+    }
+
+    function hasOnly(keys) {
+      return request.resource.data.keys().hasOnly(keys);
+    }
+
+    function progressShapeOk() {
+      let p = request.resource.data.progress;
+      return p is map
+        && p.keys().hasAll(['version'])
+        && p.version is int
+        && p.version >= 4
+        && (!('grammarViewed'    in p) || p.grammarViewed is list)
+        && (!('lessonsCompleted' in p) || p.lessonsCompleted is list)
+        && (!('exerciseHistory'  in p) || p.exerciseHistory is list)
+        && (!('readingRead'      in p) || p.readingRead is list)
+        && (!('writingSeen'      in p) || p.writingSeen is list)
+        && (!('lessonNotes'      in p) || p.lessonNotes is map)
+        && (!('srs'              in p) || p.srs is map)
+        && (!('testResults'      in p) || p.testResults is map)
+        && (!('streak'           in p) || p.streak is int)
+        && (!('totalCorrect'     in p) || p.totalCorrect is int)
+        && (!('totalAnswered'    in p) || p.totalAnswered is int);
+    }
+
+    match /users/{uid} {
+      allow read: if isOwner(uid);
+      allow create, update: if isOwner(uid)
+        && hasOnly(['progress', 'updatedAt'])
+        && progressShapeOk();
+      allow delete: if false;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

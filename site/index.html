@@ -91,39 +91,11 @@
     </div>
   </footer>
 
-  <script>
-    (function () {
-      if (location.protocol !== 'file:') return;
-      document.body.classList.add('file-protocol');
-      var host = document.getElementById('main-content');
-      if (host) {
-        host.innerHTML = ''
-          + '<section class="file-protocol-notice">'
-          + '<h1>Запустите сайт через лаунчер</h1>'
-          + '<p>Сайт открыт напрямую из файловой системы. В этом режиме прогресс не сохраняется на диск и часть функций недоступна.</p>'
-          + '<ol>'
-          + '<li>Закройте эту вкладку.</li>'
-          + '<li>В корне проекта запустите лаунчер:'
-          + '<ul>'
-          + '<li><strong>macOS:</strong> двойной клик по <code>Dutch-Mac.command</code></li>'
-          + '<li><strong>Windows:</strong> двойной клик по <code>Dutch-Windows.bat</code></li>'
-          + '</ul>'
-          + '</li>'
-          + '<li>Браузер сам откроется на <code>http://localhost:8080/site/</code>.</li>'
-          + '</ol>'
-          + '<p class="muted">Лаунчер проверит Python и поднимет локальный сервер, через который сайт читает и пишет <code>dutch-progress.json</code>.</p>'
-          + '</section>';
-      }
-      window.__dutchFileProtocol = true;
-    })();
-  </script>
-
   <script src="js/app.js"></script>
   <script>
     (function () {
       var yearEl = document.getElementById('footer-year');
       if (yearEl) yearEl.textContent = new Date().getFullYear();
-      if (window.__dutchFileProtocol) return;
       if (!('serviceWorker' in navigator)) return;
 
       var reloadedOnce = false;
