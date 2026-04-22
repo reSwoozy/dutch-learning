@@ -182,7 +182,11 @@ body > header {
 
 .nav-scrim {
   position: fixed;
-  inset: var(--header-h) 0 0 0;
+  top: var(--header-h);
+  right: 0;
+  left: 0;
+  height: calc(100vh - var(--header-h));
+  height: calc(100dvh - var(--header-h));
   background: rgba(11, 15, 26, .72);
   z-index: 95;
   animation: fadeIn .2s ease;
@@ -302,22 +306,30 @@ body > header {
 .nav-account__streak[hidden] { display: none; }
 
 @media (max-width: 860px) {
+  body > header {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    background: var(--bg-elev);
+  }
+
   .nav-burger { display: inline-flex; }
 
   .nav-drawer {
     position: fixed;
     top: var(--header-h);
     right: 0;
-    bottom: 0;
     width: min(320px, 86vw);
+    height: calc(100vh - var(--header-h));
+    height: calc(100dvh - var(--header-h));
     flex-direction: column;
     align-items: stretch;
     justify-content: flex-start;
     gap: 1rem;
-    padding: 1.25rem 1rem 2rem;
+    padding: 1.25rem 1rem calc(2rem + env(safe-area-inset-bottom, 0px));
     background: var(--bg-elev);
     border-left: 1px solid var(--border);
     overflow-y: auto;
+    overscroll-behavior: contain;
     transform: translateX(105%);
     transition: transform .22s ease;
     z-index: 100;
@@ -428,7 +440,8 @@ body > header {
   color: var(--text-muted);
 }
 
-body.auth-locked {
+body.auth-locked,
+body.nav-open {
   overflow: hidden;
 }
 
@@ -531,6 +544,7 @@ body.auth-locked > footer {
 }
 
 @media (max-width: 768px) {
+  :root { --header-h: 56px; }
   .header-inner { gap: .75rem; min-height: 56px; }
   .logo { font-size: 1rem; }
   nav { gap: .5rem; }
