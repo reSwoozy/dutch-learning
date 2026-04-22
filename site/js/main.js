@@ -1,4 +1,9 @@
 import { showGate, hideGate, signOutUser, onAuth } from './core/auth.js';
+import { Progress } from './core/progress.js';
+import { SRS } from './core/srs.js';
+
+window.Progress = Progress;
+window.SRS = SRS;
 
 let legacyAppLoaded = false;
 let currentUid = null;
