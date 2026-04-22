@@ -226,6 +226,13 @@ Object.assign(App, {
       </section>
     `;
 
+    const heatmap = el.querySelector('.heatmap');
+    if (heatmap) {
+      requestAnimationFrame(() => {
+        heatmap.scrollLeft = heatmap.scrollWidth;
+      });
+    }
+
     const resetBtn = document.getElementById('account-reset');
     if (resetBtn) {
       resetBtn.addEventListener('click', async () => {

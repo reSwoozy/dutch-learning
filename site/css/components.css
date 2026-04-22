@@ -1273,7 +1273,19 @@ a.card:hover {
   .card { padding: 1.25rem; }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .continue-card { flex-direction: column; align-items: stretch; }
-  .heatmap { grid-template-columns: repeat(18, 10px); }
+
+  .heatmap {
+    grid-template-columns: repeat(52, 11px);
+    gap: 2px;
+    overflow-x: auto;
+    padding-bottom: .4rem;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+
+  .heatmap-cell { width: 11px; height: 11px; aspect-ratio: auto; }
+  .heatmap-cell:hover { transform: none; }
 }
 
 @media (max-width: 480px) {
