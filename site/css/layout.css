@@ -222,11 +222,11 @@ body > header {
   flex-shrink: 0;
 }
 
-.nav-progress {
+.nav-account {
   display: inline-flex;
   align-items: center;
-  gap: .5rem;
-  padding: .35rem .7rem .35rem .4rem;
+  gap: .45rem;
+  padding: .25rem .55rem .25rem .25rem;
   border: 1px solid var(--border);
   border-radius: 999px;
   background: var(--bg-card);
@@ -238,36 +238,49 @@ body > header {
   transition: border-color .15s, background .15s, color .15s;
 }
 
-.nav-progress:hover {
+.nav-account:hover {
   border-color: var(--accent-soft);
   background: var(--accent-soft);
   color: var(--accent);
 }
 
-.nav-progress.active {
+.nav-account.active {
   background: var(--accent-soft);
   color: var(--accent);
   border-color: transparent;
 }
 
-.nav-progress__avatar {
+.nav-account__avatar {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
   background: var(--accent-soft);
   color: var(--accent);
+  overflow: hidden;
   flex-shrink: 0;
+  font-weight: 700;
+  font-size: .85rem;
 }
 
-.nav-progress.active .nav-progress__avatar {
-  background: var(--accent);
-  color: var(--bg);
+.nav-account__avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
-.nav-progress__streak {
+.nav-account__avatar--initials {
+  text-transform: uppercase;
+}
+
+.nav-account.active .nav-account__avatar {
+  box-shadow: 0 0 0 2px var(--accent);
+}
+
+.nav-account__streak {
   display: inline-flex;
   align-items: center;
   gap: .2rem;
@@ -279,7 +292,9 @@ body > header {
   font-weight: 700;
 }
 
-.nav-progress__streak svg { display: block; }
+.nav-account__streak svg { display: block; }
+
+.nav-account__streak[hidden] { display: none; }
 
 @media (max-width: 860px) {
   .nav-burger { display: inline-flex; }
@@ -353,14 +368,12 @@ body > header {
     padding: .7rem .9rem;
   }
 
-  .nav-progress {
+  .nav-account {
     width: 100%;
     justify-content: flex-start;
-    padding: .55rem .75rem;
+    padding: .45rem .65rem;
     border-radius: var(--radius);
   }
-
-  .nav-progress__label { display: inline; }
 }
 
 .site-footer {
@@ -499,85 +512,6 @@ body.auth-locked > footer {
   line-height: 1.5;
 }
 
-.user-badge {
-  position: relative;
-  margin-left: .25rem;
-}
-
-.user-badge__menu {
-  position: relative;
-}
-
-.user-badge__menu > summary {
-  list-style: none;
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  border-radius: 999px;
-}
-
-.user-badge__menu > summary::-webkit-details-marker {
-  display: none;
-}
-
-.user-badge__avatar {
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 1px solid var(--border);
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--accent-soft);
-  color: var(--accent);
-  font-weight: 600;
-  font-size: .85rem;
-}
-
-.user-badge__avatar--fallback {
-  background: var(--accent-soft);
-  color: var(--accent);
-}
-
-.user-badge__popover {
-  position: absolute;
-  right: 0;
-  top: calc(100% + .4rem);
-  min-width: 200px;
-  padding: .75rem;
-  background: var(--bg-elevated, #131826);
-  border: 1px solid var(--border);
-  border-radius: var(--radius, 12px);
-  box-shadow: 0 18px 40px rgba(0, 0, 0, .45);
-  z-index: 50;
-}
-
-.user-badge__name {
-  font-size: .85rem;
-  color: var(--text);
-  margin-bottom: .5rem;
-  word-break: break-word;
-}
-
-.user-badge__signout {
-  display: block;
-  width: 100%;
-  padding: .45rem .6rem;
-  background: transparent;
-  color: var(--text);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  font-size: .85rem;
-  cursor: pointer;
-  transition: background .12s ease;
-}
-
-.user-badge__signout:hover:not([disabled]) {
-  background: var(--accent-soft);
-  color: var(--accent);
-}
-
 @media (max-width: 960px) {
   .header-inner { padding-inline: 1.25rem; }
   .site-footer-inner { padding-inline: 1.25rem; }
@@ -585,8 +519,7 @@ body.auth-locked > footer {
   .nav-main a { padding: .5rem .7rem; font-size: .9rem; }
   .nav-search-btn span { display: none; }
   .nav-search-btn { padding: .45rem .55rem; }
-  .nav-progress__label { display: none; }
-  .nav-progress { padding: .3rem .55rem .3rem .3rem; }
+  .nav-account { padding: .2rem .4rem .2rem .2rem; }
 }
 
 @media (max-width: 768px) {

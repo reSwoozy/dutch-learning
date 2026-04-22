@@ -1,4 +1,4 @@
-import { showGate, hideGate, signOutUser, onAuth } from './core/auth.js';
+import { showGate, hideGate, onAuth } from './core/auth.js';
 import { Progress } from './core/progress.js';
 import { SRS } from './core/srs.js';
 import { App } from './core/app.js';
@@ -20,6 +20,7 @@ import './pages/culture.js';
 import './pages/resources.js';
 import './pages/tests.js';
 import './pages/progress-dashboard.js';
+import './pages/account.js';
 
 window.App = App;
 window.Progress = Progress;
@@ -28,47 +29,31 @@ window.SRS = SRS;
 let appInitialized = false;
 let currentUid = null;
 
-function renderUserBadge(user) {
-  const host = document.querySelector('.nav-actions');
+function updateNavAvatar(user) {
+  const host = document.getElementById('nav-account-avatar');
   if (!host) return;
-  let badge = document.getElementById('user-badge');
-  if (!badge) {
-    badge = document.createElement('div');
-    badge.id = 'user-badge';
-    badge.className = 'user-badge';
-    host.appendChild(badge);
-  }
-  const avatar = user.photoURL
-    ? `<img class="user-badge__avatar" src="${user.photoURL}" alt="" referrerpolicy="no-referrer">`
-    : `<span class="user-badge__avatar user-badge__avatar--fallback">${(user.displayName || user.email || '?').slice(0, 1).toUpperCase()}</span>`;
   const name = user.displayName || user.email || 'Аккаунт';
-  badge.innerHTML = `
-    <details class="user-badge__menu">
-      <summary class="user-badge__trigger" title="${name}">
-        ${avatar}
-      </summary>
-      <div class="user-badge__popover">
-        <div class="user-badge__name">${name}</div>
-        <button type="button" class="user-badge__signout" id="user-badge-signout">Выйти</button>
-      </div>
-    </details>
-  `;
-  const btn = document.getElementById('user-badge-signout');
-  if (btn) {
-    btn.addEventListener('click', async () => {
-      btn.disabled = true;
-      try {
-        await signOutUser();
-      } finally {
-        btn.disabled = false;
-      }
-    });
+  const link = document.getElementById('nav-account');
+  if (link) link.title = name;
+  if (user.photoURL) {
+    host.innerHTML = `<img src="${user.photoURL}" alt="" referrerpolicy="no-referrer">`;
+  } else {
+    const initial = name.slice(0, 1).toUpperCase();
+    host.textContent = initial;
+    host.classList.add('nav-account__avatar--initials');
   }
 }
 
-function removeUserBadge() {
-  const badge = document.getElementById('user-badge');
-  if (badge) badge.remove();
+function resetNavAvatar() {
+  const host = document.getElementById('nav-account-avatar');
+  if (!host) return;
+  host.classList.remove('nav-account__avatar--initials');
+  host.innerHTML = `
+    <svg viewBox="0 0 20 20" width="18" height="18">
+      <circle cx="10" cy="7" r="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/>
+      <path d="M3.5 16.5c1-3 3.6-4.6 6.5-4.6s5.5 1.6 6.5 4.6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+    </svg>
+  `;
 }
 
 onAuth((user) => {
@@ -77,19 +62,19 @@ onAuth((user) => {
     currentUid = user.uid;
     window.__dutchUser = user;
     hideGate();
-    renderUserBadge(user);
+    updateNavAvatar(user);
     if (!appInitialized) {
       appInitialized = true;
       App.init();
     }
   } else {
-    if (currentUid !== null) {
-      window.location.reload();
-      return;
-    }
+    const wasSignedIn = currentUid !== null;
     currentUid = null;
     window.__dutchUser = null;
-    removeUserBadge();
+    resetNavAvatar();
     showGate();
+    if (wasSignedIn) {
+      requestAnimationFrame(() => window.location.reload());
+    }
   }
 });

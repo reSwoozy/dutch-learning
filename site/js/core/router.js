@@ -22,6 +22,7 @@ Object.assign(App, {
       case 'culture': param ? this.renderCultureArticle(main, param) : this.renderCulture(main); break;
       case 'tests': param ? this.renderTest(main, param) : this.renderTests(main); break;
       case 'progress': this.renderProgress(main); break;
+      case 'account': this.renderAccount(main); break;
       case 'reading': param ? this.renderReadingText(main, param) : this.renderReading(main); break;
       case 'writing': param ? this.renderWritingItem(main, param) : this.renderWriting(main); break;
       case 'resources': this.renderResources(main); break;

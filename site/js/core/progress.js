@@ -278,14 +278,6 @@ export const Progress = {
     this.data = this.getDefault();
     await this.flushNow();
   },
-
-  async importData(incoming) {
-    if (!incoming || typeof incoming !== 'object') return false;
-    this.data = incoming;
-    this.migrate();
-    await this.flushNow();
-    return true;
-  },
 };
 
 if (typeof window !== 'undefined') {

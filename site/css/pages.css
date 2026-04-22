@@ -398,3 +398,86 @@
   .test-option { padding: .7rem .8rem; font-size: .95rem; }
   .test-question-text { font-size: 1rem; }
 }
+
+.account-card {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.account-card__avatar {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.account-card__avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.account-card__initials { text-transform: uppercase; }
+
+.account-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: .25rem;
+  min-width: 0;
+}
+
+.account-card__name {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text);
+  word-break: break-word;
+}
+
+.account-card__email {
+  font-size: .9rem;
+  color: var(--text-muted);
+  word-break: break-all;
+}
+
+.account-card__meta {
+  margin-top: .35rem;
+  font-size: .85rem;
+  color: var(--text-muted);
+  line-height: 1.55;
+}
+
+.account-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin-top: .5rem;
+}
+
+.account-actions__note {
+  margin-top: .7rem;
+  font-size: .8rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+@media (max-width: 560px) {
+  .account-card {
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+  }
+}

@@ -1,4 +1,4 @@
-const VERSION = 'v10';
+const VERSION = 'v11';
 const STATIC_CACHE = `dutch-static-${VERSION}`;
 const RUNTIME_CACHE = `dutch-runtime-${VERSION}`;
 

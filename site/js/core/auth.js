@@ -30,7 +30,6 @@ function renderGate(message) {
         </svg>
         <span>Войти через Google</span>
       </button>
-      <p class="auth-gate__note">Прогресс хранится в Firestore. Никто, кроме вас, не может его прочитать или изменить.</p>
     </div>
   `;
   const btn = document.getElementById('auth-gate-btn');

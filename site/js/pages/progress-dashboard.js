@@ -55,25 +55,12 @@ Object.assign(App, {
     el.innerHTML = `
       ${this.pageHero(
         'Прогресс',
-        'Статистика уроков, грамматики, карточек и тестов. Экспорт и импорт.',
+        'Статистика уроков, грамматики, карточек и тестов.',
         [
           { text: `${stats.streak} дн. подряд`, muted: true },
           { text: `${stats.correctRate}% точность`, muted: true },
         ],
       )}
-
-      <div class="card" style="margin-bottom:1.5rem">
-        <h3 style="margin-bottom:.5rem">Хранилище прогресса</h3>
-        <p style="color:var(--text-muted);font-size:.9rem">Прогресс синхронизируется с Firestore: автоматически сохраняется и подтягивается на любом устройстве, где вы войдёте с тем же Google-аккаунтом.</p>
-        <div style="display:flex;gap:.5rem;margin-top:.75rem;flex-wrap:wrap">
-          <button class="btn btn-secondary" onclick="App.exportProgress()">Экспорт JSON</button>
-          <label class="btn btn-secondary" style="cursor:pointer">
-            Импорт JSON
-            <input type="file" accept="application/json" onchange="App.importProgressFromInput(event)" style="display:none">
-          </label>
-          <button class="btn btn-danger" onclick="App.resetProgress()">Сбросить</button>
-        </div>
-      </div>
 
       <div class="stats-grid">
         <div class="stat-card">
@@ -204,44 +191,4 @@ Object.assign(App, {
     `;
   },
 
-  importProgressFromInput(event) {
-    const file = event.target && event.target.files && event.target.files[0];
-    if (!file) return;
-    const reader = new FileReader();
-    reader.onload = async () => {
-      try {
-        const data = JSON.parse(String(reader.result));
-        const ok = await this.progress.importData(data);
-        if (ok) {
-          this.showToast('Прогресс импортирован', 'success');
-          this.route(location.hash);
-        } else {
-          this.showToast('Неверный формат файла', 'error');
-        }
-      } catch {
-        this.showToast('Не удалось прочитать файл', 'error');
-      }
-    };
-    reader.readAsText(file);
-  },
-
-  exportProgress() {
-    const data = JSON.stringify(this.progress.data, null, 2);
-    const blob = new Blob([data], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'dutch-progress.json';
-    a.click();
-    URL.revokeObjectURL(url);
-    this.showToast('\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u0441 \u044d\u043a\u0441\u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d', 'success');
-  },
-
-  async resetProgress() {
-    if (confirm('Точно сбросить весь прогресс?')) {
-      await this.progress.reset();
-      this.route(location.hash);
-      this.showToast('Прогресс сброшен', 'error');
-    }
-  },
 });

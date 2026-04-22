@@ -89,8 +89,8 @@ Object.assign(App, {
   },
 
   updateHeaderStreak() {
-    const wrap = document.getElementById('nav-progress-streak');
-    const value = document.getElementById('nav-progress-streak-value');
+    const wrap = document.getElementById('nav-account-streak');
+    const value = document.getElementById('nav-account-streak-value');
     if (!wrap || !value || !this.progress || !this.progress.data) return;
     const streak = this.progress.data.streak || 0;
     if (streak > 0) {
