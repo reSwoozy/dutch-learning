@@ -22,7 +22,7 @@ Object.assign(App, {
         e.preventDefault();
         location.hash = hash;
         this.closeNavDrawer();
-        if (materials && materials.open) materials.open = false;
+        if (materials && materials.open && !this.isMobileLayout()) materials.open = false;
       });
     });
 
@@ -36,17 +36,33 @@ Object.assign(App, {
       scrim.addEventListener('click', () => this.closeNavDrawer());
     }
 
+    const syncMaterialsState = () => {
+      if (!materials) return;
+      if (this.isMobileLayout()) {
+        materials.open = true;
+      } else {
+        materials.open = false;
+      }
+    };
+
     if (materials) {
+      materials.addEventListener('toggle', () => {
+        if (this.isMobileLayout() && !materials.open) {
+          materials.open = true;
+        }
+      });
       document.addEventListener('click', (e) => {
         if (!materials.open) return;
         if (materials.contains(e.target)) return;
         if (this.isMobileLayout()) return;
         materials.open = false;
       });
+      syncMaterialsState();
     }
 
     window.addEventListener('resize', () => {
       if (!this.isMobileLayout()) this.closeNavDrawer();
+      syncMaterialsState();
     });
   },
 

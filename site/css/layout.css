@@ -353,46 +353,71 @@ body > header {
     font-size: 1rem;
   }
 
-  .nav-group__trigger {
-    justify-content: space-between;
+  .nav-group {
+    margin-top: .4rem;
   }
+
+  .nav-group[open] .nav-group__trigger,
+  .nav-group .nav-group__trigger {
+    justify-content: flex-start;
+    padding: .85rem .9rem .35rem;
+    color: var(--text-muted);
+    font-size: .72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    background: transparent;
+    cursor: default;
+    pointer-events: none;
+  }
+
+  .nav-group__chevron { display: none; }
 
   .nav-submenu {
     position: static;
     box-shadow: none;
     background: transparent;
     border: none;
-    padding: .25rem 0 .25rem 1rem;
-    border-left: 2px solid var(--border);
-    margin: .25rem 0 .25rem .5rem;
+    padding: 0;
+    margin: 0;
+    gap: .125rem;
   }
 
   .nav-submenu .nav-link {
-    padding: .55rem .75rem;
+    padding: .7rem .9rem;
+    font-size: 1rem;
   }
 
   .nav-actions {
     flex-direction: column;
     align-items: stretch;
     gap: .5rem;
+    margin-top: .5rem;
     padding-top: .75rem;
     border-top: 1px solid var(--border);
   }
 
-  .nav-search-btn {
-    width: 100%;
-    justify-content: space-between;
-    padding: .7rem .9rem;
-  }
-
-  .nav-account {
+  .nav-drawer .nav-search-btn {
     width: 100%;
     justify-content: flex-start;
-    padding: .45rem .65rem;
-    border-radius: var(--radius);
+    gap: .65rem;
+    padding: .75rem .9rem;
+    font-size: 1rem;
   }
 
-  .nav-account__label { display: inline; }
+  .nav-drawer .nav-search-btn span { display: inline; }
+  .nav-drawer .nav-search-btn kbd { display: none; }
+
+  .nav-drawer .nav-account {
+    width: 100%;
+    justify-content: flex-start;
+    gap: .7rem;
+    padding: .55rem .75rem;
+    border-radius: var(--radius);
+    font-size: 1rem;
+  }
+
+  .nav-drawer .nav-account__label { display: inline; }
 }
 
 .site-footer {
