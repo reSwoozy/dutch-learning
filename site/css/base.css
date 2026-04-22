@@ -82,6 +82,12 @@ a.link-external:not(.resource-card):not(.btn)::after {
   max-width: 1024px;
   margin-inline: auto;
   padding-inline: 1.5rem;
+  min-width: 0;
+}
+
+main.container {
+  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 @keyframes fadeIn {

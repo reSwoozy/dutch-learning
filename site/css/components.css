@@ -1063,6 +1063,12 @@ a.card:hover {
   flex-direction: column;
   gap: .5rem;
   margin-top: 2rem;
+  min-width: 0;
+}
+
+.culture-category > *,
+.page-section > * {
+  min-width: 0;
 }
 
 .culture-category__head,
@@ -1246,6 +1252,9 @@ a.card:hover {
   max-width: 100%;
   min-width: 0;
   align-self: stretch;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
 }
 
 .heatmap {
