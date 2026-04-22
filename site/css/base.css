@@ -85,11 +85,6 @@ a.link-external:not(.resource-card):not(.btn)::after {
   min-width: 0;
 }
 
-main.container {
-  overflow-x: hidden;
-  overflow-x: clip;
-}
-
 @keyframes fadeIn {
   from { opacity: 0; }
   to { opacity: 1; }
