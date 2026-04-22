@@ -143,7 +143,7 @@ Object.assign(App, {
 
     if (topic.tables && topic.tables.length > 0) {
       for (const tbl of topic.tables) {
-        html += `<h3 style="margin-top:1.5rem">${tbl.title}</h3><table>`;
+        html += `<h3 style="margin-top:1.5rem">${tbl.title}</h3><div class="table-scroll"><table>`;
         if (tbl.headers) {
           html += '<thead><tr>';
           for (const h of tbl.headers) html += `<th>${h}</th>`;
@@ -155,7 +155,7 @@ Object.assign(App, {
           for (const cell of row) html += `<td>${cell}</td>`;
           html += '</tr>';
         }
-        html += '</tbody></table>';
+        html += '</tbody></table></div>';
       }
     }
 

@@ -9,7 +9,7 @@
     {
       "type": "text",
       "title": "Социальные услуги",
-      "content": "**Понять систему социальной поддержки в Нидерландах, изучить различные пособия и льготы, научиться взаимодействовать с социальными службами.**\n**Время изучения**: 15 минут\n**Уровень**: B1 (Intermediate)"
+      "content": "**Понять систему социальной поддержки в Нидерландах, изучить различные пособия и льготы, научиться взаимодействовать с социальными службами.**"
     },
     {
       "type": "text",
@@ -19,7 +19,7 @@
     {
       "type": "grammar",
       "title": "Структура социальных служб",
-      "content": "Rijksoverheid (Государственный уровень)\n├── UWV - Werkloosheid en arbeidsongeschiktheid\n├── SVB - AOW, kinderbijslag, zorgtoeslag\n└── Belastingdienst - Toeslagen en heffingen\nGemeente (Муниципальный уровень)\n├── Sociale dienst - Bijstand, schuldhulp\n├── Jeugdzorg - Помощь детям и семьям\n└── WMO - Ondersteuning bij participatie\nZorgverzekeraars (Страховщики)\n└── Zorgverzekering en aanvullende diensten\n---",
+      "content": "Rijksoverheid (Государственный уровень)\n├── UWV - Werkloosheid en arbeidsongeschiktheid\n├── SVB - AOW, kinderbijslag, zorgtoeslag\n└── Belastingdienst - Toeslagen en heffingen\nGemeente (Муниципальный уровень)\n├── Sociale dienst - Bijstand, schuldhulp\n├── Jeugdzorg - Помощь детям и семьям\n└── WMO - Ondersteuning bij participatie\nZorgverzekeraars (Страховщики)\n└── Zorgverzekering en aanvullende diensten",
       "codeExamples": [
         "Rijksoverheid (Государственный уровень)\n├── UWV - Werkloosheid en arbeidsongeschiktheid\n├── SVB - AOW, kinderbijslag, zorgtoeslag\n└── Belastingdienst - Toeslagen en heffingen\n\nGemeente (Муниципальный уровень)\n├── Sociale dienst - Bijstand, schuldhulp\n├── Jeugdzorg - Помощь детям и семьям\n└── WMO - Ondersteuning bij participatie\n\nZorgverzekeraars (Страховщики)\n└── Zorgverzekering en aanvullende diensten"
       ]

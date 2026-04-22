@@ -16,9 +16,18 @@
           "num": 1,
           "text": "Waar komt Maria vandaan?",
           "options": [
-            { "letter": "a", "text": "Nederland" },
-            { "letter": "b", "text": "Rusland" },
-            { "letter": "c", "text": "Duitsland" }
+            {
+              "letter": "a",
+              "text": "Nederland"
+            },
+            {
+              "letter": "b",
+              "text": "Rusland"
+            },
+            {
+              "letter": "c",
+              "text": "Duitsland"
+            }
           ],
           "context": "Hallo, ik heet Maria. Ik kom uit Rusland, maar ik woon nu in Amsterdam. Ik ben 28 jaar oud. Ik werk als verpleegster in een ziekenhuis. Ik spreek Russisch en een beetje Nederlands. Ik heb een kat. Hij heet Boris. In mijn vrije tijd lees ik graag en ga ik naar het park.",
           "correctLetter": "b",
@@ -28,9 +37,18 @@
           "num": 2,
           "text": "Wat is haar beroep?",
           "options": [
-            { "letter": "a", "text": "Lerares" },
-            { "letter": "b", "text": "Dokter" },
-            { "letter": "c", "text": "Verpleegster" }
+            {
+              "letter": "a",
+              "text": "Lerares"
+            },
+            {
+              "letter": "b",
+              "text": "Dokter"
+            },
+            {
+              "letter": "c",
+              "text": "Verpleegster"
+            }
           ],
           "correctLetter": "c",
           "explanation": "Verpleegster"
@@ -39,9 +57,18 @@
           "num": 3,
           "text": "Welk huisdier heeft Maria?",
           "options": [
-            { "letter": "a", "text": "Een hond" },
-            { "letter": "b", "text": "Een kat" },
-            { "letter": "c", "text": "Een vis" }
+            {
+              "letter": "a",
+              "text": "Een hond"
+            },
+            {
+              "letter": "b",
+              "text": "Een kat"
+            },
+            {
+              "letter": "c",
+              "text": "Een vis"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Een kat"
@@ -50,9 +77,18 @@
           "num": 4,
           "text": "Wat doet Maria graag in haar vrije tijd?",
           "options": [
-            { "letter": "a", "text": "Koken en zwemmen" },
-            { "letter": "b", "text": "Lezen en naar het park gaan" },
-            { "letter": "c", "text": "Fietsen en muziek luisteren" }
+            {
+              "letter": "a",
+              "text": "Koken en zwemmen"
+            },
+            {
+              "letter": "b",
+              "text": "Lezen en naar het park gaan"
+            },
+            {
+              "letter": "c",
+              "text": "Fietsen en muziek luisteren"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Lezen en naar het park gaan"
@@ -61,9 +97,18 @@
           "num": 5,
           "text": "Wanneer is de supermarkt gesloten?",
           "options": [
-            { "letter": "a", "text": "Op maandag" },
-            { "letter": "b", "text": "Nooit" },
-            { "letter": "c", "text": "De supermarkt is elke dag open" }
+            {
+              "letter": "a",
+              "text": "Op maandag"
+            },
+            {
+              "letter": "b",
+              "text": "Nooit"
+            },
+            {
+              "letter": "c",
+              "text": "De supermarkt is elke dag open"
+            }
           ],
           "context": "De supermarkt is open van maandag tot zaterdag, van 8 uur 's ochtends tot 9 uur 's avonds. Op zondag is de supermarkt open van 10 tot 6. Je kunt hier brood, kaas, melk, groenten en fruit kopen. Er is ook een bakkerij in de supermarkt.",
           "correctLetter": "c",
@@ -73,9 +118,18 @@
           "num": 6,
           "text": "Hoe laat sluit de supermarkt op zaterdag?",
           "options": [
-            { "letter": "a", "text": "Om 6 uur" },
-            { "letter": "b", "text": "Om 9 uur 's avonds" },
-            { "letter": "c", "text": "Om 10 uur" }
+            {
+              "letter": "a",
+              "text": "Om 6 uur"
+            },
+            {
+              "letter": "b",
+              "text": "Om 9 uur 's avonds"
+            },
+            {
+              "letter": "c",
+              "text": "Om 10 uur"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Om 9 uur 's avonds"
@@ -93,9 +147,18 @@
           "num": 7,
           "text": "__ man woont in Amsterdam.",
           "options": [
-            { "letter": "a", "text": "De" },
-            { "letter": "b", "text": "Het" },
-            { "letter": "c", "text": "Een" }
+            {
+              "letter": "a",
+              "text": "De"
+            },
+            {
+              "letter": "b",
+              "text": "Het"
+            },
+            {
+              "letter": "c",
+              "text": "Een"
+            }
           ],
           "correctLetter": "a",
           "explanation": "De (man -- de-woord)"
@@ -104,9 +167,18 @@
           "num": 8,
           "text": "__ kind speelt in het park.",
           "options": [
-            { "letter": "a", "text": "De" },
-            { "letter": "b", "text": "Het" },
-            { "letter": "c", "text": "Een" }
+            {
+              "letter": "a",
+              "text": "De"
+            },
+            {
+              "letter": "b",
+              "text": "Het"
+            },
+            {
+              "letter": "c",
+              "text": "Een"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Het (kind -- het-woord)"
@@ -115,9 +187,18 @@
           "num": 9,
           "text": "Ik heb __ boek gekocht.",
           "options": [
-            { "letter": "a", "text": "de" },
-            { "letter": "b", "text": "het" },
-            { "letter": "c", "text": "een" }
+            {
+              "letter": "a",
+              "text": "de"
+            },
+            {
+              "letter": "b",
+              "text": "het"
+            },
+            {
+              "letter": "c",
+              "text": "een"
+            }
           ],
           "correctLetter": "c",
           "explanation": "een (неопределенный артикль)"
@@ -126,9 +207,18 @@
           "num": 10,
           "text": "Ik __ in een ziekenhuis. (werken)",
           "options": [
-            { "letter": "a", "text": "werkt" },
-            { "letter": "b", "text": "werk" },
-            { "letter": "c", "text": "werken" }
+            {
+              "letter": "a",
+              "text": "werkt"
+            },
+            {
+              "letter": "b",
+              "text": "werk"
+            },
+            {
+              "letter": "c",
+              "text": "werken"
+            }
           ],
           "correctLetter": "b",
           "explanation": "werk (ik-форма без -t)"
@@ -137,9 +227,18 @@
           "num": 11,
           "text": "Hij __ elke dag naar school. (gaan)",
           "options": [
-            { "letter": "a", "text": "ga" },
-            { "letter": "b", "text": "gaat" },
-            { "letter": "c", "text": "gaan" }
+            {
+              "letter": "a",
+              "text": "ga"
+            },
+            {
+              "letter": "b",
+              "text": "gaat"
+            },
+            {
+              "letter": "c",
+              "text": "gaan"
+            }
           ],
           "correctLetter": "b",
           "explanation": "gaat (hij/zij + -t)"
@@ -148,9 +247,18 @@
           "num": 12,
           "text": "Wij __ Nederlands. (spreken)",
           "options": [
-            { "letter": "a", "text": "spreek" },
-            { "letter": "b", "text": "spreekt" },
-            { "letter": "c", "text": "spreken" }
+            {
+              "letter": "a",
+              "text": "spreek"
+            },
+            {
+              "letter": "b",
+              "text": "spreekt"
+            },
+            {
+              "letter": "c",
+              "text": "spreken"
+            }
           ],
           "correctLetter": "c",
           "explanation": "spreken (wij + инфинитив)"
@@ -159,9 +267,18 @@
           "num": 13,
           "text": "__ jij koffie? (willen)",
           "options": [
-            { "letter": "a", "text": "Wilt" },
-            { "letter": "b", "text": "Wil" },
-            { "letter": "c", "text": "Willen" }
+            {
+              "letter": "a",
+              "text": "Wilt"
+            },
+            {
+              "letter": "b",
+              "text": "Wil"
+            },
+            {
+              "letter": "c",
+              "text": "Willen"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Wil (jij-форма модального глагола, инверсия -> без -t)"
@@ -170,9 +287,18 @@
           "num": 14,
           "text": "__ huis is groot. (наш)",
           "options": [
-            { "letter": "a", "text": "Onze" },
-            { "letter": "b", "text": "Ons" },
-            { "letter": "c", "text": "Uw" }
+            {
+              "letter": "a",
+              "text": "Onze"
+            },
+            {
+              "letter": "b",
+              "text": "Ons"
+            },
+            {
+              "letter": "c",
+              "text": "Uw"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Ons (huis -- het-woord)"
@@ -181,9 +307,18 @@
           "num": 15,
           "text": "Ik geef het boek aan __. (она)",
           "options": [
-            { "letter": "a", "text": "zij" },
-            { "letter": "b", "text": "haar" },
-            { "letter": "c", "text": "hem" }
+            {
+              "letter": "a",
+              "text": "zij"
+            },
+            {
+              "letter": "b",
+              "text": "haar"
+            },
+            {
+              "letter": "c",
+              "text": "hem"
+            }
           ],
           "correctLetter": "b",
           "explanation": "haar (объектная форма от zij)"
@@ -192,9 +327,18 @@
           "num": 16,
           "text": "Ik heb __ auto.",
           "options": [
-            { "letter": "a", "text": "niet" },
-            { "letter": "b", "text": "geen" },
-            { "letter": "c", "text": "nee" }
+            {
+              "letter": "a",
+              "text": "niet"
+            },
+            {
+              "letter": "b",
+              "text": "geen"
+            },
+            {
+              "letter": "c",
+              "text": "nee"
+            }
           ],
           "correctLetter": "b",
           "explanation": "geen (перед существительным без артикля)"
@@ -203,9 +347,18 @@
           "num": 17,
           "text": "De film is __ interessant.",
           "options": [
-            { "letter": "a", "text": "geen" },
-            { "letter": "b", "text": "niet" },
-            { "letter": "c", "text": "nee" }
+            {
+              "letter": "a",
+              "text": "geen"
+            },
+            {
+              "letter": "b",
+              "text": "niet"
+            },
+            {
+              "letter": "c",
+              "text": "nee"
+            }
           ],
           "correctLetter": "b",
           "explanation": "niet (отрицание прилагательного)"
@@ -214,9 +367,18 @@
           "num": 18,
           "text": "Morgen __ ik naar Amsterdam.",
           "options": [
-            { "letter": "a", "text": "ga" },
-            { "letter": "b", "text": "ik ga" },
-            { "letter": "c", "text": "gaan" }
+            {
+              "letter": "a",
+              "text": "ga"
+            },
+            {
+              "letter": "b",
+              "text": "ik ga"
+            },
+            {
+              "letter": "c",
+              "text": "gaan"
+            }
           ],
           "correctLetter": "a",
           "explanation": "ga (инверсия: наречие времени на первом месте)"
@@ -225,9 +387,18 @@
           "num": 19,
           "text": "Выбери правильный порядок слов:",
           "options": [
-            { "letter": "a", "text": "Ik elke dag fiets naar het werk." },
-            { "letter": "b", "text": "Ik fiets elke dag naar het werk." },
-            { "letter": "c", "text": "Elke dag ik fiets naar het werk." }
+            {
+              "letter": "a",
+              "text": "Ik elke dag fiets naar het werk."
+            },
+            {
+              "letter": "b",
+              "text": "Ik fiets elke dag naar het werk."
+            },
+            {
+              "letter": "c",
+              "text": "Elke dag ik fiets naar het werk."
+            }
           ],
           "correctLetter": "b",
           "explanation": "Ik fiets elke dag naar het werk."
@@ -236,9 +407,18 @@
           "num": 20,
           "text": "Выбери правильный порядок слов:",
           "options": [
-            { "letter": "a", "text": "Wanneer ga je naar huis?" },
-            { "letter": "b", "text": "Wanneer je gaat naar huis?" },
-            { "letter": "c", "text": "Wanneer gaat je naar huis?" }
+            {
+              "letter": "a",
+              "text": "Wanneer ga je naar huis?"
+            },
+            {
+              "letter": "b",
+              "text": "Wanneer je gaat naar huis?"
+            },
+            {
+              "letter": "c",
+              "text": "Wanneer gaat je naar huis?"
+            }
           ],
           "correctLetter": "a",
           "explanation": "Wanneer ga je naar huis?"
@@ -247,9 +427,18 @@
           "num": 21,
           "text": "Ik woon __ Amsterdam.",
           "options": [
-            { "letter": "a", "text": "in" },
-            { "letter": "b", "text": "op" },
-            { "letter": "c", "text": "aan" }
+            {
+              "letter": "a",
+              "text": "in"
+            },
+            {
+              "letter": "b",
+              "text": "op"
+            },
+            {
+              "letter": "c",
+              "text": "aan"
+            }
           ],
           "correctLetter": "a",
           "explanation": "in"
@@ -258,9 +447,18 @@
           "num": 22,
           "text": "De les begint __ 9 uur.",
           "options": [
-            { "letter": "a", "text": "in" },
-            { "letter": "b", "text": "op" },
-            { "letter": "c", "text": "om" }
+            {
+              "letter": "a",
+              "text": "in"
+            },
+            {
+              "letter": "b",
+              "text": "op"
+            },
+            {
+              "letter": "c",
+              "text": "om"
+            }
           ],
           "correctLetter": "c",
           "explanation": "om (время)"
@@ -269,9 +467,18 @@
           "num": 23,
           "text": "Ik ga __ de trein naar Utrecht.",
           "options": [
-            { "letter": "a", "text": "in" },
-            { "letter": "b", "text": "met" },
-            { "letter": "c", "text": "op" }
+            {
+              "letter": "a",
+              "text": "in"
+            },
+            {
+              "letter": "b",
+              "text": "met"
+            },
+            {
+              "letter": "c",
+              "text": "op"
+            }
           ],
           "correctLetter": "b",
           "explanation": "met (транспорт)"
@@ -280,9 +487,18 @@
           "num": 24,
           "text": "Ik heb een rood__ auto. (de auto)",
           "options": [
-            { "letter": "a", "text": "rode" },
-            { "letter": "b", "text": "rood" },
-            { "letter": "c", "text": "roden" }
+            {
+              "letter": "a",
+              "text": "rode"
+            },
+            {
+              "letter": "b",
+              "text": "rood"
+            },
+            {
+              "letter": "c",
+              "text": "roden"
+            }
           ],
           "correctLetter": "a",
           "explanation": "rode (een + de-woord -> +e)"
@@ -291,9 +507,18 @@
           "num": 25,
           "text": "Het is een groot__ huis. (het huis)",
           "options": [
-            { "letter": "a", "text": "grote" },
-            { "letter": "b", "text": "groot" },
-            { "letter": "c", "text": "groten" }
+            {
+              "letter": "a",
+              "text": "grote"
+            },
+            {
+              "letter": "b",
+              "text": "groot"
+            },
+            {
+              "letter": "c",
+              "text": "groten"
+            }
           ],
           "correctLetter": "b",
           "explanation": "groot (een + het-woord -> без -e!)"
@@ -302,9 +527,18 @@
           "num": 26,
           "text": "De klein__ kinderen spelen buiten.",
           "options": [
-            { "letter": "a", "text": "kleine" },
-            { "letter": "b", "text": "klein" },
-            { "letter": "c", "text": "kleinen" }
+            {
+              "letter": "a",
+              "text": "kleine"
+            },
+            {
+              "letter": "b",
+              "text": "klein"
+            },
+            {
+              "letter": "c",
+              "text": "kleinen"
+            }
           ],
           "correctLetter": "a",
           "explanation": "kleine (de + мн.ч. -> +e)"
@@ -322,9 +556,18 @@
           "num": 27,
           "text": "het gezin -> `_______`",
           "options": [
-            { "letter": "a", "text": "здоровье" },
-            { "letter": "b", "text": "семья" },
-            { "letter": "c", "text": "лицо" }
+            {
+              "letter": "a",
+              "text": "здоровье"
+            },
+            {
+              "letter": "b",
+              "text": "семья"
+            },
+            {
+              "letter": "c",
+              "text": "лицо"
+            }
           ],
           "correctLetter": "b",
           "explanation": "семья"
@@ -333,9 +576,18 @@
           "num": 28,
           "text": "de buurman -> `_______`",
           "options": [
-            { "letter": "a", "text": "друг" },
-            { "letter": "b", "text": "сосед" },
-            { "letter": "c", "text": "брат" }
+            {
+              "letter": "a",
+              "text": "друг"
+            },
+            {
+              "letter": "b",
+              "text": "сосед"
+            },
+            {
+              "letter": "c",
+              "text": "брат"
+            }
           ],
           "correctLetter": "b",
           "explanation": "сосед"
@@ -344,9 +596,18 @@
           "num": 29,
           "text": "goedkoop -> `_______`",
           "options": [
-            { "letter": "a", "text": "хороший" },
-            { "letter": "b", "text": "дешевый" },
-            { "letter": "c", "text": "красивый" }
+            {
+              "letter": "a",
+              "text": "хороший"
+            },
+            {
+              "letter": "b",
+              "text": "дешевый"
+            },
+            {
+              "letter": "c",
+              "text": "красивый"
+            }
           ],
           "correctLetter": "b",
           "explanation": "дешевый"
@@ -355,9 +616,18 @@
           "num": 30,
           "text": "de afspraak -> `_______`",
           "options": [
-            { "letter": "a", "text": "встреча/договоренность" },
-            { "letter": "b", "text": "разговор" },
-            { "letter": "c", "text": "работа" }
+            {
+              "letter": "a",
+              "text": "встреча/договоренность"
+            },
+            {
+              "letter": "b",
+              "text": "разговор"
+            },
+            {
+              "letter": "c",
+              "text": "работа"
+            }
           ],
           "correctLetter": "a",
           "explanation": "встреча/договоренность"
@@ -366,9 +636,18 @@
           "num": 31,
           "text": "Het is koud. Neem een __ mee.",
           "options": [
-            { "letter": "a", "text": "paraplu" },
-            { "letter": "b", "text": "jas" },
-            { "letter": "c", "text": "zonnebril" }
+            {
+              "letter": "a",
+              "text": "paraplu"
+            },
+            {
+              "letter": "b",
+              "text": "jas"
+            },
+            {
+              "letter": "c",
+              "text": "zonnebril"
+            }
           ],
           "correctLetter": "b",
           "explanation": "jas (холодно -> куртка)"
@@ -377,9 +656,18 @@
           "num": 32,
           "text": "Ik ga naar de __ om brood te kopen.",
           "options": [
-            { "letter": "a", "text": "apotheek" },
-            { "letter": "b", "text": "bakker" },
-            { "letter": "c", "text": "bibliotheek" }
+            {
+              "letter": "a",
+              "text": "apotheek"
+            },
+            {
+              "letter": "b",
+              "text": "bakker"
+            },
+            {
+              "letter": "c",
+              "text": "bibliotheek"
+            }
           ],
           "correctLetter": "b",
           "explanation": "bakker (хлеб -> пекарня)"
@@ -388,9 +676,18 @@
           "num": 33,
           "text": "De trein __ om 10 uur.",
           "options": [
-            { "letter": "a", "text": "vertrekt" },
-            { "letter": "b", "text": "begint" },
-            { "letter": "c", "text": "stopt" }
+            {
+              "letter": "a",
+              "text": "vertrekt"
+            },
+            {
+              "letter": "b",
+              "text": "begint"
+            },
+            {
+              "letter": "c",
+              "text": "stopt"
+            }
           ],
           "correctLetter": "a",
           "explanation": "vertrekt (поезд отправляется)"
@@ -399,9 +696,18 @@
           "num": 34,
           "text": "Ik __ graag koffie met melk.",
           "options": [
-            { "letter": "a", "text": "eet" },
-            { "letter": "b", "text": "drink" },
-            { "letter": "c", "text": "kook" }
+            {
+              "letter": "a",
+              "text": "eet"
+            },
+            {
+              "letter": "b",
+              "text": "drink"
+            },
+            {
+              "letter": "c",
+              "text": "kook"
+            }
           ],
           "correctLetter": "b",
           "explanation": "drink"
@@ -410,9 +716,18 @@
           "num": 35,
           "text": "Zij is mijn __. We werken samen.",
           "options": [
-            { "letter": "a", "text": "buurvrouw" },
-            { "letter": "b", "text": "collega" },
-            { "letter": "c", "text": "vriendin" }
+            {
+              "letter": "a",
+              "text": "buurvrouw"
+            },
+            {
+              "letter": "b",
+              "text": "collega"
+            },
+            {
+              "letter": "c",
+              "text": "vriendin"
+            }
           ],
           "correctLetter": "b",
           "explanation": "collega"
@@ -421,9 +736,18 @@
           "num": 36,
           "text": "Ik heb __ -- ik wil eten.",
           "options": [
-            { "letter": "a", "text": "dorst" },
-            { "letter": "b", "text": "honger" },
-            { "letter": "c", "text": "slaap" }
+            {
+              "letter": "a",
+              "text": "dorst"
+            },
+            {
+              "letter": "b",
+              "text": "honger"
+            },
+            {
+              "letter": "c",
+              "text": "slaap"
+            }
           ],
           "correctLetter": "b",
           "explanation": "honger"
@@ -451,8 +775,7 @@
             "Je bent in een winkel. Vraag naar:",
             "De prijs van een product",
             "Of ze het in een andere kleur hebben",
-            "Waar de kassa is",
-            "---"
+            "Waar de kassa is"
           ]
         }
       ]

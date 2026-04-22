@@ -35,7 +35,7 @@
         ["kijken naar", "Ik kijk naar de film.", "Ik kijk ernaar.", "Ik kijk naar haar."],
         ["praten over", "Wij praten over het weer.", "Wij praten erover.", "Wij praten over hem."],
         ["wachten op", "Ik wacht op de bus.", "Ik wacht erop.", "Ik wacht op jou."],
-        ["beginnen met", "Ik begin met de les.", "Ik begin ermee.", "---"]
+        ["beginnen met", "Ik begin met de les.", "Ik begin ermee.", ""]
       ]
     }
   ],

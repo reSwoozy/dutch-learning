@@ -16,9 +16,18 @@
           "num": 1,
           "text": "Wat is het hoofdargument van voorstanders van thuiswerken?",
           "options": [
-            { "letter": "a", "text": "Het is goedkoper voor bedrijven" },
-            { "letter": "b", "text": "Werknemers zijn productiever en hebben betere werk-privébalans" },
-            { "letter": "c", "text": "Het is beter voor het milieu" }
+            {
+              "letter": "a",
+              "text": "Het is goedkoper voor bedrijven"
+            },
+            {
+              "letter": "b",
+              "text": "Werknemers zijn productiever en hebben betere werk-privébalans"
+            },
+            {
+              "letter": "c",
+              "text": "Het is beter voor het milieu"
+            }
           ],
           "context": "De discussie over thuiswerken is nog lang niet voorbij. Voorstanders benadrukken dat werknemers productiever zijn en minder reistijd kwijt zijn. Bovendien draagt het bij aan een betere werk-privébalans. Tegenstanders wijzen er echter op dat de sociale cohesie binnen teams afneemt en dat niet iedereen thuis een geschikte werkplek heeft. Daarnaast blijkt uit recent onderzoek dat jonge werknemers meer behoefte hebben aan begeleiding, die moeilijker te bieden is op afstand. Al met al lijkt een hybride model -- deels thuis, deels op kantoor -- de beste oplossing, mits bedrijven investeren in goede digitale infrastructuur.",
           "correctLetter": "b",
@@ -28,9 +37,18 @@
           "num": 2,
           "text": "Welk probleem noemen tegenstanders?",
           "options": [
-            { "letter": "a", "text": "Thuiswerkers verdienen minder" },
-            { "letter": "b", "text": "De sociale cohesie binnen teams neemt af" },
-            { "letter": "c", "text": "Er zijn te weinig computers" }
+            {
+              "letter": "a",
+              "text": "Thuiswerkers verdienen minder"
+            },
+            {
+              "letter": "b",
+              "text": "De sociale cohesie binnen teams neemt af"
+            },
+            {
+              "letter": "c",
+              "text": "Er zijn te weinig computers"
+            }
           ],
           "correctLetter": "b",
           "explanation": "De sociale cohesie binnen teams neemt af"
@@ -39,9 +57,18 @@
           "num": 3,
           "text": "Wat blijkt uit recent onderzoek over jonge werknemers?",
           "options": [
-            { "letter": "a", "text": "Ze willen altijd thuiswerken" },
-            { "letter": "b", "text": "Ze hebben meer behoefte aan begeleiding" },
-            { "letter": "c", "text": "Ze zijn productiever thuis" }
+            {
+              "letter": "a",
+              "text": "Ze willen altijd thuiswerken"
+            },
+            {
+              "letter": "b",
+              "text": "Ze hebben meer behoefte aan begeleiding"
+            },
+            {
+              "letter": "c",
+              "text": "Ze zijn productiever thuis"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Ze hebben meer behoefte aan begeleiding"
@@ -50,9 +77,18 @@
           "num": 4,
           "text": "Wat is de conclusie van het artikel?",
           "options": [
-            { "letter": "a", "text": "Iedereen moet thuiswerken" },
-            { "letter": "b", "text": "Thuiswerken moet worden verboden" },
-            { "letter": "c", "text": "Een hybride model is de beste oplossing" }
+            {
+              "letter": "a",
+              "text": "Iedereen moet thuiswerken"
+            },
+            {
+              "letter": "b",
+              "text": "Thuiswerken moet worden verboden"
+            },
+            {
+              "letter": "c",
+              "text": "Een hybride model is de beste oplossing"
+            }
           ],
           "correctLetter": "c",
           "explanation": "Een hybride model is de beste oplossing"
@@ -61,9 +97,18 @@
           "num": 5,
           "text": "Welk signaalwoord geeft een tegenstelling aan in de tekst?",
           "options": [
-            { "letter": "a", "text": "bovendien" },
-            { "letter": "b", "text": "echter" },
-            { "letter": "c", "text": "daarnaast" }
+            {
+              "letter": "a",
+              "text": "bovendien"
+            },
+            {
+              "letter": "b",
+              "text": "echter"
+            },
+            {
+              "letter": "c",
+              "text": "daarnaast"
+            }
           ],
           "correctLetter": "b",
           "explanation": "echter"
@@ -72,9 +117,18 @@
           "num": 6,
           "text": "Wat is het doel van het Klimaatakkoord?",
           "options": [
-            { "letter": "a", "text": "CO2-uitstoot met 49% verminderen tegen 2030" },
-            { "letter": "b", "text": "Alle kolencentrales sluiten voor 2025" },
-            { "letter": "c", "text": "Het openbaar vervoer gratis maken" }
+            {
+              "letter": "a",
+              "text": "CO2-uitstoot met 49% verminderen tegen 2030"
+            },
+            {
+              "letter": "b",
+              "text": "Alle kolencentrales sluiten voor 2025"
+            },
+            {
+              "letter": "c",
+              "text": "Het openbaar vervoer gratis maken"
+            }
           ],
           "context": "De Rijksoverheid heeft het Nationaal Klimaatakkoord gepresenteerd met als doel de CO2-uitstoot in 2030 met 49% te verminderen ten opzichte van 1990. De maatregelen omvatten onder meer de sluiting van kolencentrales, subsidies voor zonnepanelen en warmtepompen, en de uitbreiding van het openbaar vervoer. Critici stellen dat de plannen onvoldoende concreet zijn en dat de financiering onduidelijk blijft. Desondanks heeft een meerderheid in de Tweede Kamer het akkoord gesteund, aangezien de urgentie van klimaatactie breed wordt erkend. De uitvoering zal worden gemonitord door een onafhankelijke commissie.",
           "correctLetter": "a",
@@ -84,9 +138,18 @@
           "num": 7,
           "text": "Welke maatregel wordt NIET genoemd?",
           "options": [
-            { "letter": "a", "text": "Subsidies voor zonnepanelen" },
-            { "letter": "b", "text": "Uitbreiding openbaar vervoer" },
-            { "letter": "c", "text": "Verbod op vliegreizen" }
+            {
+              "letter": "a",
+              "text": "Subsidies voor zonnepanelen"
+            },
+            {
+              "letter": "b",
+              "text": "Uitbreiding openbaar vervoer"
+            },
+            {
+              "letter": "c",
+              "text": "Verbod op vliegreizen"
+            }
           ],
           "correctLetter": "c",
           "explanation": "Verbod op vliegreizen"
@@ -95,9 +158,18 @@
           "num": 8,
           "text": "Wat is de kritiek op het akkoord?",
           "options": [
-            { "letter": "a", "text": "Het is te streng" },
-            { "letter": "b", "text": "De plannen zijn onvoldoende concreet en de financiering is onduidelijk" },
-            { "letter": "c", "text": "Er zijn te veel maatregelen" }
+            {
+              "letter": "a",
+              "text": "Het is te streng"
+            },
+            {
+              "letter": "b",
+              "text": "De plannen zijn onvoldoende concreet en de financiering is onduidelijk"
+            },
+            {
+              "letter": "c",
+              "text": "Er zijn te veel maatregelen"
+            }
           ],
           "correctLetter": "b",
           "explanation": "De plannen zijn onvoldoende concreet en de financiering is onduidelijk"
@@ -106,9 +178,18 @@
           "num": 9,
           "text": "Waarom heeft de Tweede Kamer het akkoord toch gesteund?",
           "options": [
-            { "letter": "a", "text": "Omdat het goedkoop is" },
-            { "letter": "b", "text": "Omdat de urgentie van klimaatactie breed wordt erkend" },
-            { "letter": "c", "text": "Omdat de oppositie het wilde" }
+            {
+              "letter": "a",
+              "text": "Omdat het goedkoop is"
+            },
+            {
+              "letter": "b",
+              "text": "Omdat de urgentie van klimaatactie breed wordt erkend"
+            },
+            {
+              "letter": "c",
+              "text": "Omdat de oppositie het wilde"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Omdat de urgentie van klimaatactie breed wordt erkend"
@@ -117,9 +198,18 @@
           "num": 10,
           "text": "Wie monitort de uitvoering?",
           "options": [
-            { "letter": "a", "text": "De Tweede Kamer" },
-            { "letter": "b", "text": "Een onafhankelijke commissie" },
-            { "letter": "c", "text": "De minister-president" }
+            {
+              "letter": "a",
+              "text": "De Tweede Kamer"
+            },
+            {
+              "letter": "b",
+              "text": "Een onafhankelijke commissie"
+            },
+            {
+              "letter": "c",
+              "text": "De minister-president"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Een onafhankelijke commissie"
@@ -128,9 +218,18 @@
           "num": 11,
           "text": "Wat is de hoofdconclusie van het onderzoek?",
           "options": [
-            { "letter": "a", "text": "Meertaligheid is slecht voor de hersenen" },
-            { "letter": "b", "text": "Meertaligheid biedt cognitieve voordelen" },
-            { "letter": "c", "text": "Eentaligen zijn slimmer" }
+            {
+              "letter": "a",
+              "text": "Meertaligheid is slecht voor de hersenen"
+            },
+            {
+              "letter": "b",
+              "text": "Meertaligheid biedt cognitieve voordelen"
+            },
+            {
+              "letter": "c",
+              "text": "Eentaligen zijn slimmer"
+            }
           ],
           "context": "Onderzoekers van de Universiteit Leiden hebben aangetoond dat meertaligheid cognitieve voordelen biedt, met name op het gebied van probleemoplossend vermogen en mentale flexibiliteit. Het onderzoek, waaraan 500 deelnemers deelnamen, vergeleek eentalige en meertalige volwassenen op diverse cognitieve taken. De resultaten tonen aan dat meertaligen gemiddeld 15% beter scoren op taken die mentale flexibiliteit vereisen. De onderzoekers benadrukken echter dat de voordelen afhankelijk zijn van de mate waarin beide talen actief worden gebruikt. Passieve kennis van een tweede taal levert aanzienlijk minder cognitieve winst op.",
           "correctLetter": "b",
@@ -140,9 +239,18 @@
           "num": 12,
           "text": "Hoeveel procent beter scoren meertaligen op mentale flexibiliteit?",
           "options": [
-            { "letter": "a", "text": "5%" },
-            { "letter": "b", "text": "15%" },
-            { "letter": "c", "text": "50%" }
+            {
+              "letter": "a",
+              "text": "5%"
+            },
+            {
+              "letter": "b",
+              "text": "15%"
+            },
+            {
+              "letter": "c",
+              "text": "50%"
+            }
           ],
           "correctLetter": "b",
           "explanation": "15%"
@@ -151,9 +259,18 @@
           "num": 13,
           "text": "Wat is een voorwaarde voor de cognitieve voordelen?",
           "options": [
-            { "letter": "a", "text": "Je moet drie talen spreken" },
-            { "letter": "b", "text": "Beide talen moeten actief worden gebruikt" },
-            { "letter": "c", "text": "Je moet jong beginnen met leren" }
+            {
+              "letter": "a",
+              "text": "Je moet drie talen spreken"
+            },
+            {
+              "letter": "b",
+              "text": "Beide talen moeten actief worden gebruikt"
+            },
+            {
+              "letter": "c",
+              "text": "Je moet jong beginnen met leren"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Beide talen moeten actief worden gebruikt"
@@ -162,9 +279,18 @@
           "num": 14,
           "text": "Wat levert passieve kennis op?",
           "options": [
-            { "letter": "a", "text": "Dezelfde voordelen" },
-            { "letter": "b", "text": "Aanzienlijk minder cognitieve winst" },
-            { "letter": "c", "text": "Geen enkel voordeel" }
+            {
+              "letter": "a",
+              "text": "Dezelfde voordelen"
+            },
+            {
+              "letter": "b",
+              "text": "Aanzienlijk minder cognitieve winst"
+            },
+            {
+              "letter": "c",
+              "text": "Geen enkel voordeel"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Aanzienlijk minder cognitieve winst"
@@ -182,9 +308,18 @@
           "num": 15,
           "text": "Hij zei: \"Ik zal morgen bellen.\" -> Hij zei dat hij de volgende dag __ __.",
           "options": [
-            { "letter": "a", "text": "zou ... bellen" },
-            { "letter": "b", "text": "zal ... bellen" },
-            { "letter": "c", "text": "had ... gebeld" }
+            {
+              "letter": "a",
+              "text": "zou ... bellen"
+            },
+            {
+              "letter": "b",
+              "text": "zal ... bellen"
+            },
+            {
+              "letter": "c",
+              "text": "had ... gebeld"
+            }
           ],
           "correctLetter": "a",
           "explanation": "zou ... bellen (zal -> zou в косвенной речи)"
@@ -193,9 +328,18 @@
           "num": 16,
           "text": "\"Kun je me helpen?\" -> Zij vroeg __ ik haar __ helpen.",
           "options": [
-            { "letter": "a", "text": "dat ... zou" },
-            { "letter": "b", "text": "of ... kon" },
-            { "letter": "c", "text": "of ... zou" }
+            {
+              "letter": "a",
+              "text": "dat ... zou"
+            },
+            {
+              "letter": "b",
+              "text": "of ... kon"
+            },
+            {
+              "letter": "c",
+              "text": "of ... zou"
+            }
           ],
           "correctLetter": "b",
           "explanation": "of ... kon (вопрос да/нет -> of; kun -> kon)"
@@ -204,9 +348,18 @@
           "num": 17,
           "text": "\"Ik heb het rapport geschreven.\" -> Hij zei dat hij het rapport __ __.",
           "options": [
-            { "letter": "a", "text": "had ... geschreven" },
-            { "letter": "b", "text": "heeft ... geschreven" },
-            { "letter": "c", "text": "zou ... schrijven" }
+            {
+              "letter": "a",
+              "text": "had ... geschreven"
+            },
+            {
+              "letter": "b",
+              "text": "heeft ... geschreven"
+            },
+            {
+              "letter": "c",
+              "text": "zou ... schrijven"
+            }
           ],
           "correctLetter": "a",
           "explanation": "had ... geschreven (heb geschreven -> had geschreven)"
@@ -215,9 +368,18 @@
           "num": 18,
           "text": "De wet __ vorig jaar door het parlement __. (aannemen)",
           "options": [
-            { "letter": "a", "text": "werd ... aangenomen" },
-            { "letter": "b", "text": "is ... aangenomen" },
-            { "letter": "c", "text": "оба варианта (процесс vs результат)" }
+            {
+              "letter": "a",
+              "text": "werd ... aangenomen"
+            },
+            {
+              "letter": "b",
+              "text": "is ... aangenomen"
+            },
+            {
+              "letter": "c",
+              "text": "оба варианта (процесс vs результат)"
+            }
           ],
           "correctLetter": "c",
           "explanation": "оба: werd aangenomen (процесс) / is aangenomen (результат)"
@@ -226,9 +388,18 @@
           "num": 19,
           "text": "Het probleem __ eenvoudig __ __. (kunnen, oplossen, пассив)",
           "options": [
-            { "letter": "a", "text": "kan ... worden opgelost" },
-            { "letter": "b", "text": "kan ... opgelost worden" },
-            { "letter": "c", "text": "оба варианта" }
+            {
+              "letter": "a",
+              "text": "kan ... worden opgelost"
+            },
+            {
+              "letter": "b",
+              "text": "kan ... opgelost worden"
+            },
+            {
+              "letter": "c",
+              "text": "оба варианта"
+            }
           ],
           "correctLetter": "c",
           "explanation": "оба варианта (kan worden opgelost = kan opgelost worden)"
@@ -237,9 +408,18 @@
           "num": 20,
           "text": "De documenten __ al __. (ondertekenen, результат)",
           "options": [
-            { "letter": "a", "text": "worden ... ondertekend" },
-            { "letter": "b", "text": "zijn ... ondertekend" },
-            { "letter": "c", "text": "werden ... ondertekend" }
+            {
+              "letter": "a",
+              "text": "worden ... ondertekend"
+            },
+            {
+              "letter": "b",
+              "text": "zijn ... ondertekend"
+            },
+            {
+              "letter": "c",
+              "text": "werden ... ondertekend"
+            }
           ],
           "correctLetter": "b",
           "explanation": "zijn ... ondertekend (результат -> zijn-passief)"
@@ -248,9 +428,18 @@
           "num": 21,
           "text": "We __ de auto __. (laten, repareren)",
           "options": [
-            { "letter": "a", "text": "laten ... repareren" },
-            { "letter": "b", "text": "laten ... gerepareerd" },
-            { "letter": "c", "text": "lieten ... repareren" }
+            {
+              "letter": "a",
+              "text": "laten ... repareren"
+            },
+            {
+              "letter": "b",
+              "text": "laten ... gerepareerd"
+            },
+            {
+              "letter": "c",
+              "text": "lieten ... repareren"
+            }
           ],
           "correctLetter": "a",
           "explanation": "laten ... repareren (настоящее время)"
@@ -259,9 +448,18 @@
           "num": 22,
           "text": "Deze maatregel __ de kosten __. (doen, stijgen)",
           "options": [
-            { "letter": "a", "text": "doet ... stijgen" },
-            { "letter": "b", "text": "doet ... gestegen" },
-            { "letter": "c", "text": "laat ... stijgen" }
+            {
+              "letter": "a",
+              "text": "doet ... stijgen"
+            },
+            {
+              "letter": "b",
+              "text": "doet ... gestegen"
+            },
+            {
+              "letter": "c",
+              "text": "laat ... stijgen"
+            }
           ],
           "correctLetter": "a",
           "explanation": "doet ... stijgen"
@@ -270,9 +468,18 @@
           "num": 23,
           "text": "Ik vroeg me af __ u mij __ informeren over de procedure.",
           "options": [
-            { "letter": "a", "text": "of ... zou kunnen" },
-            { "letter": "b", "text": "dat ... kunt" },
-            { "letter": "c", "text": "of ... wilt" }
+            {
+              "letter": "a",
+              "text": "of ... zou kunnen"
+            },
+            {
+              "letter": "b",
+              "text": "dat ... kunt"
+            },
+            {
+              "letter": "c",
+              "text": "of ... wilt"
+            }
           ],
           "correctLetter": "a",
           "explanation": "of ... zou kunnen (вежливый косвенный вопрос)"
@@ -281,9 +488,18 @@
           "num": 24,
           "text": "__ het mogelijk __ de afspraak __ verzetten?",
           "options": [
-            { "letter": "a", "text": "Is ... om ... te" },
-            { "letter": "b", "text": "Is ... voor ... te" },
-            { "letter": "c", "text": "Zou ... om ... te" }
+            {
+              "letter": "a",
+              "text": "Is ... om ... te"
+            },
+            {
+              "letter": "b",
+              "text": "Is ... voor ... te"
+            },
+            {
+              "letter": "c",
+              "text": "Zou ... om ... te"
+            }
           ],
           "correctLetter": "a",
           "explanation": "Is ... om ... te"
@@ -292,9 +508,18 @@
           "num": 25,
           "text": "Het plan is haalbaar; __ bespaart het kosten.",
           "options": [
-            { "letter": "a", "text": "echter" },
-            { "letter": "b", "text": "bovendien" },
-            { "letter": "c", "text": "daarentegen" }
+            {
+              "letter": "a",
+              "text": "echter"
+            },
+            {
+              "letter": "b",
+              "text": "bovendien"
+            },
+            {
+              "letter": "c",
+              "text": "daarentegen"
+            }
           ],
           "correctLetter": "b",
           "explanation": "bovendien (добавление)"
@@ -303,9 +528,18 @@
           "num": 26,
           "text": "De resultaten zijn positief; __ blijven er uitdagingen.",
           "options": [
-            { "letter": "a", "text": "bovendien" },
-            { "letter": "b", "text": "desondanks" },
-            { "letter": "c", "text": "namelijk" }
+            {
+              "letter": "a",
+              "text": "bovendien"
+            },
+            {
+              "letter": "b",
+              "text": "desondanks"
+            },
+            {
+              "letter": "c",
+              "text": "namelijk"
+            }
           ],
           "correctLetter": "b",
           "explanation": "desondanks (уступка)"
@@ -314,9 +548,18 @@
           "num": 27,
           "text": "__ de vergrijzing neemt de druk op de zorg toe.",
           "options": [
-            { "letter": "a", "text": "Doordat" },
-            { "letter": "b", "text": "Waardoor" },
-            { "letter": "c", "text": "Zodat" }
+            {
+              "letter": "a",
+              "text": "Doordat"
+            },
+            {
+              "letter": "b",
+              "text": "Waardoor"
+            },
+            {
+              "letter": "c",
+              "text": "Zodat"
+            }
           ],
           "correctLetter": "a",
           "explanation": "Doordat (причина)"
@@ -325,9 +568,18 @@
           "num": 28,
           "text": "Er zijn drie problemen, __ budget, tijd en capaciteit.",
           "options": [
-            { "letter": "a", "text": "bovendien" },
-            { "letter": "b", "text": "namelijk" },
-            { "letter": "c", "text": "kortom" }
+            {
+              "letter": "a",
+              "text": "bovendien"
+            },
+            {
+              "letter": "b",
+              "text": "namelijk"
+            },
+            {
+              "letter": "c",
+              "text": "kortom"
+            }
           ],
           "correctLetter": "b",
           "explanation": "namelijk (пояснение)"
@@ -336,9 +588,18 @@
           "num": 29,
           "text": "Het boek, __ ik je verteld heb, is nu in de winkel.",
           "options": [
-            { "letter": "a", "text": "waarover" },
-            { "letter": "b", "text": "daarover" },
-            { "letter": "c", "text": "over die" }
+            {
+              "letter": "a",
+              "text": "waarover"
+            },
+            {
+              "letter": "b",
+              "text": "daarover"
+            },
+            {
+              "letter": "c",
+              "text": "over die"
+            }
           ],
           "correctLetter": "a",
           "explanation": "waarover (предлог + относительное местоимение)"
@@ -347,9 +608,18 @@
           "num": 30,
           "text": "De stad __ ik ben opgegroeid, is veel veranderd.",
           "options": [
-            { "letter": "a", "text": "waar" },
-            { "letter": "b", "text": "waarin" },
-            { "letter": "c", "text": "оба варианта" }
+            {
+              "letter": "a",
+              "text": "waar"
+            },
+            {
+              "letter": "b",
+              "text": "waarin"
+            },
+            {
+              "letter": "c",
+              "text": "оба варианта"
+            }
           ],
           "correctLetter": "c",
           "explanation": "оба: waar ik ben opgegroeid / waarin ik ben opgegroeid"
@@ -358,9 +628,18 @@
           "num": 31,
           "text": "__ meer je oefent, __ beter word je.",
           "options": [
-            { "letter": "a", "text": "Hoe ... hoe" },
-            { "letter": "b", "text": "Als ... dan" },
-            { "letter": "c", "text": "Wanneer ... dan" }
+            {
+              "letter": "a",
+              "text": "Hoe ... hoe"
+            },
+            {
+              "letter": "b",
+              "text": "Als ... dan"
+            },
+            {
+              "letter": "c",
+              "text": "Wanneer ... dan"
+            }
           ],
           "correctLetter": "a",
           "explanation": "Hoe ... hoe (чем ... тем)"
@@ -369,9 +648,18 @@
           "num": 32,
           "text": "Hij deed __ hij niets wist.",
           "options": [
-            { "letter": "a", "text": "alsof" },
-            { "letter": "b", "text": "of" },
-            { "letter": "c", "text": "оба варианта" }
+            {
+              "letter": "a",
+              "text": "alsof"
+            },
+            {
+              "letter": "b",
+              "text": "of"
+            },
+            {
+              "letter": "c",
+              "text": "оба варианта"
+            }
           ],
           "correctLetter": "c",
           "explanation": "оба: alsof / of (он делал вид, что)"
@@ -380,9 +668,18 @@
           "num": 33,
           "text": "Als ik minister __, __ ik meer investeren in onderwijs.",
           "options": [
-            { "letter": "a", "text": "was ... zou" },
-            { "letter": "b", "text": "ben ... ga" },
-            { "letter": "c", "text": "zou zijn ... zou" }
+            {
+              "letter": "a",
+              "text": "was ... zou"
+            },
+            {
+              "letter": "b",
+              "text": "ben ... ga"
+            },
+            {
+              "letter": "c",
+              "text": "zou zijn ... zou"
+            }
           ],
           "correctLetter": "a",
           "explanation": "was ... zou (нереальное условие)"
@@ -391,9 +688,18 @@
           "num": 34,
           "text": "Ik zou het op prijs stellen __ u mij zou willen informeren.",
           "options": [
-            { "letter": "a", "text": "als" },
-            { "letter": "b", "text": "dat" },
-            { "letter": "c", "text": "of" }
+            {
+              "letter": "a",
+              "text": "als"
+            },
+            {
+              "letter": "b",
+              "text": "dat"
+            },
+            {
+              "letter": "c",
+              "text": "of"
+            }
           ],
           "correctLetter": "a",
           "explanation": "als (условие при вежливой просьбе)"
@@ -402,9 +708,18 @@
           "num": 35,
           "text": "Het besluit is genomen __ overleg met alle partijen.",
           "options": [
-            { "letter": "a", "text": "in" },
-            { "letter": "b", "text": "na" },
-            { "letter": "c", "text": "met" }
+            {
+              "letter": "a",
+              "text": "in"
+            },
+            {
+              "letter": "b",
+              "text": "na"
+            },
+            {
+              "letter": "c",
+              "text": "met"
+            }
           ],
           "correctLetter": "b",
           "explanation": "na (после консультации)"
@@ -413,9 +728,18 @@
           "num": 36,
           "text": "__ aanleiding van uw brief wil ik het volgende melden.",
           "options": [
-            { "letter": "a", "text": "Met" },
-            { "letter": "b", "text": "Naar" },
-            { "letter": "c", "text": "In" }
+            {
+              "letter": "a",
+              "text": "Met"
+            },
+            {
+              "letter": "b",
+              "text": "Naar"
+            },
+            {
+              "letter": "c",
+              "text": "In"
+            }
           ],
           "correctLetter": "b",
           "explanation": "Naar (naar aanleiding van = в связи с)"
@@ -424,9 +748,18 @@
           "num": 37,
           "text": "De kosten zijn gestegen __ 10%.",
           "options": [
-            { "letter": "a", "text": "met" },
-            { "letter": "b", "text": "voor" },
-            { "letter": "c", "text": "op" }
+            {
+              "letter": "a",
+              "text": "met"
+            },
+            {
+              "letter": "b",
+              "text": "voor"
+            },
+            {
+              "letter": "c",
+              "text": "op"
+            }
           ],
           "correctLetter": "a",
           "explanation": "met (stijgen met 10%)"
@@ -435,9 +768,18 @@
           "num": 38,
           "text": "Hij is verantwoordelijk __ de financiën.",
           "options": [
-            { "letter": "a", "text": "over" },
-            { "letter": "b", "text": "voor" },
-            { "letter": "c", "text": "met" }
+            {
+              "letter": "a",
+              "text": "over"
+            },
+            {
+              "letter": "b",
+              "text": "voor"
+            },
+            {
+              "letter": "c",
+              "text": "met"
+            }
           ],
           "correctLetter": "b",
           "explanation": "voor (verantwoordelijk voor)"
@@ -446,9 +788,18 @@
           "num": 39,
           "text": "Welk woord is correct? \"De __ van het project duurde drie maanden.\"",
           "options": [
-            { "letter": "a", "text": "uitvoer" },
-            { "letter": "b", "text": "uitvoering" },
-            { "letter": "c", "text": "uitvoersel" }
+            {
+              "letter": "a",
+              "text": "uitvoer"
+            },
+            {
+              "letter": "b",
+              "text": "uitvoering"
+            },
+            {
+              "letter": "c",
+              "text": "uitvoersel"
+            }
           ],
           "correctLetter": "b",
           "explanation": "uitvoering"
@@ -457,9 +808,18 @@
           "num": 40,
           "text": "\"Het bedrijf streeft naar __.\" (duurzaam)",
           "options": [
-            { "letter": "a", "text": "duurzaamheid" },
-            { "letter": "b", "text": "duurzaming" },
-            { "letter": "c", "text": "duurzaamte" }
+            {
+              "letter": "a",
+              "text": "duurzaamheid"
+            },
+            {
+              "letter": "b",
+              "text": "duurzaming"
+            },
+            {
+              "letter": "c",
+              "text": "duurzaamte"
+            }
           ],
           "correctLetter": "a",
           "explanation": "duurzaamheid"
@@ -468,9 +828,18 @@
           "num": 41,
           "text": "\"De __ is nog niet bekend.\" (uit + komen)",
           "options": [
-            { "letter": "a", "text": "uitkomst" },
-            { "letter": "b", "text": "uitkoming" },
-            { "letter": "c", "text": "uitkom" }
+            {
+              "letter": "a",
+              "text": "uitkomst"
+            },
+            {
+              "letter": "b",
+              "text": "uitkoming"
+            },
+            {
+              "letter": "c",
+              "text": "uitkom"
+            }
           ],
           "correctLetter": "a",
           "explanation": "uitkomst"
@@ -479,9 +848,18 @@
           "num": 42,
           "text": "\"Dit is een __ probleem.\" (wereld + wijd)",
           "options": [
-            { "letter": "a", "text": "wereldwijd" },
-            { "letter": "b", "text": "wereldwijde" },
-            { "letter": "c", "text": "b, с -e перед существительным" }
+            {
+              "letter": "a",
+              "text": "wereldwijd"
+            },
+            {
+              "letter": "b",
+              "text": "wereldwijde"
+            },
+            {
+              "letter": "c",
+              "text": "b, с -e перед существительным"
+            }
           ],
           "correctLetter": "c",
           "explanation": "wereldwijde (с -e перед существительным)"
@@ -490,9 +868,18 @@
           "num": 43,
           "text": "\"De __ van de vergadering zijn vastgelegd.\" (besluiten)",
           "options": [
-            { "letter": "a", "text": "besluiten" },
-            { "letter": "b", "text": "besluitingen" },
-            { "letter": "c", "text": "beslissingen" }
+            {
+              "letter": "a",
+              "text": "besluiten"
+            },
+            {
+              "letter": "b",
+              "text": "besluitingen"
+            },
+            {
+              "letter": "c",
+              "text": "beslissingen"
+            }
           ],
           "correctLetter": "a",
           "explanation": "besluiten или c) beslissingen (оба корректны, но besluiten чаще в формальном контексте)"
@@ -501,9 +888,18 @@
           "num": 44,
           "text": "\"Zij heeft een __ karakter.\" (zelf + standig)",
           "options": [
-            { "letter": "a", "text": "zelfstandig" },
-            { "letter": "b", "text": "zelfstandige" },
-            { "letter": "c", "text": "b, с -e перед существительным" }
+            {
+              "letter": "a",
+              "text": "zelfstandig"
+            },
+            {
+              "letter": "b",
+              "text": "zelfstandige"
+            },
+            {
+              "letter": "c",
+              "text": "b, с -e перед существительным"
+            }
           ],
           "correctLetter": "c",
           "explanation": "zelfstandige (с -e перед существительным)"
@@ -521,9 +917,18 @@
           "num": 45,
           "text": "De __ van het onderzoek zijn gepubliceerd.",
           "options": [
-            { "letter": "a", "text": "bevindingen" },
-            { "letter": "b", "text": "meningen" },
-            { "letter": "c", "text": "gevoelens" }
+            {
+              "letter": "a",
+              "text": "bevindingen"
+            },
+            {
+              "letter": "b",
+              "text": "meningen"
+            },
+            {
+              "letter": "c",
+              "text": "gevoelens"
+            }
           ],
           "correctLetter": "a",
           "explanation": "bevindingen"
@@ -532,9 +937,18 @@
           "num": 46,
           "text": "Het bedrijf heeft een __ strategie ontwikkeld.",
           "options": [
-            { "letter": "a", "text": "duurzame" },
-            { "letter": "b", "text": "duurzaam" },
-            { "letter": "c", "text": "duurzaamheid" }
+            {
+              "letter": "a",
+              "text": "duurzame"
+            },
+            {
+              "letter": "b",
+              "text": "duurzaam"
+            },
+            {
+              "letter": "c",
+              "text": "duurzaamheid"
+            }
           ],
           "correctLetter": "a",
           "explanation": "duurzame (атрибутивная позиция -> +e)"
@@ -543,9 +957,18 @@
           "num": 47,
           "text": "De minister heeft de plannen __.",
           "options": [
-            { "letter": "a", "text": "onderbouwd" },
-            { "letter": "b", "text": "onderbouwt" },
-            { "letter": "c", "text": "onderbouwen" }
+            {
+              "letter": "a",
+              "text": "onderbouwd"
+            },
+            {
+              "letter": "b",
+              "text": "onderbouwt"
+            },
+            {
+              "letter": "c",
+              "text": "onderbouwen"
+            }
           ],
           "correctLetter": "a",
           "explanation": "onderbouwd (причастие)"
@@ -554,9 +977,18 @@
           "num": 48,
           "text": "De __ tussen de twee partijen is moeilijk.",
           "options": [
-            { "letter": "a", "text": "onderhandeling" },
-            { "letter": "b", "text": "bespreking" },
-            { "letter": "c", "text": "оба варианта" }
+            {
+              "letter": "a",
+              "text": "onderhandeling"
+            },
+            {
+              "letter": "b",
+              "text": "bespreking"
+            },
+            {
+              "letter": "c",
+              "text": "оба варианта"
+            }
           ],
           "correctLetter": "c",
           "explanation": "оба: onderhandeling (переговоры) / bespreking (обсуждение)"
@@ -565,9 +997,18 @@
           "num": 49,
           "text": "Het rapport bevat een __ analyse van de situatie.",
           "options": [
-            { "letter": "a", "text": "grondige" },
-            { "letter": "b", "text": "grondig" },
-            { "letter": "c", "text": "grondelijk" }
+            {
+              "letter": "a",
+              "text": "grondige"
+            },
+            {
+              "letter": "b",
+              "text": "grondig"
+            },
+            {
+              "letter": "c",
+              "text": "grondelijk"
+            }
           ],
           "correctLetter": "a",
           "explanation": "grondige (атрибутивная позиция -> +e)"
@@ -576,9 +1017,18 @@
           "num": 50,
           "text": "\"Ik wil wat vragen.\" -> `_______`",
           "options": [
-            { "letter": "a", "text": "Ik zou u graag iets willen vragen." },
-            { "letter": "b", "text": "Ik ga je wat vragen." },
-            { "letter": "c", "text": "Ik moet iets vragen." }
+            {
+              "letter": "a",
+              "text": "Ik zou u graag iets willen vragen."
+            },
+            {
+              "letter": "b",
+              "text": "Ik ga je wat vragen."
+            },
+            {
+              "letter": "c",
+              "text": "Ik moet iets vragen."
+            }
           ],
           "correctLetter": "a",
           "explanation": "Ik zou u graag iets willen vragen."
@@ -587,9 +1037,18 @@
           "num": 51,
           "text": "\"Stuur het bestand.\" -> `_______`",
           "options": [
-            { "letter": "a", "text": "Zou u het bestand willen versturen?" },
-            { "letter": "b", "text": "Je moet het bestand sturen." },
-            { "letter": "c", "text": "Stuur het bestand alsjeblieft." }
+            {
+              "letter": "a",
+              "text": "Zou u het bestand willen versturen?"
+            },
+            {
+              "letter": "b",
+              "text": "Je moet het bestand sturen."
+            },
+            {
+              "letter": "c",
+              "text": "Stuur het bestand alsjeblieft."
+            }
           ],
           "correctLetter": "a",
           "explanation": "Zou u het bestand willen versturen?"
@@ -598,9 +1057,18 @@
           "num": 52,
           "text": "Een besluit __.",
           "options": [
-            { "letter": "a", "text": "nemen" },
-            { "letter": "b", "text": "doen" },
-            { "letter": "c", "text": "maken" }
+            {
+              "letter": "a",
+              "text": "nemen"
+            },
+            {
+              "letter": "b",
+              "text": "doen"
+            },
+            {
+              "letter": "c",
+              "text": "maken"
+            }
           ],
           "correctLetter": "a",
           "explanation": "nemen (een besluit nemen)"
@@ -609,9 +1077,18 @@
           "num": 53,
           "text": "Verantwoordelijkheid __.",
           "options": [
-            { "letter": "a", "text": "nemen" },
-            { "letter": "b", "text": "dragen" },
-            { "letter": "c", "text": "оба варианта" }
+            {
+              "letter": "a",
+              "text": "nemen"
+            },
+            {
+              "letter": "b",
+              "text": "dragen"
+            },
+            {
+              "letter": "c",
+              "text": "оба варианта"
+            }
           ],
           "correctLetter": "c",
           "explanation": "оба: verantwoordelijkheid nemen/dragen"
@@ -620,9 +1097,18 @@
           "num": 54,
           "text": "Aan een voorwaarde __.",
           "options": [
-            { "letter": "a", "text": "doen" },
-            { "letter": "b", "text": "voldoen" },
-            { "letter": "c", "text": "maken" }
+            {
+              "letter": "a",
+              "text": "doen"
+            },
+            {
+              "letter": "b",
+              "text": "voldoen"
+            },
+            {
+              "letter": "c",
+              "text": "maken"
+            }
           ],
           "correctLetter": "b",
           "explanation": "voldoen (aan een voorwaarde voldoen)"
@@ -631,9 +1117,18 @@
           "num": 55,
           "text": "Een bijdrage __ aan het project.",
           "options": [
-            { "letter": "a", "text": "leveren" },
-            { "letter": "b", "text": "geven" },
-            { "letter": "c", "text": "оба варианта" }
+            {
+              "letter": "a",
+              "text": "leveren"
+            },
+            {
+              "letter": "b",
+              "text": "geven"
+            },
+            {
+              "letter": "c",
+              "text": "оба варианта"
+            }
           ],
           "correctLetter": "a",
           "explanation": "leveren (een bijdrage leveren)"
@@ -642,9 +1137,18 @@
           "num": 56,
           "text": "zeggen (формально) = `_______`",
           "options": [
-            { "letter": "a", "text": "melden / verklaren" },
-            { "letter": "b", "text": "praten" },
-            { "letter": "c", "text": "roepen" }
+            {
+              "letter": "a",
+              "text": "melden / verklaren"
+            },
+            {
+              "letter": "b",
+              "text": "praten"
+            },
+            {
+              "letter": "c",
+              "text": "roepen"
+            }
           ],
           "correctLetter": "a",
           "explanation": "melden / verklaren"
@@ -653,9 +1157,18 @@
           "num": 57,
           "text": "vragen (формально) = `_______`",
           "options": [
-            { "letter": "a", "text": "eisen" },
-            { "letter": "b", "text": "verzoeken" },
-            { "letter": "c", "text": "willen" }
+            {
+              "letter": "a",
+              "text": "eisen"
+            },
+            {
+              "letter": "b",
+              "text": "verzoeken"
+            },
+            {
+              "letter": "c",
+              "text": "willen"
+            }
           ],
           "correctLetter": "b",
           "explanation": "verzoeken"
@@ -664,9 +1177,18 @@
           "num": 58,
           "text": "goed (формально) = `_______`",
           "options": [
-            { "letter": "a", "text": "adequaat / toereikend" },
-            { "letter": "b", "text": "leuk" },
-            { "letter": "c", "text": "fijn" }
+            {
+              "letter": "a",
+              "text": "adequaat / toereikend"
+            },
+            {
+              "letter": "b",
+              "text": "leuk"
+            },
+            {
+              "letter": "c",
+              "text": "fijn"
+            }
           ],
           "correctLetter": "a",
           "explanation": "adequaat / toereikend"
@@ -675,9 +1197,18 @@
           "num": 59,
           "text": "probleem (формально) = `_______`",
           "options": [
-            { "letter": "a", "text": "knelpunt / uitdaging" },
-            { "letter": "b", "text": "ding" },
-            { "letter": "c", "text": "fout" }
+            {
+              "letter": "a",
+              "text": "knelpunt / uitdaging"
+            },
+            {
+              "letter": "b",
+              "text": "ding"
+            },
+            {
+              "letter": "c",
+              "text": "fout"
+            }
           ],
           "correctLetter": "a",
           "explanation": "knelpunt / uitdaging"
@@ -708,8 +1239,7 @@
             "Stelling: \"Sociale media doen meer kwaad dan goed.\"",
             "Geef je mening (naar mijn mening...)",
             "Onderbouw met 2 argumenten",
-            "Reageer op een tegenargument",
-            "---"
+            "Reageer op een tegenargument"
           ]
         }
       ]

@@ -19,38 +19,128 @@
   "tables": [
     {
       "title": "Союзы с te",
-      "headers": ["Союз", "Значение", "Пример", "Перевод"],
+      "headers": [
+        "Союз",
+        "Значение",
+        "Пример",
+        "Перевод"
+      ],
       "rows": [
-        ["om ... te", "чтобы", "Ik bel om te vragen.", "Я звоню, чтобы спросить."],
-        ["zonder ... te", "без того чтобы", "Hij werkt zonder te rusten.", "Он работает без отдыха."],
-        ["door ... te", "путём / благодаря", "Door hard te werken, slaagt hij.", "Упорной работой он добивается успеха."],
-        ["na ... te", "после того как (с hebben/zijn)", "Na gegeten te hebben, vertrok hij.", "Поев, он ушёл."],
-        ["in plaats van ... te", "вместо того чтобы", "In plaats van te slapen, werkte hij.", "Вместо того чтобы спать, он работал."]
+        [
+          "om ... te",
+          "чтобы",
+          "Ik bel om te vragen.",
+          "Я звоню, чтобы спросить."
+        ],
+        [
+          "zonder ... te",
+          "без того чтобы",
+          "Hij werkt zonder te rusten.",
+          "Он работает без отдыха."
+        ],
+        [
+          "door ... te",
+          "путём / благодаря",
+          "Door hard te werken, slaagt hij.",
+          "Упорной работой он добивается успеха."
+        ],
+        [
+          "na ... te",
+          "после того как (с hebben/zijn)",
+          "Na gegeten te hebben, vertrok hij.",
+          "Поев, он ушёл."
+        ],
+        [
+          "in plaats van ... te",
+          "вместо того чтобы",
+          "In plaats van te slapen, werkte hij.",
+          "Вместо того чтобы спать, он работал."
+        ]
       ]
     },
     {
       "title": "Глаголы, требующие te + инфинитив",
-      "headers": ["Глагол", "Перевод", "Пример"],
+      "headers": [
+        "Глагол",
+        "Перевод",
+        "Пример"
+      ],
       "rows": [
-        ["proberen", "пытаться", "Ik probeer te begrijpen."],
-        ["beginnen", "начинать", "Zij begint te zingen."],
-        ["hopen", "надеяться", "Wij hopen te komen."],
-        ["beloven", "обещать", "Hij belooft te helpen."],
-        ["vergeten", "забывать", "Ik vergeet te bellen."],
-        ["leren", "учиться", "Zij leert te koken."],
-        ["durven", "осмеливаться", "Hij durft niet te vragen."],
-        ["weigeren", "отказываться", "Hij weigert te antwoorden."],
-        ["vragen", "просить", "Ik vraag u te komen."]
+        [
+          "proberen",
+          "пытаться",
+          "Ik probeer te begrijpen."
+        ],
+        [
+          "beginnen",
+          "начинать",
+          "Zij begint te zingen."
+        ],
+        [
+          "hopen",
+          "надеяться",
+          "Wij hopen te komen."
+        ],
+        [
+          "beloven",
+          "обещать",
+          "Hij belooft te helpen."
+        ],
+        [
+          "vergeten",
+          "забывать",
+          "Ik vergeet te bellen."
+        ],
+        [
+          "leren",
+          "учиться",
+          "Zij leert te koken."
+        ],
+        [
+          "durven",
+          "осмеливаться",
+          "Hij durft niet te vragen."
+        ],
+        [
+          "weigeren",
+          "отказываться",
+          "Hij weigert te antwoorden."
+        ],
+        [
+          "vragen",
+          "просить",
+          "Ik vraag u te komen."
+        ]
       ]
     },
     {
       "title": "te с отделяемыми глаголами",
-      "headers": ["Инфинитив", "Форма с te", "Пример"],
+      "headers": [
+        "Инфинитив",
+        "Форма с te",
+        "Пример"
+      ],
       "rows": [
-        ["opstaan", "op te staan", "Ik probeer vroeg op te staan."],
-        ["meegaan", "mee te gaan", "Hij beloofde mee te gaan."],
-        ["aankomen", "aan te komen", "Wij hopen op tijd aan te komen."],
-        ["afwassen", "af te wassen", "Ik vergat af te wassen."]
+        [
+          "opstaan",
+          "op te staan",
+          "Ik probeer vroeg op te staan."
+        ],
+        [
+          "meegaan",
+          "mee te gaan",
+          "Hij beloofde mee te gaan."
+        ],
+        [
+          "aankomen",
+          "aan te komen",
+          "Wij hopen op tijd aan te komen."
+        ],
+        [
+          "afwassen",
+          "af te wassen",
+          "Ik vergat af te wassen."
+        ]
       ]
     }
   ],
@@ -81,13 +171,34 @@
     }
   ],
   "examples": [
-    { "nl": "Ik ga naar de supermarkt om melk te kopen.", "ru": "Я иду в супермаркет, чтобы купить молока." },
-    { "nl": "Hij vertrok zonder gedag te zeggen.", "ru": "Он ушёл, не попрощавшись." },
-    { "nl": "Door elke dag te oefenen, leer je snel Nederlands.", "ru": "Занимаясь каждый день, ты быстро выучишь нидерландский." },
-    { "nl": "Ik probeer om tien uur op te staan.", "ru": "Я пытаюсь вставать в десять." },
-    { "nl": "Zij beloofde te komen.", "ru": "Она обещала прийти." },
-    { "nl": "Het is belangrijk om veel te lezen.", "ru": "Важно много читать." },
-    { "nl": "Na geweest te zijn bij de dokter, voelt hij zich beter.", "ru": "Побывав у врача, он чувствует себя лучше." }
+    {
+      "nl": "Ik ga naar de supermarkt om melk te kopen.",
+      "ru": "Я иду в супермаркет, чтобы купить молока."
+    },
+    {
+      "nl": "Hij vertrok zonder gedag te zeggen.",
+      "ru": "Он ушёл, не попрощавшись."
+    },
+    {
+      "nl": "Door elke dag te oefenen, leer je snel Nederlands.",
+      "ru": "Занимаясь каждый день, ты быстро выучишь нидерландский."
+    },
+    {
+      "nl": "Ik probeer om tien uur op te staan.",
+      "ru": "Я пытаюсь вставать в десять."
+    },
+    {
+      "nl": "Zij beloofde te komen.",
+      "ru": "Она обещала прийти."
+    },
+    {
+      "nl": "Het is belangrijk om veel te lezen.",
+      "ru": "Важно много читать."
+    },
+    {
+      "nl": "Na geweest te zijn bij de dokter, voelt hij zich beter.",
+      "ru": "Побывав у врача, он чувствует себя лучше."
+    }
   ],
   "exceptions": [
     "Модальные глаголы (kunnen, moeten, willen, mogen, zullen) НЕ требуют te.",
@@ -96,20 +207,91 @@
     "В 'na te + hebben/zijn + voltooid deelwoord' — особая структура: Na gegeten te hebben."
   ],
   "commonMistakes": [
-    { "wrong": "Ik ga om werken.", "correct": "Ik ga om te werken.", "why": "После 'om' перед инфинитивом нужно 'te'." },
-    { "wrong": "Ik probeer om te komen.", "correct": "Ik probeer te komen.", "why": "После proberen — только te, без om (om только для цели)." },
-    { "wrong": "Ik probeer te opstaan.", "correct": "Ik probeer op te staan.", "why": "te вставляется МЕЖДУ приставкой и корнем отделяемого глагола." },
-    { "wrong": "Ik kan te komen.", "correct": "Ik kan komen.", "why": "После модального глагола kan — без te." },
-    { "wrong": "Ik hoor hem te zingen.", "correct": "Ik hoor hem zingen.", "why": "После глаголов восприятия — без te." }
+    {
+      "wrong": "Ik ga om werken.",
+      "correct": "Ik ga om te werken.",
+      "why": "После 'om' перед инфинитивом нужно 'te'."
+    },
+    {
+      "wrong": "Ik probeer om te komen.",
+      "correct": "Ik probeer te komen.",
+      "why": "После proberen — только te, без om (om только для цели)."
+    },
+    {
+      "wrong": "Ik probeer te opstaan.",
+      "correct": "Ik probeer op te staan.",
+      "why": "te вставляется МЕЖДУ приставкой и корнем отделяемого глагола."
+    },
+    {
+      "wrong": "Ik kan te komen.",
+      "correct": "Ik kan komen.",
+      "why": "После модального глагола kan — без te."
+    },
+    {
+      "wrong": "Ik hoor hem te zingen.",
+      "correct": "Ik hoor hem zingen.",
+      "why": "После глаголов восприятия — без te."
+    }
   ],
   "exercises": [
-    { "type": "fill-blank", "sentence": "Ik ga naar de winkel __ brood __ kopen.", "answer": "om te", "explanation": "Цель — om ... te + инфинитив." },
-    { "type": "fill-blank", "sentence": "Hij probeert vroeg __ __ staan. (opstaan)", "answer": "op te", "explanation": "Отделяемый глагол: te между приставкой и корнем." },
-    { "type": "choice", "question": "Ik hoop je snel __ zien.", "options": ["om te", "te", "om", "---"], "answer": "te", "explanation": "После hopen — te (без om)." },
-    { "type": "choice", "question": "Ik kan vandaag niet __.", "options": ["te komen", "komen", "om te komen", "om komen"], "answer": "komen", "explanation": "После модального kan — инфинитив без te." },
-    { "type": "fill-blank", "sentence": "Hij vertrok __ iets __ zeggen.", "answer": "zonder te", "explanation": "Zonder + te + инфинитив = 'без того чтобы'." },
-    { "type": "fill-blank", "sentence": "Ik vergeet altijd __ bellen. (te, вспомогательное слово)", "answer": "te", "explanation": "После vergeten — te + инфинитив." }
+    {
+      "type": "fill-blank",
+      "sentence": "Ik ga naar de winkel __ brood __ kopen.",
+      "answer": "om te",
+      "explanation": "Цель — om ... te + инфинитив."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "Hij probeert vroeg __ __ staan. (opstaan)",
+      "answer": "op te",
+      "explanation": "Отделяемый глагол: te между приставкой и корнем."
+    },
+    {
+      "type": "choice",
+      "question": "Ik hoop je snel __ zien.",
+      "options": [
+        "om te",
+        "te",
+        "om"
+      ],
+      "answer": "te",
+      "explanation": "После hopen — te (без om)."
+    },
+    {
+      "type": "choice",
+      "question": "Ik kan vandaag niet __.",
+      "options": [
+        "te komen",
+        "komen",
+        "om te komen",
+        "om komen"
+      ],
+      "answer": "komen",
+      "explanation": "После модального kan — инфинитив без te."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "Hij vertrok __ iets __ zeggen.",
+      "answer": "zonder te",
+      "explanation": "Zonder + te + инфинитив = 'без того чтобы'."
+    },
+    {
+      "type": "fill-blank",
+      "sentence": "Ik vergeet altijd __ bellen. (te, вспомогательное слово)",
+      "answer": "te",
+      "explanation": "После vergeten — te + инфинитив."
+    }
   ],
-  "relatedTopics": ["modal-verbs", "separable-verbs", "conjunctions", "word-order", "posture-te-infinitive", "te-adjective"],
-  "inLessons": [18, 50]
+  "relatedTopics": [
+    "modal-verbs",
+    "separable-verbs",
+    "conjunctions",
+    "word-order",
+    "posture-te-infinitive",
+    "te-adjective"
+  ],
+  "inLessons": [
+    18,
+    50
+  ]
 }

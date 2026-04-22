@@ -11,6 +11,7 @@ export const SRS = {
         repetition: 0,
         efactor: 2.5,
         nextReview: null,
+        lastQuality: null,
       };
     }
     return progressData.srs[wordKey];
@@ -41,8 +42,20 @@ export const SRS = {
     const next = new Date();
     next.setDate(next.getDate() + card.interval);
     card.nextReview = next.toISOString().split('T')[0];
+    card.lastQuality = quality;
 
     progressData.srs[wordKey] = card;
+  },
+
+  isLearned(card) {
+    if (!card) return false;
+    return typeof card.lastQuality === 'number' && card.lastQuality >= 4;
+  },
+
+  isWordLearned(progressData, lessonId, nl) {
+    const srs = (progressData && progressData.srs) || {};
+    const card = srs[this.makeKey(lessonId, nl)];
+    return this.isLearned(card);
   },
 
   getDueKeys(progressData) {
@@ -90,6 +103,26 @@ export const SRS = {
     return this.getDueKeys(progressData).length;
   },
 
+  getSetStats(progressData, setId) {
+    const srs = (progressData && progressData.srs) || {};
+    if (!setId) return { learned: 0, due: 0, inReview: 0 };
+    const prefix = `${setId}::`;
+    const today = new Date().toISOString().split('T')[0];
+    let learned = 0;
+    let due = 0;
+    let inReview = 0;
+    for (const [key, card] of Object.entries(srs)) {
+      if (!key.startsWith(prefix)) continue;
+      if (this.isLearned(card)) {
+        learned++;
+      } else {
+        inReview++;
+        if (!card.nextReview || card.nextReview <= today) due++;
+      }
+    }
+    return { learned, due, inReview };
+  },
+
   getStats(progressData) {
     const srs = (progressData && progressData.srs) || {};
     const entries = Object.entries(srs);
@@ -112,6 +145,20 @@ export const SRS = {
     if (!(wordKey in progressData.srs)) return false;
     delete progressData.srs[wordKey];
     return true;
+  },
+
+  resetLearnedInLesson(progressData, lessonId) {
+    if (!progressData || !progressData.srs || !lessonId) return 0;
+    const prefix = `${lessonId}::`;
+    let count = 0;
+    for (const [key, card] of Object.entries(progressData.srs)) {
+      if (!key.startsWith(prefix)) continue;
+      if (!this.isLearned(card)) continue;
+      card.lastQuality = null;
+      progressData.srs[key] = card;
+      count++;
+    }
+    return count;
   },
 
   async getAllCards(progressData, app) {

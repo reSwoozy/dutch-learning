@@ -9,12 +9,12 @@
     {
       "type": "text",
       "title": "Формальное письмо и отчёт",
-      "content": "Освоить структуру формального письма и краткого отчёта: цель, контекст, аргументы, просьба/решение, завершение. Использовать формальные клише, дискурсивные маркеры и корректный регистр.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+      "content": "Освоить структуру формального письма и краткого отчёта: цель, контекст, аргументы, просьба/решение, завершение. Использовать формальные клише, дискурсивные маркеры и корректный регистр."
     },
     {
       "type": "grammar",
       "title": "Структура формального письма",
-      "content": "- Aanhef: Geachte heer/mevrouw, / Geachte heer Jansen,\n- Inleiding (doel): Hierbij wil ik u informeren/verzoeken/vragen...\n- Kern (details/argumenten): Ten eerste..., vervolgens..., daarnaast...\n- Afsluiting (действие): Ik zie uw reactie graag tegemoet. / Bij voorbaat dank.\n- Groet: Met vriendelijke groet, / Hoogachtend,\nПример:\nGeachte mevrouw De Vries,\nHierbij wil ik u informeren over de vertraging van het project. Ten eerste is het leveringsprobleem...\nDaarnaast stellen wij voor om de planning aan te passen, zodat de kwaliteit geborgd blijft.\nBij voorbaat dank voor uw begrip.\nMet vriendelijke groet,\n...\n---",
+      "content": "- Aanhef: Geachte heer/mevrouw, / Geachte heer Jansen,\n- Inleiding (doel): Hierbij wil ik u informeren/verzoeken/vragen...\n- Kern (details/argumenten): Ten eerste..., vervolgens..., daarnaast...\n- Afsluiting (действие): Ik zie uw reactie graag tegemoet. / Bij voorbaat dank.\n- Groet: Met vriendelijke groet, / Hoogachtend,\nПример:\nGeachte mevrouw De Vries,\nHierbij wil ik u informeren over de vertraging van het project. Ten eerste is het leveringsprobleem...\nDaarnaast stellen wij voor om de planning aan te passen, zodat de kwaliteit geborgd blijft.\nBij voorbaat dank voor uw begrip.\nMet vriendelijke groet,\n...",
       "codeExamples": [
         "Geachte mevrouw De Vries,\nHierbij wil ik u informeren over de vertraging van het project. Ten eerste is het leveringsprobleem...\nDaarnaast stellen wij voor om de planning aan te passen, zodat de kwaliteit geborgd blijft.\nBij voorbaat dank voor uw begrip.\nMet vriendelijke groet,\n..."
       ]
@@ -22,7 +22,7 @@
     {
       "type": "grammar",
       "title": "Регистры и клише",
-      "content": "- verzoeken i.p.v. vragen; informeren i.p.v. zeggen\n- betreffende / naar aanleiding van — касательно / в связи с\n- conform afspraak — согласно договорённости\n- bijgevoegd / als bijlage — во вложении\nКогезия:\n- bovendien, echter, daarentegen; zodat, waardoor; kortom, samenvattend\n---"
+      "content": "- verzoeken i.p.v. vragen; informeren i.p.v. zeggen\n- betreffende / naar aanleiding van — касательно / в связи с\n- conform afspraak — согласно договорённости\n- bijgevoegd / als bijlage — во вложении\nКогезия:\n- bovendien, echter, daarentegen; zodat, waardoor; kortom, samenvattend"
     },
     {
       "type": "text",

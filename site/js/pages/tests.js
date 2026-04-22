@@ -125,11 +125,11 @@ Object.assign(App, {
         html += `<div class="card" style="margin:1rem 0">`;
         html += `<div style="white-space:pre-line;line-height:1.6">${this.mdToHtml(sec.writingTask.description)}</div>`;
         if (sec.writingTask.criteria && sec.writingTask.criteria.length > 0) {
-          html += '<h4 style="margin-top:1rem">\u041a\u0440\u0438\u0442\u0435\u0440\u0438\u0438 \u043e\u0446\u0435\u043d\u043a\u0438:</h4><table><thead><tr><th>\u041a\u0440\u0438\u0442\u0435\u0440\u0438\u0439</th><th>\u0411\u0430\u043b\u043b\u044b</th></tr></thead><tbody>';
+          html += '<h4 style="margin-top:1rem">\u041a\u0440\u0438\u0442\u0435\u0440\u0438\u0438 \u043e\u0446\u0435\u043d\u043a\u0438:</h4><div class="table-scroll"><table><thead><tr><th>\u041a\u0440\u0438\u0442\u0435\u0440\u0438\u0439</th><th>\u0411\u0430\u043b\u043b\u044b</th></tr></thead><tbody>';
           for (const c of sec.writingTask.criteria) {
             html += `<tr><td>${c.criterion}</td><td>${c.points}</td></tr>`;
           }
-          html += '</tbody></table>';
+          html += '</tbody></table></div>';
         }
         html += `<textarea class="exercise-input" rows="6" placeholder="\u041d\u0430\u043f\u0438\u0448\u0438 \u0437\u0434\u0435\u0441\u044c..." style="margin-top:1rem;width:100%;resize:vertical"></textarea>`;
         html += '</div>';

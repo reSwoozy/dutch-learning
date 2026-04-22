@@ -70,6 +70,20 @@ Object.assign(App, {
 
     let shownSections = 0;
 
+    const renderSetMeta = (setId, wordCount) => {
+      const stats = SRS.getSetStats(this.progress.data, setId);
+      const parts = [`${wordCount} слов`];
+      if (stats.learned > 0) {
+        parts.push(`<span style="color:var(--green)">выучено ${stats.learned}</span>`);
+      }
+      if (stats.due > 0) {
+        parts.push(`<span style="color:var(--accent)">повтор ${stats.due}</span>`);
+      } else if (stats.inReview > 0) {
+        parts.push(`<span style="color:var(--text-muted)">в SRS ${stats.inReview}</span>`);
+      }
+      return `<p class="flashcard-card-meta">${parts.join(' · ')}</p>`;
+    };
+
     if (tierMatch('core') && Array.isArray(tiers.core)) {
       const items = tiers.core.filter((e) => levelMatch(e.level));
       if (items.length > 0) {
@@ -80,7 +94,7 @@ Object.assign(App, {
             <a href="#flashcards/${entry.id}" class="card" style="text-decoration:none;color:inherit">
               <span class="badge badge-${entry.level.toLowerCase()}">${entry.level}</span>
               <h3 style="margin-top:.5rem">Core ${entry.level}</h3>
-              <p style="color:var(--text-muted);font-size:.85rem">${entry.wordCount} слов</p>
+              ${renderSetMeta(entry.id, entry.wordCount)}
             </a>
           `;
         }
@@ -98,7 +112,7 @@ Object.assign(App, {
             <a href="#flashcards/${entry.id}" class="card" style="text-decoration:none;color:inherit">
               <span class="badge badge-${entry.level.toLowerCase()}">${entry.level}</span>
               <h3 style="margin-top:.5rem">Extended ${entry.level}</h3>
-              <p style="color:var(--text-muted);font-size:.85rem">${entry.wordCount} слов</p>
+              ${renderSetMeta(entry.id, entry.wordCount)}
             </a>
           `;
         }
@@ -119,7 +133,7 @@ Object.assign(App, {
             <a href="#flashcards/${entry.id}" class="card" style="text-decoration:none;color:inherit">
               ${levelBadge}
               <h3 style="margin-top:.5rem">${this.escapeHtml(entry.title || entry.slug)}</h3>
-              <p style="color:var(--text-muted);font-size:.85rem">${entry.wordCount} слов</p>
+              ${renderSetMeta(entry.id, entry.wordCount)}
             </a>
           `;
         }
@@ -143,7 +157,7 @@ Object.assign(App, {
               <a href="#flashcards/${vl.id}" class="card" style="text-decoration:none;color:inherit">
                 <span class="badge badge-${vl.level.toLowerCase()}">${vl.level}</span>
                 <h3 style="margin-top:.5rem">${title}</h3>
-                <p style="color:var(--text-muted);font-size:.85rem">${vl.wordCount} слов</p>
+                ${renderSetMeta(vl.id, vl.wordCount)}
               </a>
             `;
           }
@@ -356,6 +370,19 @@ Object.assign(App, {
     `;
   },
 
+  resetFlashcardSet(setId) {
+    if (!setId) return;
+    const count = SRS.resetLearnedInLesson(this.progress.data, setId);
+    if (count > 0) {
+      this.progress.save();
+      this.showToast(`Возвращено слов в набор: ${count}`, 'success');
+    } else {
+      this.showToast('Нечего сбрасывать', 'info');
+    }
+    const main = document.getElementById('main-content');
+    if (main) this.startFlashcardSession(main, setId);
+  },
+
   removeFromReview(key) {
     if (!key) return;
     const ok = SRS.removeCard(this.progress.data, key);
@@ -389,7 +416,25 @@ Object.assign(App, {
         `;
         return;
       }
-      words = words.map((w) => ({ ...w, _lessonId: setId }));
+      const totalInSet = words.length;
+      words = words
+        .map((w) => ({ ...w, _lessonId: setId }))
+        .filter((w) => !SRS.isWordLearned(this.progress.data, setId, w.nl));
+      if (words.length === 0) {
+        el.innerHTML = `
+          <div class="breadcrumb"><a href="#flashcards">Карточки</a> / <span>${this.escapeHtml(String(setId))}</span></div>
+          ${this.pageHero('Набор пройден', 'Все слова этого набора отмечены как «Хорошо» или «Легко». Они вернутся в «Интервальном повторении» по методике SM-2.', [
+            { text: `${totalInSet} слов`, muted: true },
+            { text: 'Выучено', muted: true },
+          ])}
+          <div style="display:flex;gap:.5rem;flex-wrap:wrap;margin-top:1rem">
+            <a href="#flashcards" class="btn btn-primary">К наборам</a>
+            <a href="#flashcards/learning" class="btn btn-secondary">Мои слова на повторении</a>
+            <button class="btn btn-ghost" onclick="App.resetFlashcardSet('${this.escapeAttr(setId)}')">Сбросить прогресс набора</button>
+          </div>
+        `;
+        return;
+      }
     }
 
     const session = {

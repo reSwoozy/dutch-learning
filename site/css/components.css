@@ -661,6 +661,35 @@ a.stat-card:hover,
   border: 0;
 }
 
+.table-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  margin: 1rem 0;
+  scrollbar-width: thin;
+  max-width: 100%;
+}
+
+.table-scroll > table {
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .table-scroll > table {
+    min-width: max-content;
+  }
+}
+
+.flashcard-card-meta {
+  color: var(--text-muted);
+  font-size: .8rem;
+  margin-top: .35rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .15rem .5rem;
+  line-height: 1.4;
+}
+
 .flashcard-progress {
   text-align: center;
   color: var(--text-muted);

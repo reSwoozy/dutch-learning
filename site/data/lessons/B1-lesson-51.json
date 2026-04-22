@@ -14,11 +14,6 @@
   "sections": [
     {
       "type": "text",
-      "title": "Простое прошедшее (Imperfectum)",
-      "content": "**Уровень**: B1 Intermediate | **Время**: 15 минут | **Тема**: второе прошедшее время"
-    },
-    {
-      "type": "text",
       "title": "Почему это важно",
       "content": "**Imperfectum** (OVT) — второе прошедшее время в голландском. Perfectum (`heb gewerkt`) — для разговорной речи, а Imperfectum (`werkte`) — для:\n- Рассказов и историй\n- Описания фона: 'Шёл дождь. Было холодно.'\n- С глаголами zijn, hebben, модальными — **всегда** используется Imperfectum\n- В письменной речи (книги, газеты)\n- В прошедшем времени с придаточными через 'toen'"
     },
@@ -453,11 +448,6 @@
       "type": "culture",
       "title": "Imperfectum в сказках",
       "content": "Если читать голландские сказки или книги, почти всё основное повествование идёт в **Imperfectum**. Типичное начало: `Er was eens een koning die drie dochters had.` — 'Жил-был король, у которого было три дочери.' Имперфектум создаёт атмосферу рассказа и переносит читателя 'в то время'."
-    },
-    {
-      "type": "text",
-      "title": "Самопроверка",
-      "content": "- [ ] Помню правило 't kofschip для слабых глаголов\n- [ ] Знаю was/waren/had/hadden/kon/moest/wilde/zou наизусть\n- [ ] Различаю Imperfectum (фон) и Perfectum (событие)\n- [ ] Могу рассказать 3 предложения о детстве в Imperfectum"
     }
   ],
   "vocabularyFile": "B1-lesson-51.json"

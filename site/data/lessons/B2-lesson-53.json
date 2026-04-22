@@ -14,11 +14,6 @@
   "sections": [
     {
       "type": "text",
-      "title": "Давнопрошедшее время (Plusquamperfectum)",
-      "content": "**Уровень**: B2 Upper-Intermediate | **Время**: 15 минут | **Тема**: третье прошедшее время"
-    },
-    {
-      "type": "text",
       "title": "Три прошедших времени",
       "content": "В голландском **три** прошедших времени:\n- **Perfectum** (VTT): `heb/is + vd` — разговорное прошлое\n- **Imperfectum** (OVT): `werkte/was/had` — фон, описание\n- **Plusquamperfectum** (VVT): `had/was + vd` — действие ДО другого прошлого\n**Пример**:\n- *Ik had al gegeten toen hij kwam.* — Я уже поел, когда он пришёл.\nЗдесь 'поел' случилось ДО 'пришёл' — для этого нужен VVT."
     },
@@ -316,11 +311,6 @@
       "type": "culture",
       "title": "VVT в экзаменах и работе",
       "content": "В разговорной речи Plusquamperfectum часто заменяется на Perfectum — но в Staatsexamen II, на работе в официальных отчётах и в академических текстах VVT **необходим** для ясности последовательности действий. Также полезно для деловой переписки: `Zoals ik al had aangegeven...` — 'Как я уже указывал...'."
-    },
-    {
-      "type": "text",
-      "title": "Самопроверка",
-      "content": "- [ ] Правильно выбираю had или was как вспомогательный\n- [ ] Понимаю, что VVT = действие ДО другого прошлого\n- [ ] Умею составлять предложения с nadat/voordat + VVT\n- [ ] Могу использовать had kunnen/moeten/willen для сожалений"
     }
   ],
   "vocabularyFile": "B2-lesson-53.json"

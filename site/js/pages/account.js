@@ -150,7 +150,7 @@ Object.assign(App, {
             <h2>Результаты тестов</h2>
             <span class="page-section__count">${Object.keys(testResults).length}</span>
           </div>
-        <table>
+        <div class="table-scroll"><table>
           <thead><tr><th>Тест</th><th>Результат</th><th>Дата</th></tr></thead>
           <tbody>
             ${Object.entries(testResults)
@@ -173,7 +173,7 @@ Object.assign(App, {
                 `;
               }).join('')}
           </tbody>
-        </table>
+        </table></div>
         </section>
       ` : ''}
 
@@ -183,7 +183,7 @@ Object.assign(App, {
           <span class="page-section__count">${recentHistory.length}</span>
         </div>
       ${recentHistory.length > 0 ? `
-        <table>
+        <div class="table-scroll"><table>
           <thead><tr><th>Тема</th><th>Результат</th><th>Дата</th></tr></thead>
           <tbody>
             ${recentHistory.map(h => `
@@ -194,7 +194,7 @@ Object.assign(App, {
               </tr>
             `).join('')}
           </tbody>
-        </table>
+        </table></div>
       ` : '<p style="color:var(--text-muted)">Пока нет истории</p>'}
       </section>
 

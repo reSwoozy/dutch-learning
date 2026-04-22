@@ -233,7 +233,7 @@ Object.assign(App, {
 
   renderVocabSection(sec) {
     if (!sec.words || sec.words.length === 0) return '';
-    let html = `<h3 style="margin-top:1.5rem">${sec.title}</h3><table><thead><tr><th>Nederlands</th><th>\u0420\u0443\u0441\u0441\u043a\u0438\u0439</th>`;
+    let html = `<h3 style="margin-top:1.5rem">${sec.title}</h3><div class="table-scroll"><table><thead><tr><th>Nederlands</th><th>\u0420\u0443\u0441\u0441\u043a\u0438\u0439</th>`;
     const hasPron = sec.words.some(w => w.pronunciation);
     const hasHint = sec.words.some(w => w.hint);
     if (hasPron) html += '<th>\u041f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u0435</th>';
@@ -245,7 +245,7 @@ Object.assign(App, {
       if (hasHint) html += `<td style="color:var(--text-muted);font-size:.85rem">${w.hint || ''}</td>`;
       html += '</tr>';
     }
-    html += '</tbody></table>';
+    html += '</tbody></table></div>';
     return html;
   },
 
@@ -284,7 +284,7 @@ Object.assign(App, {
     }
     if (sec.tables) {
       for (const tbl of sec.tables) {
-        html += '<table><thead><tr>';
+        html += '<div class="table-scroll"><table><thead><tr>';
         for (const h of tbl.headers) html += `<th>${h}</th>`;
         html += '</tr></thead><tbody>';
         for (const row of tbl.rows) {
@@ -292,7 +292,7 @@ Object.assign(App, {
           for (const cell of row) html += `<td>${cell}</td>`;
           html += '</tr>';
         }
-        html += '</tbody></table>';
+        html += '</tbody></table></div>';
       }
     }
     if (sec.examples) {
@@ -391,11 +391,11 @@ Object.assign(App, {
         rows.push(splitRow(lines[i]));
         i++;
       }
-      out.push('<table><thead><tr>' + headers.map((h) => `<th>${inlineFormat(h)}</th>`).join('') + '</tr></thead><tbody>');
+      out.push('<div class="table-scroll"><table><thead><tr>' + headers.map((h) => `<th>${inlineFormat(h)}</th>`).join('') + '</tr></thead><tbody>');
       for (const row of rows) {
         out.push('<tr>' + row.map((c) => `<td>${inlineFormat(c)}</td>`).join('') + '</tr>');
       }
-      out.push('</tbody></table>');
+      out.push('</tbody></table></div>');
       return true;
     };
 
@@ -584,7 +584,12 @@ Object.assign(App, {
         para.push(lines[i].trim());
         i++;
       }
-      out.push(`<p>${inlineFormat(para.join(' '))}</p>`);
+      const paraLines = para
+        .map((l) => l.replace(/^-{3,}$/, '').trim())
+        .filter((l) => l.length > 0);
+      if (paraLines.length > 0) {
+        out.push(`<p>${paraLines.map(inlineFormat).join('<br>')}</p>`);
+      }
     }
 
     return `<div class="md-content">${out.join('')}</div>`;

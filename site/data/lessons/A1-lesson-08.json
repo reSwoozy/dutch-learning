@@ -14,11 +14,6 @@
   "sections": [
     {
       "type": "text",
-      "title": "Одежда и цвета",
-      "content": "**Уровень**: A1 Начинающий | **Время**: 15 минут | **День**: 8 из 48"
-    },
-    {
-      "type": "text",
       "title": "Цели урока",
       "content": "После этого урока ты сможешь:\n- Называть основные предметы одежды\n- Описывать цвета на нидерландском\n- Рассказывать, что ты носишь\n- Делать покупки в магазине одежды\n- Понимать голландский стиль одежды"
     },
@@ -356,7 +351,7 @@
     {
       "type": "grammar",
       "title": "3. Указательные местоимения (deze/dit, die/dat)",
-      "content": "- **Deze jas** is mooi (de jas -> deze)\n- **Dit shirt** is nieuw (het shirt -> dit)\n- **Die schoenen** zijn duur (мн.ч. -> die)\n---"
+      "content": "- **Deze jas** is mooi (de jas -> deze)\n- **Dit shirt** is nieuw (het shirt -> dit)\n- **Die schoenen** zijn duur (мн.ч. -> die)"
     },
     {
       "type": "exercises",

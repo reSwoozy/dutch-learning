@@ -13,7 +13,7 @@
     {
       "type": "text",
       "title": "Цель урока",
-      "content": "Уверенно использовать пассив (worden/zijn) и каузативы (laten/doen) в разных временах и регистрах, корректно оформлять агент «door + NP» и сочетать с модальными глаголами.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+      "content": "Уверенно использовать пассив (worden/zijn) и каузативы (laten/doen) в разных временах и регистрах, корректно оформлять агент «door + NP» и сочетать с модальными глаголами."
     },
     {
       "type": "grammar",
@@ -42,7 +42,7 @@
     {
       "type": "grammar",
       "title": "Каузативные конструкции",
-      "content": "- laten + infinitief: «заставить/поручить/дать сделать»\nWe laten de documenten controleren.\n- doen + infinitief: «причинять/заставлять (эффект)»\nDeze maatregel doet de kosten stijgen.\n- zich laten + infinitief: «поддаётся/можно сделать»\nDit probleem laat zich eenvoudig oplossen.\nРегистры: формально в отчетах — пассив + door‑phrase; в разговорной — актив или «we laten ...».\n---"
+      "content": "- laten + infinitief: «заставить/поручить/дать сделать»\nWe laten de documenten controleren.\n- doen + infinitief: «причинять/заставлять (эффект)»\nDeze maatregel doet de kosten stijgen.\n- zich laten + infinitief: «поддаётся/можно сделать»\nDit probleem laat zich eenvoudig oplossen.\nРегистры: формально в отчетах — пассив + door‑phrase; в разговорной — актив или «we laten ...»."
     },
     {
       "type": "dialogue",
@@ -99,7 +99,7 @@
     {
       "type": "grammar",
       "title": "Упражнение 4: Worden vs zijn",
-      "content": "Kies het juiste woord:\n1. De brief __ gisteren verstuurd. (процесс) -> `_______`\n2. De brief __ al verstuurd. (результат) -> `_______`\n3. Het contract __ nu getekend. (процесс, настоящее) -> `_______`\n<details>\n<summary>Ответы</summary>\n1. werd (процесс, прошедшее)\n2. is (результат)\n3. wordt (процесс, настоящее)\n</details>\n---"
+      "content": "Kies het juiste woord:\n1. De brief __ gisteren verstuurd. (процесс) -> `_______`\n2. De brief __ al verstuurd. (результат) -> `_______`\n3. Het contract __ nu getekend. (процесс, настоящее) -> `_______`\n<details>\n<summary>Ответы</summary>\n1. werd (процесс, прошедшее)\n2. is (результат)\n3. wordt (процесс, настоящее)\n</details>"
     },
     {
       "type": "text",

@@ -9,7 +9,7 @@
     {
       "type": "text",
       "title": "Деловое общение: встречи и email",
-      "content": "Проводить деловые встречи: предлагать, уточнять, возражать конструктивно, подводить итоги; писать follow‑up письма с решениями и следующими шагами.\n**Время изучения**: 15 минут\n**Уровень**: B2"
+      "content": "Проводить деловые встречи: предлагать, уточнять, возражать конструктивно, подводить итоги; писать follow‑up письма с решениями и следующими шагами."
     },
     {
       "type": "text",
@@ -19,7 +19,7 @@
     {
       "type": "grammar",
       "title": "Email: структура follow‑up",
-      "content": "- Aanhef → Dank/Referentie → Besluiten → Actiepunten + eigenaar → Termijnen → Afsluiting\nШаблон:\nOnderwerp: Follow‑up vergadering [datum]\nGeachte/Beste ...,\nNaar aanleiding van onze vergadering bevestig ik de besluiten:\n1) ... 2) ... Actiepunten: A (eigenaar, termijn), B (...)\nMet vriendelijke groet,\n...\n---",
+      "content": "- Aanhef → Dank/Referentie → Besluiten → Actiepunten + eigenaar → Termijnen → Afsluiting\nШаблон:\nOnderwerp: Follow‑up vergadering [datum]\nGeachte/Beste ...,\nNaar aanleiding van onze vergadering bevestig ik de besluiten:\n1) ... 2) ... Actiepunten: A (eigenaar, termijn), B (...)\nMet vriendelijke groet,\n...",
       "codeExamples": [
         "Onderwerp: Follow‑up vergadering [datum]\nGeachte/Beste ...,\nNaar aanleiding van onze vergadering bevestig ik de besluiten:\n1) ... 2) ... Actiepunten: A (eigenaar, termijn), B (...)\nMet vriendelijke groet,\n..."
       ]
