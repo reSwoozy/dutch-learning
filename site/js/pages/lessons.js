@@ -180,21 +180,11 @@ Object.assign(App, {
       <a href="#tests/${data.level}-test-1" style="font-size:.85rem;color:var(--text-muted)">Тест ${data.level} →</a>
     </div>`;
 
-    const note = this.progress.getLessonNote(lessonId);
     html += `
-      <div class="card" style="margin-top:1.5rem">
-        <div style="display:flex;justify-content:space-between;align-items:center;gap:.75rem;flex-wrap:wrap">
-          <h3 style="margin-bottom:0">Заметки к уроку</h3>
-          <button id="lesson-toggle-btn-${lessonId}" class="btn ${completed ? 'btn-secondary' : 'btn-success'}" onclick="App.toggleLessonCompleted('${lessonId}')">
-            ${completed ? 'Снять отметку' : '&#10003; Отметить пройденным'}
-          </button>
-        </div>
-        <textarea id="lesson-note" class="exercise-input" rows="3"
-          placeholder="Свои заметки, примеры, вопросы..."
-          style="margin-top:.75rem;width:100%;resize:vertical">${note}</textarea>
-        <div style="display:flex;justify-content:flex-end;gap:.5rem;margin-top:.5rem">
-          <button class="btn btn-primary" onclick="App.saveLessonNote('${lessonId}')">Сохранить</button>
-        </div>
+      <div style="margin-top:1.5rem;text-align:center">
+        <button id="lesson-toggle-btn-${lessonId}" class="btn ${completed ? 'btn-secondary' : 'btn-success'}" onclick="App.toggleLessonCompleted('${lessonId}')">
+          ${completed ? 'Снять отметку' : '&#10003; Отметить пройденным'}
+        </button>
       </div>
     `;
 
@@ -618,10 +608,4 @@ Object.assign(App, {
     }
   },
 
-  saveLessonNote(lessonId) {
-    const ta = document.getElementById('lesson-note');
-    if (!ta) return;
-    this.progress.setLessonNote(lessonId, ta.value);
-    this.showToast('Заметка сохранена', 'success');
-  },
 });

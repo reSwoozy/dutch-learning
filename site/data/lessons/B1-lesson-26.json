@@ -4,16 +4,14 @@
   "level": "B1",
   "title": "Условные предложения",
   "minutes": 15,
-  "objectives": [],
+  "objectives": [
+    "Научиться выражать гипотетические ситуации, нереальные условия и сожаления с помощью условных предложений"
+  ],
   "sections": [
     {
       "type": "text",
       "title": "Условные предложения",
       "content": "**Научиться выражать гипотетические ситуации, нереальные условия и сожаления с помощью условных предложений.**"
-    },
-    {
-      "type": "grammar",
-      "title": "Новая грамматика"
     },
     {
       "type": "text",
@@ -22,7 +20,8 @@
     },
     {
       "type": "grammar",
-      "title": "Глагол \"zouden\" (would/бы)"
+      "title": "Глагол zouden (would / бы)",
+      "content": "`zouden` — это претерит модального глагола `zullen`, в современном языке используется как форма **условного наклонения** («бы»). Конструкция: `zou/zouden + infinitief` — для настоящего времени, `zou/zouden + hebben/zijn + voltooid deelwoord` — для прошедшего.\n\n- `Ik zou graag koffie willen.` — «Я бы хотел кофе».\n- `Als ik tijd had, zou ik komen.` — «Если бы у меня было время, я бы пришёл».\n- `Als ik tijd had gehad, zou ik zijn gekomen.` — «Если бы у меня было время, я бы пришёл» (в прошлом)."
     },
     {
       "type": "grammar",

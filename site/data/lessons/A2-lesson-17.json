@@ -14,11 +14,6 @@
   "sections": [
     {
       "type": "text",
-      "title": "Цели урока",
-      "content": "После этого урока ты сможешь:\n- Правильно использовать прошедшее время Perfectum\n- Выбирать между hebben и zijn как вспомогательными глаголами\n- Образовывать причастия прошедшего времени (participium)\n- Рассказывать о прошлых событиях и опыте\n- Понимать и использовать неправильные глаголы"
-    },
-    {
-      "type": "text",
       "title": "Фаза 1: Основы Perfectum (4 минуты)",
       "content": "**Структура и правила**:\n**Формула Perfectum**:\n```\nПодлежащее + hebben/zijn + participium\n```\n**Примеры**:\n- **Ik heb gewerkt** - Я работал\n- **Hij is gekomen** - Он пришел\n- **We hebben gegeten** - Мы поели\n**Когда использовать Perfectum**:\n- Завершенные действия в прошлом\n- Опыт и результаты\n- События, связанные с настоящим"
     },
@@ -27,38 +22,33 @@
       "title": "Фаза 2: Haben vs Zijn (5 минут)",
       "words": [
         {
-          "nl": "Движение",
-          "ru": "komen, gaan, vertrekken",
+          "nl": "komen, gaan, vertrekken",
+          "ru": "Движение",
           "hint": "is gekomen, is gegaan, is vertrokken"
         },
         {
-          "nl": "Изменение состояния",
-          "ru": "worden, sterven, groeien",
+          "nl": "worden, sterven, groeien",
+          "ru": "Изменение состояния",
           "hint": "is geworden, is gestorven, is gegroeid"
         },
         {
-          "nl": "Пребывание",
-          "ru": "blijven, zijn",
+          "nl": "blijven, zijn",
+          "ru": "Пребывание",
           "hint": "is gebleven, is geweest"
         },
         {
-          "nl": "Тип глагола",
-          "ru": "Примеры",
-          "hint": "Perfectum"
-        },
-        {
-          "nl": "Действия",
-          "ru": "maken, kopen, eten",
+          "nl": "maken, kopen, eten",
+          "ru": "Действия",
           "hint": "heeft gemaakt, heeft gekocht, heeft gegeten"
         },
         {
-          "nl": "Мыслительные",
-          "ru": "denken, weten, begrijpen",
+          "nl": "denken, weten, begrijpen",
+          "ru": "Мыслительные",
           "hint": "heeft gedacht, heeft geweten, heeft begrepen"
         },
         {
-          "nl": "Чувства",
-          "ru": "houden van, haten",
+          "nl": "houden van, haten",
+          "ru": "Чувства",
           "hint": "heeft gehouden van, heeft gehaat"
         }
       ]

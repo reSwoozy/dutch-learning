@@ -13,19 +13,13 @@
   ],
   "sections": [
     {
-      "type": "text",
-      "title": "Цели урока",
-      "content": "После этого урока ты сможешь:\n- Называть основные продукты питания и напитки\n- Заказывать еду в ресторане или кафе\n- Покупать продукты в магазине\n- Говорить о предпочтениях в еде\n- Понимать голландскую культуру питания"
-    },
-    {
       "type": "vocabulary",
       "title": "Фаза 1: Основные продукты (4 минуты)",
       "words": [
         {
           "nl": "het brood",
           "ru": "хлеб",
-          "pronunciation": "[ɦət broːt]",
-          "hint": "de kaas"
+          "pronunciation": "[ɦət broːt]"
         },
         {
           "nl": "de kaas",
@@ -35,8 +29,7 @@
         {
           "nl": "de boter",
           "ru": "масло",
-          "pronunciation": "[də ˈboːtər]",
-          "hint": "het vlees"
+          "pronunciation": "[də ˈboːtər]"
         },
         {
           "nl": "het vlees",
@@ -46,8 +39,7 @@
         {
           "nl": "de melk",
           "ru": "молоко",
-          "pronunciation": "[də mɛlk]",
-          "hint": "de vis"
+          "pronunciation": "[də mɛlk]"
         },
         {
           "nl": "de vis",
@@ -57,8 +49,7 @@
         {
           "nl": "het ei",
           "ru": "яйцо",
-          "pronunciation": "[ɦət ɛi̯]",
-          "hint": "de kip"
+          "pronunciation": "[ɦət ɛi̯]"
         },
         {
           "nl": "de kip",
@@ -68,8 +59,7 @@
         {
           "nl": "de suiker",
           "ru": "сахар",
-          "pronunciation": "[də ˈsœy̯kər]",
-          "hint": "het zout"
+          "pronunciation": "[də ˈsœy̯kər]"
         },
         {
           "nl": "het zout",
@@ -79,8 +69,7 @@
         {
           "nl": "de rijst",
           "ru": "рис",
-          "pronunciation": "[də rɛi̯st]",
-          "hint": "de pasta"
+          "pronunciation": "[də rɛi̯st]"
         },
         {
           "nl": "de pasta",
@@ -100,8 +89,7 @@
         {
           "nl": "de appel",
           "ru": "яблоко",
-          "pronunciation": "[də ˈɑpəl]",
-          "hint": "de tomaat"
+          "pronunciation": "[də ˈɑpəl]"
         },
         {
           "nl": "de tomaat",
@@ -111,8 +99,7 @@
         {
           "nl": "de banaan",
           "ru": "банан",
-          "pronunciation": "[də baːˈnaːn]",
-          "hint": "de ui"
+          "pronunciation": "[də baːˈnaːn]"
         },
         {
           "nl": "de ui",
@@ -122,8 +109,7 @@
         {
           "nl": "de sinaasappel",
           "ru": "апельсин",
-          "pronunciation": "[də ˈsinaːsɑpəl]",
-          "hint": "de aardappel"
+          "pronunciation": "[də ˈsinaːsɑpəl]"
         },
         {
           "nl": "de aardappel",
@@ -139,8 +125,7 @@
         {
           "nl": "de koffie",
           "ru": "кофе",
-          "pronunciation": "[də ˈkɔfi]",
-          "hint": "het water"
+          "pronunciation": "[də ˈkɔfi]"
         },
         {
           "nl": "het water",
@@ -150,8 +135,7 @@
         {
           "nl": "de thee",
           "ru": "чай",
-          "pronunciation": "[də teː]",
-          "hint": "het sap"
+          "pronunciation": "[də teː]"
         },
         {
           "nl": "het sap",
@@ -161,8 +145,7 @@
         {
           "nl": "het bier",
           "ru": "пиво",
-          "pronunciation": "[ɦət bir]",
-          "hint": "de wijn"
+          "pronunciation": "[ɦət bir]"
         },
         {
           "nl": "de wijn",
@@ -172,8 +155,7 @@
         {
           "nl": "de cola",
           "ru": "кола",
-          "pronunciation": "[də ˈkoːlaː]",
-          "hint": "de melk"
+          "pronunciation": "[də ˈkoːlaː]"
         },
         {
           "nl": "de melk",

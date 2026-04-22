@@ -13,19 +13,13 @@
   ],
   "sections": [
     {
-      "type": "text",
-      "title": "Цели урока",
-      "content": "После этого урока ты сможешь:\n- Называть все комнаты в доме\n- Описывать мебель и предметы интерьера\n- Рассказывать о своем доме\n- Использовать предлоги места (in, op, onder, naast)\n- Понимать голландскую культуру жилья"
-    },
-    {
       "type": "vocabulary",
       "title": "Фаза 1: Комнаты дома (4 минуты)",
       "words": [
         {
           "nl": "het huis",
           "ru": "дом",
-          "pronunciation": "[ɦət ɦœy̯s]",
-          "hint": "de zolder"
+          "pronunciation": "[ɦət ɦœy̯s]"
         },
         {
           "nl": "de zolder",
@@ -35,8 +29,7 @@
         {
           "nl": "de kamer",
           "ru": "комната",
-          "pronunciation": "[də ˈkaːmər]",
-          "hint": "de kelder"
+          "pronunciation": "[də ˈkaːmər]"
         },
         {
           "nl": "de kelder",
@@ -46,8 +39,7 @@
         {
           "nl": "de keuken",
           "ru": "кухня",
-          "pronunciation": "[də ˈkøːkən]",
-          "hint": "de gang"
+          "pronunciation": "[də ˈkøːkən]"
         },
         {
           "nl": "de gang",
@@ -57,8 +49,7 @@
         {
           "nl": "de badkamer",
           "ru": "ванная",
-          "pronunciation": "[də ˈbɑtkaːmər]",
-          "hint": "de trap"
+          "pronunciation": "[də ˈbɑtkaːmər]"
         },
         {
           "nl": "de trap",
@@ -68,8 +59,7 @@
         {
           "nl": "de slaapkamer",
           "ru": "спальня",
-          "pronunciation": "[də ˈslaːpkaːmər]",
-          "hint": "het balkon"
+          "pronunciation": "[də ˈslaːpkaːmər]"
         },
         {
           "nl": "het balkon",
@@ -79,8 +69,7 @@
         {
           "nl": "de woonkamer",
           "ru": "гостиная",
-          "pronunciation": "[də ˈʋoːnkaːmər]",
-          "hint": "de tuin"
+          "pronunciation": "[də ˈʋoːnkaːmər]"
         },
         {
           "nl": "de tuin",
@@ -96,8 +85,7 @@
         {
           "nl": "de tafel",
           "ru": "стол",
-          "pronunciation": "[də ˈtaːfəl]",
-          "hint": "de lamp"
+          "pronunciation": "[də ˈtaːfəl]"
         },
         {
           "nl": "de lamp",
@@ -107,8 +95,7 @@
         {
           "nl": "de stoel",
           "ru": "стул",
-          "pronunciation": "[də stul]",
-          "hint": "het tapijt"
+          "pronunciation": "[də stul]"
         },
         {
           "nl": "het tapijt",
@@ -118,8 +105,7 @@
         {
           "nl": "het bed",
           "ru": "кровать",
-          "pronunciation": "[ɦət bɛt]",
-          "hint": "de gordijnen"
+          "pronunciation": "[ɦət bɛt]"
         },
         {
           "nl": "de gordijnen",
@@ -129,8 +115,7 @@
         {
           "nl": "de bank",
           "ru": "диван",
-          "pronunciation": "[də bɑŋk]",
-          "hint": "de spiegel"
+          "pronunciation": "[də bɑŋk]"
         },
         {
           "nl": "de spiegel",
@@ -140,8 +125,7 @@
         {
           "nl": "de kast",
           "ru": "шкаф",
-          "pronunciation": "[də kɑst]",
-          "hint": "de televisie"
+          "pronunciation": "[də kɑst]"
         },
         {
           "nl": "de televisie",
@@ -151,8 +135,7 @@
         {
           "nl": "het raam",
           "ru": "окно",
-          "pronunciation": "[ɦət raːm]",
-          "hint": "de koelkast"
+          "pronunciation": "[ɦət raːm]"
         },
         {
           "nl": "de koelkast",
@@ -162,8 +145,7 @@
         {
           "nl": "de deur",
           "ru": "дверь",
-          "pronunciation": "[də døːr]",
-          "hint": "het fornuis"
+          "pronunciation": "[də døːr]"
         },
         {
           "nl": "het fornuis",
@@ -265,6 +247,7 @@
     {
       "type": "grammar",
       "title": "1. Предлоги места",
+      "content": "Наиболее частые предлоги места — `in`, `op`, `onder`, `naast`, `achter`, `voor`, `tussen`, `tegenover`. Они ставятся перед существительным с артиклем: `in de kamer`, `op de tafel`.",
       "examples": [
         {
           "nl": "in de kast",

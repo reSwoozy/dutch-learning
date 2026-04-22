@@ -120,18 +120,34 @@
     "lesson": 3
   },
   {
-    "nl": "niet",
-    "ru": "не",
-    "example": "Ik ben niet moe.",
-    "pronunciation": "nit",
+    "nl": "deze",
+    "ru": "этот/эта (de-слова, рядом)",
+    "example": "Deze man is mijn vader.",
+    "pronunciation": "ˈdeːzə",
     "level": "A1",
     "lesson": 3
   },
   {
-    "nl": "wel",
-    "ru": "да/действительно",
-    "example": "Dat is wel leuk!",
-    "pronunciation": "ʋɛl",
+    "nl": "dit",
+    "ru": "это (het-слова, рядом)",
+    "example": "Dit huis is erg mooi.",
+    "pronunciation": "dɪt",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "die",
+    "ru": "тот/та (de-слова, далеко)",
+    "example": "Die vrouw daar is lerares.",
+    "pronunciation": "di",
+    "level": "A1",
+    "lesson": 3
+  },
+  {
+    "nl": "dat",
+    "ru": "то (het-слова, далеко)",
+    "example": "Dat boek is interessant.",
+    "pronunciation": "dɑt",
     "level": "A1",
     "lesson": 3
   },

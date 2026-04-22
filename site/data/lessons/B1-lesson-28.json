@@ -4,7 +4,9 @@
   "level": "B1",
   "title": "Работа и карьера",
   "minutes": 15,
-  "objectives": [],
+  "objectives": [
+    "Изучить все аспекты трудовой деятельности в Нидерландах: поиск работы, собеседования, трудовые права и карьерное развитие"
+  ],
   "sections": [
     {
       "type": "text",
@@ -108,33 +110,33 @@
       "title": "Типы трудовых договоров (Arbeidscontracten)",
       "words": [
         {
-          "nl": "Постоянный",
-          "ru": "vast contract",
+          "nl": "vast contract",
+          "ru": "Постоянный",
           "hint": "Бессрочный"
         },
         {
-          "nl": "Временный",
-          "ru": "tijdelijk contract",
+          "nl": "tijdelijk contract",
+          "ru": "Временный",
           "hint": "На определенный срок"
         },
         {
-          "nl": "Частичная занятость",
-          "ru": "parttime contract",
+          "nl": "parttime contract",
+          "ru": "Частичная занятость",
           "hint": "Менее 36 часов в неделю"
         },
         {
-          "nl": "Полная занятость",
-          "ru": "fulltime contract",
+          "nl": "fulltime contract",
+          "ru": "Полная занятость",
           "hint": "36-40 часов в неделю"
         },
         {
-          "nl": "Нулевые часы",
-          "ru": "nulurencontract",
+          "nl": "nulurencontract",
+          "ru": "Нулевые часы",
           "hint": "Гибкий график"
         },
         {
-          "nl": "Стажировка",
-          "ru": "stage",
+          "nl": "stage",
+          "ru": "Стажировка",
           "hint": "Для получения опыта"
         }
       ]

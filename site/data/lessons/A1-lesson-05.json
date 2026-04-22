@@ -13,19 +13,13 @@
   ],
   "sections": [
     {
-      "type": "text",
-      "title": "Цели урока",
-      "content": "После этого урока ты сможешь:\n- Называть всех членов семьи на нидерландском\n- Описывать внешность людей (рост, волосы, глаза)\n- Использовать притяжательные местоимения (mijn, jouw, zijn)\n- Рассказывать о своей семье\n- Понимать голландские семейные ценности"
-    },
-    {
       "type": "vocabulary",
       "title": "Фаза 1: Члены семьи (4 минуты)",
       "words": [
         {
           "nl": "de familie",
           "ru": "семья",
-          "pronunciation": "[də faˈmili]",
-          "hint": "de broer"
+          "pronunciation": "[də faˈmili]"
         },
         {
           "nl": "de broer",
@@ -35,8 +29,7 @@
         {
           "nl": "de ouders",
           "ru": "родители",
-          "pronunciation": "[də ˈɑu̯dərs]",
-          "hint": "de zus"
+          "pronunciation": "[də ˈɑu̯dərs]"
         },
         {
           "nl": "de zus",
@@ -46,8 +39,7 @@
         {
           "nl": "de vader",
           "ru": "отец",
-          "pronunciation": "[də ˈvaːdər]",
-          "hint": "de opa"
+          "pronunciation": "[də ˈvaːdər]"
         },
         {
           "nl": "de opa",
@@ -57,8 +49,7 @@
         {
           "nl": "de moeder",
           "ru": "мать",
-          "pronunciation": "[də ˈmudər]",
-          "hint": "de oma"
+          "pronunciation": "[də ˈmudər]"
         },
         {
           "nl": "de oma",
@@ -68,8 +59,7 @@
         {
           "nl": "de zoon",
           "ru": "сын",
-          "pronunciation": "[də soːn]",
-          "hint": "de oom"
+          "pronunciation": "[də soːn]"
         },
         {
           "nl": "de oom",
@@ -79,8 +69,7 @@
         {
           "nl": "de dochter",
           "ru": "дочь",
-          "pronunciation": "[də ˈdɔxtər]",
-          "hint": "de tante"
+          "pronunciation": "[də ˈdɔxtər]"
         },
         {
           "nl": "de tante",
@@ -172,8 +161,7 @@
         {
           "nl": "lang",
           "ru": "высокий/длинный",
-          "pronunciation": "[lɑŋ]",
-          "hint": "het haar"
+          "pronunciation": "[lɑŋ]"
         },
         {
           "nl": "het haar",
@@ -183,8 +171,7 @@
         {
           "nl": "kort",
           "ru": "низкий/короткий",
-          "pronunciation": "[kɔrt]",
-          "hint": "blond"
+          "pronunciation": "[kɔrt]"
         },
         {
           "nl": "blond",
@@ -194,8 +181,7 @@
         {
           "nl": "groot",
           "ru": "большой",
-          "pronunciation": "[ɣroːt]",
-          "hint": "bruin"
+          "pronunciation": "[ɣroːt]"
         },
         {
           "nl": "bruin",
@@ -205,8 +191,7 @@
         {
           "nl": "klein",
           "ru": "маленький",
-          "pronunciation": "[klɛi̯n]",
-          "hint": "zwart"
+          "pronunciation": "[klɛi̯n]"
         },
         {
           "nl": "zwart",
@@ -216,8 +201,7 @@
         {
           "nl": "dik",
           "ru": "толстый",
-          "pronunciation": "[dɪk]",
-          "hint": "de ogen"
+          "pronunciation": "[dɪk]"
         },
         {
           "nl": "de ogen",
@@ -227,8 +211,7 @@
         {
           "nl": "dun",
           "ru": "худой",
-          "pronunciation": "[dʏn]",
-          "hint": "blauw"
+          "pronunciation": "[dʏn]"
         },
         {
           "nl": "blauw",
@@ -238,8 +221,7 @@
         {
           "nl": "mooi",
           "ru": "красивый",
-          "pronunciation": "[moːi]",
-          "hint": "groen"
+          "pronunciation": "[moːi]"
         },
         {
           "nl": "groen",
@@ -249,8 +231,7 @@
         {
           "nl": "lelijk",
           "ru": "некрасивый",
-          "pronunciation": "[ˈleːlək]",
-          "hint": "bruin"
+          "pronunciation": "[ˈleːlək]"
         },
         {
           "nl": "bruin",
@@ -260,8 +241,7 @@
         {
           "nl": "jong",
           "ru": "молодой",
-          "pronunciation": "[jɔŋ]",
-          "hint": "aardig"
+          "pronunciation": "[jɔŋ]"
         },
         {
           "nl": "aardig",
@@ -271,8 +251,7 @@
         {
           "nl": "oud",
           "ru": "старый",
-          "pronunciation": "[ɑu̯t]",
-          "hint": "vriendelijk"
+          "pronunciation": "[ɑu̯t]"
         },
         {
           "nl": "vriendelijk",

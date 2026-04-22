@@ -13,19 +13,13 @@
   ],
   "sections": [
     {
-      "type": "text",
-      "title": "Цели урока",
-      "content": "После этого урока ты сможешь:\n- Называть основные предметы одежды\n- Описывать цвета на нидерландском\n- Рассказывать, что ты носишь\n- Делать покупки в магазине одежды\n- Понимать голландский стиль одежды"
-    },
-    {
       "type": "vocabulary",
       "title": "Фаза 1: Основная одежда (4 минуты)",
       "words": [
         {
           "nl": "de kleren",
           "ru": "одежда",
-          "pronunciation": "[də ˈkleːrən]",
-          "hint": "de jas"
+          "pronunciation": "[də ˈkleːrən]"
         },
         {
           "nl": "de jas",
@@ -35,8 +29,7 @@
         {
           "nl": "het shirt",
           "ru": "рубашка",
-          "pronunciation": "[ɦət ʃɪrt]",
-          "hint": "de broek"
+          "pronunciation": "[ɦət ʃɪrt]"
         },
         {
           "nl": "de broek",
@@ -46,8 +39,7 @@
         {
           "nl": "de jurk",
           "ru": "платье",
-          "pronunciation": "[də jɛrk]",
-          "hint": "de rok"
+          "pronunciation": "[də jɛrk]"
         },
         {
           "nl": "de rok",
@@ -57,8 +49,7 @@
         {
           "nl": "de trui",
           "ru": "свитер",
-          "pronunciation": "[də trœy̯]",
-          "hint": "het jasje"
+          "pronunciation": "[də trœy̯]"
         },
         {
           "nl": "het jasje",
@@ -68,8 +59,7 @@
         {
           "nl": "de schoenen",
           "ru": "обувь",
-          "pronunciation": "[də ˈsxunə]",
-          "hint": "de sokken"
+          "pronunciation": "[də ˈsxunə]"
         },
         {
           "nl": "de sokken",
@@ -79,8 +69,7 @@
         {
           "nl": "de hoed",
           "ru": "шляпа",
-          "pronunciation": "[də ɦut]",
-          "hint": "de handschoenen"
+          "pronunciation": "[də ɦut]"
         },
         {
           "nl": "de handschoenen",
@@ -96,8 +85,7 @@
         {
           "nl": "rood",
           "ru": "красный",
-          "pronunciation": "[roːt]",
-          "hint": "groen"
+          "pronunciation": "[roːt]"
         },
         {
           "nl": "groen",
@@ -107,8 +95,7 @@
         {
           "nl": "blauw",
           "ru": "синий",
-          "pronunciation": "[blɑu̯]",
-          "hint": "geel"
+          "pronunciation": "[blɑu̯]"
         },
         {
           "nl": "geel",
@@ -118,8 +105,7 @@
         {
           "nl": "zwart",
           "ru": "черный",
-          "pronunciation": "[zwɑrt]",
-          "hint": "wit"
+          "pronunciation": "[zwɑrt]"
         },
         {
           "nl": "wit",
@@ -129,8 +115,7 @@
         {
           "nl": "roze",
           "ru": "розовый",
-          "pronunciation": "[ˈroːzə]",
-          "hint": "paars"
+          "pronunciation": "[ˈroːzə]"
         },
         {
           "nl": "paars",
@@ -140,8 +125,7 @@
         {
           "nl": "bruin",
           "ru": "коричневый",
-          "pronunciation": "[brœy̯n]",
-          "hint": "grijs"
+          "pronunciation": "[brœy̯n]"
         },
         {
           "nl": "grijs",
@@ -151,8 +135,7 @@
         {
           "nl": "oranje",
           "ru": "оранжевый",
-          "pronunciation": "[oːˈrɑɲə]",
-          "hint": "licht/donker"
+          "pronunciation": "[oːˈrɑɲə]"
         },
         {
           "nl": "licht/donker",
@@ -312,8 +295,8 @@
           "hint": "БЕЗ -e с een!"
         },
         {
-          "nl": "мн. число",
-          "ru": "blauw**e** schoenen",
+          "nl": "blauw**e** schoenen",
+          "ru": "мн. число",
           "hint": "+e всегда"
         }
       ]

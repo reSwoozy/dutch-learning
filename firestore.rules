@@ -21,7 +21,6 @@ service cloud.firestore {
         && (!('exerciseHistory'  in p) || p.exerciseHistory is list)
         && (!('readingRead'      in p) || p.readingRead is list)
         && (!('writingSeen'      in p) || p.writingSeen is list)
-        && (!('lessonNotes'      in p) || p.lessonNotes is map)
         && (!('srs'              in p) || p.srs is map)
         && (!('testResults'      in p) || p.testResults is map)
         && (!('streak'           in p) || p.streak is int)

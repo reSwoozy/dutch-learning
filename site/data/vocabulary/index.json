@@ -1,9 +1,9 @@
 {
-  "totalWords": 5900,
-  "lessonsWordCount": 1656,
+  "totalWords": 5911,
+  "lessonsWordCount": 1667,
   "levels": {
-    "A1": 1054,
-    "A2": 1556,
+    "A1": 1051,
+    "A2": 1570,
     "B1": 1953,
     "B2": 1337
   },
@@ -33,14 +33,14 @@
         "id": "A1-lesson-02",
         "level": "A1",
         "lesson": 2,
-        "wordCount": 26,
+        "wordCount": 21,
         "file": "lessons/A1-lesson-02.json"
       },
       {
         "id": "A1-lesson-03",
         "level": "A1",
         "lesson": 3,
-        "wordCount": 28,
+        "wordCount": 30,
         "file": "lessons/A1-lesson-03.json"
       },
       {
@@ -392,6 +392,13 @@
         "lesson": 53,
         "wordCount": 35,
         "file": "lessons/B2-lesson-53.json"
+      },
+      {
+        "id": "A2-lesson-54",
+        "level": "A2",
+        "lesson": 54,
+        "wordCount": 14,
+        "file": "lessons/A2-lesson-54.json"
       }
     ],
     "core": [

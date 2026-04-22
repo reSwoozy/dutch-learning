@@ -1,0 +1,148 @@
+{
+  "id": "A2-lesson-54",
+  "num": 54,
+  "level": "A2",
+  "title": "Отрицание: niet, geen и отрицательные слова",
+  "minutes": 15,
+  "objectives": [
+    "Различать `niet` и `geen` и выбирать правильный вариант",
+    "Правильно ставить `niet` в простом предложении (после глагола, перед прилагательным, перед предлогом)",
+    "Использовать отрицательные местоимения и наречия: `niets`, `niemand`, `nooit`, `nergens`",
+    "Передавать оттенки времени: `nog niet`, `niet meer`, `geen ... meer`, `nog geen`",
+    "Избегать двойного отрицания по образцу русского языка",
+    "Противопоставлять через `wel` и применять `nee` как самостоятельный ответ"
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Зачем этот урок",
+      "content": "В голландском для отрицания используются **два основных слова**: `niet` и `geen`. Выбор между ними — одно из ключевых различий с русским языком, где везде используется «не/нет».\n\n**Правило одной фразы**: `geen` ставится **только перед существительным без артикля или с `een`**. Во всех остальных случаях — `niet`.\n\n**ВАЖНО**: В голландском **нет двойного отрицания**. Если в предложении уже есть `niemand`, `niets`, `nooit` или `nergens` — второе отрицание не добавляется."
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1: Слова отрицания",
+      "words": [
+        { "nl": "niet", "ru": "не (общее отрицание)", "pronunciation": "[nit]" },
+        { "nl": "geen", "ru": "не, нет (перед существительным без артикля)", "pronunciation": "[ɣeːn]" },
+        { "nl": "nee", "ru": "нет (как ответ)", "pronunciation": "[neː]" },
+        { "nl": "wel", "ru": "да, действительно (противопоставление)", "pronunciation": "[ʋɛl]" },
+        { "nl": "niets", "ru": "ничего", "pronunciation": "[nits]" },
+        { "nl": "niks", "ru": "ничего (разговорное)", "pronunciation": "[nɪks]" },
+        { "nl": "niemand", "ru": "никто", "pronunciation": "[ˈnimɑnt]" },
+        { "nl": "nooit", "ru": "никогда", "pronunciation": "[noːi̯t]" },
+        { "nl": "nergens", "ru": "нигде, никуда", "pronunciation": "[ˈnɛrɣəns]" },
+        { "nl": "nog niet", "ru": "ещё не", "pronunciation": "[nɔɣ nit]" },
+        { "nl": "niet meer", "ru": "больше не", "pronunciation": "[nit meːr]" },
+        { "nl": "geen ... meer", "ru": "больше нет (чего-то)", "pronunciation": "[ɣeːn ... meːr]" },
+        { "nl": "nog geen", "ru": "пока нет (существительного)", "pronunciation": "[nɔɣ ɣeːn]" },
+        { "nl": "helemaal niet", "ru": "совсем не", "pronunciation": "[ˈɦeːləmaːl nit]" },
+        { "nl": "helemaal geen", "ru": "совсем никакого", "pronunciation": "[ˈɦeːləmaːl ɣeːn]" }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 2: niet или geen?",
+      "content": "**Главное правило**:\n- **geen** — перед существительным **без артикля** или **с неопределённым артиклем `een`**\n- **niet** — во всех остальных случаях (глаголы, прилагательные, наречия, предлоги, существительные с `de/het`, `mijn`, `deze/dit`)",
+      "tables": [
+        {
+          "headers": ["Утверждение", "Отрицание", "Почему"],
+          "rows": [
+            ["Ik heb een auto", "Ik heb **geen** auto", "`een` → `geen`"],
+            ["Ik drink koffie", "Ik drink **geen** koffie", "нет артикля → `geen`"],
+            ["Ik heb kinderen", "Ik heb **geen** kinderen", "мн.ч. без артикля → `geen`"],
+            ["Ik zie de man", "Ik zie de man **niet**", "`de` → `niet`"],
+            ["Dat is mijn fiets", "Dat is mijn fiets **niet**", "притяжательное → `niet`"],
+            ["Ik werk vandaag", "Ik werk vandaag **niet**", "отрицание глагола → `niet`"],
+            ["Het is groot", "Het is **niet** groot", "перед прилагательным → `niet`"]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 3: Позиция niet в предложении",
+      "content": "Позиция `niet` зависит от того, что именно ты отрицаешь. Общее правило — `niet` ставится **в конце простого предложения**, но **перед** тем элементом, который непосредственно отрицается.",
+      "tables": [
+        {
+          "headers": ["Что отрицаем", "Позиция niet", "Пример"],
+          "rows": [
+            ["Глагол (всё действие)", "в конце предложения", "Ik werk **niet**"],
+            ["Определённое существительное", "после существительного", "Ik zie de man **niet**"],
+            ["Прилагательное", "перед прилагательным", "Het is **niet** groot"],
+            ["Наречие", "перед наречием", "Hij loopt **niet** snel"],
+            ["Предложная фраза", "перед предлогом", "Ik ga **niet** naar huis"],
+            ["Время / место", "перед обстоятельством (если его отрицаем)", "Ik kom **niet** morgen"],
+            ["С модальным глаголом", "перед инфинитивом (в конце)", "Ik kan **niet** komen"],
+            ["Перфект (heb ... gezien)", "перед причастием (в конце)", "Ik heb het **niet** gezien"]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 4: Отрицательные местоимения и наречия",
+      "content": "Для отрицания количества, людей, места и времени используются **отдельные слова**. Они **заменяют** `niet` — второе отрицание не нужно.",
+      "tables": [
+        {
+          "headers": ["Слово", "Перевод", "Пример"],
+          "rows": [
+            ["niets / niks", "ничего", "Ik zie **niets**. / Er is **niks** te doen."],
+            ["niemand", "никто", "**Niemand** is thuis."],
+            ["nooit", "никогда", "Ik rook **nooit**."],
+            ["nergens", "нигде, никуда", "Ik kan het **nergens** vinden."]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Фаза 5: wel — «зато», «а вот»",
+      "content": "`wel` — это **противоположность** `niet/geen`. Используется для контраста или уточнения:\n- **Ik drink geen bier, maar wel wijn** — Я не пью пиво, а вот вино пью\n- **Hij komt niet, maar zij wel** — Он не придёт, а она — да\n- **Heb je honger? — Ja, wel!** — Ты голоден? — Да, вообще-то да!"
+    },
+    {
+      "type": "grammar",
+      "title": "Фаза 6: Оттенки времени",
+      "content": "Сочетания со временем дают полезные конструкции:",
+      "tables": [
+        {
+          "headers": ["Выражение", "Перевод", "Пример"],
+          "rows": [
+            ["nog niet", "ещё не", "Ik ben **nog niet** klaar"],
+            ["niet meer", "больше не", "Ze werkt hier **niet meer**"],
+            ["geen ... meer", "больше нет (сущ.)", "Er is **geen koffie meer**"],
+            ["nog geen", "пока нет (сущ.)", "Ik heb **nog geen** plannen"],
+            ["nooit meer", "больше никогда", "Ik doe dat **nooit meer**"]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercises",
+      "title": "Фаза 7: Практика",
+      "items": [
+        { "question": "Ik heb ___ auto (niet/geen) → `___`", "answer": "geen (een → geen)" },
+        { "question": "Dit is ___ mijn boek (niet/geen) → `___`", "answer": "niet (притяжательное → niet)" },
+        { "question": "Ik drink ___ koffie (niet/geen) → `___`", "answer": "geen (нет артикля → geen)" },
+        { "question": "Ik ken de man ___ (niet/geen) → `___`", "answer": "niet (de → niet)" },
+        { "question": "Het huis is ___ groot (niet/geen) → `___`", "answer": "niet (перед прилагательным)" },
+        { "question": "Er is ___ tijd (niet/geen) → `___`", "answer": "geen (нет артикля)" },
+        { "question": "Поставь niet в правильное место: Ik werk vandaag. → `_______`", "answer": "Ik werk vandaag niet." },
+        { "question": "Поставь niet: Ik kan komen (модальный). → `_______`", "answer": "Ik kan niet komen." },
+        { "question": "Переведи: Никто не дома. → `_______`", "answer": "Niemand is thuis." },
+        { "question": "Переведи: Я никогда больше туда не пойду. → `_______`", "answer": "Ik ga daar nooit meer naartoe." },
+        { "question": "Переведи: У меня ещё нет плана. → `_______`", "answer": "Ik heb nog geen plan." }
+      ]
+    },
+    {
+      "type": "culture",
+      "title": "Как голландцы отказывают",
+      "content": "В голландской культуре **прямота** ценится, но всё же есть нюансы:\n- **Nee, dat gaat niet** — Нет, так не получится (мягкий прямой отказ)\n- **Nee, sorry, ik kan niet** — Нет, извини, не могу (бытовой отказ)\n- **Ik weet het niet zeker** — Я не уверен (уклончивый ответ)\n\n**Не путай с русским**: В голландском **нет двойного отрицания**. Русское «я ничего не знаю» на голландском звучит как **Ik weet niets** — одно отрицание, без второго `niet`."
+    },
+    {
+      "type": "text",
+      "title": "Типичные ошибки русскоговорящих",
+      "content": "1. **Двойное отрицание**: ❌ `Niemand is niet thuis` → ✅ `Niemand is thuis`\n2. **niet вместо geen**: ❌ `Ik heb niet auto` → ✅ `Ik heb geen auto`\n3. **geen перед глаголом**: ❌ `Ik geen werk` → ✅ `Ik werk niet`\n4. **niet перед модальным**: ❌ `Ik niet kan komen` → ✅ `Ik kan niet komen`\n5. **niet меняет место с существительным**: ❌ `Ik niet ken de man` → ✅ `Ik ken de man niet`\n6. **Перевод «нет» через `niet`**: ❌ `Niet, ik kom niet` → ✅ `Nee, ik kom niet` (краткий ответ — `nee`, не `niet`)"
+    }
+  ],
+  "vocabularyFile": "A2-lesson-54.json"
+}

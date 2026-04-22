@@ -301,41 +301,6 @@
     "setId": "A1-lesson-02"
   },
   {
-    "nl": "deze",
-    "ru": "этот/эта (de-слова)",
-    "level": "A1",
-    "tier": "lesson",
-    "setId": "A1-lesson-02"
-  },
-  {
-    "nl": "dit",
-    "ru": "это (het-слова)",
-    "level": "A1",
-    "tier": "lesson",
-    "setId": "A1-lesson-02"
-  },
-  {
-    "nl": "die",
-    "ru": "тот/та (de-слова)",
-    "level": "A1",
-    "tier": "lesson",
-    "setId": "A1-lesson-02"
-  },
-  {
-    "nl": "dat",
-    "ru": "то (het-слова)",
-    "level": "A1",
-    "tier": "lesson",
-    "setId": "A1-lesson-02"
-  },
-  {
-    "nl": "alle",
-    "ru": "все",
-    "level": "A1",
-    "tier": "lesson",
-    "setId": "A1-lesson-02"
-  },
-  {
     "nl": "ik",
     "ru": "я",
     "level": "A1",
@@ -441,15 +406,29 @@
     "setId": "A1-lesson-03"
   },
   {
-    "nl": "niet",
-    "ru": "не",
+    "nl": "deze",
+    "ru": "этот/эта (de-слова, рядом)",
     "level": "A1",
     "tier": "lesson",
     "setId": "A1-lesson-03"
   },
   {
-    "nl": "wel",
-    "ru": "да/действительно",
+    "nl": "dit",
+    "ru": "это (het-слова, рядом)",
+    "level": "A1",
+    "tier": "lesson",
+    "setId": "A1-lesson-03"
+  },
+  {
+    "nl": "die",
+    "ru": "тот/та (de-слова, далеко)",
+    "level": "A1",
+    "tier": "lesson",
+    "setId": "A1-lesson-03"
+  },
+  {
+    "nl": "dat",
+    "ru": "то (het-слова, далеко)",
     "level": "A1",
     "tier": "lesson",
     "setId": "A1-lesson-03"
@@ -11590,6 +11569,104 @@
     "level": "B2",
     "tier": "lesson",
     "setId": "B2-lesson-53"
+  },
+  {
+    "nl": "niet",
+    "ru": "не",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "geen",
+    "ru": "нет (перед существительным)",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "nee",
+    "ru": "нет (ответ)",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "wel",
+    "ru": "да, действительно",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "niets",
+    "ru": "ничего",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "niks",
+    "ru": "ничего (разговорное)",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "niemand",
+    "ru": "никто",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "nooit",
+    "ru": "никогда",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "nergens",
+    "ru": "нигде, никуда",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "nog niet",
+    "ru": "ещё не",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "niet meer",
+    "ru": "больше не",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "nog geen",
+    "ru": "пока нет",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "helemaal niet",
+    "ru": "совсем не",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
+  },
+  {
+    "nl": "helemaal geen",
+    "ru": "совсем никакого",
+    "level": "A2",
+    "tier": "lesson",
+    "setId": "A2-lesson-54"
   },
   {
     "nl": "ik",

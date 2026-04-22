@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://dutch.local/schemas/lesson.schema.json",
+  "title": "Lesson",
+  "type": "object",
+  "required": ["id", "num", "level", "title", "objectives", "sections"],
+  "additionalProperties": true,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[AB][12]-lesson-\\d+$" },
+    "num": { "type": "integer", "minimum": 1 },
+    "level": { "type": "string", "enum": ["A1", "A2", "B1", "B2"] },
+    "title": { "type": "string", "minLength": 1 },
+    "minutes": { "type": "integer", "minimum": 1 },
+    "vocabularyFile": { "type": "string" },
+    "objectives": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/section" }
+    }
+  },
+  "$defs": {
+    "section": {
+      "type": "object",
+      "required": ["type", "title"],
+      "properties": {
+        "type": { "type": "string", "enum": ["text", "vocabulary", "grammar", "exercises", "culture", "dialogue"] },
+        "title": { "type": "string", "minLength": 1 }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "type": { "const": "vocabulary" } } },
+          "then": {
+            "required": ["words"],
+            "properties": {
+              "words": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "object",
+                  "required": ["nl", "ru"],
+                  "properties": {
+                    "nl": { "type": "string", "minLength": 1 },
+                    "ru": { "type": "string", "minLength": 1 },
+                    "pronunciation": { "type": "string" },
+                    "hint": { "type": "string" },
+                    "example": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "type": { "const": "dialogue" } } },
+          "then": {
+            "required": ["lines"],
+            "properties": {
+              "lines": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "object",
+                  "required": ["speaker", "text"],
+                  "properties": {
+                    "speaker": { "type": "string" },
+                    "text": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "type": { "const": "exercises" } } },
+          "then": {
+            "anyOf": [
+              {
+                "required": ["items"],
+                "properties": {
+                  "items": {
+                    "type": "array",
+                    "minItems": 1,
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "question": { "type": "string" },
+                        "answer": { "type": "string" }
+                      }
+                    }
+                  }
+                }
+              },
+              { "required": ["content"], "properties": { "content": { "type": "string", "minLength": 1 } } }
+            ]
+          }
+        },
+        {
+          "if": { "properties": { "type": { "enum": ["text", "grammar", "culture"] } } },
+          "then": {
+            "anyOf": [
+              { "required": ["content"], "properties": { "content": { "type": "string", "minLength": 1 } } },
+              { "required": ["tables"], "properties": { "tables": { "type": "array", "minItems": 1 } } },
+              { "required": ["examples"], "properties": { "examples": { "type": "array", "minItems": 1 } } }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

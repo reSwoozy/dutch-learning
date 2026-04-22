@@ -4,7 +4,9 @@
   "level": "B1",
   "title": "Банки и финансы",
   "minutes": 15,
-  "objectives": [],
+  "objectives": [
+    "Освоить банковскую и финансовую систему Нидерландов: услуги банков, кредиты, налоги, страхование и планирование бюджета"
+  ],
   "sections": [
     {
       "type": "text",
@@ -42,28 +44,28 @@
       "title": "Типы банковских счетов",
       "words": [
         {
-          "nl": "Текущий счет",
-          "ru": "betaalrekening",
+          "nl": "betaalrekening",
+          "ru": "Текущий счет",
           "hint": "Ежедневные операции"
         },
         {
-          "nl": "Сберегательный",
-          "ru": "spaarrekening",
+          "nl": "spaarrekening",
+          "ru": "Сберегательный",
           "hint": "Накопления"
         },
         {
-          "nl": "Совместный счет",
-          "ru": "gezamenlijke rekening",
+          "nl": "gezamenlijke rekening",
+          "ru": "Совместный счет",
           "hint": "Для семейных пар"
         },
         {
-          "nl": "Бизнес-счет",
-          "ru": "zakelijke rekening",
+          "nl": "zakelijke rekening",
+          "ru": "Бизнес-счет",
           "hint": "Для предпринимателей"
         },
         {
-          "nl": "Студенческий",
-          "ru": "studentenrekening",
+          "nl": "studentenrekening",
+          "ru": "Студенческий",
           "hint": "Льготные условия"
         }
       ]
@@ -73,13 +75,13 @@
       "title": "Типы карт",
       "words": [
         {
-          "nl": "Дебетовая",
-          "ru": "betaalpas / pinpas",
+          "nl": "betaalpas / pinpas",
+          "ru": "Дебетовая",
           "hint": "Основная карта для оплаты"
         },
         {
-          "nl": "Кредитная",
-          "ru": "creditcard",
+          "nl": "creditcard",
+          "ru": "Кредитная",
           "hint": "Кредитные покупки"
         },
         {
@@ -99,8 +101,8 @@
       "title": "Способы оплаты",
       "words": [
         {
-          "nl": "SEPA перевод",
-          "ru": "SEPA-overboeking",
+          "nl": "SEPA-overboeking",
+          "ru": "SEPA перевод",
           "hint": "Обычно бесплатно в ЕС"
         },
         {
@@ -109,8 +111,8 @@
           "hint": "Онлайн-платежи, бесплатно"
         },
         {
-          "nl": "Наличные",
-          "ru": "contant geld",
+          "nl": "contant geld",
+          "ru": "Наличные",
           "hint": "Ограниченное использование"
         },
         {
@@ -130,50 +132,59 @@
       "title": "Типы ипотеки",
       "words": [
         {
-          "nl": "Аннуитетная",
-          "ru": "annuïteitenhypotheek",
+          "nl": "annuïteitenhypotheek",
+          "ru": "Аннуитетная",
           "hint": "Равные ежемесячные платежи"
         },
         {
-          "nl": "Линейная",
-          "ru": "lineaire hypotheek",
+          "nl": "lineaire hypotheek",
+          "ru": "Линейная",
           "hint": "Уменьшающиеся платежи"
         },
         {
-          "nl": "Процентная",
-          "ru": "aflossingsvrije hypotheek",
+          "nl": "aflossingsvrije hypotheek",
+          "ru": "Процентная",
           "hint": "Только проценты"
         },
         {
-          "nl": "Спаровочная",
-          "ru": "spaarhypotheek",
+          "nl": "spaarhypotheek",
+          "ru": "Спаровочная",
           "hint": "С накопительным компонентом"
         }
       ]
     },
     {
-      "type": "vocabulary",
+      "type": "text",
       "title": "Факторы для одобрения ипотеки",
-      "words": [
+      "content": "Банки учитывают следующие параметры заёмщика:",
+      "tables": [
         {
-          "nl": "Доход",
-          "ru": "Минимум 3 года стабильного дохода"
-        },
-        {
-          "nl": "Возраст",
-          "ru": "До 67 лет на момент погашения"
-        },
-        {
-          "nl": "Первоначальный взнос",
-          "ru": "Минимум 10% от стоимости"
-        },
-        {
-          "nl": "Долговая нагрузка",
-          "ru": "Не более 28% от дохода"
-        },
-        {
-          "nl": "BKR проверка",
-          "ru": "Хорошая кредитная история"
+          "headers": [
+            "Фактор",
+            "Требование"
+          ],
+          "rows": [
+            [
+              "Доход (inkomen)",
+              "Минимум 3 года стабильного дохода"
+            ],
+            [
+              "Возраст (leeftijd)",
+              "До 67 лет на момент погашения"
+            ],
+            [
+              "Первоначальный взнос (eigen geld)",
+              "Минимум 10% от стоимости"
+            ],
+            [
+              "Долговая нагрузка (leenquote)",
+              "Не более 28% от дохода"
+            ],
+            [
+              "BKR-проверка",
+              "Хорошая кредитная история в BKR"
+            ]
+          ]
         }
       ]
     },
@@ -182,23 +193,23 @@
       "title": "Основные налоги",
       "words": [
         {
-          "nl": "Подоходный",
-          "ru": "inkomstenbelasting",
+          "nl": "inkomstenbelasting",
+          "ru": "Подоходный",
           "hint": "Прогрессивная шкала"
         },
         {
-          "nl": "НДС",
-          "ru": "BTW",
+          "nl": "BTW",
+          "ru": "НДС",
           "hint": "Товары и услуги"
         },
         {
-          "nl": "Муниципальный",
-          "ru": "gemeentelijke belastingen",
+          "nl": "gemeentelijke belastingen",
+          "ru": "Муниципальный",
           "hint": "Местные услуги"
         },
         {
-          "nl": "Дорожный",
-          "ru": "motorrijtuigenbelasting",
+          "nl": "motorrijtuigenbelasting",
+          "ru": "Дорожный",
           "hint": "Владение автомобилем"
         }
       ]
@@ -208,23 +219,23 @@
       "title": "Налоговые льготы",
       "words": [
         {
-          "nl": "Общая скидка",
-          "ru": "algemene heffingskorting",
+          "nl": "algemene heffingskorting",
+          "ru": "Общая скидка",
           "hint": "€2,888 в год"
         },
         {
-          "nl": "Трудовая скидка",
-          "ru": "arbeidskorting",
+          "nl": "arbeidskorting",
+          "ru": "Трудовая скидка",
           "hint": "До €4,260 в год"
         },
         {
-          "nl": "Ипотечные проценты",
-          "ru": "hypotheekrente",
+          "nl": "hypotheekrente",
+          "ru": "Ипотечные проценты",
           "hint": "Вычет процентов по ипотеке"
         },
         {
-          "nl": "Пенсионные взносы",
-          "ru": "pensioenopbouw",
+          "nl": "pensioenopbouw",
+          "ru": "Пенсионные взносы",
           "hint": "Вычет пенсионных накоплений"
         }
       ]
@@ -244,18 +255,18 @@
       "title": "Обязательное страхование",
       "words": [
         {
-          "nl": "Медицинское",
-          "ru": "zorgverzekering",
+          "nl": "zorgverzekering",
+          "ru": "Медицинское",
           "hint": "Да"
         },
         {
-          "nl": "WA автомобиля",
-          "ru": "WA-verzekering",
+          "nl": "WA-verzekering",
+          "ru": "WA автомобиля",
           "hint": "Да (при наличии авто)"
         },
         {
-          "nl": "AOW пенсия",
-          "ru": "AOW",
+          "nl": "AOW",
+          "ru": "AOW пенсия",
           "hint": "Автоматически"
         }
       ]
@@ -265,28 +276,28 @@
       "title": "Дополнительное страхование",
       "words": [
         {
-          "nl": "Домашнее имущество",
-          "ru": "inboedelverzekering",
+          "nl": "inboedelverzekering",
+          "ru": "Домашнее имущество",
           "hint": "Защита вещей в доме"
         },
         {
-          "nl": "Строение дома",
-          "ru": "opstalverzekering",
+          "nl": "opstalverzekering",
+          "ru": "Строение дома",
           "hint": "Защита здания"
         },
         {
-          "nl": "Ответственность",
-          "ru": "aansprakelijkheidsverzekering",
+          "nl": "aansprakelijkheidsverzekering",
+          "ru": "Ответственность",
           "hint": "Гражданская ответственность"
         },
         {
-          "nl": "Жизни",
-          "ru": "levensverzekering",
+          "nl": "levensverzekering",
+          "ru": "Жизни",
           "hint": "Защита семьи"
         },
         {
-          "nl": "Правовая помощь",
-          "ru": "rechtsbijstandverzekering",
+          "nl": "rechtsbijstandverzekering",
+          "ru": "Правовая помощь",
           "hint": "Юридические расходы"
         }
       ]
@@ -358,28 +369,28 @@
       "title": "Накопления и инвестии",
       "words": [
         {
-          "nl": "Сберегательный счет",
-          "ru": "spaarrekening",
+          "nl": "spaarrekening",
+          "ru": "Сберегательный счет",
           "hint": "0.1-1%"
         },
         {
-          "nl": "Депозит",
-          "ru": "deposito",
+          "nl": "deposito",
+          "ru": "Депозит",
           "hint": "1-2%"
         },
         {
-          "nl": "Облигации",
-          "ru": "obligaties",
+          "nl": "obligaties",
+          "ru": "Облигации",
           "hint": "2-4%"
         },
         {
-          "nl": "Акции",
-          "ru": "aandelen",
+          "nl": "aandelen",
+          "ru": "Акции",
           "hint": "5-10%"
         },
         {
-          "nl": "ETF фонды",
-          "ru": "ETF",
+          "nl": "ETF",
+          "ru": "ETF фонды",
           "hint": "4-8%"
         }
       ]
@@ -411,24 +422,24 @@
       "title": "Интернет-банкинг",
       "words": [
         {
-          "nl": "Баланс",
-          "ru": "saldo bekijken"
+          "nl": "saldo bekijken",
+          "ru": "Баланс"
         },
         {
-          "nl": "Перевод",
-          "ru": "geld overmaken"
+          "nl": "geld overmaken",
+          "ru": "Перевод"
         },
         {
-          "nl": "История",
-          "ru": "transactiegeschiedenis"
+          "nl": "transactiegeschiedenis",
+          "ru": "История"
         },
         {
-          "nl": "Заявка на карту",
-          "ru": "nieuwe pas aanvragen"
+          "nl": "nieuwe pas aanvragen",
+          "ru": "Заявка на карту"
         },
         {
-          "nl": "Настройки",
-          "ru": "instellingen wijzigen"
+          "nl": "instellingen wijzigen",
+          "ru": "Настройки"
         }
       ]
     },

@@ -120,7 +120,6 @@ site/
   "grammarViewed": ["present-tense", "imperative"],
   "lessonsCompleted": ["A1-lesson-01", "A1-lesson-02"],
   "exerciseHistory": [{ "topic": "present-tense", "correct": 4, "total": 5, "date": "..." }],
-  "lessonNotes": { "A1-lesson-03": "повторить be-глаголы" },
   "srs": { "A1-lesson-01::huis": { "interval": 6, "repetition": 2, "efactor": 2.5, "nextReview": "..." } },
   "testResults": { "A1-test-1": { "correct": 38, "total": 43, "passed": true } },
   "readingRead": ["A1-text-01", "B1-text-03"],

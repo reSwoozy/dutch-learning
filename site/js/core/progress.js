@@ -74,11 +74,10 @@ export const Progress = {
 
   getDefault() {
     return {
-      version: 4,
+      version: 5,
       grammarViewed: [],
       lessonsCompleted: [],
       exerciseHistory: [],
-      lessonNotes: {},
       srs: {},
       testResults: {},
       readingRead: [],
@@ -95,7 +94,6 @@ export const Progress = {
     if (!Array.isArray(d.grammarViewed)) d.grammarViewed = [];
     if (!Array.isArray(d.lessonsCompleted)) d.lessonsCompleted = [];
     if (!Array.isArray(d.exerciseHistory)) d.exerciseHistory = [];
-    if (!d.lessonNotes || typeof d.lessonNotes !== 'object') d.lessonNotes = {};
     if (!d.srs || typeof d.srs !== 'object') d.srs = {};
     if (!d.testResults || typeof d.testResults !== 'object') d.testResults = {};
     if (!Array.isArray(d.readingRead)) d.readingRead = [];
@@ -126,6 +124,11 @@ export const Progress = {
       delete d.vocabLevel;
       delete d.vocabLoaded;
       d.version = 4;
+    }
+
+    if (d.version < 5) {
+      delete d.lessonNotes;
+      d.version = 5;
     }
   },
 
@@ -208,19 +211,6 @@ export const Progress = {
   unmarkReadingRead(id) {
     if (!Array.isArray(this.data.readingRead)) this.data.readingRead = [];
     this.data.readingRead = this.data.readingRead.filter((x) => x !== id);
-    this.save();
-  },
-
-  getLessonNote(lessonId) {
-    return this.data.lessonNotes[lessonId] || '';
-  },
-
-  setLessonNote(lessonId, text) {
-    if (text && text.trim()) {
-      this.data.lessonNotes[lessonId] = text.trim();
-    } else {
-      delete this.data.lessonNotes[lessonId];
-    }
     this.save();
   },
 

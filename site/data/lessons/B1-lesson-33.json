@@ -4,7 +4,9 @@
   "level": "B1",
   "title": "Социальные услуги",
   "minutes": 15,
-  "objectives": [],
+  "objectives": [
+    "Понять систему социальной поддержки в Нидерландах, изучить различные пособия и льготы, научиться взаимодействовать с социальными службами"
+  ],
   "sections": [
     {
       "type": "text",
@@ -72,13 +74,9 @@
       "content": "**UWV-medewerker**: Welkom bij het UWV. Hoe kan ik u helpen?\n**Werkzoekende (Ищущий работу)**: Ik ben ontslagen en wil me inschrijven als werkzoekende.\n**Medewerker**: Wanneer bent u ontslagen en wat was de reden?\n**Werkzoekende**: Vorige week. Het bedrijf ging failliet, dus het was geen ontslag op staande voet.\n**Medewerker**: Dan heeft u waarschijnlijk recht op WW. Hoelang heeft u gewerkt bij uw laatste werkgever?\n**Werkzoekende**: Twee jaar fulltime. Daarvoor had ik ook een baan van een jaar.\n**Medewerker**: Perfect. U heeft recht op WW voor maximaal 26 maanden. Ik ga uw aanvraag verwerken.\n**Werkzoekende**: Wanneer krijg ik de eerste uitkering?\n**Medewerker**: Binnen twee weken na uw laatste werkdag. U moet wel actief solliciteren.\n**Werkzoekende**: Hoeveel sollicitaties per maand?\n**Medewerker**: Minimaal vier per maand, maar we adviseren meer. U krijgt ook hulp van onze arbeidscoach."
     },
     {
-      "type": "grammar",
-      "title": "Формальные регистры речи (Formele registers)"
-    },
-    {
       "type": "text",
-      "title": "Wat zijn formele registers?",
-      "content": "Формальные регистры - это различные уровни официальности в языке, которые используются в зависимости от ситуации."
+      "title": "Формальные регистры речи (Formele registers)",
+      "content": "Формальные регистры — это различные уровни официальности в языке, которые используются в зависимости от ситуации: от делового письма до разговора с начальником или в государственном учреждении."
     },
     {
       "type": "text",

@@ -13,11 +13,6 @@
   ],
   "sections": [
     {
-      "type": "text",
-      "title": "Цели урока",
-      "content": "После этого урока ты сможешь:\n- Правильно использовать модальные глаголы kunnen, moeten, willen, mogen\n- Выражать возможность, необходимость, желание и разрешение\n- Строить предложения с модальными глаголами\n- Понимать различия в значении и использовании\n- Использовать модальные глаголы в разных временах"
-    },
-    {
       "type": "grammar",
       "title": "Фаза 1: Основные модальные глаголы (4 минуты)",
       "content": "**Четыре основных модальных глагола**:\n**KUNNEN** - мочь, уметь:\n**MOETEN** - должен, надо:",
@@ -58,11 +53,6 @@
               "zij/ze",
               "kunnen",
               "Zij kunnen hard werken"
-            ],
-            [
-              "Лицо",
-              "Настоящее время",
-              "Пример"
             ],
             [
               "ik",
@@ -131,11 +121,6 @@
           "nl": "zij/ze",
           "ru": "willen",
           "hint": "Ze willen op vakantie"
-        },
-        {
-          "nl": "Лицо",
-          "ru": "Настоящее время",
-          "hint": "Пример"
         },
         {
           "nl": "ik",
@@ -266,12 +251,8 @@
       ]
     },
     {
-      "type": "grammar",
-      "title": "Полезные выражения с модальными глаголами"
-    },
-    {
       "type": "text",
-      "title": "Ежедневные ситуации:",
+      "title": "Полезные выражения с модальными глаголами",
       "content": "- **Kun je me helpen?** - Можешь помочь?\n- **Ik moet gaan** - Мне нужно идти\n- **Wil je koffie?** - Хочешь кофе?\n- **Mag ik binnenkomen?** - Можно войти?\n- **Je kunt hier parkeren** - Здесь можно парковаться\n- **We moeten boodschappen doen** - Нам нужно за покупками"
     },
     {
@@ -397,12 +378,8 @@
       ]
     },
     {
-      "type": "grammar",
-      "title": "Частые ошибки с модальными глаголами"
-    },
-    {
       "type": "text",
-      "title": "Неправильно → Правильно",
+      "title": "Частые ошибки с модальными глаголами",
       "content": "**Спряжение**:\n- Ik kunne → Ik kan\n- Jij moet → Jij moet ✓\n- Hij willen → Hij wil\n**Порядок слов**:\n- Ik kan niet gaan morgen → Ik kan morgen niet gaan\n- Hij moet werken hard → Hij moet hard werken\n- Wil je helpen me? → Wil je me helpen?\n**Выбор глагола**:\n- Ik wil naar de WC (физическая нужда) → Ik moet naar de WC\n- Mag je Nederlands? (умение) → Kun je Nederlands?\n- Ik moet koffie (желание) → Ik wil koffie"
     },
     {

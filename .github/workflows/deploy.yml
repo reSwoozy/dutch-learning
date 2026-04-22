@@ -36,6 +36,9 @@ jobs:
               || { echo "::error file=$f::Invalid JSON"; exit 1; }
           done
 
+      - name: Lint lessons (schema + content rules)
+        run: node scripts/lint-lessons.mjs
+
       - name: Rebuild vocabulary indexes
         run: node scripts/rebuild-vocab-index.mjs
 

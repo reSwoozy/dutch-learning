@@ -51,8 +51,6 @@ Object.assign(App, {
     const srsCount = Object.keys(this.progress.data.srs || {}).length;
     const dueCount = SRS.getDueCount(this.progress.data);
     const testResults = this.progress.data.testResults || {};
-    const notes = this.progress.data.lessonNotes || {};
-    const notesEntries = Object.entries(notes);
 
     const name = (user && (user.displayName || user.email)) || 'Аккаунт';
     const email = (user && user.email) || '';
@@ -197,23 +195,6 @@ Object.assign(App, {
         </table></div>
       ` : '<p style="color:var(--text-muted)">Пока нет истории</p>'}
       </section>
-
-      ${notesEntries.length > 0 ? `
-        <section class="page-section" style="margin-top:1.5rem">
-          <div class="page-section__head">
-            <h2>Заметки к урокам</h2>
-            <span class="page-section__count">${notesEntries.length}</span>
-          </div>
-        <div class="card-grid">
-          ${notesEntries.map(([lessonId, note]) => `
-            <a href="#lessons/${lessonId}" class="card" style="text-decoration:none;color:inherit">
-              <h3 style="font-size:1rem">${lessonId}</h3>
-              <p style="color:var(--text-muted);font-size:.85rem;margin-top:.25rem;white-space:pre-wrap">${this.escapeHtml(note)}</p>
-            </a>
-          `).join('')}
-        </div>
-        </section>
-      ` : ''}
 
       <section class="page-section" style="margin-top:1.5rem">
         <div class="page-section__head">

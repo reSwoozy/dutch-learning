@@ -7,36 +7,80 @@
   "objectives": [
     "Считать от 0 до 100 на нидерландском",
     "Говорить время (часы, минуты)",
-    "Называть дни недели и месяцы",
+    "Называть дни недели",
     "Задавать вопросы о времени и возрасте",
     "Использовать числа в повседневных ситуациях"
   ],
   "sections": [
     {
-      "type": "text",
-      "title": "Цели урока",
-      "content": "После этого урока ты сможешь:\n- Считать от 0 до 100 на нидерландском\n- Говорить время (часы, минуты)\n- Называть дни недели и месяцы\n- Задавать вопросы о времени и возрасте\n- Использовать числа в повседневных ситуациях"
-    },
-    {
       "type": "vocabulary",
-      "title": "Фаза 1: Числа 0-20 (3 минуты)",
+      "title": "Фаза 1a: Числа 0-10",
       "words": [
         {
           "nl": "nul",
           "ru": "ноль",
-          "pronunciation": "[nʏl]",
-          "hint": "elf"
-        },
-        {
-          "nl": "elf",
-          "ru": "одиннадцать",
-          "pronunciation": "[ɛlf]"
+          "pronunciation": "[nʏl]"
         },
         {
           "nl": "een",
           "ru": "один",
-          "pronunciation": "[eːn]",
-          "hint": "twaalf"
+          "pronunciation": "[eːn]"
+        },
+        {
+          "nl": "twee",
+          "ru": "два",
+          "pronunciation": "[tʋeː]"
+        },
+        {
+          "nl": "drie",
+          "ru": "три",
+          "pronunciation": "[dri]"
+        },
+        {
+          "nl": "vier",
+          "ru": "четыре",
+          "pronunciation": "[vir]"
+        },
+        {
+          "nl": "vijf",
+          "ru": "пять",
+          "pronunciation": "[vɛi̯f]"
+        },
+        {
+          "nl": "zes",
+          "ru": "шесть",
+          "pronunciation": "[zɛs]"
+        },
+        {
+          "nl": "zeven",
+          "ru": "семь",
+          "pronunciation": "[ˈzeːvə(n)]"
+        },
+        {
+          "nl": "acht",
+          "ru": "восемь",
+          "pronunciation": "[ɑxt]"
+        },
+        {
+          "nl": "negen",
+          "ru": "девять",
+          "pronunciation": "[ˈneːɣə(n)]"
+        },
+        {
+          "nl": "tien",
+          "ru": "десять",
+          "pronunciation": "[tin]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 1b: Числа 11-20",
+      "words": [
+        {
+          "nl": "elf",
+          "ru": "одиннадцать",
+          "pronunciation": "[ɛlf]"
         },
         {
           "nl": "twaalf",
@@ -44,21 +88,9 @@
           "pronunciation": "[tʋaːlf]"
         },
         {
-          "nl": "twee",
-          "ru": "два",
-          "pronunciation": "[tʋeː]",
-          "hint": "dertien"
-        },
-        {
           "nl": "dertien",
           "ru": "тринадцать",
           "pronunciation": "[dɛrˈtin]"
-        },
-        {
-          "nl": "drie",
-          "ru": "три",
-          "pronunciation": "[dri]",
-          "hint": "veertien"
         },
         {
           "nl": "veertien",
@@ -66,21 +98,9 @@
           "pronunciation": "[veːrˈtin]"
         },
         {
-          "nl": "vier",
-          "ru": "четыре",
-          "pronunciation": "[vir]",
-          "hint": "vijftien"
-        },
-        {
           "nl": "vijftien",
           "ru": "пятнадцать",
           "pronunciation": "[vɛi̯fˈtin]"
-        },
-        {
-          "nl": "vijf",
-          "ru": "пять",
-          "pronunciation": "[vɛi̯f]",
-          "hint": "zestien"
         },
         {
           "nl": "zestien",
@@ -88,21 +108,9 @@
           "pronunciation": "[zɛsˈtin]"
         },
         {
-          "nl": "zes",
-          "ru": "шесть",
-          "pronunciation": "[zɛs]",
-          "hint": "zeventien"
-        },
-        {
           "nl": "zeventien",
           "ru": "семнадцать",
           "pronunciation": "[zeːvə(n)ˈtin]"
-        },
-        {
-          "nl": "zeven",
-          "ru": "семь",
-          "pronunciation": "[ˈzeːvə(n)]",
-          "hint": "achttien"
         },
         {
           "nl": "achttien",
@@ -110,55 +118,71 @@
           "pronunciation": "[ɑxtˈtin]"
         },
         {
-          "nl": "acht",
-          "ru": "восемь",
-          "pronunciation": "[ɑxt]",
-          "hint": "negentien"
-        },
-        {
           "nl": "negentien",
           "ru": "девятнадцать",
           "pronunciation": "[neːɣə(n)ˈtin]"
         },
         {
-          "nl": "negen",
-          "ru": "девять",
-          "pronunciation": "[ˈneːɣə(n)]",
-          "hint": "twintig"
-        },
-        {
           "nl": "twintig",
           "ru": "двадцать",
           "pronunciation": "[ˈtʋɪntəx]"
-        },
-        {
-          "nl": "tien",
-          "ru": "десять",
-          "pronunciation": "[tin]",
-          "hint": ""
         }
       ]
     },
     {
       "type": "vocabulary",
-      "title": "Фаза 2: Десятки и время (4 минуты)",
+      "title": "Фаза 2a: Десятки 30-100",
       "words": [
         {
           "nl": "dertig",
           "ru": "тридцать",
-          "pronunciation": "[ˈdɛrtəx]",
-          "hint": "het uur"
-        },
-        {
-          "nl": "het uur",
-          "ru": "час",
-          "pronunciation": "[ɦət yːr]"
+          "pronunciation": "[ˈdɛrtəx]"
         },
         {
           "nl": "veertig",
           "ru": "сорок",
-          "pronunciation": "[ˈveːrtəx]",
-          "hint": "de minuut"
+          "pronunciation": "[ˈveːrtəx]"
+        },
+        {
+          "nl": "vijftig",
+          "ru": "пятьдесят",
+          "pronunciation": "[ˈvɛi̯ftəx]"
+        },
+        {
+          "nl": "zestig",
+          "ru": "шестьдесят",
+          "pronunciation": "[ˈzɛstəx]"
+        },
+        {
+          "nl": "zeventig",
+          "ru": "семьдесят",
+          "pronunciation": "[ˈzeːvə(n)təx]"
+        },
+        {
+          "nl": "tachtig",
+          "ru": "восемьдесят",
+          "pronunciation": "[ˈtɑxtəx]"
+        },
+        {
+          "nl": "negentig",
+          "ru": "девяносто",
+          "pronunciation": "[ˈneːɣə(n)təx]"
+        },
+        {
+          "nl": "honderd",
+          "ru": "сто",
+          "pronunciation": "[ˈɦɔndərt]"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "title": "Фаза 2b: Лексика времени",
+      "words": [
+        {
+          "nl": "het uur",
+          "ru": "час",
+          "pronunciation": "[ɦət yːr]"
         },
         {
           "nl": "de minuut",
@@ -166,21 +190,9 @@
           "pronunciation": "[də miˈnyt]"
         },
         {
-          "nl": "vijftig",
-          "ru": "пятьдесят",
-          "pronunciation": "[ˈvɛi̯ftəx]",
-          "hint": "de tijd"
-        },
-        {
           "nl": "de tijd",
           "ru": "время",
           "pronunciation": "[də tɛi̯t]"
-        },
-        {
-          "nl": "zestig",
-          "ru": "шестьдесят",
-          "pronunciation": "[ˈzɛstəx]",
-          "hint": "voor"
         },
         {
           "nl": "voor",
@@ -188,21 +200,9 @@
           "pronunciation": "[voːr]"
         },
         {
-          "nl": "zeventig",
-          "ru": "семьдесят",
-          "pronunciation": "[ˈzeːvə(n)təx]",
-          "hint": "over"
-        },
-        {
           "nl": "over",
           "ru": "после",
           "pronunciation": "[ˈoːvər]"
-        },
-        {
-          "nl": "tachtig",
-          "ru": "восемьдесят",
-          "pronunciation": "[ˈtɑxtəx]",
-          "hint": "half"
         },
         {
           "nl": "half",
@@ -210,21 +210,9 @@
           "pronunciation": "[ɦɑlf]"
         },
         {
-          "nl": "negentig",
-          "ru": "девяносто",
-          "pronunciation": "[ˈneːɣə(n)təx]",
-          "hint": "kwart"
-        },
-        {
           "nl": "kwart",
           "ru": "четверть",
           "pronunciation": "[kʋɑrt]"
-        },
-        {
-          "nl": "honderd",
-          "ru": "сто",
-          "pronunciation": "[ˈɦɔndərt]",
-          "hint": "vandaag"
         },
         {
           "nl": "vandaag",

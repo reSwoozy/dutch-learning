@@ -13,11 +13,6 @@
   ],
   "sections": [
     {
-      "type": "text",
-      "title": "Цели урока",
-      "content": "После этого урока ты сможешь:\n- Различать артикли `de` и `het`\n- Использовать неопределенный артикль `een`\n- Понимать систему рода в голландском языке\n- Запомнить основные правила для выбора артикля\n- Применять артикли в предложениях"
-    },
-    {
       "type": "vocabulary",
       "title": "Фаза 1: Новые слова (5 минут)",
       "words": [
@@ -144,38 +139,7 @@
         {
           "nl": "een",
           "ru": "один/одна/одно",
-          "pronunciation": "[ən]",
-          "hint": "-"
-        },
-        {
-          "nl": "deze",
-          "ru": "этот/эта (de-слова)",
-          "pronunciation": "[ˈdeːzə]",
-          "hint": "-"
-        },
-        {
-          "nl": "dit",
-          "ru": "это (het-слова)",
-          "pronunciation": "[dɪt]",
-          "hint": "-"
-        },
-        {
-          "nl": "die",
-          "ru": "тот/та (de-слова)",
-          "pronunciation": "[di]",
-          "hint": "-"
-        },
-        {
-          "nl": "dat",
-          "ru": "то (het-слова)",
-          "pronunciation": "[dɑt]",
-          "hint": "-"
-        },
-        {
-          "nl": "alle",
-          "ru": "все",
-          "pronunciation": "[ˈɑlə]",
-          "hint": "-"
+          "pronunciation": "[ən]"
         }
       ]
     },
@@ -231,11 +195,6 @@
       "type": "text",
       "title": "3. Уменьшительные формы = ВСЕГДА HET",
       "content": "- de man → **het mannetje** (мужичок)\n- de hond → **het hondje** (собачка)\n- het huis → **het huisje** (домик)"
-    },
-    {
-      "type": "grammar",
-      "title": "4. Указательные местоимения",
-      "content": "- **deze** + de-слова: deze man, deze auto\n- **dit** + het-слова: dit huis, dit boek\n- **die** + de-слова: die vrouw daar\n- **dat** + het-слова: dat water daar"
     },
     {
       "type": "culture",

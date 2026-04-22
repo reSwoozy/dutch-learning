@@ -4,77 +4,348 @@
       "id": "A1",
       "title": "A1 -- Beginner",
       "lessons": [
-        { "id": "A1-lesson-01", "num": 1, "title": "Знакомство и базовые фразы", "sectionCount": 10 },
-        { "id": "A1-lesson-02", "num": 2, "title": "Артикли de/het и род существительных", "sectionCount": 11 },
-        { "id": "A1-lesson-03", "num": 3, "title": "Личные местоимения и глагол zijn", "sectionCount": 12 },
-        { "id": "A1-lesson-04", "num": 4, "title": "Числа и время", "sectionCount": 12 },
-        { "id": "A1-lesson-05", "num": 5, "title": "Семья и описание людей", "sectionCount": 12 },
-        { "id": "A1-lesson-49", "num": 49, "title": "Повелительное наклонение (Imperatief)", "sectionCount": 10 },
-        { "id": "A1-lesson-06", "num": 6, "title": "Еда и напитки", "sectionCount": 11 },
-        { "id": "A1-lesson-07", "num": 7, "title": "Дом и мебель", "sectionCount": 11 },
-        { "id": "A1-lesson-08", "num": 8, "title": "Одежда и цвета", "sectionCount": 13 },
-        { "id": "A1-lesson-09", "num": 9, "title": "Транспорт и город", "sectionCount": 13 },
-        { "id": "A1-lesson-10", "num": 10, "title": "Работа и профессии", "sectionCount": 13 },
-        { "id": "A1-lesson-11", "num": 11, "title": "Хобби и свободное время", "sectionCount": 13 },
-        { "id": "A1-lesson-12", "num": 12, "title": "Погода и времена года", "sectionCount": 17 }
+        {
+          "id": "A1-lesson-01",
+          "num": 1,
+          "title": "Знакомство и базовые фразы",
+          "sectionCount": 8
+        },
+        {
+          "id": "A1-lesson-02",
+          "num": 2,
+          "title": "Артикли de/het и род существительных",
+          "sectionCount": 7
+        },
+        {
+          "id": "A1-lesson-03",
+          "num": 3,
+          "title": "Личные и указательные местоимения + глагол zijn",
+          "sectionCount": 9
+        },
+        {
+          "id": "A1-lesson-04",
+          "num": 4,
+          "title": "Числа и время",
+          "sectionCount": 12
+        },
+        {
+          "id": "A1-lesson-05",
+          "num": 5,
+          "title": "Семья и описание людей",
+          "sectionCount": 10
+        },
+        {
+          "id": "A1-lesson-49",
+          "num": 49,
+          "title": "Повелительное наклонение (Imperatief)",
+          "sectionCount": 7
+        },
+        {
+          "id": "A1-lesson-06",
+          "num": 6,
+          "title": "Еда и напитки",
+          "sectionCount": 9
+        },
+        {
+          "id": "A1-lesson-07",
+          "num": 7,
+          "title": "Дом и мебель",
+          "sectionCount": 9
+        },
+        {
+          "id": "A1-lesson-08",
+          "num": 8,
+          "title": "Одежда и цвета",
+          "sectionCount": 12
+        },
+        {
+          "id": "A1-lesson-09",
+          "num": 9,
+          "title": "Транспорт и город",
+          "sectionCount": 12
+        },
+        {
+          "id": "A1-lesson-10",
+          "num": 10,
+          "title": "Работа и профессии",
+          "sectionCount": 12
+        },
+        {
+          "id": "A1-lesson-11",
+          "num": 11,
+          "title": "Хобби и свободное время",
+          "sectionCount": 12
+        },
+        {
+          "id": "A1-lesson-12",
+          "num": 12,
+          "title": "Погода и времена года",
+          "sectionCount": 16
+        }
       ]
     },
     {
       "id": "A2",
       "title": "A2 -- Elementary",
       "lessons": [
-        { "id": "A2-lesson-13", "num": 13, "title": "Настоящее время глаголов", "sectionCount": 9 },
-        { "id": "A2-lesson-14", "num": 14, "title": "Покупки и деньги", "sectionCount": 15 },
-        { "id": "A2-lesson-15", "num": 15, "title": "Здоровье и тело", "sectionCount": 17 },
-        { "id": "A2-lesson-16", "num": 16, "title": "Путешествия и отпуск", "sectionCount": 19 },
-        { "id": "A2-lesson-17", "num": 17, "title": "Прошедшее время (Perfectum)", "sectionCount": 17 },
-        { "id": "A2-lesson-18", "num": 18, "title": "Модальные глаголы", "sectionCount": 22 },
-        { "id": "A2-lesson-50", "num": 50, "title": "Инфинитив с te (om te, zonder te, door te)", "sectionCount": 11 },
-        { "id": "A2-lesson-19", "num": 19, "title": "Сравнения и степени сравнения", "sectionCount": 19 },
-        { "id": "A2-lesson-20", "num": 20, "title": "Предлоги места и времени", "sectionCount": 19 },
-        { "id": "A2-lesson-21", "num": 21, "title": "Будущее время", "sectionCount": 15 },
-        { "id": "A2-lesson-22", "num": 22, "title": "Телефонные разговоры", "sectionCount": 18 },
-        { "id": "A2-lesson-23", "num": 23, "title": "Образование и учёба", "sectionCount": 14 },
-        { "id": "A2-lesson-24", "num": 24, "title": "Повторение A2 и подготовка к B1", "sectionCount": 20 }
+        {
+          "id": "A2-lesson-13",
+          "num": 13,
+          "title": "Настоящее время глаголов",
+          "sectionCount": 7
+        },
+        {
+          "id": "A2-lesson-54",
+          "num": 54,
+          "title": "Отрицание: niet, geen и отрицательные слова",
+          "sectionCount": 10
+        },
+        {
+          "id": "A2-lesson-14",
+          "num": 14,
+          "title": "Покупки и деньги",
+          "sectionCount": 13
+        },
+        {
+          "id": "A2-lesson-15",
+          "num": 15,
+          "title": "Здоровье и тело",
+          "sectionCount": 15
+        },
+        {
+          "id": "A2-lesson-16",
+          "num": 16,
+          "title": "Путешествия и отпуск",
+          "sectionCount": 17
+        },
+        {
+          "id": "A2-lesson-17",
+          "num": 17,
+          "title": "Прошедшее время (Perfectum)",
+          "sectionCount": 15
+        },
+        {
+          "id": "A2-lesson-18",
+          "num": 18,
+          "title": "Модальные глаголы",
+          "sectionCount": 18
+        },
+        {
+          "id": "A2-lesson-50",
+          "num": 50,
+          "title": "Инфинитив с te (om te, zonder te, door te)",
+          "sectionCount": 8
+        },
+        {
+          "id": "A2-lesson-19",
+          "num": 19,
+          "title": "Сравнения и степени сравнения",
+          "sectionCount": 17
+        },
+        {
+          "id": "A2-lesson-20",
+          "num": 20,
+          "title": "Предлоги места и времени",
+          "sectionCount": 16
+        },
+        {
+          "id": "A2-lesson-21",
+          "num": 21,
+          "title": "Будущее время",
+          "sectionCount": 13
+        },
+        {
+          "id": "A2-lesson-22",
+          "num": 22,
+          "title": "Телефонные разговоры",
+          "sectionCount": 16
+        },
+        {
+          "id": "A2-lesson-23",
+          "num": 23,
+          "title": "Образование и учёба",
+          "sectionCount": 12
+        },
+        {
+          "id": "A2-lesson-24",
+          "num": 24,
+          "title": "Повторение A2 и подготовка к B1",
+          "sectionCount": 18
+        }
       ]
     },
     {
       "id": "B1",
       "title": "B1 -- Intermediate",
       "lessons": [
-        { "id": "B1-lesson-25", "num": 25, "title": "Сложные предложения и союзы", "sectionCount": 17 },
-        { "id": "B1-lesson-52", "num": 52, "title": "Относительные местоимения (die/dat/wat)", "sectionCount": 11 },
-        { "id": "B1-lesson-26", "num": 26, "title": "Условные предложения", "sectionCount": 19 },
-        { "id": "B1-lesson-51", "num": 51, "title": "Простое прошедшее (Imperfectum)", "sectionCount": 10 },
-        { "id": "B1-lesson-27", "num": 27, "title": "Пассивный залог", "sectionCount": 18 },
-        { "id": "B1-lesson-28", "num": 28, "title": "Работа и карьера", "sectionCount": 20 },
-        { "id": "B1-lesson-29", "num": 29, "title": "Банки и финансы", "sectionCount": 26 },
-        { "id": "B1-lesson-30", "num": 30, "title": "Жильё и аренда", "sectionCount": 25 },
-        { "id": "B1-lesson-31", "num": 31, "title": "Правительство и законы", "sectionCount": 26 },
-        { "id": "B1-lesson-32", "num": 32, "title": "Медицинская помощь", "sectionCount": 22 },
-        { "id": "B1-lesson-33", "num": 33, "title": "Социальные услуги", "sectionCount": 23 },
-        { "id": "B1-lesson-34", "num": 34, "title": "Интеграция в общество", "sectionCount": 21 },
-        { "id": "B1-lesson-35", "num": 35, "title": "СМИ и новости", "sectionCount": 20 },
-        { "id": "B1-lesson-36", "num": 36, "title": "Итоговый урок B1 и подготовка к B2", "sectionCount": 24 }
+        {
+          "id": "B1-lesson-25",
+          "num": 25,
+          "title": "Сложные предложения и союзы",
+          "sectionCount": 16
+        },
+        {
+          "id": "B1-lesson-52",
+          "num": 52,
+          "title": "Относительные местоимения (die/dat/wat)",
+          "sectionCount": 9
+        },
+        {
+          "id": "B1-lesson-26",
+          "num": 26,
+          "title": "Условные предложения",
+          "sectionCount": 18
+        },
+        {
+          "id": "B1-lesson-51",
+          "num": 51,
+          "title": "Простое прошедшее (Imperfectum)",
+          "sectionCount": 8
+        },
+        {
+          "id": "B1-lesson-27",
+          "num": 27,
+          "title": "Пассивный залог",
+          "sectionCount": 16
+        },
+        {
+          "id": "B1-lesson-28",
+          "num": 28,
+          "title": "Работа и карьера",
+          "sectionCount": 20
+        },
+        {
+          "id": "B1-lesson-29",
+          "num": 29,
+          "title": "Банки и финансы",
+          "sectionCount": 26
+        },
+        {
+          "id": "B1-lesson-30",
+          "num": 30,
+          "title": "Жильё и аренда",
+          "sectionCount": 25
+        },
+        {
+          "id": "B1-lesson-31",
+          "num": 31,
+          "title": "Правительство и законы",
+          "sectionCount": 26
+        },
+        {
+          "id": "B1-lesson-32",
+          "num": 32,
+          "title": "Медицинская помощь",
+          "sectionCount": 22
+        },
+        {
+          "id": "B1-lesson-33",
+          "num": 33,
+          "title": "Социальные услуги",
+          "sectionCount": 22
+        },
+        {
+          "id": "B1-lesson-34",
+          "num": 34,
+          "title": "Интеграция в общество",
+          "sectionCount": 21
+        },
+        {
+          "id": "B1-lesson-35",
+          "num": 35,
+          "title": "СМИ и новости",
+          "sectionCount": 20
+        },
+        {
+          "id": "B1-lesson-36",
+          "num": 36,
+          "title": "Итоговый урок B1 и подготовка к B2",
+          "sectionCount": 24
+        }
       ]
     },
     {
       "id": "B2",
       "title": "B2 -- Upper-Intermediate",
       "lessons": [
-        { "id": "B2-lesson-37", "num": 37, "title": "Дискурсивные маркеры и связность текста", "sectionCount": 15 },
-        { "id": "B2-lesson-38", "num": 38, "title": "Формальное письмо и отчёт", "sectionCount": 10 },
-        { "id": "B2-lesson-39", "num": 39, "title": "Дебаты и аргументация", "sectionCount": 8 },
-        { "id": "B2-lesson-40", "num": 40, "title": "Косвенные вопросы и вежливые запросы", "sectionCount": 11 },
-        { "id": "B2-lesson-41", "num": 41, "title": "Пассив и каузативные конструкции", "sectionCount": 14 },
-        { "id": "B2-lesson-42", "num": 42, "title": "Косвенная речь и согласование времён", "sectionCount": 12 },
-        { "id": "B2-lesson-53", "num": 53, "title": "Давнопрошедшее время (Plusquamperfectum)", "sectionCount": 10 },
-        { "id": "B2-lesson-43", "num": 43, "title": "Аудирование: стратегии и конспектирование", "sectionCount": 13 },
-        { "id": "B2-lesson-44", "num": 44, "title": "Деловое общение: встречи и email", "sectionCount": 9 },
-        { "id": "B2-lesson-45", "num": 45, "title": "Реферат и перефразирование", "sectionCount": 8 },
-        { "id": "B2-lesson-46", "num": 46, "title": "Интегрированные задания", "sectionCount": 9 },
-        { "id": "B2-lesson-47", "num": 47, "title": "Презентации и публичная речь", "sectionCount": 8 },
-        { "id": "B2-lesson-48", "num": 48, "title": "Итоговый урок B2 и подготовка к экзамену", "sectionCount": 10 }
+        {
+          "id": "B2-lesson-37",
+          "num": 37,
+          "title": "Дискурсивные маркеры и связность текста",
+          "sectionCount": 14
+        },
+        {
+          "id": "B2-lesson-38",
+          "num": 38,
+          "title": "Формальное письмо и отчёт",
+          "sectionCount": 10
+        },
+        {
+          "id": "B2-lesson-39",
+          "num": 39,
+          "title": "Дебаты и аргументация",
+          "sectionCount": 8
+        },
+        {
+          "id": "B2-lesson-40",
+          "num": 40,
+          "title": "Косвенные вопросы и вежливые запросы",
+          "sectionCount": 10
+        },
+        {
+          "id": "B2-lesson-41",
+          "num": 41,
+          "title": "Пассив и каузативные конструкции",
+          "sectionCount": 12
+        },
+        {
+          "id": "B2-lesson-42",
+          "num": 42,
+          "title": "Косвенная речь и согласование времён",
+          "sectionCount": 11
+        },
+        {
+          "id": "B2-lesson-53",
+          "num": 53,
+          "title": "Давнопрошедшее время (Plusquamperfectum)",
+          "sectionCount": 8
+        },
+        {
+          "id": "B2-lesson-43",
+          "num": 43,
+          "title": "Аудирование: стратегии и конспектирование",
+          "sectionCount": 11
+        },
+        {
+          "id": "B2-lesson-44",
+          "num": 44,
+          "title": "Деловое общение: встречи и email",
+          "sectionCount": 9
+        },
+        {
+          "id": "B2-lesson-45",
+          "num": 45,
+          "title": "Реферат и перефразирование",
+          "sectionCount": 8
+        },
+        {
+          "id": "B2-lesson-46",
+          "num": 46,
+          "title": "Интегрированные задания",
+          "sectionCount": 9
+        },
+        {
+          "id": "B2-lesson-47",
+          "num": 47,
+          "title": "Презентации и публичная речь",
+          "sectionCount": 8
+        },
+        {
+          "id": "B2-lesson-48",
+          "num": 48,
+          "title": "Итоговый урок B2 и подготовка к экзамену",
+          "sectionCount": 10
+        }
       ]
     }
   ]
