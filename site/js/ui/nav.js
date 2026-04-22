@@ -79,7 +79,6 @@ Object.assign(App, {
     burger.setAttribute('aria-expanded', 'true');
     burger.setAttribute('aria-label', 'Закрыть меню');
     if (scrim) scrim.hidden = false;
-    if (this.isMobileLayout()) document.body.classList.add('nav-open');
   },
 
   closeNavDrawer() {
@@ -91,7 +90,6 @@ Object.assign(App, {
     burger.setAttribute('aria-expanded', 'false');
     burger.setAttribute('aria-label', 'Открыть меню');
     if (scrim) scrim.hidden = true;
-    document.body.classList.remove('nav-open');
   },
 
   updateActiveNav(page) {

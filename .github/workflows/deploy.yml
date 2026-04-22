@@ -79,6 +79,22 @@ jobs:
       - name: Validate generated config.js
         run: node --check site/js/firebase/config.js
 
+      - name: Stamp service worker version
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+          const path = 'site/sw.js';
+          const short = (process.env.GITHUB_SHA || '').slice(0, 7) || String(Date.now());
+          const src = fs.readFileSync(path, 'utf8');
+          const next = src.replace(/const VERSION = '[^']+';/, `const VERSION = '${short}';`);
+          if (src === next) {
+            console.error('::error::Failed to stamp VERSION in sw.js');
+            process.exit(1);
+          }
+          fs.writeFileSync(path, next);
+          console.log('sw.js VERSION stamped as', short);
+          EOF
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3

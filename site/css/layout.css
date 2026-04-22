@@ -465,8 +465,7 @@ body > header {
   color: var(--text-muted);
 }
 
-body.auth-locked,
-body.nav-open {
+body.auth-locked {
   overflow: hidden;
 }
 
