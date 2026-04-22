@@ -1242,7 +1242,10 @@ a.card:hover {
 
 .heatmap-scroll {
   margin: 1rem 0;
+  width: 100%;
   max-width: 100%;
+  min-width: 0;
+  align-self: stretch;
 }
 
 .heatmap {
