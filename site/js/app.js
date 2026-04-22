@@ -3724,6 +3724,7 @@ const SRS = {
   },
 };
 
-document.addEventListener('DOMContentLoaded', () => {
-  App.init();
-});
+window.App = App;
+window.Progress = Progress;
+window.ProgressStore = ProgressStore;
+window.SRS = SRS;
