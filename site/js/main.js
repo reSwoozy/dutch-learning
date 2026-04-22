@@ -1,32 +1,32 @@
 import { showGate, hideGate, signOutUser, onAuth } from './core/auth.js';
 import { Progress } from './core/progress.js';
 import { SRS } from './core/srs.js';
+import { App } from './core/app.js';
+import './core/router.js';
+import './core/data.js';
+import './ui/dom.js';
+import './ui/toast.js';
+import './ui/nav.js';
+import './ui/keyboard.js';
+import './ui/search.js';
+import './pages/home.js';
+import './pages/lessons.js';
+import './pages/grammar.js';
+import './pages/flashcards.js';
+import './pages/verbs.js';
+import './pages/reading.js';
+import './pages/writing.js';
+import './pages/culture.js';
+import './pages/resources.js';
+import './pages/tests.js';
+import './pages/progress-dashboard.js';
 
+window.App = App;
 window.Progress = Progress;
 window.SRS = SRS;
 
-let legacyAppLoaded = false;
+let appInitialized = false;
 let currentUid = null;
-
-function loadLegacyApp() {
-  if (legacyAppLoaded) {
-    if (window.App && typeof window.App.init === 'function') {
-      window.App.init();
-    }
-    return;
-  }
-  legacyAppLoaded = true;
-  const s = document.createElement('script');
-  s.src = 'js/app.js';
-  s.onload = () => {
-    if (window.App && typeof window.App.init === 'function') {
-      window.App.init();
-    } else {
-      console.error('[main] App global not found after loading js/app.js');
-    }
-  };
-  document.body.appendChild(s);
-}
 
 function renderUserBadge(user) {
   const host = document.querySelector('.nav-actions');
@@ -78,7 +78,10 @@ onAuth((user) => {
     window.__dutchUser = user;
     hideGate();
     renderUserBadge(user);
-    loadLegacyApp();
+    if (!appInitialized) {
+      appInitialized = true;
+      App.init();
+    }
   } else {
     if (currentUid !== null) {
       window.location.reload();

@@ -1,4 +1,4 @@
-const VERSION = 'v8';
+const VERSION = 'v9';
 const STATIC_CACHE = `dutch-static-${VERSION}`;
 const RUNTIME_CACHE = `dutch-runtime-${VERSION}`;
 
@@ -6,7 +6,7 @@ const STATIC_ASSETS = [
   './',
   './index.html',
   './css/style.css',
-  './js/app.js',
+  './js/main.js',
   './manifest.webmanifest',
   './icons/icon.svg',
 ];
@@ -41,11 +41,6 @@ self.addEventListener('fetch', (event) => {
 
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
-
-  if (url.pathname.endsWith('/dutch-progress.json')) {
-    event.respondWith(fetch(req).catch(() => new Response('', { status: 503 })));
-    return;
-  }
 
   if (url.pathname.endsWith('/index.html') || url.pathname === '/' || url.pathname.endsWith('/')) {
     event.respondWith(networkFirst(req));
