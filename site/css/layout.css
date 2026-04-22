@@ -225,8 +225,8 @@ body > header {
 .nav-account {
   display: inline-flex;
   align-items: center;
-  gap: .45rem;
-  padding: .25rem .55rem .25rem .25rem;
+  gap: .5rem;
+  padding: .3rem .7rem .3rem .35rem;
   border: 1px solid var(--border);
   border-radius: 999px;
   background: var(--bg-card);
@@ -254,15 +254,15 @@ body > header {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 32px;
-  height: 32px;
+  width: 28px;
+  height: 28px;
   border-radius: 50%;
   background: var(--accent-soft);
   color: var(--accent);
   overflow: hidden;
   flex-shrink: 0;
   font-weight: 700;
-  font-size: .85rem;
+  font-size: .8rem;
 }
 
 .nav-account__avatar img {
@@ -277,7 +277,12 @@ body > header {
 }
 
 .nav-account.active .nav-account__avatar {
-  box-shadow: 0 0 0 2px var(--accent);
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.nav-account__label {
+  white-space: nowrap;
 }
 
 .nav-account__streak {
@@ -374,6 +379,8 @@ body > header {
     padding: .45rem .65rem;
     border-radius: var(--radius);
   }
+
+  .nav-account__label { display: inline; }
 }
 
 .site-footer {
@@ -519,7 +526,8 @@ body.auth-locked > footer {
   .nav-main a { padding: .5rem .7rem; font-size: .9rem; }
   .nav-search-btn span { display: none; }
   .nav-search-btn { padding: .45rem .55rem; }
-  .nav-account { padding: .2rem .4rem .2rem .2rem; }
+  .nav-account__label { display: none; }
+  .nav-account { padding: .25rem .55rem .25rem .3rem; }
 }
 
 @media (max-width: 768px) {

@@ -74,7 +74,7 @@ Object.assign(App, {
         <div class="hs-item"><span class="hs-value">${dueCount}</span><span class="hs-label">карточек к повтору</span></div>
         <div class="hs-sep"></div>
         <div class="hs-item"><span class="hs-value">${stats.correctRate}%</span><span class="hs-label">точность</span></div>
-        <a href="#progress" class="hs-link">Подробная статистика →</a>
+        <a href="#account" class="hs-link">Подробная статистика →</a>
       </div>
     `;
 

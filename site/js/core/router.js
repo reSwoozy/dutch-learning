@@ -3,8 +3,10 @@ import { App } from './app.js';
 Object.assign(App, {
   route(hash) {
     const parts = hash.replace('#', '').split('/');
-    const page = parts[0] || 'home';
+    let page = parts[0] || 'home';
     const param = parts[1] || null;
+
+    if (page === 'progress') page = 'account';
 
     this.updateActiveNav(page);
 
@@ -21,7 +23,6 @@ Object.assign(App, {
       case 'verbs': this.renderVerbs(main); break;
       case 'culture': param ? this.renderCultureArticle(main, param) : this.renderCulture(main); break;
       case 'tests': param ? this.renderTest(main, param) : this.renderTests(main); break;
-      case 'progress': this.renderProgress(main); break;
       case 'account': this.renderAccount(main); break;
       case 'reading': param ? this.renderReadingText(main, param) : this.renderReading(main); break;
       case 'writing': param ? this.renderWritingItem(main, param) : this.renderWriting(main); break;

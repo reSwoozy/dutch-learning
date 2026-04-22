@@ -19,7 +19,6 @@ import './pages/writing.js';
 import './pages/culture.js';
 import './pages/resources.js';
 import './pages/tests.js';
-import './pages/progress-dashboard.js';
 import './pages/account.js';
 
 window.App = App;
@@ -49,7 +48,7 @@ function resetNavAvatar() {
   if (!host) return;
   host.classList.remove('nav-account__avatar--initials');
   host.innerHTML = `
-    <svg viewBox="0 0 20 20" width="18" height="18">
+    <svg viewBox="0 0 20 20" width="16" height="16">
       <circle cx="10" cy="7" r="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/>
       <path d="M3.5 16.5c1-3 3.6-4.6 6.5-4.6s5.5 1.6 6.5 4.6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
     </svg>
