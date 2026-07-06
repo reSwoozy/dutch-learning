@@ -3,6 +3,7 @@ import MainLayout from '@/layouts/MainLayout.astro';
 import Badge from '@/components/ui/Badge.astro';
 import GrammarViewedBadge from '@/components/progress/GrammarViewedBadge.jsx';
 import { getGrammarCategories, getAllGrammarTopics, getGrammarTopicsMap } from '@/lib/content.js';
+import { withBase } from '@/lib/paths.js';
 
 export function getStaticPaths() {
   return [{ params: { lang: 'ru' } }];
@@ -37,7 +38,7 @@ const totalTopics = getAllGrammarTopics().length;
         </div>
         <div class="card-grid">
           {topics.map((t) => (
-            <a href={`/${lang}/grammar/${t.id}`} class="card" style="text-decoration:none;color:inherit">
+            <a href={withBase(`/${lang}/grammar/${t.id}`)} class="card" style="text-decoration:none;color:inherit">
               <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem;gap:.5rem">
                 <Badge level={t.level}>{t.level.toUpperCase()}</Badge>
                 <GrammarViewedBadge client:load topicId={t.id} />

@@ -3,6 +3,7 @@ import MainLayout from '@/layouts/MainLayout.astro';
 import Badge from '@/components/ui/Badge.astro';
 import LessonStatusPill from '@/components/lesson/LessonStatusPill.jsx';
 import { getAllLessons, getLevels } from '@/lib/content.js';
+import { withBase } from '@/lib/paths.js';
 
 export function getStaticPaths() {
   return [{ params: { lang: 'ru' } }];
@@ -34,7 +35,7 @@ const totalLessons = allLessons.length;
         </div>
         <div class="card-grid">
           {levelLessons.map((lesson, idx) => (
-            <a href={`/${lang}/lessons/${lesson.level}/${String(lesson.num).padStart(2, '0')}`} class="card" style="text-decoration:none;color:inherit">
+            <a href={withBase(`/${lang}/lessons/${lesson.level}/${String(lesson.num).padStart(2, '0')}`)} class="card" style="text-decoration:none;color:inherit">
               <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem">
                 <Badge level={lesson.level}>{lesson.level.toUpperCase()} · Урок {idx + 1}</Badge>
                 <LessonStatusPill client:load lessonId={lesson.id} />

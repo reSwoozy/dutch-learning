@@ -4,6 +4,7 @@ import Badge from '@/components/ui/Badge.astro';
 import Breadcrumb from '@/components/ui/Breadcrumb.astro';
 import TestRunner from '@/components/tests/TestRunner.jsx';
 import { allTests } from '@/content/tests/index.js';
+import { withBase } from '@/lib/paths.js';
 
 export function getStaticPaths() {
   return allTests.map((t) => ({
@@ -28,7 +29,7 @@ const passPoints = Math.ceil(meta.maxPoints * meta.passPercent / 100);
 
 <MainLayout title={meta.title}>
   <Breadcrumb items={[
-    { href: `/${lang}/tests`, label: 'Тесты' },
+    { href: withBase(`/${lang}/tests`), label: 'Тесты' },
     { label: meta.title },
   ]} />
 

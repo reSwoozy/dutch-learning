@@ -7,6 +7,7 @@ import { allTopics } from '@/content/grammar/index.js';
 import vocabIndex from '@/content/vocabulary/index.js';
 import Heatmap from '@/components/ui/Heatmap.jsx';
 import Loader from '@/components/ui/Loader.jsx';
+import { withBase } from '@/lib/paths.js';
 
 export default function AccountPanel({ lang = 'ru' }) {
   const user = useAuthStore((s) => s.user);
@@ -94,7 +95,7 @@ export default function AccountPanel({ lang = 'ru' }) {
           <div className="stat-value">{stats.streak}</div>
           <div className="stat-label">Дней подряд</div>
         </div>
-        <a href={`/${lang}/flashcards`} className="stat-card stat-card--link" style={{ textDecoration: 'none', color: 'inherit' }}>
+        <a href={withBase(`/${lang}/flashcards`)} className="stat-card stat-card--link" style={{ textDecoration: 'none', color: 'inherit' }}>
           <div className="stat-value">
             {srsCount}
             <span style={{ fontSize: '1rem', color: 'var(--text-muted)' }}>/{totalWords}</span>
@@ -102,7 +103,7 @@ export default function AccountPanel({ lang = 'ru' }) {
           <div className="stat-label">В изучении (SRS)</div>
         </a>
         <a
-          href={dueCount > 0 ? `/${lang}/flashcards?mode=review` : `/${lang}/flashcards`}
+          href={dueCount > 0 ? withBase(`/${lang}/flashcards?mode=review`) : withBase(`/${lang}/flashcards`)}
           className="stat-card stat-card--link"
           style={{ textDecoration: 'none', color: 'inherit' }}
         >
@@ -171,7 +172,7 @@ export default function AccountPanel({ lang = 'ru' }) {
                           <span className={`badge badge-${String(testLevel).toLowerCase()}`}>
                             {String(testLevel).toUpperCase()}
                           </span>
-                          <a href={`/${lang}/tests/${testLevel}/${testNum || '01'}`} style={{ marginLeft: '.4rem' }}>
+                          <a href={withBase(`/${lang}/tests/${testLevel}/${testNum || '01'}`)} style={{ marginLeft: '.4rem' }}>
                             Вариант {testNum || key}
                           </a>
                         </td>
@@ -209,7 +210,7 @@ export default function AccountPanel({ lang = 'ru' }) {
                 {recentHistory.map((h, i) => (
                   <tr key={i}>
                     <td>
-                      <a href={`/${lang}/grammar/${h.topic}`}>{h.topic}</a>
+                      <a href={withBase(`/${lang}/grammar/${h.topic}`)}>{h.topic}</a>
                     </td>
                     <td>
                       {h.correct}/{h.total} ({h.total > 0 ? Math.round((h.correct / h.total) * 100) : 0}%)

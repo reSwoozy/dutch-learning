@@ -1,9 +1,10 @@
 import { WritingSeenBadge } from '@/components/progress/WritingProgress.jsx';
+import { withBase } from '@/lib/paths.js';
 
 export default function WritingListItem({ writing, lang }) {
   return (
     <a
-      href={`/${lang}/writing/${writing.id}`}
+      href={withBase(`/${lang}/writing/${writing.id}`)}
       className="card"
       style={{ textDecoration: 'none', color: 'inherit' }}
     >

@@ -4,6 +4,7 @@ import ReadingProgressToggle from '@/components/progress/ReadingProgress.jsx';
 import Badge from '@/components/ui/Badge.astro';
 import Breadcrumb from '@/components/ui/Breadcrumb.astro';
 import { allReadings } from '@/content/reading/index.js';
+import { withBase } from '@/lib/paths.js';
 
 const allData = import.meta.glob('/src/content/reading/*/*/data.js', { eager: true });
 
@@ -31,7 +32,7 @@ const paragraphs = body.split('\n\n').filter((p) => p.trim());
 
 <MainLayout title={reading.title}>
   <Breadcrumb items={[
-    { href: `/${lang}/reading`, label: 'Чтение' },
+    { href: withBase(`/${lang}/reading`), label: 'Чтение' },
     { label: reading.title },
   ]} />
 

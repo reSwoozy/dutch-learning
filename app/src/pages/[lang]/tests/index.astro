@@ -3,6 +3,7 @@ import MainLayout from '@/layouts/MainLayout.astro';
 import Badge from '@/components/ui/Badge.astro';
 import TestResultBadge from '@/components/progress/TestResultBadge.jsx';
 import { allTests } from '@/content/tests/index.js';
+import { withBase } from '@/lib/paths.js';
 
 export function getStaticPaths() {
   return [{ params: { lang: 'ru' } }];
@@ -43,7 +44,7 @@ for (const t of allTests) {
           {tests.map((t) => {
             const passPoints = Math.ceil(t.maxPoints * t.passPercent / 100);
             return (
-              <a href={`/${lang}/tests/${t.level}/${String(t.num).padStart(2, '0')}`} class="card" style="text-decoration:none;color:inherit">
+              <a href={withBase(`/${lang}/tests/${t.level}/${String(t.num).padStart(2, '0')}`)} class="card" style="text-decoration:none;color:inherit">
                 <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem;gap:.5rem;flex-wrap:wrap">
                   <Badge level={t.level}>{t.level.toUpperCase()}</Badge>
                   <span style="font-size:.75rem;color:var(--text-muted)">{t.minutes} мин</span>

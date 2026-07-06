@@ -1,6 +1,7 @@
 ---
 import MainLayout from '@/layouts/MainLayout.astro';
 import { allCulture } from '@/content/culture/index.js';
+import { withBase } from '@/lib/paths.js';
 
 export function getStaticPaths() {
   return [{ params: { lang: 'ru' } }];
@@ -44,7 +45,7 @@ const catTitles = {
         </div>
         <div class="card-grid">
           {articles.map((a) => (
-            <a href={`/${lang}/culture/${a.id}`} class="card" style="text-decoration:none;color:inherit">
+            <a href={withBase(`/${lang}/culture/${a.id}`)} class="card" style="text-decoration:none;color:inherit">
               <h3>{a.title}</h3>
             </a>
           ))}

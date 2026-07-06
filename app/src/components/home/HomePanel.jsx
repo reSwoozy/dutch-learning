@@ -1,6 +1,7 @@
 import { useProgressStore } from '@/stores/progress.js';
 import { SRS } from '@/lib/srs.js';
 import Loader from '@/components/ui/Loader.jsx';
+import { withBase } from '@/lib/paths.js';
 
 export default function HomePanel({
   lang = 'ru',
@@ -43,7 +44,7 @@ export default function HomePanel({
           {levelLabel} · Урок {levelPos} из {levelTotal}
         </div>
       </div>
-      <a href={`/${lang}/lessons/${nextLesson.level}/${pad(nextLesson.num)}`} className="btn btn-primary">
+      <a href={withBase(`/${lang}/lessons/${nextLesson.level}/${pad(nextLesson.num)}`)} className="btn btn-primary">
         Открыть
       </a>
     </div>
@@ -58,7 +59,7 @@ export default function HomePanel({
           Продолжайте повторение и тесты
         </div>
       </div>
-      <a href={`/${lang}/flashcards?mode=review`} className="btn btn-primary">
+      <a href={withBase(`/${lang}/flashcards?mode=review`)} className="btn btn-primary">
         Повторять
       </a>
     </div>
@@ -71,7 +72,7 @@ export default function HomePanel({
         <div className="tp-icon">SRS</div>
         <div style={{ fontWeight: 600 }}>Повторение карточек</div>
         <div style={{ color: 'var(--text-muted)', fontSize: '.85rem' }}>{dueCount} карточек готовы к повтору</div>
-        <a href={`/${lang}/flashcards?mode=review`} className="btn btn-primary" style={{ marginTop: 'auto' }}>
+        <a href={withBase(`/${lang}/flashcards?mode=review`)} className="btn btn-primary" style={{ marginTop: 'auto' }}>
           Начать
         </a>
       </div>,
@@ -84,7 +85,7 @@ export default function HomePanel({
         <div style={{ fontWeight: 600 }}>Новый урок</div>
         <div style={{ color: 'var(--text-muted)', fontSize: '.85rem' }}>{nextLesson.title}</div>
         <a
-          href={`/${lang}/lessons/${nextLesson.level}/${pad(nextLesson.num)}`}
+          href={withBase(`/${lang}/lessons/${nextLesson.level}/${pad(nextLesson.num)}`)}
           className="btn btn-secondary"
           style={{ marginTop: 'auto' }}
         >
@@ -101,7 +102,7 @@ export default function HomePanel({
         <div style={{ color: 'var(--text-muted)', fontSize: '.85rem' }}>
           {stats.grammarViewed}/{totalGrammar} тем изучено
         </div>
-        <a href={`/${lang}/grammar`} className="btn btn-secondary" style={{ marginTop: 'auto' }}>
+        <a href={withBase(`/${lang}/grammar`)} className="btn btn-secondary" style={{ marginTop: 'auto' }}>
           Открыть
         </a>
       </div>,
@@ -140,7 +141,7 @@ export default function HomePanel({
           <span className="hs-value">{stats.correctRate}%</span>
           <span className="hs-label">точность</span>
         </div>
-        <a href={`/${lang}/account`} className="hs-link">
+        <a href={withBase(`/${lang}/account`)} className="hs-link">
           Подробная статистика →
         </a>
       </div>
@@ -161,15 +162,15 @@ export default function HomePanel({
           <span className="page-section__count">6</span>
         </div>
         <div className="card-grid">
-          <a href={`/${lang}/lessons`} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <a href={withBase(`/${lang}/lessons`)} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
             <h3>Уроки</h3>
             <p style={{ color: 'var(--text-muted)', fontSize: '.875rem' }}>{totalLessons} уроков от A1 до B2</p>
           </a>
-          <a href={`/${lang}/grammar`} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <a href={withBase(`/${lang}/grammar`)} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
             <h3>Грамматика</h3>
             <p style={{ color: 'var(--text-muted)', fontSize: '.875rem' }}>{totalGrammar} тем A1–B2</p>
           </a>
-          <a href={`/${lang}/flashcards`} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <a href={withBase(`/${lang}/flashcards`)} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
             <h3>Флеш-карточки</h3>
             <p style={{ color: 'var(--text-muted)', fontSize: '.875rem' }}>
               {totalWords} слов с SRS
@@ -181,15 +182,15 @@ export default function HomePanel({
               )}
             </p>
           </a>
-          <a href={`/${lang}/verbs`} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <a href={withBase(`/${lang}/verbs`)} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
             <h3>Неправильные глаголы</h3>
             <p style={{ color: 'var(--text-muted)', fontSize: '.875rem' }}>Справочник с поиском и практиками</p>
           </a>
-          <a href={`/${lang}/culture`} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <a href={withBase(`/${lang}/culture`)} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
             <h3>Культура</h3>
             <p style={{ color: 'var(--text-muted)', fontSize: '.875rem' }}>Жизнь в Нидерландах и Inburgering</p>
           </a>
-          <a href={`/${lang}/tests`} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <a href={withBase(`/${lang}/tests`)} className="card" style={{ textDecoration: 'none', color: 'inherit' }}>
             <h3>Тесты</h3>
             <p style={{ color: 'var(--text-muted)', fontSize: '.875rem' }}>A1, A2, B1, B2</p>
           </a>

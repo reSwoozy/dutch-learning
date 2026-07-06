@@ -5,6 +5,7 @@ import Breadcrumb from '@/components/ui/Breadcrumb.astro';
 import { getAllLessons, findRelatedGrammar, getLessonNavigation } from '@/lib/content.js';
 import LessonCompleteBtn from '@/components/lesson/LessonCompleteBtn.jsx';
 import LessonStatusPill from '@/components/lesson/LessonStatusPill.jsx';
+import { withBase } from '@/lib/paths.js';
 
 export function getStaticPaths() {
   const allLessons = getAllLessons();
@@ -38,8 +39,8 @@ if (allMdx[key]) {
 
 <MainLayout title={lesson.title}>
   <Breadcrumb items={[
-    { href: `/${lang}/lessons`, label: 'Уроки' },
-    { href: `/${lang}/lessons`, label: level.toUpperCase() },
+    { href: withBase(`/${lang}/lessons`), label: 'Уроки' },
+    { href: withBase(`/${lang}/lessons`), label: level.toUpperCase() },
     { label: `Урок ${nav.pos}` },
   ]} />
 
@@ -55,7 +56,7 @@ if (allMdx[key]) {
   {relatedGrammar.length > 0 && (
     <div class="related-links" style="margin-bottom:1rem">
       {relatedGrammar.map((r) => (
-        <a href={`/${lang}/grammar/${r.id}`}>{r.title}</a>
+        <a href={withBase(`/${lang}/grammar/${r.id}`)}>{r.title}</a>
       ))}
     </div>
   )}
@@ -87,19 +88,19 @@ if (allMdx[key]) {
     <div class="card" style="margin-top:2rem;border-color:var(--accent);text-align:center">
       <h3>Уровень {level.toUpperCase()} завершён!</h3>
       <p style="color:var(--text-muted);margin:.5rem 0">Пройди тест, чтобы проверить знания</p>
-      <a href={`/${lang}/tests`} class="btn btn-primary" style="margin-top:.5rem">Тесты</a>
+      <a href={withBase(`/${lang}/tests`)} class="btn btn-primary" style="margin-top:.5rem">Тесты</a>
     </div>
   )}
 
   <div style="display:flex;justify-content:space-between;margin-top:1.5rem;padding-top:1rem;border-top:1px solid var(--border)">
     {nav.prev ? (
-      <a href={`/${lang}/lessons/${nav.prev.level}/${pad(nav.prev.num)}`} class="btn btn-secondary">
+      <a href={withBase(`/${lang}/lessons/${nav.prev.level}/${pad(nav.prev.num)}`)} class="btn btn-secondary">
         ← {nav.prev.level.toUpperCase()} · Урок {nav.prev.num}
       </a>
     ) : <span />}
-    <a href={`/${lang}/flashcards?set=${lesson.id}`} class="btn btn-primary">Карточки</a>
+    <a href={withBase(`/${lang}/flashcards?set=${lesson.id}`)} class="btn btn-primary">Карточки</a>
     {nav.next ? (
-      <a href={`/${lang}/lessons/${nav.next.level}/${pad(nav.next.num)}`} class="btn btn-secondary">
+      <a href={withBase(`/${lang}/lessons/${nav.next.level}/${pad(nav.next.num)}`)} class="btn btn-secondary">
         {nav.next.level.toUpperCase()} · Урок {nav.next.num} →
       </a>
     ) : <span />}

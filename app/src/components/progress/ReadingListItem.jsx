@@ -1,10 +1,11 @@
 import { ReadingReadBadge } from '@/components/progress/ReadingProgress.jsx';
+import { withBase } from '@/lib/paths.js';
 
 export default function ReadingListItem({ reading, lang }) {
   const num = String(reading.num).padStart(2, '0');
   return (
     <a
-      href={`/${lang}/reading/${reading.level}/${num}`}
+      href={withBase(`/${lang}/reading/${reading.level}/${num}`)}
       className="card"
       style={{ textDecoration: 'none', color: 'inherit' }}
     >

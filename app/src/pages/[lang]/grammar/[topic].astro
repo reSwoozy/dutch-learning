@@ -4,6 +4,7 @@ import GrammarViewTracker from '@/components/progress/GrammarViewTracker.jsx';
 import Badge from '@/components/ui/Badge.astro';
 import Breadcrumb from '@/components/ui/Breadcrumb.astro';
 import { getAllGrammarTopics, findLessonsForGrammar } from '@/lib/content.js';
+import { withBase } from '@/lib/paths.js';
 
 export function getStaticPaths() {
   const topics = getAllGrammarTopics();
@@ -31,7 +32,7 @@ if (allMdx[key]) {
 <MainLayout title={topic.title}>
   <GrammarViewTracker client:load topicId={topic.id} />
   <Breadcrumb items={[
-    { href: `/${lang}/grammar`, label: 'Грамматика' },
+    { href: withBase(`/${lang}/grammar`), label: 'Грамматика' },
     { label: topic.title },
   ]} />
 
@@ -62,7 +63,7 @@ if (allMdx[key]) {
       <h3>Изучается в уроках</h3>
       <div class="related-links">
         {relatedLessons.map((lsn) => (
-          <a href={`/${lang}/lessons/${lsn.level}/${pad(lsn.num)}`}>
+          <a href={withBase(`/${lang}/lessons/${lsn.level}/${pad(lsn.num)}`)}>
             {lsn.level.toUpperCase()} · Урок {lsn.num} — {lsn.title}
           </a>
         ))}

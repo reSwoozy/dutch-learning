@@ -3,6 +3,7 @@ import MainLayout from '@/layouts/MainLayout.astro';
 import WritingProgressToggle from '@/components/progress/WritingProgress.jsx';
 import Breadcrumb from '@/components/ui/Breadcrumb.astro';
 import { allWritings } from '@/content/writing/index.js';
+import { withBase } from '@/lib/paths.js';
 
 export function getStaticPaths() {
   return allWritings.map((w) => ({
@@ -25,7 +26,7 @@ if (allMdx[key]) {
 
 <MainLayout title={writing.title}>
   <Breadcrumb items={[
-    { href: `/${lang}/writing`, label: 'Письмо' },
+    { href: withBase(`/${lang}/writing`), label: 'Письмо' },
     { label: writing.title },
   ]} />
 
