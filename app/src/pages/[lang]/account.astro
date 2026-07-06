@@ -1,0 +1,19 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import AccountPanel from '@/components/account/AccountPanel.jsx';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+---
+
+<MainLayout title="Аккаунт">
+  <div class="page-hero">
+    <h1>Аккаунт</h1>
+    <p class="page-hero__summary">Профиль, прогресс и управление аккаунтом.</p>
+  </div>
+
+  <AccountPanel client:load lang={lang} />
+</MainLayout>

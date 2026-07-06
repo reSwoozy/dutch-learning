@@ -1,0 +1,12 @@
+---
+const { items = [] } = Astro.props;
+---
+
+<ol class="step-list">
+  {items.map((it) => (
+    <li class="step-item">
+      <div class="step-item__title">{it.title || it[0] || ''}</div>
+      {(it.desc || it[1]) && <div class="step-item__desc">{it.desc || it[1]}</div>}
+    </li>
+  ))}
+</ol>

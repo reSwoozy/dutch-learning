@@ -1,0 +1,9 @@
+---
+const { nl, ru, en } = Astro.props;
+---
+
+<div class="example">
+  <span class="example-nl">{nl}</span>
+  {ru && <span class="example-ru">{ru}</span>}
+  {en && <span class="example-en">{en}</span>}
+</div>

@@ -1,0 +1,16 @@
+---
+const { title, rows = [] } = Astro.props;
+---
+
+<div class="phrase-box">
+  {title && <div class="phrase-box__title">{title}</div>}
+  <div class="phrase-box__list">
+    {rows.map((r) => (
+      <div class="phrase-row">
+        <span class="phrase-row__nl">{r.nl || r[0] || ''}</span>
+        <span class="phrase-row__ru">{r.ru || r[1] || ''}</span>
+        {(r.note || r[2]) && <span class="phrase-row__note">{r.note || r[2]}</span>}
+      </div>
+    ))}
+  </div>
+</div>

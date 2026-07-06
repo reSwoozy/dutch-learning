@@ -1,0 +1,13 @@
+---
+const { items = [] } = Astro.props;
+---
+
+<div class="stats-row">
+  {items.map((it) => (
+    <div class="stat-card">
+      <div class="stat-card__num">{it.num || it[0] || ''}</div>
+      <div class="stat-card__label">{it.label || it[1] || ''}</div>
+      {(it.sub || it[2]) && <div class="stat-card__sub">{it.sub || it[2]}</div>}
+    </div>
+  ))}
+</div>

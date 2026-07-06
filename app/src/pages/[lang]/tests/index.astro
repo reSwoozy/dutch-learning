@@ -1,0 +1,63 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import Badge from '@/components/ui/Badge.astro';
+import TestResultBadge from '@/components/progress/TestResultBadge.jsx';
+import { allTests } from '@/content/tests/index.js';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+
+const levelOrder = [];
+const byLevel = {};
+for (const t of allTests) {
+  if (!byLevel[t.level]) {
+    byLevel[t.level] = [];
+    levelOrder.push(t.level);
+  }
+  byLevel[t.level].push(t);
+}
+---
+
+<MainLayout title="Тесты">
+  <div class="page-hero">
+    <h1>Тесты</h1>
+    <p class="page-hero__summary">Уровневые тесты для проверки знаний. Каждому уровню доступны 3 варианта.</p>
+    <div class="page-hero__meta">
+      <span class="culture-pill">{allTests.length} тестов</span>
+      <span class="culture-pill culture-pill--muted">{levelOrder.length} уровней</span>
+    </div>
+  </div>
+
+  {levelOrder.map((level) => {
+    const tests = byLevel[level];
+    return (
+      <section class="page-section">
+        <div class="page-section__head">
+          <h2>Уровень <Badge level={level}>{level.toUpperCase()}</Badge></h2>
+          <span class="page-section__count">{tests.length}</span>
+        </div>
+        <div class="card-grid">
+          {tests.map((t) => {
+            const passPoints = Math.ceil(t.maxPoints * t.passPercent / 100);
+            return (
+              <a href={`/${lang}/tests/${t.level}/${String(t.num).padStart(2, '0')}`} class="card" style="text-decoration:none;color:inherit">
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem;gap:.5rem;flex-wrap:wrap">
+                  <Badge level={t.level}>{t.level.toUpperCase()}</Badge>
+                  <span style="font-size:.75rem;color:var(--text-muted)">{t.minutes} мин</span>
+                  <TestResultBadge client:load testId={t.id} />
+                </div>
+                <h3>Вариант {t.variant}</h3>
+                <p style="color:var(--text-muted);font-size:.85rem;margin-top:.25rem">
+                  {t.questionCount} вопросов · {t.maxPoints} баллов · порог {passPoints}
+                </p>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    );
+  })}
+</MainLayout>

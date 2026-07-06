@@ -1,0 +1,72 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import GrammarViewTracker from '@/components/progress/GrammarViewTracker.jsx';
+import Badge from '@/components/ui/Badge.astro';
+import Breadcrumb from '@/components/ui/Breadcrumb.astro';
+import { getAllGrammarTopics, findLessonsForGrammar } from '@/lib/content.js';
+
+export function getStaticPaths() {
+  const topics = getAllGrammarTopics();
+  return topics.map((t) => ({
+    params: { lang: 'ru', topic: t.id },
+    props: { topic: t },
+  }));
+}
+
+const { lang } = Astro.params;
+const { topic } = Astro.props;
+
+const relatedLessons = findLessonsForGrammar(topic);
+const pad = (n) => String(n).padStart(2, '0');
+
+const allMdx = import.meta.glob('/src/content/grammar/*/index.ru.mdx');
+const key = `/src/content/grammar/${topic.id}/index.ru.mdx`;
+let Content = null;
+if (allMdx[key]) {
+  const mod = await allMdx[key]();
+  Content = mod.default;
+}
+---
+
+<MainLayout title={topic.title}>
+  <GrammarViewTracker client:load topicId={topic.id} />
+  <Breadcrumb items={[
+    { href: `/${lang}/grammar`, label: 'Грамматика' },
+    { label: topic.title },
+  ]} />
+
+  <div class="page-hero page-hero--slim">
+    <div style="display:flex;align-items:center;gap:.5rem;flex-wrap:wrap">
+      <Badge level={topic.level}>{topic.level.toUpperCase()}</Badge>
+    </div>
+    <h1 class="culture-hero__title">{topic.title}</h1>
+    {topic.titleNL && (
+      <div class="page-hero__meta">
+        <span class="culture-pill culture-pill--muted">{topic.titleNL}</span>
+      </div>
+    )}
+  </div>
+
+  {topic.summary && <p style="margin-bottom:1.5rem;line-height:1.6">{topic.summary}</p>}
+
+  {Content ? (
+    <div class="grammar-content">
+      <Content />
+    </div>
+  ) : (
+    <p style="color:var(--text-muted)">Контент темы не найден.</p>
+  )}
+
+  {relatedLessons.length > 0 && (
+    <div style="margin-top:2rem">
+      <h3>Изучается в уроках</h3>
+      <div class="related-links">
+        {relatedLessons.map((lsn) => (
+          <a href={`/${lang}/lessons/${lsn.level}/${pad(lsn.num)}`}>
+            {lsn.level.toUpperCase()} · Урок {lsn.num} — {lsn.title}
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
+</MainLayout>

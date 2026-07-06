@@ -1,0 +1,46 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import Badge from '@/components/ui/Badge.astro';
+import ReadingListItem from '@/components/progress/ReadingListItem.jsx';
+import { allReadings } from '@/content/reading/index.js';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+
+const levelOrder = [];
+const byLevel = {};
+for (const r of allReadings) {
+  if (!byLevel[r.level]) { byLevel[r.level] = []; levelOrder.push(r.level); }
+  byLevel[r.level].push(r);
+}
+---
+
+<MainLayout title="Чтение">
+  <div class="page-hero">
+    <h1>Чтение</h1>
+    <p class="page-hero__summary">Тексты для чтения с переводом и вопросами.</p>
+    <div class="page-hero__meta">
+      <span class="culture-pill">{allReadings.length} текстов</span>
+    </div>
+  </div>
+
+  {levelOrder.map((level) => {
+    const readings = byLevel[level];
+    return (
+      <section class="page-section">
+        <div class="page-section__head">
+          <h2><Badge level={level}>{level.toUpperCase()}</Badge></h2>
+          <span class="page-section__count">{readings.length}</span>
+        </div>
+        <div class="card-grid">
+          {readings.map((r) => (
+            <ReadingListItem client:load reading={r} lang={lang} />
+          ))}
+        </div>
+      </section>
+    );
+  })}
+</MainLayout>

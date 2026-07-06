@@ -1,0 +1,45 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import WritingProgressToggle from '@/components/progress/WritingProgress.jsx';
+import Breadcrumb from '@/components/ui/Breadcrumb.astro';
+import { allWritings } from '@/content/writing/index.js';
+
+export function getStaticPaths() {
+  return allWritings.map((w) => ({
+    params: { lang: 'ru', slug: w.id },
+    props: { writing: w },
+  }));
+}
+
+const { lang } = Astro.params;
+const { writing } = Astro.props;
+
+const allMdx = import.meta.glob('/src/content/writing/*/index.ru.mdx');
+const key = `/src/content/writing/${writing.id}/index.ru.mdx`;
+let Content = null;
+if (allMdx[key]) {
+  const mod = await allMdx[key]();
+  Content = mod.default;
+}
+---
+
+<MainLayout title={writing.title}>
+  <Breadcrumb items={[
+    { href: `/${lang}/writing`, label: 'Письмо' },
+    { label: writing.title },
+  ]} />
+
+  <div class="page-hero page-hero--slim">
+    <h1 class="culture-hero__title">{writing.title}</h1>
+  </div>
+
+  {Content ? (
+    <div class="writing-content">
+      <Content />
+    </div>
+  ) : (
+    <p style="color:var(--text-muted)">Контент задания не найден.</p>
+  )}
+
+  <WritingProgressToggle client:load writingId={writing.id} />
+</MainLayout>

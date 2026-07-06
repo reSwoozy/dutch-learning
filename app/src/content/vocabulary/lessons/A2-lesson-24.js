@@ -1,0 +1,242 @@
+export default [
+  {
+    "nl": "herhalen",
+    "ru": "повторять",
+    "example": "Laten we de les herhalen.",
+    "pronunciation": "ɦərˈɦaːlə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de herhaling",
+    "ru": "повторение",
+    "example": "Dit is een herhaling van A2.",
+    "pronunciation": "də ɦərˈɦaːlɪŋ",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "samenvatten",
+    "ru": "обобщать",
+    "example": "Kun je het samenvatten?",
+    "pronunciation": "ˈsaːmənˌvɑtə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de samenvatting",
+    "ru": "обобщение",
+    "example": "Hier is een samenvatting.",
+    "pronunciation": "də ˈsaːmənˌvɑtɪŋ",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "het niveau",
+    "ru": "уровень",
+    "example": "Wat is jouw Nederlandse niveau?",
+    "pronunciation": "ɦət niˈvoː",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "het overzicht",
+    "ru": "обзор",
+    "example": "Dit is een overzicht van A2.",
+    "pronunciation": "ɦət ˈoːvərzɪxt",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de voortgang",
+    "ru": "прогресс",
+    "example": "Mijn voortgang is goed.",
+    "pronunciation": "də ˈvoːrtɣɑŋ",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de vorderingen",
+    "ru": "успехи",
+    "example": "Ik maak goede vorderingen.",
+    "pronunciation": "də ˈvɔrdərɪŋə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de kennis",
+    "ru": "знание",
+    "example": "Mijn kennis van Nederlands groeit.",
+    "pronunciation": "də ˈkɛnɪs",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de vaardigheid",
+    "ru": "навык",
+    "example": "Welke vaardigheden heb je geleerd?",
+    "pronunciation": "də ˈvaːrdəxɦɛi̯t",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "beheersen",
+    "ru": "владеть",
+    "example": "Ik beheers de grammatica.",
+    "pronunciation": "bəˈɦeːrsə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "kunnen",
+    "ru": "мочь/уметь",
+    "example": "Wat kun je nu allemaal?",
+    "pronunciation": "ˈkʏnə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de communicatie",
+    "ru": "общение",
+    "example": "Communicatie is belangrijk.",
+    "pronunciation": "də koːmyniˈkaːtsi",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "spreken",
+    "ru": "говорить",
+    "example": "Ik kan goed Nederlands spreken.",
+    "pronunciation": "ˈspreːkə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "luisteren",
+    "ru": "слушать",
+    "example": "Luisteren is moeilijk.",
+    "pronunciation": "ˈlœy̯stərə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "lezen",
+    "ru": "читать",
+    "example": "Ik lees Nederlandse boeken.",
+    "pronunciation": "ˈleːzə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "schrijven",
+    "ru": "писать",
+    "example": "Ik kan brieven schrijven.",
+    "pronunciation": "ˈsxrɛi̯və",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "begrijpen",
+    "ru": "понимать",
+    "example": "Begrijp je de tekst?",
+    "pronunciation": "bəˈɣrɛi̯pə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de tekst",
+    "ru": "текст",
+    "example": "Deze tekst is ingewikkeld.",
+    "pronunciation": "də tɛkst",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de woordenschat",
+    "ru": "словарный запас",
+    "example": "Mijn woordenschat is gegroeid.",
+    "pronunciation": "də ˈʋoːrdəsxɑt",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "het woord",
+    "ru": "слово",
+    "example": "Hoeveel woorden ken je?",
+    "pronunciation": "ɦət ʋoːrt",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de grammatica",
+    "ru": "грамматика",
+    "example": "Nederlandse grammatica is moeilijk.",
+    "pronunciation": "də ɣrɑˈmaːtikaː",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de zin",
+    "ru": "предложение",
+    "example": "Maak een zin met dit woord.",
+    "pronunciation": "də zɪn",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "het voorbeeld",
+    "ru": "пример",
+    "example": "Kun je een voorbeeld geven?",
+    "pronunciation": "ɦət ˈvoːrbeːlt",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "oefenen",
+    "ru": "упражняться",
+    "example": "We moeten meer oefenen.",
+    "pronunciation": "ˈufənə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de oefening",
+    "ru": "упражнение",
+    "example": "Deze oefening is nuttig.",
+    "pronunciation": "də ˈufənɪŋ",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "verbeteren",
+    "ru": "улучшать",
+    "example": "Ik wil mijn Nederlands verbeteren.",
+    "pronunciation": "vərˈbeːtərə",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de verbetering",
+    "ru": "улучшение",
+    "example": "Er is veel verbetering mogelijk.",
+    "pronunciation": "də vərˈbeːtərɪŋ",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "de fout",
+    "ru": "ошибка",
+    "example": "Ik maak nog veel fouten.",
+    "pronunciation": "də fɑut",
+    "level": "A2",
+    "lesson": 24
+  },
+  {
+    "nl": "verbeteren",
+    "ru": "исправлять",
+    "example": "Kun je mijn fouten verbeteren?",
+    "pronunciation": "vərˈbeːtərə",
+    "level": "A2",
+    "lesson": 24
+  }
+];

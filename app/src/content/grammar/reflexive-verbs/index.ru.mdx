@@ -1,0 +1,103 @@
+---
+title: "Возвратные глаголы"
+level: "b1"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Возвратные глаголы используются с возвратным местоимением (zich). Некоторые глаголы всегда возвратные, другие -- опционально.
+
+**Подлежащее + глагол + возвратное местоимение (me/je/zich/ons/je/zich) + ...**
+
+Возвратное местоимение стоит после спрягаемого глагола. В придаточном -- после подлежащего. Формы: me (ik), je (jij), zich (hij/zij/het/u), ons (wij), je (jullie), zich (zij).
+
+- Обязательно возвратные: zich vergissen (ошибаться), zich herinneren (помнить)
+- Опционально возвратные: (zich) wassen (мыть(ся)), (zich) aankleden (одевать(ся))
+- Взаимные: elkaar ontmoeten (встречать друг друга)
+
+### Возвратные местоимения
+
+<GrammarTable headers={["Лицо","Местоимение","Пример"]} rows={[["ik","me/mij","Ik was me."],["jij/je","je/jou","Jij wast je."],["u","zich/u","U wast zich."],["hij/zij/het","zich","Hij wast zich."],["wij/we","ons","Wij wassen ons."],["jullie","je/jullie","Jullie wassen je."],["zij/ze","zich","Zij wassen zich."]]} />
+
+### Частые возвратные глаголы
+
+<GrammarTable headers={["Глагол","Перевод","Пример"]} rows={[["zich wassen","мыться","Ik was me elke ochtend."],["zich aankleden","одеваться","Zij kleedt zich aan."],["zich voelen","чувствовать себя","Ik voel me goed."],["zich vergissen","ошибаться","Je vergist je!"],["zich herinneren","помнить","Ik herinner me dat niet."],["zich voorstellen","представляться","Mag ik me voorstellen?"],["zich schamen","стыдиться","Hij schaamt zich."],["zich verheugen op","радоваться (чему-то)","Ik verheug me op de vakantie."],["zich zorgen maken","беспокоиться","Maak je geen zorgen!"],["zich gedragen","вести себя","Gedraag je!"]]} />
+
+### zich vs elkaar (возвратное vs взаимное)
+
+'zich' указывает, что действие направлено на само подлежащее; 'elkaar' (друг друга) -- что участники действуют друг на друга.
+
+<GrammarTable headers={["Местоимение","Значение","Пример","Перевод"]} rows={[["zich","на себя","Zij wassen zich.","Они моются (каждый себя)."],["elkaar","друг друга","Zij wassen elkaar.","Они моют друг друга."],["zich","на себя","We stellen ons voor.","Мы представляемся."],["elkaar","друг друга","We kennen elkaar goed.","Мы хорошо знаем друг друга."]]} />
+
+### Позиция zich при двух глаголах
+
+Возвратное местоимение стоит сразу после спрягаемого глагола (или после подлежащего в придаточном), а не рядом с инфинитивом в конце.
+
+<GrammarTable headers={["Тип","Схема","Пример"]} rows={[["Модальный + инф.","S + модальн. + zich + ... + инф.","Ik moet me nog aankleden."],["Перфект","S + hebben + zich + ... + v.d.","Hij heeft zich vergist."],["Придаточное","...dat + S + zich + ... + глагол","...dat ik me niet goed voel."],["Вопрос (инверсия)","глагол + S + zich","Voel je je goed?"]]} />
+
+### Возвратные глаголы с предлогом
+
+Многие возвратные глаголы управляют фиксированным предлогом.
+
+<GrammarTable headers={["Глагол","Предлог","Пример","Перевод"]} rows={[["zich aanmelden voor","voor","Ik meld me aan voor de cursus.","Я записываюсь на курс."],["zich verheugen op","op","Wij verheugen ons op de reis.","Мы радуемся поездке."],["zich interesseren voor","voor","Zij interesseert zich voor kunst.","Она интересуется искусством."],["zich ergeren aan","aan","Hij ergert zich aan het lawaai.","Его раздражает шум."],["zich bezighouden met","met","Ik houd me bezig met muziek.","Я занимаюсь музыкой."],["zich concentreren op","op","Concentreer je op je werk.","Сосредоточься на работе."]]} />
+
+## Примеры
+
+<Example nl={`Ik voel me vandaag niet lekker.`} ru={`Я сегодня не очень хорошо себя чувствую.`} />
+<Example nl={`Zij kleedt zich snel aan.`} ru={`Она быстро одевается.`} />
+<Example nl={`Mag ik me even voorstellen?`} ru={`Можно мне представиться?`} />
+<Example nl={`Wij verheugen ons op de vakantie.`} ru={`Мы радуемся предстоящему отпуску.`} />
+<Example nl={`Maak je geen zorgen!`} ru={`Не беспокойся!`} />
+<Example nl={`Hij herinnert zich niets.`} ru={`Он ничего не помнит.`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "fill-blank",
+    "sentence": "Ik voel __ vandaag goed. (возвратное)",
+    "answer": "me",
+    "explanation": "ik -> me"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Hij herinnert __ niets.",
+    "answer": "zich",
+    "explanation": "hij -> zich"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Wij verheugen __ op de vakantie.",
+    "answer": "ons",
+    "explanation": "wij -> ons"
+  },
+  {
+    "type": "word-order",
+    "words": [
+      "zij",
+      "kleedt",
+      "zich",
+      "snel",
+      "aan"
+    ],
+    "answer": "Zij kleedt zich snel aan.",
+    "explanation": "Возвратное после глагола, приставка в конце"
+  },
+  {
+    "type": "choice",
+    "question": "'Они знают друг друга' -- Zij kennen __.",
+    "options": [
+      "zich",
+      "elkaar"
+    ],
+    "answer": "elkaar",
+    "explanation": "Взаимное действие -> elkaar, не zich."
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Ik meld __ aan __ de cursus. (zich aanmelden voor)",
+    "answer": "me ... voor",
+    "explanation": "zich aanmelden voor: возвратное + фиксированный предлог voor."
+  }
+]} />
+

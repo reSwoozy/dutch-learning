@@ -1,0 +1,15 @@
+---
+const { title, summary, pills = [] } = Astro.props;
+---
+
+<div class="page-hero">
+  <h1>{title}</h1>
+  {summary && <p class="page-hero__summary">{summary}</p>}
+  {pills.length > 0 && (
+    <div class="page-hero__meta">
+      {pills.map((p) => (
+        <span class:list={['culture-pill', p.muted && 'culture-pill--muted']}>{p.text}</span>
+      ))}
+    </div>
+  )}
+</div>

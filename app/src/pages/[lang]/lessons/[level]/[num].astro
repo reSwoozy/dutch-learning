@@ -1,0 +1,107 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import Badge from '@/components/ui/Badge.astro';
+import Breadcrumb from '@/components/ui/Breadcrumb.astro';
+import { getAllLessons, findRelatedGrammar, getLessonNavigation } from '@/lib/content.js';
+import LessonCompleteBtn from '@/components/lesson/LessonCompleteBtn.jsx';
+import LessonStatusPill from '@/components/lesson/LessonStatusPill.jsx';
+
+export function getStaticPaths() {
+  const allLessons = getAllLessons();
+  return allLessons.map((lesson) => ({
+    params: {
+      lang: 'ru',
+      level: lesson.level,
+      num: String(lesson.num).padStart(2, '0'),
+    },
+    props: { lesson },
+  }));
+}
+
+const { lang, level, num } = Astro.params;
+const { lesson } = Astro.props;
+
+const nav = getLessonNavigation(lesson.id);
+const relatedGrammar = findRelatedGrammar(lesson.id);
+const pad = (n) => String(n).padStart(2, '0');
+
+const allMdx = import.meta.glob('/src/content/lessons/*/*/index.ru.mdx');
+const key = `/src/content/lessons/${level}/${num}/index.ru.mdx`;
+let Content = null;
+let frontmatter = {};
+if (allMdx[key]) {
+  const mod = await allMdx[key]();
+  Content = mod.default;
+  frontmatter = mod.frontmatter || {};
+}
+---
+
+<MainLayout title={lesson.title}>
+  <Breadcrumb items={[
+    { href: `/${lang}/lessons`, label: 'Уроки' },
+    { href: `/${lang}/lessons`, label: level.toUpperCase() },
+    { label: `Урок ${nav.pos}` },
+  ]} />
+
+  <div class="page-hero page-hero--slim">
+    <div style="display:flex;align-items:center;gap:.5rem;flex-wrap:wrap">
+      <Badge level={level}>{level.toUpperCase()}</Badge>
+      <span style="font-size:.85rem;color:var(--text-muted)">Урок {nav.pos} из {nav.total}</span>
+      <LessonStatusPill client:load lessonId={lesson.id} />
+    </div>
+    <h1 class="culture-hero__title">{lesson.title}</h1>
+  </div>
+
+  {relatedGrammar.length > 0 && (
+    <div class="related-links" style="margin-bottom:1rem">
+      {relatedGrammar.map((r) => (
+        <a href={`/${lang}/grammar/${r.id}`}>{r.title}</a>
+      ))}
+    </div>
+  )}
+
+  {frontmatter.objectives && frontmatter.objectives.length > 0 && (
+    <div class="card" style="margin:1rem 0">
+      <h3>Цели урока</h3>
+      <ul style="padding-left:1.25rem;margin-top:.5rem">
+        {frontmatter.objectives.map((obj) => (
+          <li style="margin-bottom:.25rem">{obj}</li>
+        ))}
+      </ul>
+    </div>
+  )}
+
+  {Content ? (
+    <div class="lesson-content">
+      <Content />
+    </div>
+  ) : (
+    <p style="color:var(--text-muted)">Контент урока не найден.</p>
+  )}
+
+  <div style="margin-top:1.5rem;text-align:center">
+    <LessonCompleteBtn client:load lessonId={lesson.id} />
+  </div>
+
+  {nav.isLast && (
+    <div class="card" style="margin-top:2rem;border-color:var(--accent);text-align:center">
+      <h3>Уровень {level.toUpperCase()} завершён!</h3>
+      <p style="color:var(--text-muted);margin:.5rem 0">Пройди тест, чтобы проверить знания</p>
+      <a href={`/${lang}/tests`} class="btn btn-primary" style="margin-top:.5rem">Тесты</a>
+    </div>
+  )}
+
+  <div style="display:flex;justify-content:space-between;margin-top:1.5rem;padding-top:1rem;border-top:1px solid var(--border)">
+    {nav.prev ? (
+      <a href={`/${lang}/lessons/${nav.prev.level}/${pad(nav.prev.num)}`} class="btn btn-secondary">
+        ← {nav.prev.level.toUpperCase()} · Урок {nav.prev.num}
+      </a>
+    ) : <span />}
+    <a href={`/${lang}/flashcards?set=${lesson.id}`} class="btn btn-primary">Карточки</a>
+    {nav.next ? (
+      <a href={`/${lang}/lessons/${nav.next.level}/${pad(nav.next.num)}`} class="btn btn-secondary">
+        {nav.next.level.toUpperCase()} · Урок {nav.next.num} →
+      </a>
+    ) : <span />}
+  </div>
+</MainLayout>

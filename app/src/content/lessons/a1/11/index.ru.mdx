@@ -1,0 +1,189 @@
+---
+title: "Работа и профессии"
+objectives:
+  - "Называть основные профессии"
+  - "Рассказывать о своей работе"
+  - "Описывать рабочее место"
+  - "Понимать голландскую рабочую культуру"
+---
+
+import { Vocabulary, Dialogue, Tip, Warn, Fact, Success, Callout, Example, Phrases, Stats, Steps, GrammarTable, ExerciseList } from '@/components/lesson';
+import vocab from './vocab.js';
+
+
+## Фаза 1: Профессии (6 минут)
+
+<Vocabulary words={vocab.main} locale="ru" />
+
+## Фаза 2: О работе (5 минут)
+
+**Рабочие фразы**:
+- **Wat is uw beroep?** - Какая у вас профессия?
+- **Ik ben leraar** - Я учитель
+- **Ik werk in een ziekenhuis** - Я работаю в больнице
+- **Waar werkt u?** - Где вы работаете?
+- **Ik ga naar kantoor** - Я иду в офис
+- **Het werk is interessant** - Работа интересная
+
+## Фаза 3: Рабочее место (3 минуты)
+
+<Vocabulary words={vocab.section2} locale="ru" />
+
+## Диалог 1
+
+<Dialogue
+  title="Диалог 1"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Hallo, ik ben Peter. Wat is jouw beroep?"
+  },
+  {
+    "speaker": "B",
+    "text": "Hallo Peter! Ik ben Anna. Ik ben verpleegster."
+  },
+  {
+    "speaker": "A",
+    "text": "Waar werk je?"
+  },
+  {
+    "speaker": "B",
+    "text": "Ik werk in het ziekenhuis. En jij?"
+  },
+  {
+    "speaker": "A",
+    "text": "Ik ben ingenieur. Ik werk bij een groot bedrijf."
+  },
+  {
+    "speaker": "B",
+    "text": "Leuk! Werk je al lang daar?"
+  },
+  {
+    "speaker": "A",
+    "text": "Ja, al drie jaar."
+  }
+]}
+/>
+
+## Диалог 2
+
+<Dialogue
+  title="Диалог 2"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Goedemorgen! Hoe gaat het op het werk?"
+  },
+  {
+    "speaker": "B",
+    "text": "Goed, maar druk. Ik heb veel te doen vandaag."
+  },
+  {
+    "speaker": "A",
+    "text": "Hoe laat begin je?"
+  },
+  {
+    "speaker": "B",
+    "text": "Ik begin om negen uur en ik stop om vijf uur."
+  },
+  {
+    "speaker": "A",
+    "text": "Werk je ook in het weekend?"
+  },
+  {
+    "speaker": "B",
+    "text": "Nee, in het weekend ben ik vrij."
+  }
+]}
+/>
+
+## 1. Ik ben + профессия (без артикля!)
+
+В нидерландском профессия после zijn используется **без артикля**:
+- Ik ben **leraar**. (не: Ik ben een leraar.)
+- Zij is **dokter**. (не: Zij is een dokter.)
+- Hij is **kok**. (не: Hij is een kok.)
+Но с прилагательным -- артикль нужен:
+- Zij is **een goede** dokter.
+
+## 2. Werken bij / werken in
+
+- **werken bij** + компания/организация: Ik werk **bij** Philips. Ik werk **bij** de politie.
+- **werken in** + место: Ik werk **in** een ziekenhuis. Ik werk **in** een winkel.
+- **werken als** + профессия: Ik werk **als** leraar. Ik werk **als** verkoper.
+
+## 3. Мужские и женские формы профессий
+
+<Vocabulary words={vocab.section3} locale="ru" />
+
+## Упражнение 1: Заполни пропуски
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Ik ben __. Ik werk __ een ziekenhuis. (врач)",
+    "answer": "dokter ... in",
+    "explanation": "dokter — врач; werken in een ziekenhuis."
+  },
+  {
+    "sentence": "Zij werkt __ Philips __ ingenieur.",
+    "answer": "bij ... als",
+    "explanation": "werken bij + компания; als + профессия."
+  },
+  {
+    "sentence": "__ is uw beroep?",
+    "answer": "Wat",
+    "explanation": "Wat is uw beroep? — Кто вы по профессии?"
+  },
+  {
+    "sentence": "Hij werkt __ een school. Hij is __.",
+    "answer": "op ... leraar",
+    "explanation": "werken op een school; hij is leraar."
+  }
+]} />
+
+## Упражнение 2: Переведи на нидерландский
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Какая у тебя профессия?",
+    "answers": ["Wat is jouw beroep?", "Wat doe je voor werk?"],
+    "explanation": "Два варианта вопроса о профессии."
+  },
+  {
+    "sentence": "Я работаю в офисе.",
+    "answers": ["Ik werk in een kantoor.", "Ik werk op kantoor."],
+    "explanation": "op kantoor — устойчивое выражение."
+  },
+  {
+    "sentence": "Она медсестра в больнице.",
+    "answer": "Zij is verpleegster in een ziekenhuis.",
+    "explanation": "verpleegster — медсестра."
+  }
+]} />
+
+## Упражнение 3: Говорение
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Wat is jouw beroep?",
+    "sample": "Ik ben leraar. / Ik werk als ingenieur."
+  },
+  {
+    "sentence": "Waar werk je?",
+    "sample": "Ik werk bij een groot bedrijf in Amsterdam."
+  },
+  {
+    "sentence": "Hoe laat begin je met werken?",
+    "sample": "Ik begin om negen uur met werken."
+  }
+]} />
+
+## Голландская рабочая культура
+
+- **Work-life balance**: голландцы строго разделяют работу и личную жизнь. Работать после 17:00 -- не норма.
+- **Прямое общение**: на работе говорят прямо. Это не грубость, а эффективность.
+- **Пунктуальность**: опоздание даже на 5 минут считается неуважением.
+- **Borrel**: пятничные посиделки с коллегами после работы с напитками -- важная традиция.
+- **Overleg**: голландцы любят обсуждать решения коллективно. Много совещаний.
+- **Deeltijdwerk**: Нидерланды -- мировой лидер по частичной занятости. Работать 4 дня в неделю -- нормально.
+- **BSN-nummer**: для работы нужен BSN (Burgerservicenummer) -- социальный номер. Получаешь при регистрации в gemeente.

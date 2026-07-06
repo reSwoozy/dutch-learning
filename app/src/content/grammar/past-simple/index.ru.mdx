@@ -1,0 +1,90 @@
+---
+title: "Простое прошедшее (Imperfectum)"
+level: "b1"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Imperfectum используется в письменной речи, рассказах, описаниях прошлого. Слабые глаголы: основа + -te(n)/-de(n). Сильные -- особая форма.
+
+**Слабые: основа + -te/-ten (после t,k,f,s,ch,p) или -de/-den | Сильные: особая форма (нужно запоминать)**
+
+Imperfectum -- второе прошедшее время. В разговорной речи чаще используется perfectum, но imperfectum необходим для рассказов, описаний фона, с глаголами zijn, hebben, модальными.
+
+- Рассказы и истории: Toen ik jong was, woonde ik in Moskou.
+- Описание фона: Het regende en het was koud.
+- С zijn, hebben, модальными: Ik was ziek. Ik had geen tijd. Ik kon niet komen.
+- Письменная речь, газеты, книги
+
+### Слабые глаголы (правильные)
+
+<GrammarTable headers={["Лицо","werken (werk -> 't kofschip -> -te)","leven (leef -> -de)"]} rows={[["ik","werkte","leefde"],["jij/je","werkte","leefde"],["u","werkte","leefde"],["hij/zij/het","werkte","leefde"],["wij/we","werkten","leefden"],["jullie","werkten","leefden"],["zij/ze","werkten","leefden"]]} />
+
+### Частые сильные глаголы (неправильные)
+
+<GrammarTable headers={["Инфинитив","Imperfectum (ед.ч.)","Imperfectum (мн.ч.)","Перевод"]} rows={[["zijn","was","waren","быть"],["hebben","had","hadden","иметь"],["gaan","ging","gingen","идти"],["komen","kwam","kwamen","приходить"],["doen","deed","deden","делать"],["zien","zag","zagen","видеть"],["geven","gaf","gaven","давать"],["nemen","nam","namen","брать"],["schrijven","schreef","schreven","писать"],["lezen","las","lazen","читать"],["eten","at","aten","есть"],["drinken","dronk","dronken","пить"],["spreken","sprak","spraken","говорить"],["rijden","reed","reden","ехать"],["vinden","vond","vonden","находить"],["staan","stond","stonden","стоять"],["zitten","zat","zaten","сидеть"],["liggen","lag","lagen","лежать"],["slapen","sliep","sliepen","спать"],["lopen","liep","liepen","ходить/бегать"],["kunnen","kon","konden","мочь"],["willen","wilde/wou","wilden/wouden","хотеть"],["moeten","moest","moesten","должен"],["mogen","mocht","mochten","иметь разрешение"],["zullen","zou","zouden","буду (бы)"]]} />
+
+<Tip title="Когда imperfectum, когда perfectum?">
+- Imperfectum: фон, описание, длительные действия -- Het was mooi weer.
+- Perfectum: конкретные завершенные действия -- Ik heb een boek gelezen.
+- zijn, hebben, модальные -- почти всегда imperfectum: Ik was ziek. Ik had honger. Ik kon niet komen.
+- В рассказах: imperfectum для основного повествования
+</Tip>
+
+<Tip title="\'t kofschip для imperfectum">
+- Та же мнемоника: основа на t,k,f,s,ch,p -> -te/-ten
+- Остальные -> -de/-den
+- werken -> werkte, fietsen -> fietste, koken -> kookte
+- leven -> leefde, bouwen -> bouwde, reizen -> reisde
+</Tip>
+
+## Примеры
+
+<Example nl={`Toen ik jong was, woonde ik in Moskou.`} ru={`Когда я был молодым, я жил в Москве.`} />
+<Example nl={`Het regende de hele dag.`} ru={`Весь день шел дождь.`} />
+<Example nl={`Ik had geen tijd om te bellen.`} ru={`У меня не было времени позвонить.`} />
+<Example nl={`Zij kon goed Nederlands spreken.`} ru={`Она хорошо могла говорить по-нидерландски.`} />
+<Example nl={`Wij gingen elke zomer naar zee.`} ru={`Мы каждое лето ездили на море.`} />
+<Example nl={`Hij schreef een lange brief.`} ru={`Он написал длинное письмо.`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "fill-blank",
+    "sentence": "Toen ik jong __, woonde ik in Rusland. (zijn)",
+    "answer": "was",
+    "explanation": "zijn -> was (ед.ч.)"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Wij __ elke dag naar school. (fietsen)",
+    "answer": "fietsten",
+    "explanation": "'t kofschip: fiets -> s -> -ten (мн.ч.)"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Hij __ een boek. (lezen)",
+    "answer": "las",
+    "explanation": "lezen -> las (сильный глагол)"
+  },
+  {
+    "type": "choice",
+    "question": "Ik __ niet komen. (kunnen)",
+    "options": [
+      "kunde",
+      "kon",
+      "konde",
+      "kunnte"
+    ],
+    "answer": "kon",
+    "explanation": "kunnen -> kon (сильный глагол)"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Het __ de hele dag. (regenen)",
+    "answer": "regende",
+    "explanation": "regenen -> regend -> -de"
+  }
+]} />
+

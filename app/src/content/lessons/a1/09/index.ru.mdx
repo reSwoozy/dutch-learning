@@ -1,0 +1,197 @@
+---
+title: "Одежда и цвета"
+objectives:
+  - "Называть основные предметы одежды"
+  - "Описывать цвета на нидерландском"
+  - "Рассказывать, что ты носишь"
+  - "Делать покупки в магазине одежды"
+  - "Понимать голландский стиль одежды"
+---
+
+import { Vocabulary, Dialogue, Tip, Warn, Fact, Success, Callout, Example, Phrases, Stats, Steps, GrammarTable, ExerciseList } from '@/components/lesson';
+import vocab from './vocab.js';
+
+
+## Фаза 1: Основная одежда (4 минуты)
+
+<Vocabulary words={vocab.main} locale="ru" />
+
+## Фаза 2: Цвета (4 минуты)
+
+<Vocabulary words={vocab.section2} locale="ru" />
+
+## Фаза 3: Покупки одежды (4 минуты)
+
+<Vocabulary words={vocab.section3} locale="ru" />
+
+## Диалог 1
+
+<Dialogue
+  title="Диалог 1"
+  lines={[
+  {
+    "speaker": "Verkoper",
+    "text": "Goedemiddag! Kan ik u helpen?"
+  },
+  {
+    "speaker": "Klant",
+    "text": "Ja, ik zoek een jas."
+  },
+  {
+    "speaker": "Verkoper",
+    "text": "Welke kleur?"
+  },
+  {
+    "speaker": "Klant",
+    "text": "Zwart, alstublieft."
+  },
+  {
+    "speaker": "Verkoper",
+    "text": "Welke maat heeft u?"
+  },
+  {
+    "speaker": "Klant",
+    "text": "Maat L."
+  },
+  {
+    "speaker": "Verkoper",
+    "text": "Hier, deze zwarte jas. Wilt u hem passen?"
+  },
+  {
+    "speaker": "Klant",
+    "text": "Ja, graag. ... Hij past goed! Hoeveel kost hij?"
+  },
+  {
+    "speaker": "Verkoper",
+    "text": "Negentig euro."
+  },
+  {
+    "speaker": "Klant",
+    "text": "Dat is goed. Ik neem hem."
+  }
+]}
+/>
+
+## Диалог 2
+
+<Dialogue
+  title="Диалог 2"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Wat draag je vandaag?"
+  },
+  {
+    "speaker": "B",
+    "text": "Ik draag een witte trui en een blauwe broek."
+  },
+  {
+    "speaker": "A",
+    "text": "En welke schoenen?"
+  },
+  {
+    "speaker": "B",
+    "text": "Zwarte schoenen. En jij?"
+  },
+  {
+    "speaker": "A",
+    "text": "Ik draag een rode jurk en bruine laarzen."
+  },
+  {
+    "speaker": "B",
+    "text": "Mooi! Die jurk staat je goed!"
+  },
+  {
+    "speaker": "A",
+    "text": "Dank je wel!"
+  }
+]}
+/>
+
+## 1. Прилагательные + цвета (склонение -e)
+
+<Vocabulary words={vocab.section4} locale="ru" />
+
+## 2. Глагол dragen (носить одежду)
+
+<GrammarTable
+  headers={["Лицо","Форма"]}
+  rows={[["ik","draag"],["jij/je","draagt"],["hij/zij","draagt"],["wij/jullie/zij","dragen"]]}
+/>
+
+## 3. Указательные местоимения (deze/dit, die/dat)
+
+- **Deze jas** is mooi (de jas -> deze)
+- **Dit shirt** is nieuw (het shirt -> dit)
+- **Die schoenen** zijn duur (мн.ч. -> die)
+
+## Упражнение 1: Вставь правильный цвет с окончанием
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Ik draag een __ broek. (zwart, de broek)",
+    "answer": "zwarte",
+    "explanation": "de-слово -> прилагательное получает -e."
+  },
+  {
+    "sentence": "Hij heeft een __ shirt. (wit, het shirt)",
+    "answer": "wit",
+    "explanation": "een + het-слово -> без -e."
+  },
+  {
+    "sentence": "Zij koopt __ schoenen. (rood)",
+    "answer": "rode",
+    "explanation": "множественное число -> +e; rood -> rode."
+  },
+  {
+    "sentence": "Het __ jasje is duur. (blauw)",
+    "answer": "blauwe",
+    "explanation": "het-слово с определённым артиклем -> +e."
+  }
+]} />
+
+## Упражнение 2: Переведи на нидерландский
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Сколько стоит эта юбка?",
+    "answer": "Hoeveel kost deze rok?",
+    "explanation": "deze rok — эта юбка (de-слово)."
+  },
+  {
+    "sentence": "У вас есть это в зеленом?",
+    "answer": "Heeft u dit in het groen?",
+    "explanation": "in het groen — в зелёном цвете."
+  },
+  {
+    "sentence": "Я ношу черные брюки и белую рубашку.",
+    "answer": "Ik draag een zwarte broek en een wit shirt.",
+    "explanation": "zwarte (de-слово +e), wit (het-слово с een без -e)."
+  }
+]} />
+
+## Упражнение 3: Говорение (2 минуты)
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Что ты сейчас носишь?",
+    "sample": "Ik draag een zwarte broek en een blauw shirt."
+  },
+  {
+    "sentence": "Какой твой любимый цвет?",
+    "sample": "Mijn favoriete kleur is groen."
+  },
+  {
+    "sentence": "Что ты хочешь купить?",
+    "sample": "Ik wil een nieuwe jas kopen."
+  }
+]} />
+
+## Голландский стиль одежды
+
+- **Практичность** -- комфорт важнее моды. Голландцы одеваются удобно.
+- **Погода** -- всегда бери куртку и зонт. Дождь может начаться в любой момент.
+- **Велосипед** -- обувь должна быть удобной для езды на велосипеде.
+- **Оранжевый** -- национальный цвет. В День Короля (Koningsdag, 27 апреля) все носят оранжевое.
+- **Casual** -- даже в офисе стиль часто повседневный, но аккуратный.
+**Для интеграции**: На собеседовании одевайся аккуратно, но не слишком формально. Костюм с галстуком -- скорее исключение.

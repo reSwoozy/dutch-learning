@@ -1,0 +1,8 @@
+---
+const { level, class: className } = Astro.props;
+const badgeClass = level ? `badge badge-${level.toLowerCase()}` : 'badge';
+---
+
+<span class:list={[badgeClass, className]}>
+  <slot />
+</span>

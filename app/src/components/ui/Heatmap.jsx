@@ -1,0 +1,54 @@
+import { useEffect, useRef } from 'react';
+
+export default function Heatmap({ history = [], weeks = 52 }) {
+  const scrollRef = useRef(null);
+  const days = weeks * 7;
+  const now = new Date();
+  const byDay = {};
+
+  for (const h of history) {
+    const d = (h.date || '').slice(0, 10);
+    if (!d) continue;
+    byDay[d] = (byDay[d] || 0) + (h.total || 0);
+  }
+
+  const todayDow = now.getDay();
+  const start = new Date(now);
+  start.setDate(start.getDate() - (weeks - 1) * 7 - todayDow);
+
+  const cells = [];
+  for (let i = 0; i < days; i++) {
+    const d = new Date(start);
+    d.setDate(start.getDate() + i);
+    if (d > now) {
+      cells.push({ cls: 'heatmap-cell future', title: '' });
+      continue;
+    }
+    const key = d.toISOString().slice(0, 10);
+    const count = byDay[key] || 0;
+    let lvl = 0;
+    if (count >= 20) lvl = 4;
+    else if (count >= 10) lvl = 3;
+    else if (count >= 5) lvl = 2;
+    else if (count >= 1) lvl = 1;
+    cells.push({
+      cls: `heatmap-cell${lvl ? ` l${lvl}` : ''}`,
+      title: `${key}: ${count}`,
+    });
+  }
+
+  useEffect(() => {
+    const el = scrollRef.current;
+    if (el) requestAnimationFrame(() => { el.scrollLeft = el.scrollWidth; });
+  }, [history]);
+
+  return (
+    <div className="heatmap-scroll" ref={scrollRef}>
+      <div className="heatmap">
+        {cells.map((c, i) => (
+          <div key={i} className={c.cls} title={c.title || undefined} aria-hidden={!c.title} />
+        ))}
+      </div>
+    </div>
+  );
+}

@@ -1,0 +1,10 @@
+---
+const { value, label, sub, href } = Astro.props;
+const Tag = href ? 'a' : 'div';
+---
+
+<Tag class:list={['stat-card', href && 'stat-card--link']} href={href || undefined}>
+  <div class="stat-value" set:html={String(value)} />
+  <div class="stat-label">{label}</div>
+  {sub && <div class="stat-card__sub">{sub}</div>}
+</Tag>

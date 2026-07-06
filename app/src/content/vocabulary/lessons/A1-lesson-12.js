@@ -1,0 +1,250 @@
+export default [
+  {
+    "nl": "het weer",
+    "ru": "погода",
+    "example": "Het weer in Nederland is wisselvallig.",
+    "pronunciation": "ɦət ʋeːr",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de zon",
+    "ru": "солнце",
+    "example": "De zon schijnt vandaag heel helder.",
+    "pronunciation": "də zɔn",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de regen",
+    "ru": "дождь",
+    "example": "Door de regen blijf ik binnen.",
+    "pronunciation": "də ˈreːɣə",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de wind",
+    "ru": "ветер",
+    "example": "Er staat een sterke wind.",
+    "pronunciation": "də ʋɪnt",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de sneeuw",
+    "ru": "снег",
+    "example": "In de winter valt er sneeuw.",
+    "pronunciation": "də sneːu̯",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de wolk",
+    "ru": "облако",
+    "example": "Grijze wolken voorspellen regen.",
+    "pronunciation": "də ʋɔlk",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "warm",
+    "ru": "тепло",
+    "example": "Het is vandaag lekker warm.",
+    "pronunciation": "ʋɑrm",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "koud",
+    "ru": "холодно",
+    "example": "In de winter is het erg koud.",
+    "pronunciation": "kɑu̯t",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de lente",
+    "ru": "весна",
+    "example": "In de lente bloeien de bloemen.",
+    "pronunciation": "də ˈlɛntə",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de zomer",
+    "ru": "лето",
+    "example": "De zomer is mijn favoriete seizoen.",
+    "pronunciation": "də ˈzoːmər",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de herfst",
+    "ru": "осень",
+    "example": "In de herfst vallen de bladeren.",
+    "pronunciation": "də ɦɛrfst",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de winter",
+    "ru": "зима",
+    "example": "De winter duurt van december tot maart.",
+    "pronunciation": "də ˈʋɪntər",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "januari",
+    "ru": "январь",
+    "example": "Januari is de eerste maand.",
+    "pronunciation": "jaːnyˈʋaːri",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "februari",
+    "ru": "февраль",
+    "example": "Februari is een korte maand.",
+    "pronunciation": "feːbryˈʋaːri",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "maart",
+    "ru": "март",
+    "example": "In maart begint de lente.",
+    "pronunciation": "maːrt",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "december",
+    "ru": "декабрь",
+    "example": "December is de laatste maand.",
+    "pronunciation": "deːˈsɛmbər",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "hoe is het weer",
+    "ru": "какая погода",
+    "example": "Hoe is het weer vandaag?",
+    "pronunciation": "ɦu ɪs ɦət ʋeːr",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "het regent",
+    "ru": "дождь идет",
+    "example": "Het regent de hele dag al.",
+    "pronunciation": "ɦət ˈreːɣənt",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "het is zonnig",
+    "ru": "солнечно",
+    "example": "Het is zonnig en warm buiten.",
+    "pronunciation": "ɦət ɪs ˈzɔnəx",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "neem een paraplu",
+    "ru": "возьми зонт",
+    "example": "Neem een paraplu mee, het regent.",
+    "pronunciation": "neːm ən paːˈrɑply",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "het wordt koud",
+    "ru": "становится холодно",
+    "example": "Het wordt koud, trek een jas aan.",
+    "pronunciation": "ɦət ʋɔrt kɑu̯t",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "mooi weer",
+    "ru": "хорошая погода",
+    "example": "Mooi weer voor een wandeling!",
+    "pronunciation": "moːi ʋeːr",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "slecht weer",
+    "ru": "плохая погода",
+    "example": "Door het slechte weer blijven we thuis.",
+    "pronunciation": "slɛxt ʋeːr",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de temperatuur",
+    "ru": "температура",
+    "example": "De temperatuur is twintig graden.",
+    "pronunciation": "də tɛmpəraˈtyːr",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "graden",
+    "ru": "градусы",
+    "example": "Het is vijftien graden Celsius.",
+    "pronunciation": "ˈɣraːdə",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de paraplu",
+    "ru": "зонт",
+    "example": "Vergeet je paraplu niet!",
+    "pronunciation": "də paːˈrɑply",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de jas",
+    "ru": "куртка",
+    "example": "Trek een warme jas aan.",
+    "pronunciation": "də jɑs",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de zonnebril",
+    "ru": "солнечные очки",
+    "example": "Bij zonnig weer draag ik een zonnebril.",
+    "pronunciation": "də ˈzɔnəbrɪl",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "droog",
+    "ru": "сухой",
+    "example": "Gelukkig blijft het droog.",
+    "pronunciation": "droːx",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "nat",
+    "ru": "мокрый",
+    "example": "Door de regen ben ik helemaal nat.",
+    "pronunciation": "nɑt",
+    "level": "A1",
+    "lesson": 12
+  },
+  {
+    "nl": "de mist",
+    "ru": "туман",
+    "example": "Door de mist zie je weinig.",
+    "pronunciation": "də mɪst",
+    "level": "A1",
+    "lesson": 12
+  }
+];

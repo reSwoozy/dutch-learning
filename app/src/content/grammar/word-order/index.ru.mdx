@@ -1,0 +1,110 @@
+---
+title: "Порядок слов"
+level: "a1"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Нидерландский имеет строгие правила порядка слов. Глагол в главном предложении всегда на 2-м месте (V2-правило). В придаточном -- на последнем месте.
+
+**Главное: S-V-O (подлежащее-глагол-дополнение) | Инверсия: X-V-S-O | Придаточное: союз-S-...-V**
+
+Главное правило: спрягаемый глагол ВСЕГДА на 2-й позиции в главном предложении. Если предложение начинается не с подлежащего (а с наречия, дополнения и т.д.), подлежащее и глагол меняются местами (инверсия).
+
+- Прямой порядок (S-V): Ik werk elke dag.
+- Инверсия (X-V-S): Elke dag werk ik. / Morgen ga ik naar school.
+- Придаточное (...V): ...omdat ik in Amsterdam woon.
+- Два глагола: второй глагол в конце: Ik wil Nederlands leren.
+
+### Позиции в главном предложении
+
+<GrammarTable headers={["Позиция 1","Позиция 2 (глагол!)","Середина","Конец"]} rows={[["Ik","werk","elke dag","in Amsterdam."],["Elke dag","werk","ik","in Amsterdam."],["In Amsterdam","werk","ik","elke dag."],["Morgen","ga","ik","naar school."],["Het boek","heb","ik gisteren","gelezen."]]} />
+
+### Порядок в придаточном предложении
+
+<GrammarTable headers={["Союз","Подлежащее","...","Глагол (в конце!)"]} rows={[["omdat","ik","in Amsterdam","woon"],["dat","hij","Nederlands","spreekt"],["als","het","morgen mooi weer","is"],["wanneer","je","klaar","bent"]]} />
+
+### Место наречий (время-способ-место)
+
+<GrammarTable headers={["Подлежащее","Глагол","Время","Способ","Место"]} rows={[["Ik","ga","morgen","met de trein","naar Utrecht."],["Zij","werkt","elke dag","hard","op kantoor."],["Wij","fietsen","'s ochtends","graag","door het park."]]} />
+
+<Tip title="Правило V2 -- самое важное">
+- Спрягаемый глагол ВСЕГДА на 2-й позиции
+- Позиция 1 может быть: подлежащее, наречие времени, дополнение, придаточное предложение
+- Если позиция 1 занята чем-то кроме подлежащего -> инверсия
+</Tip>
+
+<Tip title="Два глагола в предложении">
+- Спрягаемый глагол на 2-м месте, второй глагол (инфинитив/причастие) -- в конце
+- Ik wil een boek lezen. (wil на 2-м месте, lezen в конце)
+- Hij heeft een brief geschreven. (heeft на 2-м месте, geschreven в конце)
+</Tip>
+
+## Примеры
+
+<Example nl={`Ik leer Nederlands.`} ru={`Я учу нидерландский. (прямой порядок: S-V-O)`} />
+<Example nl={`Nederlands leer ik elke dag.`} ru={`Нидерландский я учу каждый день. (инверсия: O-V-S)`} />
+<Example nl={`Morgen ga ik naar de dokter.`} ru={`Завтра я иду к врачу. (инверсия: время-V-S)`} />
+<Example nl={`Ik wil een kopje koffie drinken.`} ru={`Я хочу выпить чашку кофе. (два глагола: wil на 2-м, drinken в конце)`} />
+<Example nl={`Hij zegt dat hij morgen komt.`} ru={`Он говорит, что он завтра придет. (придаточное: глагол в конце)`} />
+<Example nl={`Omdat het regent, blijf ik thuis.`} ru={`Потому что идет дождь, я остаюсь дома. (придаточное + инверсия в главном)`} />
+<Example nl={`Ik heb gisteren een film gekeken.`} ru={`Я вчера посмотрел фильм. (два глагола: heb на 2-м, gekeken в конце)`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "word-order",
+    "words": [
+      "ik",
+      "morgen",
+      "ga",
+      "naar",
+      "Amsterdam"
+    ],
+    "answer": "Morgen ga ik naar Amsterdam.",
+    "explanation": "Время на 1-й позиции -> инверсия"
+  },
+  {
+    "type": "word-order",
+    "words": [
+      "hij",
+      "wil",
+      "Nederlands",
+      "leren"
+    ],
+    "answer": "Hij wil Nederlands leren.",
+    "explanation": "Два глагола: wil на 2-м, leren в конце"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Elke dag __ ik naar mijn werk. (fietsen)",
+    "answer": "fiets",
+    "explanation": "Инверсия: глагол на 2-й позиции"
+  },
+  {
+    "type": "choice",
+    "question": "...omdat hij goed Nederlands __.",
+    "options": [
+      "spreekt",
+      "spreken",
+      "spreek"
+    ],
+    "answer": "spreekt",
+    "explanation": "В придаточном глагол в конце, спрягается по лицу (hij -> spreekt)"
+  },
+  {
+    "type": "word-order",
+    "words": [
+      "ik",
+      "heb",
+      "een",
+      "boek",
+      "gisteren",
+      "gelezen"
+    ],
+    "answer": "Ik heb gisteren een boek gelezen.",
+    "explanation": "heb на 2-м месте, gelezen в конце, время перед дополнением"
+  }
+]} />
+

@@ -1,0 +1,28 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import VerbsApp from '@/components/verbs/VerbsApp.jsx';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+import verbsData from '@/content/verbs/irregular.js';
+
+const groups = verbsData.groups || [];
+const verbs = verbsData.verbs || [];
+---
+
+<MainLayout title="Глаголы">
+  <div class="page-hero">
+    <h1>Неправильные глаголы</h1>
+    <p class="page-hero__summary">
+      {verbs.length} глаголов, сгруппированных по паттернам изменения гласной. Фильтруйте, ищите и открывайте группу, чтобы увидеть закономерность.
+    </p>
+    <div class="page-hero__meta">
+      <span class="culture-pill culture-pill--muted">{groups.length} групп</span>
+      <span class="culture-pill">{verbs.length} глаголов</span>
+    </div>
+  </div>
+
+  <VerbsApp client:only="react" groups={groups} verbs={verbs} />
+</MainLayout>

@@ -1,0 +1,103 @@
+---
+title: "Модальные глаголы"
+level: "a2"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Модальные глаголы выражают возможность, необходимость, желание, разрешение. Основные: kunnen (мочь), moeten (должен), willen (хотеть), mogen (иметь разрешение), zullen (буду).
+
+**Модальный глагол (спрягаемый, 2-е место) + ... + инфинитив (в конце)**
+
+Модальный глагол спрягается и стоит на 2-м месте. Основной глагол в инфинитиве уходит в конец предложения. В ед. числе модальные глаголы имеют особое спряжение (без -t в 1-м и 3-м лице).
+
+- kunnen: способность/возможность -- Ik kan zwemmen. (Я умею плавать.)
+- moeten: необходимость/обязанность -- Ik moet werken. (Я должен работать.)
+- willen: желание -- Ik wil koffie drinken. (Я хочу выпить кофе.)
+- mogen: разрешение -- Mag ik hier zitten? (Можно мне здесь сесть?)
+- zullen: будущее/предложение -- Zullen we gaan? (Пойдем?)
+
+### Спряжение модальных глаголов
+
+<GrammarTable headers={["Лицо","kunnen","moeten","willen","mogen","zullen"]} rows={[["ik","kan","moet","wil","mag","zal"],["jij/je","kunt/kan","moet","wilt/wil","mag","zult/zal"],["u","kunt/kan","moet","wilt/wil","mag","zult/zal"],["hij/zij/het","kan","moet","wil","mag","zal"],["wij/we","kunnen","moeten","willen","mogen","zullen"],["jullie","kunnen","moeten","willen","mogen","zullen"],["zij/ze","kunnen","moeten","willen","mogen","zullen"]]} />
+
+### Значения и нюансы
+
+<GrammarTable headers={["Глагол","Основное значение","Нюансы"]} rows={[["kunnen","мочь, уметь","способность (Ik kan fietsen) и возможность (Kun je morgen komen?)"],["moeten","должен, нужно","обязанность (Ik moet werken) и необходимость (Je moet een jas aantrekken)"],["willen","хотеть","желание; в вопросе вежливее с zou: Zou je willen...?"],["mogen","иметь разрешение","разрешение (Mag ik?) и вероятность (Het mag waar zijn)"],["zullen","буду; давай","будущее (Ik zal komen) и предложение (Zullen we gaan?)"],["hoeven","нужно (в отрицании)","Только с niet/geen: Je hoeft niet te komen. (Тебе не нужно приходить.)"]]} />
+
+<Tip title="moeten vs hoeven">
+- moeten -- утвердительное: Ik moet werken. (Я должен работать.)
+- hoeven + niet/geen -- отрицательное: Je hoeft niet te komen. (Тебе не нужно приходить.)
+- Не говори: Je moet niet komen. (Это значит: Ты не должен приходить = запрет)
+</Tip>
+
+<Tip title="Вежливые формы">
+- Mag ik...? -- Можно мне...? (просьба о разрешении)
+- Kun je...? / Kunt u...? -- Можешь ли ты...? / Можете ли Вы...?
+- Zou je willen...? -- Не мог бы ты...? (самая вежливая форма)
+- Wil je...? -- Хочешь ли ты...? (менее вежливо, чем zou)
+</Tip>
+
+## Примеры
+
+<Example nl={`Ik kan goed Nederlands spreken.`} ru={`Я хорошо могу говорить по-нидерландски.`} />
+<Example nl={`Je moet elke dag oefenen.`} ru={`Ты должен практиковаться каждый день.`} />
+<Example nl={`Wil je een kopje koffie?`} ru={`Хочешь чашку кофе?`} />
+<Example nl={`Mag ik hier roken?`} ru={`Можно здесь курить?`} />
+<Example nl={`Zullen we naar de bioscoop gaan?`} ru={`Пойдем в кино?`} />
+<Example nl={`Je hoeft niet te betalen.`} ru={`Тебе не нужно платить.`} />
+<Example nl={`Ik moet morgen vroeg opstaan.`} ru={`Я должен завтра рано встать.`} />
+<Example nl={`Kun je mij helpen?`} ru={`Можешь мне помочь?`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "choice",
+    "question": "__ ik hier zitten? (разрешение)",
+    "options": [
+      "Kan",
+      "Mag",
+      "Moet",
+      "Wil"
+    ],
+    "answer": "Mag",
+    "explanation": "Просьба о разрешении -> mogen"
+  },
+  {
+    "type": "choice",
+    "question": "Je __ niet te betalen. (не нужно)",
+    "options": [
+      "moet",
+      "hoeft",
+      "kan",
+      "mag"
+    ],
+    "answer": "hoeft",
+    "explanation": "Не обязательно -> hoeven + niet + te"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Ik __ morgen vroeg opstaan. (должен)",
+    "answer": "moet",
+    "explanation": "Обязанность -> moeten, ik moet"
+  },
+  {
+    "type": "word-order",
+    "words": [
+      "je",
+      "kun",
+      "mij",
+      "helpen"
+    ],
+    "answer": "Kun je mij helpen?",
+    "explanation": "Вопрос: модальный на 1-м месте, инфинитив в конце"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "__ we naar het strand gaan? (предложение)",
+    "answer": "Zullen",
+    "explanation": "Предложение -> zullen + we"
+  }
+]} />
+

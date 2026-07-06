@@ -1,0 +1,50 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import Badge from '@/components/ui/Badge.astro';
+import LessonStatusPill from '@/components/lesson/LessonStatusPill.jsx';
+import { getAllLessons, getLevels } from '@/lib/content.js';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+const levels = getLevels();
+const allLessons = getAllLessons();
+const totalLessons = allLessons.length;
+---
+
+<MainLayout title="Уроки">
+  <div class="page-hero">
+    <h1>Уроки</h1>
+    <p class="page-hero__summary">{totalLessons} уроков от A1 до B2.</p>
+    <div class="page-hero__meta">
+      <span class="culture-pill culture-pill--muted">{levels.length} уровней</span>
+      <span class="culture-pill">{totalLessons} уроков</span>
+    </div>
+  </div>
+
+  {levels.map((level) => {
+    const levelLessons = allLessons.filter((l) => l.level === level.id);
+    return (
+      <section class="page-section">
+        <div class="page-section__head">
+          <h2>{level.title}</h2>
+          <span class="page-section__count">{levelLessons.length}</span>
+        </div>
+        <div class="card-grid">
+          {levelLessons.map((lesson, idx) => (
+            <a href={`/${lang}/lessons/${lesson.level}/${String(lesson.num).padStart(2, '0')}`} class="card" style="text-decoration:none;color:inherit">
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem">
+                <Badge level={lesson.level}>{lesson.level.toUpperCase()} · Урок {idx + 1}</Badge>
+                <LessonStatusPill client:load lessonId={lesson.id} />
+              </div>
+              <h3>{lesson.title}</h3>
+              <p style="color:var(--text-muted);font-size:.8rem;margin-top:.25rem">{lesson.minutes} мин</p>
+            </a>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+</MainLayout>

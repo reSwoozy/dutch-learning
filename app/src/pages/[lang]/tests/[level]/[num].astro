@@ -1,0 +1,44 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import Badge from '@/components/ui/Badge.astro';
+import Breadcrumb from '@/components/ui/Breadcrumb.astro';
+import TestRunner from '@/components/tests/TestRunner.jsx';
+import { allTests } from '@/content/tests/index.js';
+
+export function getStaticPaths() {
+  return allTests.map((t) => ({
+    params: {
+      lang: 'ru',
+      level: t.level,
+      num: String(t.num).padStart(2, '0'),
+    },
+    props: { meta: t },
+  }));
+}
+
+const { lang, level, num } = Astro.params;
+const { meta } = Astro.props;
+
+const allData = import.meta.glob('/src/content/tests/*/*/data.js', { eager: true });
+const dataKey = `/src/content/tests/${level}/${num}/data.js`;
+const testData = allData[dataKey]?.default || { sections: [] };
+
+const passPoints = Math.ceil(meta.maxPoints * meta.passPercent / 100);
+---
+
+<MainLayout title={meta.title}>
+  <Breadcrumb items={[
+    { href: `/${lang}/tests`, label: 'Тесты' },
+    { label: meta.title },
+  ]} />
+
+  <div class="page-hero page-hero--slim">
+    <div style="display:flex;align-items:center;gap:.5rem;flex-wrap:wrap">
+      <Badge level={meta.level}>{meta.level.toUpperCase()}</Badge>
+    </div>
+    <h1 class="culture-hero__title">{meta.title}</h1>
+    <p class="page-hero__summary">{meta.minutes} мин · {meta.maxPoints} баллов · порог {passPoints} ({meta.passPercent}%)</p>
+  </div>
+
+  <TestRunner client:load testData={testData} testMeta={meta} lang={lang} />
+</MainLayout>

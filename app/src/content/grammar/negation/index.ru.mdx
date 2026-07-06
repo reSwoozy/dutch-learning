@@ -1,0 +1,128 @@
+---
+title: "Отрицание (niet/geen)"
+level: "a1"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+В нидерландском два основных слова для отрицания: niet (не) и geen (никакой/ни один). Выбор зависит от того, что отрицается.
+
+**geen + существительное с een/без артикля | niet + все остальное**
+
+Используй geen, когда отрицаешь существительное с неопределенным артиклем (een) или без артикля. Используй niet для всего остального: глаголов, прилагательных, наречий, существительных с определенным артиклем (de/het).
+
+- geen: Ik heb geen auto. (У меня нет машины.) -- отрицание een auto
+- geen: Ik drink geen koffie. (Я не пью кофе.) -- отрицание без артикля
+- niet: Ik werk niet. (Я не работаю.) -- отрицание глагола
+- niet: Het boek is niet groot. (Книга не большая.) -- отрицание прилагательного
+- niet: Ik ken de man niet. (Я не знаю этого мужчину.) -- отрицание с de/het
+
+### geen vs niet
+
+<GrammarTable headers={["Ситуация","Пример с утверждением","Отрицание"]} rows={[["Сущ. с een","Ik heb een auto.","Ik heb geen auto."],["Сущ. без артикля","Ik drink koffie.","Ik drink geen koffie."],["Сущ. с de/het","Ik ken de man.","Ik ken de man niet."],["Глагол","Ik werk.","Ik werk niet."],["Прилагательное","Het is groot.","Het is niet groot."],["Наречие","Hij komt vaak.","Hij komt niet vaak."],["Предлог. группа","Ik ga naar school.","Ik ga niet naar school."]]} />
+
+### Место niet в предложении
+
+<GrammarTable headers={["Правило","Пример"]} rows={[["Перед прилагательным","Het weer is niet goed."],["Перед предложной группой","Ik ga niet naar huis."],["Перед наречием","Hij werkt niet hard."],["В конце (отрицание глагола)","Ik weet het niet."],["Перед вторым глаголом","Ik kan niet zwemmen."],["Перед причастием","Ik heb niet gewerkt."]]} />
+
+### Позиция niet: подробнее
+
+'niet' стоит после определённого прямого дополнения и обстоятельства времени, но перед прилагательным, предложной группой, наречием образа действия и вторым глаголом (инфинитивом/причастием) в конце.
+
+<GrammarTable headers={["niet стоит...","Правило","Пример"]} rows={[["после опред. дополнения","de/het-дополнение раньше niet","Ik ken de vrouw niet."],["после времени","обстоятельство времени раньше niet","Ik werk vandaag niet."],["перед местом/образом действия","niet раньше naar.../zo...","Ik ga niet naar huis. / Hij rijdt niet snel."],["в самом конце","при отрицании всего простого предложения","Ik slaap niet."]]} />
+
+### niet ... maar, niet alleen, niet meer
+
+<GrammarTable headers={["Конструкция","Значение","Пример"]} rows={[["niet ... maar","не ..., а ...","Ik wil niet koffie maar thee."],["niet alleen ... maar ook","не только ..., но и ...","Hij spreekt niet alleen Nederlands, maar ook Duits."],["niet meer","больше не","Ik werk hier niet meer."],["geen ... meer","больше нет / больше ни одного","Er is geen brood meer."],["nog niet","ещё не","De trein is nog niet vertrokken."]]} />
+
+<Tip title="geen vs niet: быстрый тест">
+- Можно ли поставить перед словом 'een' или множественное/неисчисляемое существительное без артикля? -> geen.
+- Ik heb (een) auto -> Ik heb geen auto. Ik drink koffie -> Ik drink geen koffie.
+- Всё остальное (глаголы, прилагательные, de/het-существительные, имена собственные) -> niet.
+- Ik ken de man niet. / Dat is niet Amsterdam.
+</Tip>
+
+## Примеры
+
+<Example nl={`Ik heb geen broers of zussen.`} ru={`У меня нет братьев или сестер.`} />
+<Example nl={`Er is geen melk meer.`} ru={`Молока больше нет.`} />
+<Example nl={`Ik spreek niet goed Nederlands.`} ru={`Я не хорошо говорю по-нидерландски.`} />
+<Example nl={`Zij woont niet in Amsterdam.`} ru={`Она не живет в Амстердаме.`} />
+<Example nl={`Ik kan vandaag niet komen.`} ru={`Я не могу сегодня прийти.`} />
+<Example nl={`Het is geen probleem.`} ru={`Это не проблема.`} />
+<Example nl={`Wij hebben de film niet gezien.`} ru={`Мы не видели фильм.`} />
+<Example nl={`Dat is niet waar.`} ru={`Это неправда.`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "choice",
+    "question": "Ik heb __ tijd.",
+    "options": [
+      "niet",
+      "geen"
+    ],
+    "answer": "geen",
+    "explanation": "tijd -- существительное без артикля -> geen"
+  },
+  {
+    "type": "choice",
+    "question": "Hij is __ ziek.",
+    "options": [
+      "niet",
+      "geen"
+    ],
+    "answer": "niet",
+    "explanation": "ziek -- прилагательное -> niet"
+  },
+  {
+    "type": "choice",
+    "question": "Wij gaan __ naar de bioscoop.",
+    "options": [
+      "niet",
+      "geen"
+    ],
+    "answer": "niet",
+    "explanation": "Перед предложной группой -> niet"
+  },
+  {
+    "type": "choice",
+    "question": "Er zijn __ stoelen meer.",
+    "options": [
+      "niet",
+      "geen"
+    ],
+    "answer": "geen",
+    "explanation": "stoelen -- существительное без артикля -> geen"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Ik kan vandaag __ komen.",
+    "answer": "niet",
+    "explanation": "Отрицание перед инфинитивом -> niet"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Zij heeft __ kinderen.",
+    "answer": "geen",
+    "explanation": "kinderen -- существительное без артикля -> geen"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Ik werk hier __ __. (больше не)",
+    "answer": "niet meer",
+    "explanation": "'niet meer' = больше не (с глаголом)."
+  },
+  {
+    "type": "choice",
+    "question": "Er is __ brood meer. (больше нет хлеба)",
+    "options": [
+      "niet",
+      "geen"
+    ],
+    "answer": "geen",
+    "explanation": "Существительное без артикля + meer -> geen ... meer."
+  }
+]} />
+

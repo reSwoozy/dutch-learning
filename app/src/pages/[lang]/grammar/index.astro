@@ -1,0 +1,53 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import Badge from '@/components/ui/Badge.astro';
+import GrammarViewedBadge from '@/components/progress/GrammarViewedBadge.jsx';
+import { getGrammarCategories, getAllGrammarTopics, getGrammarTopicsMap } from '@/lib/content.js';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+const categories = getGrammarCategories();
+const topicsMap = getGrammarTopicsMap();
+const totalTopics = getAllGrammarTopics().length;
+---
+
+<MainLayout title="Грамматика">
+  <div class="page-hero">
+    <h1>Грамматический справочник</h1>
+    <p class="page-hero__summary">Поиск по темам и фильтр по уровню A1–B2.</p>
+    <div class="page-hero__meta">
+      <span class="culture-pill">{totalTopics} тем</span>
+      <span class="culture-pill culture-pill--muted">{categories.length} разделов</span>
+    </div>
+  </div>
+
+  {categories.map((cat) => {
+    const topicIds = cat.topics || [];
+    const topics = topicIds.map((id) => topicsMap[id]).filter(Boolean);
+    if (topics.length === 0) return null;
+
+    return (
+      <section class="page-section">
+        <div class="page-section__head">
+          <h2>{cat.title}</h2>
+          <span class="page-section__count">{topics.length}</span>
+        </div>
+        <div class="card-grid">
+          {topics.map((t) => (
+            <a href={`/${lang}/grammar/${t.id}`} class="card" style="text-decoration:none;color:inherit">
+              <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem;gap:.5rem">
+                <Badge level={t.level}>{t.level.toUpperCase()}</Badge>
+                <GrammarViewedBadge client:load topicId={t.id} />
+              </div>
+              <h3>{t.title}</h3>
+              {t.titleNL && <p style="color:var(--text-muted);font-size:.8rem;margin-top:.25rem">{t.titleNL}</p>}
+            </a>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+</MainLayout>

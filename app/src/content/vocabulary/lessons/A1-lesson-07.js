@@ -1,0 +1,266 @@
+export default [
+  {
+    "nl": "het huis",
+    "ru": "дом",
+    "example": "Mijn huis is groot en mooi.",
+    "pronunciation": "ɦət ɦœy̯s",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de kamer",
+    "ru": "комната",
+    "example": "Deze kamer is mijn slaapkamer.",
+    "pronunciation": "də ˈkaːmər",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de keuken",
+    "ru": "кухня",
+    "example": "Ik kook in de keuken.",
+    "pronunciation": "də ˈkøːkən",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de badkamer",
+    "ru": "ванная",
+    "example": "De badkamer is schoon.",
+    "pronunciation": "də ˈbɑtkaːmər",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de slaapkamer",
+    "ru": "спальня",
+    "example": "Ik slaap in mijn slaapkamer.",
+    "pronunciation": "də ˈslaːpkaːmər",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de woonkamer",
+    "ru": "гостиная",
+    "example": "We zitten in de woonkamer.",
+    "pronunciation": "də ˈʋoːnkaːmər",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de zolder",
+    "ru": "чердак",
+    "example": "Op zolder staan oude spullen.",
+    "pronunciation": "də ˈzɔldər",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de kelder",
+    "ru": "подвал",
+    "example": "In de kelder is de wasmachine.",
+    "pronunciation": "də ˈkɛldər",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de gang",
+    "ru": "коридор",
+    "example": "De gang verbindt alle kamers.",
+    "pronunciation": "də ɣɑŋ",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de trap",
+    "ru": "лестница",
+    "example": "De trap gaat naar boven.",
+    "pronunciation": "də trɑp",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "het balkon",
+    "ru": "балкон",
+    "example": "Op het balkon staan planten.",
+    "pronunciation": "ɦət bɑlˈkɔn",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de tuin",
+    "ru": "сад",
+    "example": "In de tuin groeien bloemen.",
+    "pronunciation": "də tœy̯n",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de tafel",
+    "ru": "стол",
+    "example": "Op de tafel staat eten.",
+    "pronunciation": "də ˈtaːfəl",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de stoel",
+    "ru": "стул",
+    "example": "Ik zit op een comfortabele stoel.",
+    "pronunciation": "də stul",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "het bed",
+    "ru": "кровать",
+    "example": "Het bed is zacht en warm.",
+    "pronunciation": "ɦət bɛt",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de bank",
+    "ru": "диван",
+    "example": "De bank staat voor de tv.",
+    "pronunciation": "də bɑŋk",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de kast",
+    "ru": "шкаф",
+    "example": "Mijn kleren hangen in de kast.",
+    "pronunciation": "də kɑst",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "het raam",
+    "ru": "окно",
+    "example": "Door het raam zie ik de tuin.",
+    "pronunciation": "ɦət raːm",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de deur",
+    "ru": "дверь",
+    "example": "De deur van mijn kamer is blauw.",
+    "pronunciation": "də døːr",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de lamp",
+    "ru": "лампа",
+    "example": "De lamp geeft veel licht.",
+    "pronunciation": "də lɑmp",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "het tapijt",
+    "ru": "ковер",
+    "example": "Het tapijt is zacht onder mijn voeten.",
+    "pronunciation": "ɦət taˈpɛi̯t",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de gordijnen",
+    "ru": "шторы",
+    "example": "De gordijnen zijn dicht.",
+    "pronunciation": "də ɣɔrˈdɛi̯nən",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de spiegel",
+    "ru": "зеркало",
+    "example": "Ik kijk in de spiegel.",
+    "pronunciation": "də ˈspiɣəl",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de televisie",
+    "ru": "телевизор",
+    "example": "We kijken televisie in de avond.",
+    "pronunciation": "də ˌteːləˈvizi",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "de koelkast",
+    "ru": "холодильник",
+    "example": "Het eten staat in de koelkast.",
+    "pronunciation": "də ˈkulkɑst",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "het fornuis",
+    "ru": "плита",
+    "example": "Ik kook op het fornuis.",
+    "pronunciation": "ɦət fɔrˈnœy̯s",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "in",
+    "ru": "в",
+    "example": "De kat is in de kast.",
+    "pronunciation": "ɪn",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "op",
+    "ru": "на",
+    "example": "Het boek ligt op tafel.",
+    "pronunciation": "ɔp",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "onder",
+    "ru": "под",
+    "example": "De hond ligt onder de tafel.",
+    "pronunciation": "ˈɔndər",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "naast",
+    "ru": "рядом",
+    "example": "De stoel staat naast het bed.",
+    "pronunciation": "naːst",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "tussen",
+    "ru": "между",
+    "example": "Ik sta tussen mijn ouders.",
+    "pronunciation": "ˈtʋɛsən",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "achter",
+    "ru": "за",
+    "example": "De tuin is achter het huis.",
+    "pronunciation": "ˈɑxtər",
+    "level": "A1",
+    "lesson": 7
+  },
+  {
+    "nl": "voor",
+    "ru": "перед",
+    "example": "De auto staat voor het huis.",
+    "pronunciation": "voːr",
+    "level": "A1",
+    "lesson": 7
+  }
+];

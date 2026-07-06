@@ -1,0 +1,102 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import ReadingProgressToggle from '@/components/progress/ReadingProgress.jsx';
+import Badge from '@/components/ui/Badge.astro';
+import Breadcrumb from '@/components/ui/Breadcrumb.astro';
+import { allReadings } from '@/content/reading/index.js';
+
+const allData = import.meta.glob('/src/content/reading/*/*/data.js', { eager: true });
+
+export function getStaticPaths() {
+  return allReadings.map((r) => ({
+    params: {
+      lang: 'ru',
+      level: r.level,
+      num: String(r.num).padStart(2, '0'),
+    },
+    props: { reading: r },
+  }));
+}
+
+const { lang, level, num } = Astro.params;
+const { reading } = Astro.props;
+
+const dataKey = `/src/content/reading/${level}/${num}/data.js`;
+const readingData = allData[dataKey]?.default || {};
+const body = readingData.body || '';
+const glossary = readingData.glossary || [];
+const questions = readingData.questions || [];
+const paragraphs = body.split('\n\n').filter((p) => p.trim());
+---
+
+<MainLayout title={reading.title}>
+  <Breadcrumb items={[
+    { href: `/${lang}/reading`, label: 'Чтение' },
+    { label: reading.title },
+  ]} />
+
+  <div class="page-hero page-hero--slim">
+    <div style="display:flex;align-items:center;gap:.5rem;flex-wrap:wrap">
+      <Badge level={level}>{level.toUpperCase()}</Badge>
+      {reading.readingTime && <span style="font-size:.85rem;color:var(--text-muted)">{reading.readingTime}</span>}
+    </div>
+    <h1 class="culture-hero__title">{reading.title}</h1>
+  </div>
+
+  {paragraphs.length > 0 && (
+    <div class="card" style="margin:1rem 0;line-height:1.8;font-size:1.05rem">
+      {paragraphs.map((p) => (
+        <p style="margin-bottom:1rem">{p}</p>
+      ))}
+    </div>
+  )}
+
+  {glossary.length > 0 && (
+    <div style="margin-top:1.5rem">
+      <h3>Словарь</h3>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr><th>Nederlands</th><th>Русский</th></tr>
+          </thead>
+          <tbody>
+            {glossary.map((w) => (
+              <tr>
+                <td><strong>{w.nl}</strong></td>
+                <td>{w.ru}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  )}
+
+  {questions.length > 0 && (
+    <div style="margin-top:1.5rem">
+      <h3>Вопросы</h3>
+      {questions.map((q, qi) => (
+        <div class="exercise-item" style="margin-bottom:1rem">
+          <p><strong>{qi + 1}.</strong> {q.q || q.question || ''}</p>
+          {q.options && (
+            <div style="margin-top:.25rem">
+              {q.options.map((opt, oi) => (
+                <div style={`padding:.25rem 0;color:var(--text-muted)`}>
+                  {String.fromCharCode(97 + oi)}) {opt}
+                </div>
+              ))}
+            </div>
+          )}
+          <details style="margin-top:.5rem">
+            <summary style="cursor:pointer;color:var(--accent);font-size:.85rem">Ответ</summary>
+            <p style="color:var(--green);margin-top:.25rem">
+              {q.options ? q.options[q.answer] || `Вариант ${q.answer + 1}` : q.answer || ''}
+            </p>
+          </details>
+        </div>
+      ))}
+    </div>
+  )}
+
+  <ReadingProgressToggle client:load readingId={reading.id} lang={lang} />
+</MainLayout>

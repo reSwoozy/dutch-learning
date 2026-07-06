@@ -1,0 +1,242 @@
+export default [
+  {
+    "nl": "de school",
+    "ru": "школа",
+    "example": "Op welke school zat je?",
+    "pronunciation": "də sxoːl",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "de basisschool",
+    "ru": "начальная школа",
+    "example": "Mijn zoon gaat naar de basisschool.",
+    "pronunciation": "də ˈbaːzɪssxoːl",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "het voortgezet onderwijs",
+    "ru": "среднее образование",
+    "example": "Na de basisschool komt het voortgezet onderwijs.",
+    "pronunciation": "ɦət ˈvoːrtɣəzɛt ˈɔndərʋɛi̯s",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "het gymnasium",
+    "ru": "гимназия",
+    "example": "Ik heb op het gymnasium gezeten.",
+    "pronunciation": "ɦət ɣɪmˈnaːzijʏm",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "de universiteit",
+    "ru": "университет",
+    "example": "Aan welke universiteit studeer je?",
+    "pronunciation": "də ˌynivɛrsiˈtɛi̯t",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "de hogeschool",
+    "ru": "институт прикладных наук",
+    "example": "Hij studeert aan de hogeschool.",
+    "pronunciation": "də ˈɦoːɣəsxoːl",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "studeren",
+    "ru": "учиться (в вузе)",
+    "example": "Ik studeer economie.",
+    "pronunciation": "styˈdeːrə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "leren",
+    "ru": "учить/изучать",
+    "example": "We leren Nederlands.",
+    "pronunciation": "ˈleːrə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "de student",
+    "ru": "студент",
+    "example": "Hij is een goede student.",
+    "pronunciation": "də styˈdɛnt",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "de leraar",
+    "ru": "учитель",
+    "example": "Onze leraar is heel aardig.",
+    "pronunciation": "də ləˈraːr",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "de les",
+    "ru": "урок",
+    "example": "De les begint om acht uur.",
+    "pronunciation": "də lɛs",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "het vak",
+    "ru": "предмет",
+    "example": "Wat is je lievelingsvak?",
+    "pronunciation": "ɦət vɑk",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "wiskunde",
+    "ru": "математика",
+    "example": "Wiskunde is moeilijk.",
+    "pronunciation": "ˈʋɪskʏndə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "geschiedenis",
+    "ru": "история",
+    "example": "Ik houd van geschiedenis.",
+    "pronunciation": "ɣəˈsxidənɪs",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "aardrijkskunde",
+    "ru": "география",
+    "example": "Aardrijkskunde is interessant.",
+    "pronunciation": "ˈaːrdrɛi̯ksˌkʏndə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "natuurkunde",
+    "ru": "физика",
+    "example": "Natuurkunde verklaard hoe dingen werken.",
+    "pronunciation": "naːˈtyːrkʏndə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "scheikunde",
+    "ru": "химия",
+    "example": "Scheikunde gaat over moleculen.",
+    "pronunciation": "ˈsxɛi̯kʏndə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "biologie",
+    "ru": "биология",
+    "example": "In biologie leren we over leven.",
+    "pronunciation": "bioːloːˈɣi",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "het tentamen",
+    "ru": "экзамен",
+    "example": "Wanneer is je tentamen?",
+    "pronunciation": "ɦət tɛnˈtaːmə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "het examen",
+    "ru": "экзамен",
+    "example": "Het eindexamen is belangrijk.",
+    "pronunciation": "ɦət ɛkˈsaːmə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "slagen",
+    "ru": "сдать (экзамен)",
+    "example": "Ik hoop te slagen.",
+    "pronunciation": "ˈslaːɣə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "zakken",
+    "ru": "провалить",
+    "example": "Hij is gezakt voor wiskunde.",
+    "pronunciation": "ˈzɑkə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "het cijfer",
+    "ru": "оценка",
+    "example": "Welk cijfer heb je gehaald?",
+    "pronunciation": "ɦət ˈsɛi̯fər",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "een voldoende",
+    "ru": "зачет",
+    "example": "Een zes is een voldoende.",
+    "pronunciation": "ən vɔlˈdundə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "een onvoldoende",
+    "ru": "незачет",
+    "example": "Een vijf is een onvoldoende.",
+    "pronunciation": "ən ˈɔnvɔlˌdundə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "het huiswerk",
+    "ru": "домашнее задание",
+    "example": "Heb je je huiswerk gemaakt?",
+    "pronunciation": "ɦət ˈɦœy̯sʋɛrk",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "de presentatie",
+    "ru": "презентация",
+    "example": "Morgen geef ik een presentatie.",
+    "pronunciation": "də ˌpreːzɛnˈtaːtsi",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "het onderzoek",
+    "ru": "исследование",
+    "example": "We doen onderzoek naar klimaat.",
+    "pronunciation": "ɦət ˈɔndərzuk",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "afstuderen",
+    "ru": "выпускаться",
+    "example": "Wanneer ga je afstuderen?",
+    "pronunciation": "ˈɑfstydɛːrə",
+    "level": "A2",
+    "lesson": 23
+  },
+  {
+    "nl": "de diploma",
+    "ru": "диплом",
+    "example": "Ik heb mijn diploma gehaald.",
+    "pronunciation": "də diˈploːmaː",
+    "level": "A2",
+    "lesson": 23
+  }
+];

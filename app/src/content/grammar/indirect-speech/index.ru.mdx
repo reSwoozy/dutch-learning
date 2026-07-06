@@ -1,0 +1,118 @@
+---
+title: "Косвенная речь"
+level: "b2"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Косвенная речь передает чужие слова. Используются союзы dat (что) и of (ли). Времена могут сдвигаться назад.
+
+**Hij zegt dat... | Hij vraagt of... | Hij zegt + wh-woord + S...V (в конце)**
+
+При передаче утверждений используется dat, вопросов да/нет -- of, wh-вопросов -- вопросительное слово. Все это подчинительные союзы, поэтому глагол уходит в конец.
+
+- Утверждение: Hij zegt dat hij morgen komt. (Он говорит, что он завтра придет.)
+- Да/нет вопрос: Zij vraagt of ik Nederlands spreek. (Она спрашивает, говорю ли я по-нидерландски.)
+- Wh-вопрос: Hij vraagt waar ik woon. (Он спрашивает, где я живу.)
+
+### Прямая -> косвенная речь
+
+<GrammarTable headers={["Прямая","Косвенная","Тип"]} rows={[["'Ik kom morgen.'","Hij zegt dat hij morgen komt.","Утверждение (dat)"],["'Spreek je Nederlands?'","Zij vraagt of ik Nederlands spreek.","Да/нет вопрос (of)"],["'Waar woon je?'","Hij vraagt waar ik woon.","Wh-вопрос"],["'Kom morgen!'","Hij zegt dat ik morgen moet komen.","Повелительное (dat + moeten)"]]} />
+
+### Сдвиг времен (при глаголе в прошедшем)
+
+<GrammarTable headers={["Прямая речь","Косвенная речь","Пример"]} rows={[["Настоящее (OTT)","Imperfectum (OVT)","'Ik werk.' -> Hij zei dat hij werkte."],["Perfectum (VTT)","Plusquamperfectum","'Ik heb gewerkt.' -> Hij zei dat hij had gewerkt."],["Будущее (zullen)","zou/zouden","'Ik zal komen.' -> Hij zei dat hij zou komen."],["kunnen","kon/konden","'Ik kan komen.' -> Hij zei dat hij kon komen."]]} />
+
+### Изменение местоимений и указателей
+
+<GrammarTable headers={["Прямая","Косвенная"]} rows={[["ik","hij/zij"],["mijn","zijn/haar"],["hier","daar"],["nu","toen"],["vandaag","die dag"],["morgen","de volgende dag"],["gisteren","de vorige dag"]]} />
+
+### Сдвиг времён часто необязателен
+
+В отличие от английского, в нидерландском сдвиг времён после глагола в прошедшем НЕ обязателен, если сообщаемый факт по-прежнему актуален. Можно оставить настоящее время.
+
+<GrammarTable headers={["Ситуация","Вариант","Пример"]} rows={[["Факт всё ещё верен","без сдвига (настоящее)","Hij zei dat hij in Utrecht woont. (он там и живёт)"],["Акцент на прошлом/неактуально","со сдвигом","Hij zei dat hij in Utrecht woonde."],["Общая истина","без сдвига","De leraar zei dat water bij 100 graden kookt."],["Актуальное намерение","без сдвига","Ze zei dat ze morgen komt."]]} />
+
+### Порядок слов с модальным/перфектом в косвенной речи
+
+В придаточном косвенной речи все глаголы уходят в конец. Спрягаемый глагол (модальный/вспомогательный) стоит перед смысловым инфинитивом или причастием.
+
+<GrammarTable headers={["Прямая","Косвенная","Порядок в конце"]} rows={[["'Ik moet werken.'","Hij zegt dat hij moet werken.","модальн. + инф."],["'Ik heb gewerkt.'","Hij zegt dat hij heeft gewerkt.","вспом. + причастие"],["'Ik wil je helpen.'","Hij zegt dat hij me wil helpen.","модальн. + инф."],["'Ik ben gekomen.'","Hij zegt dat hij is gekomen.","вспом. + причастие"]]} />
+
+<Tip title="Сдвиг времён: правило большого пальца">
+- Если сообщённое всё ещё верно сейчас -- оставляйте настоящее: 'Ze zei dat ze twee kinderen heeft.'
+- Если действие завершено/уже неверно -- сдвигайте назад: 'Ze zei dat ze ziek was.'
+- Оба варианта грамматичны; выбор зависит от смысла, а не от механического правила.
+</Tip>
+
+## Примеры
+
+<Example nl={`Hij zegt dat hij ziek is.`} ru={`Он говорит, что он болен.`} />
+<Example nl={`Zij vroeg of ik mee wilde gaan.`} ru={`Она спросила, хочу ли я пойти с ней.`} />
+<Example nl={`De leraar vraagt waar mijn huiswerk is.`} ru={`Учитель спрашивает, где моя домашняя работа.`} />
+<Example nl={`Hij zei dat hij de volgende dag zou komen.`} ru={`Он сказал, что придет на следующий день.`} />
+<Example nl={`Zij vertelde dat zij in Amsterdam had gewoond.`} ru={`Она рассказала, что жила в Амстердаме.`} />
+<Example nl={`De dokter zei dat ik meer moest rusten.`} ru={`Врач сказал, что мне нужно больше отдыхать.`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "fill-blank",
+    "sentence": "Hij zegt __ hij morgen komt.",
+    "answer": "dat",
+    "explanation": "Утверждение -> dat"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Zij vraagt __ ik Nederlands spreek.",
+    "answer": "of",
+    "explanation": "Да/нет вопрос -> of"
+  },
+  {
+    "type": "word-order",
+    "words": [
+      "hij",
+      "vraagt",
+      "waar",
+      "ik",
+      "woon"
+    ],
+    "answer": "Hij vraagt waar ik woon.",
+    "explanation": "Косвенный wh-вопрос: глагол в конце"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "'Ik zal komen.' -> Hij zei dat hij __ komen.",
+    "answer": "zou",
+    "explanation": "Сдвиг времени: zal -> zou"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "'Ik heb gewerkt.' -> Hij zei dat hij __ gewerkt.",
+    "answer": "had",
+    "explanation": "Сдвиг: heb -> had (plusquamperfectum)"
+  },
+  {
+    "type": "word-order",
+    "words": [
+      "dat",
+      "hij",
+      "moet",
+      "werken"
+    ],
+    "answer": "...dat hij moet werken.",
+    "explanation": "В придаточном модальный + инфинитив уходят в конец."
+  },
+  {
+    "type": "choice",
+    "question": "Обязателен ли сдвиг времени в 'Hij zei dat hij in Utrecht ___' (он и сейчас там живёт)?",
+    "options": [
+      "woont (без сдвига, факт актуален)",
+      "только woonde (сдвиг обязателен)"
+    ],
+    "answer": "woont (без сдвига, факт актуален)",
+    "explanation": "В нидерландском сдвиг необязателен, если факт по-прежнему верен."
+  }
+]} />
+

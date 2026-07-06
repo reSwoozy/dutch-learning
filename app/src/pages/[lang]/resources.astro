@@ -1,0 +1,45 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+
+let sections = [];
+try {
+  const mod = await import('@/content/resources/index.js');
+  const data = mod.default || {};
+  sections = data.sections || data.categories || [];
+} catch (_e) {}
+---
+
+<MainLayout title="Ресурсы">
+  <div class="page-hero">
+    <h1>Ресурсы</h1>
+    <p class="page-hero__summary">Полезные ссылки для изучения нидерландского.</p>
+    <div class="page-hero__meta">
+      <span class="culture-pill">{sections.length} категорий</span>
+    </div>
+  </div>
+
+  {sections.map((sec) => (
+    <section class="page-section">
+      <div class="page-section__head">
+        <h2>{sec.titleRu || sec.title || sec.titleNl}</h2>
+        <span class="page-section__count">{sec.items?.length || 0}</span>
+      </div>
+      {sec.description && <p style="color:var(--text-muted);margin-bottom:.75rem;font-size:.9rem">{sec.description}</p>}
+      <div class="card-grid">
+        {(sec.items || []).map((item) => (
+          <a href={item.url} target="_blank" rel="noopener noreferrer" class="card" style="text-decoration:none;color:inherit">
+            <h3 style="font-size:1rem">{item.title}</h3>
+            {item.note && <p style="color:var(--text-muted);font-size:.85rem;margin-top:.25rem">{item.note}</p>}
+            {item.level && <span style="color:var(--accent);font-size:.75rem;margin-top:.25rem;display:inline-block">{item.level}</span>}
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+</MainLayout>

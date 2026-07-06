@@ -2,215 +2,120 @@
 
 Учебное приложение для нидерландского языка с нуля до B2. Покрывает путь **inburgering (B1)** и **Staatsexamen NT2 Programma II (B2)**.
 
-Текущий объём: 53 урока, 38 грамматических тем, ~5900 слов в tier-структуре, 108 неправильных глаголов, 22 статьи о стране (включая 7 KNM-досье), 15 тестов (12 уровневых + 3 KNM-mock), 20 градуированных текстов для чтения, 13 материалов по письму, 46 внешних ресурсов. Живёт как статический SPA на GitHub Pages с Firebase-бэкендом (Auth + Firestore), устанавливается как PWA и работает оффлайн.
+Сайт собран на **Astro 6** + **React** (интерактивные экраны), разворачивается как статика на GitHub Pages. Прогресс хранится в **Firebase** (Auth + Firestore).
 
 ## Два пути обучения
 
-| Цель | Путь | Что из проекта использовать |
+| Цель | Путь | Что использовать |
 |---|---|---|
-| **Inburgering (B1 + KNM)** | A1 → A2 → B1 + KNM | Уроки A1–B1, грамматика A1–B1, core/A1–B1 + extended/B1, темы «работа / здоровье / жильё / образование / муниципалитет / финансы», 7 KNM-досье, 3 KNM mock-теста, чтение A1–B1, письмо (formeel), культура |
-| **Staatsexamen NT2 II (B2)** | A1 → A2 → B1 → B2 | Весь путь выше + уроки B2, грамматика B2, core/B2 + extended/B2, темы «медиа / экология / academisch B2», чтение B2 (публицистика, betoog, beschouwing), письмо (middellange schrijftaak, argumentatief B2) |
+| **Inburgering (B1 + KNM)** | A1 → A2 → B1 + KNM | Уроки A1–B1, грамматика, core/extended словарь, KNM-статьи и mock-тесты, чтение и письмо B1 |
+| **Staatsexamen NT2 II (B2)** | A1 → A2 → B1 → B2 | Весь путь выше + уроки B2, расширенная грамматика и лексика B2 |
 
-## Как открыть
+## Продакшен
 
-Продакшен живёт на GitHub Pages: **https://reswoozy.github.io/dutch-learning/**
+**https://reswoozy.github.io/dutch-learning/**
 
-При первом заходе сайт показывает экран входа через Google. Firebase Auth сам кеширует сессию — при повторных заходах вход уже не требуется, пока явно не нажать «Выйти» в меню аватара в шапке.
+Вход через Google. Сессия кешируется в браузере; повторный вход не нужен, пока не нажать «Выйти».
 
-## Архитектура
+## Локальный запуск
 
-SPA без сборки и зависимостей в рантайме. Весь клиентский код — ES-модули, подключаемые одним entry-файлом `site/js/main.js`. Бэкенд — Firebase (Auth + Firestore), раздаётся как `<script type="module">` с `gstatic.com`.
-
-```
-.github/workflows/deploy.yml   CI: валидация JSON, пересборка индексов, inject Firebase config, deploy на Pages
-firestore.rules                правила Firestore: read/write только своего users/{uid}
-scripts/
-  rebuild-vocab-index.mjs      пересборка vocabulary/index.json и search-index.json
-  normalize-lesson-titles.mjs  унификация заголовков уроков
-  server.py                    необязательный локальный dev-сервер (статика, без прогресса)
-
-site/
-  index.html                   единственный HTML; подключает css/*.css и js/main.js как module
-  manifest.webmanifest         PWA-манифест + shortcuts (карточки, уроки, чтение, ресурсы)
-  sw.js                        service worker, cache-first / stale-while-revalidate; v10
-  icons/icon.svg
-  css/
-    base.css                   переменные, reset, типографика, анимации
-    layout.css                 header / nav drawer / footer / auth-gate / user-badge
-    components.css             карточки, бейджи, кнопки, тосты, поиск, flashcards chrome
-    pages.css                  стили секций (verbs/tests/grammar-exercise/lesson/reading/writing/culture)
-  js/
-    main.js                    bootstrap: импортирует модули, слушает onAuth, показывает gate / badge, запускает App.init
-    core/
-      app.js                   App singleton (state, init, pageHero, escapeHtml)
-      router.js                hash-роутер
-      data.js                  fetchJSON, vocabSetPath, loadVocabSet
-      auth.js                  gate-UI, signIn/signOut, onAuth
-      progress.js              Firestore-backed Progress (users/{uid}.progress, debounced save, offline via IndexedDB)
-      srs.js                   алгоритм SM-2
-    firebase/
-      config.example.js        шаблон конфига с __FB_*__-плейсхолдерами (коммитится)
-      config.js                реальный конфиг — gitignored, генерится в CI из GitHub Secrets
-      app.js                   initializeApp + экспорт auth/db/провайдеров + enableIndexedDbPersistence
-    ui/
-      dom.js                   escapeAttr
-      toast.js                 showToast
-      nav.js                   бургер/drawer/updateActiveNav/updateHeaderStreak
-      keyboard.js              глобальные шорткаты
-      search.js                ⌘K-модалка глобального поиска
-    pages/
-      home.js  lessons.js  grammar.js  flashcards.js  verbs.js
-      reading.js  writing.js  culture.js  resources.js  tests.js
-      progress-dashboard.js
-  data/
-    lessons/                   53 урока (A1/A2/B1/B2) + index.json
-    grammar/                   38 тем + index.json
-    vocabulary/                tier-структура (см. ниже)
-    verbs/irregular.json       108 неправильных глаголов
-    tests/                     15 тестов + index.json
-    culture/                   22 статьи (включая 7 KNM-досье) + index.json
-    reading/                   20 градуированных текстов A1–B2 + index.json
-    writing/                   13 материалов + index.json
-    resources/index.json       7 разделов со ссылками на внешние источники
+```bash
+cd app
+cp .env.example .env
+# заполнить PUBLIC_FB_* из Firebase Console
+npm install
+npm run dev
 ```
 
-Каждый файл в `pages/*` и `ui/*` — мини-модуль, который делает `Object.assign(App, { ... })` при импорте. `main.js` подключает их один раз — все методы оказываются на singletone `App`, `this.*` внутри тел рендеров работает как раньше.
+Открыть **http://localhost:4321/ru/** (или порт, который покажет Astro).
+
+Сборка для проверки продакшен-артефакта:
+
+```bash
+cd app
+npm run build
+npm run preview
+```
+
+## Структура репозитория
+
+```
+app/                          Astro-приложение (источник продакшена)
+  src/
+    pages/[lang]/             маршруты: уроки, грамматика, карточки, тесты…
+    content/                  MDX-уроки, грамматика, словарь, культура, тесты
+    components/               Astro + React (карточки, аккаунт, тесты…)
+    stores/                   Zustand: auth, progress
+    lib/                      Firebase, SRS (SM-2), legacy-ids, vocab-sets
+    styles/                   base, layout, components, pages
+  public/                     favicon, иконки
+  .env.example                шаблон переменных Firebase
+  astro.config.mjs
+
+.github/workflows/deploy.yml  CI: lint, build app/, deploy app/dist на Pages
+firestore.rules               правила Firestore (users/{uid})
+```
+
+Каталог `site/` — прежняя JSON-SPA-версия; в деплой не входит, оставлена как архив контента.
 
 ## Firebase
 
-Сайт использует две возможности Firebase:
+- **Authentication** — Google Sign-in; без входа прогресс не сохраняется.
+- **Firestore** — документ `users/{uid}` с полем `progress` и `updatedAt`.
+- Оффлайн: IndexedDB persistence в клиенте Firebase.
 
-- **Authentication** — Google Sign-in. Вход обязателен для любого пользовательского действия.
-- **Firestore** — единственное хранилище прогресса. Документ `users/{uid}` содержит поле `progress` (см. схему ниже) и `updatedAt`. Оффлайн-персистентность через IndexedDB, так что короткие потери связи не ломают запись.
+### Переменные окружения (`app/.env`)
+
+```
+PUBLIC_FB_API_KEY=
+PUBLIC_FB_AUTH_DOMAIN=
+PUBLIC_FB_PROJECT_ID=
+PUBLIC_FB_STORAGE_BUCKET=
+PUBLIC_FB_MESSAGING_SENDER_ID=
+PUBLIC_FB_APP_ID=
+```
+
+В CI те же значения передаются из GitHub Secrets (`FIREBASE_*`) в workflow `deploy.yml`.
 
 ### Правила Firestore
 
-Лежат в `firestore.rules`. Коротко:
+Файл `firestore.rules`: чтение/запись только своего `users/{uid}`, поля `progress` и `updatedAt`, проверка `progress.version >= 4`.
 
-- `users/{uid}` — читать и писать может только владелец (`request.auth.uid == uid`);
-- разрешены только поля `progress` и `updatedAt`;
-- `progress.version >= 4`, типы ключевых полей проверяются;
-- удаление документа запрещено;
-- всё остальное — запрещено по умолчанию.
+## Прогресс (схема v8)
 
-Перед публикацией правил нужно вручную нажать Publish в Firebase Console → Firestore Database → Rules (либо пустить через Firebase CLI, в проекте не настроено).
+При первом входе данные подтягиваются из Firestore; при отсутствии — миграция из `localStorage` (`dutch-progress-buffer`) с маппингом legacy ID уроков и SRS-ключей.
 
-### GitHub Secrets
+Основные поля:
 
-Для деплоя workflow собирает `site/js/firebase/config.js` из `config.example.js`, подставляя значения из секретов:
+- `lessonsCompleted`, `grammarViewed`, `readingRead`, `writingSeen`
+- `testResults`, `exerciseHistory`
+- `srs` — интервальное повторение (SM-2): ключ `setId::слово`
+- `streak`, `totalCorrect`, `totalAnswered`, `lastActiveDate`
 
-- `FIREBASE_API_KEY`
-- `FIREBASE_AUTH_DOMAIN`
-- `FIREBASE_PROJECT_ID`
-- `FIREBASE_STORAGE_BUCKET`
-- `FIREBASE_MESSAGING_SENDER_ID`
-- `FIREBASE_APP_ID`
+## Карточки и SRS
 
-В конце деплоя workflow проверяет, что в `config.js` не осталось плейсхолдеров `__FB_*__` — если остались, деплой падает.
-
-`config.js` находится в `.gitignore`; в репозиторий уходит только `config.example.js` с плейсхолдерами.
-
-## Хранение прогресса
-
-Схема `progress` (version 4):
-
-```json
-{
-  "version": 4,
-  "grammarViewed": ["present-tense", "imperative"],
-  "lessonsCompleted": ["A1-lesson-01", "A1-lesson-02"],
-  "exerciseHistory": [{ "topic": "present-tense", "correct": 4, "total": 5, "date": "..." }],
-  "srs": { "A1-lesson-01::huis": { "interval": 6, "repetition": 2, "efactor": 2.5, "nextReview": "..." } },
-  "testResults": { "A1-test-1": { "correct": 38, "total": 43, "passed": true } },
-  "readingRead": ["A1-text-01", "B1-text-03"],
-  "writingSeen": ["email-klacht"],
-  "lastActiveDate": "2026-04-22",
-  "streak": 12,
-  "totalCorrect": 212,
-  "totalAnswered": 256
-}
-```
-
-При первом входе, если в Firestore документа ещё нет, `Progress.load` достаёт легаси-буфер из `localStorage` (`dutch-progress-buffer` или `dutch-progress`), мигрирует его до v4, заливает в Firestore и чистит локальные ключи. Старый `dutch-progress.json` можно импортировать вручную через «Прогресс → Импорт JSON».
-
-Миграции применяются на чтении: v1 → v2 нормализует ключи SRS, v2/v3 → v4 удаляет устаревшие поля (`knmResults`, `vocabLevel`, `vocabLoaded`) и гарантирует наличие всех массивов/объектов новой схемы.
-
-`Progress.save` дебаунсится (~500 мс), пишет `setDoc` с `serverTimestamp` и `merge: true`, ошибки только логируются. `beforeunload` делает best-effort flush.
-
-## Tier-структура словаря
-
-Словарь разбит на четыре слоя для ленивой загрузки и навигации:
-
-- **lessons/** — вокабуляр, привязанный к урокам.
-- **core/** — частотный минимум по уровню: A1 (~630), A2 (~1100), B1 (~300), B2 (~300).
-- **extended/** — тематически расширенный словарь для B1 и B2.
-- **themes/** — 11 предметных блоков.
-
-Карточки поддерживают фильтры по уровню (A1–B2) и по типу слоя.
+- Наборы: уроки, core, extended, темы; фильтры по уровню и типу.
+- В сессии слова с оценкой «Хорошо»/«Легко» считаются выученными в наборе; «Не знаю»/«Трудно» попадают в SRS.
+- **Повторение** — только карточки с наступившим `nextReview`, не случайный набор.
+- **Мои слова** — список всего, что уже оценивалось в SRS.
 
 ## CI и деплой
 
-`.github/workflows/deploy.yml` на каждый push в `main`:
+На push в `main`:
 
-1. проверяет все `site/data/**/*.json` на валидность JSON;
-2. перегоняет `scripts/rebuild-vocab-index.mjs` — `vocabulary/index.json` и `search-index.json` всегда согласованы с tier-структурой;
-3. собирает `site/js/firebase/config.js` из шаблона + GitHub Secrets;
-4. падает, если в конфиге остался хоть один плейсхолдер `__FB_*__`;
-5. выкладывает `site/` на GitHub Pages через официальные `actions/configure-pages`, `upload-pages-artifact`, `deploy-pages`.
+1. `npm ci` и `npm run lint` в `app/`
+2. `npm run build` с `BASE_PATH=/<repo>/` и секретами Firebase
+3. публикация `app/dist` на GitHub Pages
 
-Pages source в настройках репозитория должен быть выставлен в GitHub Actions (если вдруг сбился — **Settings → Pages → Source: GitHub Actions**).
-
-## Локальная разработка
-
-Для локального запуска нужно собрать `site/js/firebase/config.js` вручную:
-
-```bash
-cp site/js/firebase/config.example.js site/js/firebase/config.js
-# затем подставить реальные значения из Firebase Console в поля apiKey/authDomain/...
-```
-
-`config.js` в `.gitignore`, так что случайно не закоммитится.
-
-Поднять статику для локальной работы можно любым статик-сервером:
-
-```bash
-python3 -m http.server 8080 --directory site
-# открыть http://localhost:8080/
-```
-
-Или через вшитый `scripts/server.py`:
-
-```bash
-python3 scripts/server.py --port 8080 --directory site
-```
-
-Для Google Sign-in нужно чтобы домен `localhost` был добавлен в Firebase Console → Authentication → Settings → Authorized domains (он там по умолчанию).
-
-Прогресс пишется в тот же Firestore, что и на проде — удобно тестировать синхронизацию между локалкой и задеплоенным сайтом под одним аккаунтом.
-
-## Клавиатурные шорткаты
-
-| Клавиши | Действие |
-|---|---|
-| `Ctrl/Cmd+K`, `/` | Открыть глобальный поиск |
-| `Esc` | Закрыть поиск |
-| `Space`, `Enter` | Перевернуть карточку |
-| `1`, `2`, `3`, `4` | Не знаю / Трудно / Хорошо / Легко |
-
-## Скрипты сопровождения
-
-```bash
-node scripts/rebuild-vocab-index.mjs       # пересчёт vocabulary/index.json и search-index.json по tier-структуре
-node scripts/normalize-lesson-titles.mjs   # унификация названий уроков
-```
+В настройках репозитория: **Settings → Pages → Source: GitHub Actions**.
 
 ## Технологии
 
-- Чистый HTML + CSS + ES2020 JavaScript-модули, без сборки и рантайм-зависимостей на своей стороне.
-- Firebase Web SDK (Auth + Firestore) v10.14.1 с gstatic через ESM-импорт.
-- PWA: `manifest.webmanifest` + Service Worker (`sw.js` версии v10) с оффлайн-кешем статики и stale-while-revalidate для JSON.
-- Node.js 20 используется только в CI и в разовых служебных скриптах из `scripts/`.
+- Astro 6, `@astrojs/react`, `@astrojs/mdx`
+- React 19, Zustand
+- Firebase Web SDK 10.14 (Auth + Firestore) через ESM с gstatic
+- ESLint, Prettier
 
 ## Лицензия и использование
 
-Образовательный проект для личного использования при подготовке к inburgeringsexamen и Staatsexamen NT2 Programma II.
+Образовательный проект для личной подготовки к inburgeringsexamen и Staatsexamen NT2 Programma II.

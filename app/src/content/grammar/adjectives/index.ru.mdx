@@ -1,0 +1,128 @@
+---
+title: "Прилагательные (склонение)"
+level: "a2"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Прилагательные перед существительным получают окончание -e. Исключение: перед het-woord в ед.ч. с een/без артикля -- без окончания.
+
+**Почти всегда +e | Без -e: een/geen + прилагательное + het-woord (ед.ч.)**
+
+Основное правило простое: прилагательное перед существительным получает -e. Единственное исключение -- когда перед het-woord в единственном числе стоит een, geen или нет артикля вообще.
+
+- С -e: de grote man, het grote huis, een grote tafel, grote huizen
+- Без -e: een groot huis, geen groot probleem, groot nieuws
+
+### Склонение прилагательных
+
+<GrammarTable headers={["Артикль","de-woord","het-woord","Мн. число"]} rows={[["de/het","de grote man (+e)","het grote huis (+e)","de grote mannen (+e)"],["een","een grote man (+e)","een groot huis (без -e!)","-"],["geen","geen grote man (+e)","geen groot huis (без -e!)","geen grote mannen (+e)"],["без артикля","grote man (+e)","groot huis (без -e!)","grote mannen (+e)"]]} />
+
+### Правила орфографии при добавлении -e
+
+<GrammarTable headers={["Основа","С -e","Правило"]} rows={[["groot","grote","Открытый слог: одна o"],["wit","witte","Короткая гласная: удвоение t"],["lief","lieve","f -> v перед -e (между гласными)"],["boos","boze","s -> z перед -e (когда в основе исторически z, как в мн.ч.)"],["grijs","grijze","s -> z перед -e (ср. мн.ч. 'grijze' по аналогии с 'huis/huizen')"],["lang","lange","Просто +e"],["mooi","mooie","Просто +e"]]} />
+
+<Tip title="Как запомнить правило">
+- Представь: -e добавляется ВСЕГДА, кроме одного случая
+- Этот случай: een/geen/- + [прилагательное] + het-woord (ед.ч.)
+- Мнемоника: 'een groot huis' -- маленький домик без окончания
+</Tip>
+
+<Tip title="Предикативное использование (после глагола)">
+- После zijn, worden, vinden и т.д. прилагательное НЕ склоняется
+- Het huis is groot. (не: Het huis is grote.)
+- De man is oud. (не: De man is oude.)
+</Tip>
+
+### Несклоняемые прилагательные
+
+Часть прилагательных никогда не получает -e перед существительным.
+
+<GrammarTable headers={["Группа","Слова","Пример"]} rows={[["Наречные/фиксированные","eigen, alleen, zelf","mijn eigen kamer, de alleen staande man"],["Направления","rechts, links, achterst, voorst","de rechts naast mij, het linker been"],["Материалы на -en","houten, gouden, zilveren, leren, stenen","een houten tafel, een gouden ring, een leren jas"],["На -a / заимствования","roze, oranje, lila, prima","een roze jurk, een oranje bal, een prima idee"]]} />
+
+<Warn title="Материалы на -en">
+- Прилагательные материала (houten, gouden, zilveren, leren, stenen) неизменяемы: они уже оканчиваются на -en и -e не добавляют.
+- een houten stoel, de gouden medaille, het leren jasje.
+</Warn>
+
+### veel / weinig / enkele / alle + прилагательное
+
+<GrammarTable headers={["Конструкция","Форма прилагательного","Пример"]} rows={[["veel + прил. + сущ.","+e (мн.ч.)","veel mooie boeken"],["weinig + прил. + сущ.","+e (мн.ч.)","weinig goede opties"],["enkele + прил. + сущ.","+e (мн.ч.)","enkele interessante ideeën"],["alle + прил. + мн.ч.","+e","alle grote steden"]]} />
+
+## Примеры
+
+<Example nl="De kleine kat slaapt." ru="Маленькая кошка спит. (de-woord -> +e)" />
+<Example nl="Het kleine kind speelt." ru="Маленький ребенок играет. (het + het-woord -> +e)" />
+<Example nl="Een klein kind speelt." ru="Маленький ребенок играет. (een + het-woord -> без -e!)" />
+<Example nl="Ik heb een rode auto." ru="У меня красная машина. (een + de-woord -> +e)" />
+<Example nl="Het is een mooi huis." ru="Это красивый дом. (een + het-woord -> без -e)" />
+<Example nl="De oude huizen zijn duur." ru="Старые дома дорогие. (мн.ч. -> +e)" />
+<Example nl="Het weer is slecht." ru="Погода плохая. (предикативно -> без -e)" />
+<Example nl="Zij draagt een witte jurk." ru="Она носит белое платье. (wit -> witte, удвоение t)" />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "fill-blank",
+    "sentence": "De __ man loopt in het park. (oud)",
+    "answer": "oude",
+    "explanation": "de + de-woord -> +e"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Een __ huis staat aan de gracht. (mooi)",
+    "answer": "mooi",
+    "explanation": "een + het-woord -> без -e"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Het __ meisje lacht. (klein)",
+    "answer": "kleine",
+    "explanation": "het (определенный) + het-woord -> +e"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Zij heeft __ ogen. (blauw)",
+    "answer": "blauwe",
+    "explanation": "Мн. число -> +e"
+  },
+  {
+    "type": "choice",
+    "question": "Het is een __ boek. (goed)",
+    "options": [
+      "goede",
+      "goed"
+    ],
+    "answer": "goed",
+    "explanation": "een + het-woord -> без -e"
+  },
+  {
+    "type": "choice",
+    "question": "De __ auto is van mij. (rood)",
+    "options": [
+      "rode",
+      "rood",
+      "roode"
+    ],
+    "answer": "rode",
+    "explanation": "de + de-woord -> +e; открытый слог: одна o"
+  },
+  {
+    "type": "choice",
+    "question": "Zij heeft een __ tafel gekocht. (houten)",
+    "options": [
+      "houten",
+      "houtene"
+    ],
+    "answer": "houten",
+    "explanation": "Прилагательные материала на -en неизменяемы."
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Ik heb mijn __ kamer. (eigen)",
+    "answer": "eigen",
+    "explanation": "'eigen' не склоняется."
+  }
+]} />
+

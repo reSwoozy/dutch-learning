@@ -1,0 +1,42 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import Breadcrumb from '@/components/ui/Breadcrumb.astro';
+import { allCulture } from '@/content/culture/index.js';
+
+export function getStaticPaths() {
+  return allCulture.map((c) => ({
+    params: { lang: 'ru', slug: c.id },
+    props: { article: c },
+  }));
+}
+
+const { lang } = Astro.params;
+const { article } = Astro.props;
+
+const allMdx = import.meta.glob('/src/content/culture/*/index.ru.mdx');
+const key = `/src/content/culture/${article.id}/index.ru.mdx`;
+let Content = null;
+if (allMdx[key]) {
+  const mod = await allMdx[key]();
+  Content = mod.default;
+}
+---
+
+<MainLayout title={article.title}>
+  <Breadcrumb items={[
+    { href: `/${lang}/culture`, label: 'Культура' },
+    { label: article.title },
+  ]} />
+
+  <div class="page-hero page-hero--slim">
+    <h1 class="culture-hero__title">{article.title}</h1>
+  </div>
+
+  {Content ? (
+    <div class="culture-content">
+      <Content />
+    </div>
+  ) : (
+    <p style="color:var(--text-muted)">Контент статьи не найден.</p>
+  )}
+</MainLayout>

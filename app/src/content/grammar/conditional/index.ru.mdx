@@ -1,0 +1,76 @@
+---
+title: "Условные предложения"
+level: "b1"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Условные предложения с als (если). Реальное условие: als + настоящее. Нереальное: als + imperfectum, zou + инфинитив.
+
+**Реальное: Als + настоящее, настоящее/будущее | Нереальное: Als + imperfectum, zou(den) + инфинитив**
+
+Реальное условие описывает возможные ситуации. Нереальное -- гипотетические или невозможные. zou/zouden (от zullen в imperfectum) используется в главном предложении нереального условия.
+
+- Реальное: Als het regent, neem ik een paraplu. (Если идет дождь, я беру зонт.)
+- Нереальное (настоящее): Als ik rijk was, zou ik een huis kopen. (Если бы я был богатым, я бы купил дом.)
+- Нереальное (прошлое): Als ik het had geweten, zou ik gekomen zijn. (Если бы я знал, я бы пришел.)
+
+### Типы условных предложений
+
+<GrammarTable headers={["Тип","Условие (als...)","Результат","Пример"]} rows={[["Реальное","als + настоящее","настоящее / zullen + инф.","Als het regent, blijf ik thuis."],["Нереальное (сейчас)","als + imperfectum","zou(den) + инфинитив","Als ik tijd had, zou ik komen."],["Нереальное (прошлое)","als + plusquamperf.","zou(den) + v.d. + hebben/zijn","Als ik het had geweten, zou ik gekomen zijn."]]} />
+
+### Спряжение zou/zouden
+
+<GrammarTable headers={["Лицо","Форма"]} rows={[["ik","zou"],["jij/je","zou"],["u","zou"],["hij/zij/het","zou"],["wij/we","zouden"],["jullie","zouden"],["zij/ze","zouden"]]} />
+
+<Tip title="zou для вежливости">
+- zou используется не только в условных, но и для вежливых просьб
+- Zou je me kunnen helpen? (Не мог бы ты мне помочь?)
+- Zou u dit formulier willen invullen? (Не могли бы Вы заполнить эту форму?)
+- Ik zou graag een koffie willen. (Я бы хотел кофе.)
+</Tip>
+
+## Примеры
+
+<Example nl={`Als het mooi weer is, gaan we naar het strand.`} ru={`Если хорошая погода, мы идем на пляж. (реальное)`} />
+<Example nl={`Als ik jou was, zou ik harder studeren.`} ru={`Если бы я был тобой, я бы больше учился. (нереальное)`} />
+<Example nl={`Als ik meer geld had, zou ik naar Japan reizen.`} ru={`Если бы у меня было больше денег, я бы поехал в Японию.`} />
+<Example nl={`Als ik dat had geweten, zou ik niet gegaan zijn.`} ru={`Если бы я это знал, я бы не поехал. (нереальное прошлое)`} />
+<Example nl={`Zou je me willen helpen?`} ru={`Не мог бы ты мне помочь? (вежливость)`} />
+<Example nl={`Ik zou graag een kopje koffie willen.`} ru={`Я бы хотел чашечку кофе.`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "fill-blank",
+    "sentence": "Als het regent, __ ik thuis. (blijven, реальное)",
+    "answer": "blijf",
+    "explanation": "Реальное условие: настоящее время"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Als ik meer tijd __, __ ik Nederlands leren. (hebben, нереальное)",
+    "answer": "had ... zou",
+    "explanation": "Нереальное: als + imperfectum, zou + инф."
+  },
+  {
+    "type": "choice",
+    "question": "__ je me willen helpen? (вежливая просьба)",
+    "options": [
+      "Kun",
+      "Wil",
+      "Zou",
+      "Mag"
+    ],
+    "answer": "Zou",
+    "explanation": "Вежливая просьба -> zou"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Als ik jou __, __ ik harder studeren. (zijn, нереальное)",
+    "answer": "was ... zou",
+    "explanation": "Als ik jou was = если бы я был тобой"
+  }
+]} />
+

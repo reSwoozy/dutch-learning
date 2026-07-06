@@ -1,0 +1,183 @@
+---
+title: "Транспорт и город"
+objectives:
+  - "Называть виды транспорта"
+  - "Ориентироваться в городе"
+  - "Спрашивать дорогу и направления"
+  - "Понимать общественный транспорт"
+---
+
+import { Vocabulary, Dialogue, Tip, Warn, Fact, Success, Callout, Example, Phrases, Stats, Steps, GrammarTable, ExerciseList } from '@/components/lesson';
+import vocab from './vocab.js';
+
+
+## Фаза 1: Транспорт (5 минут)
+
+<Vocabulary words={vocab.main} locale="ru" />
+
+## Фаза 2: Места в городе (5 минут)
+
+<Vocabulary words={vocab.section2} locale="ru" />
+
+## Фаза 3: Направления (3 минуты)
+
+<Vocabulary words={vocab.section3} locale="ru" />
+
+## Диалог 1
+
+<Dialogue
+  title="Диалог 1"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Pardon, waar is het station?"
+  },
+  {
+    "speaker": "B",
+    "text": "Ga rechtdoor en dan sla links af."
+  },
+  {
+    "speaker": "A",
+    "text": "Is het ver?"
+  },
+  {
+    "speaker": "B",
+    "text": "Nee, het is vijf minuten lopen."
+  },
+  {
+    "speaker": "A",
+    "text": "Dank u wel!"
+  },
+  {
+    "speaker": "B",
+    "text": "Graag gedaan!"
+  }
+]}
+/>
+
+## Диалог 2
+
+<Dialogue
+  title="Диалог 2"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Welke bus gaat naar het centrum?"
+  },
+  {
+    "speaker": "B",
+    "text": "Bus nummer 12."
+  },
+  {
+    "speaker": "A",
+    "text": "Waar is de halte?"
+  },
+  {
+    "speaker": "B",
+    "text": "Daar, aan de rechterkant."
+  },
+  {
+    "speaker": "A",
+    "text": "Hoe laat vertrekt de bus?"
+  },
+  {
+    "speaker": "B",
+    "text": "Om kwart over drie."
+  },
+  {
+    "speaker": "A",
+    "text": "Dank je wel!"
+  }
+]}
+/>
+
+## 1. Предлог met (с/на) для транспорта
+
+Для описания способа передвижения используется **met**:
+- Ik ga **met de trein** naar Amsterdam.
+- Zij gaat **met de bus** naar school.
+- Wij reizen **met het vliegtuig**.
+Исключение: **te voet** (пешком) -- без met.
+
+## 2. Предлог naar (в/к) для направления
+
+- Ik ga **naar** het station.
+- Wij fietsen **naar** het centrum.
+- Hij rijdt **naar** zijn werk.
+
+## 3. Hoe laat...? (Во сколько...?)
+
+- **Hoe laat vertrekt de trein?** -- Во сколько отправляется поезд?
+- **Hoe laat komt de bus?** -- Во сколько приходит автобус?
+- **Om drie uur.** -- В три часа.
+
+## Упражнение 1: Заполни пропуски
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Ik ga __ de trein naar Utrecht.",
+    "answer": "met",
+    "explanation": "met — способ передвижения."
+  },
+  {
+    "sentence": "Waar is __ station?",
+    "answer": "het",
+    "explanation": "station — het-слово."
+  },
+  {
+    "sentence": "Sla links __ bij de brug.",
+    "answer": "af",
+    "explanation": "afslaan — повернуть; приставка af в конце."
+  },
+  {
+    "sentence": "__ laat vertrekt de bus?",
+    "answer": "Hoe",
+    "explanation": "Hoe laat = во сколько."
+  }
+]} />
+
+## Упражнение 2: Переведи на нидерландский
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Я еду на велосипеде на работу.",
+    "answers": ["Ik ga met de fiets naar mijn werk.", "Ik fiets naar mijn werk."],
+    "explanation": "met de fiets — на велосипеде, или глагол fietsen."
+  },
+  {
+    "sentence": "Где остановка автобуса?",
+    "answer": "Waar is de bushalte?",
+    "explanation": "de bushalte — автобусная остановка."
+  },
+  {
+    "sentence": "Идите прямо и поверните направо.",
+    "answer": "Ga rechtdoor en sla rechts af.",
+    "explanation": "rechtdoor — прямо; rechts afslaan — повернуть направо."
+  }
+]} />
+
+## Упражнение 3: Говорение
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Hoe ga je naar je werk?",
+    "sample": "Ik ga met de fiets naar mijn werk."
+  },
+  {
+    "sentence": "Welk vervoermiddel gebruik je het meest?",
+    "sample": "Ik gebruik de trein het meest."
+  },
+  {
+    "sentence": "Beschrijf de weg van je huis naar de supermarkt.",
+    "sample": "Ik ga rechtdoor en sla bij de kerk rechts af. De supermarkt is naast de bank."
+  }
+]} />
+
+## Транспортная культура Нидерландов
+
+- **Велосипед -- король**: 23 млн велосипедов на 17 млн жителей. Fietspad (велодорожки) есть повсюду.
+- **OV-chipkaart**: единая карта для всего общественного транспорта (трамвай, автобус, метро, поезд). Купи анонимную карту и пополняй.
+- **NS (Nederlandse Spoorwegen)**: железные дороги. Поезда ходят часто и пунктуально. Расписание на ns.nl или в приложении NS.
+- **9292.nl**: планировщик маршрутов для всего общественного транспорта.
+- **Пунктуальность**: транспорт ходит по расписанию. Опоздание на 5 минут считается задержкой.
+- **Inchecken/uitchecken**: не забывай прикладывать OV-chipkaart при входе И при выходе, иначе спишут максимальный тариф.

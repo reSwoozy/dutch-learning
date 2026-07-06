@@ -1,0 +1,30 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import HomePanel from '@/components/home/HomePanel.jsx';
+import { getAllLessons, getAllGrammarTopics } from '@/lib/content.js';
+import vocabIndex from '@/content/vocabulary/index.js';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+const allLessons = getAllLessons();
+const lessonsForClient = allLessons.map((l) => ({
+  id: l.id,
+  level: l.level,
+  num: l.num,
+  title: l.title,
+}));
+---
+
+<MainLayout>
+  <HomePanel
+    client:load
+    lang={lang}
+    allLessons={lessonsForClient}
+    totalGrammar={getAllGrammarTopics().length}
+    totalLessons={allLessons.length}
+    totalWords={vocabIndex.totalWords || 0}
+  />
+</MainLayout>

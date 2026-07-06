@@ -1,0 +1,195 @@
+---
+title: "Хобби и свободное время"
+objectives:
+  - "Называть популярные хобби"
+  - "Рассказывать о своих интересах"
+  - "Планировать свободное время"
+  - "Понимать голландские развлечения"
+---
+
+import { Vocabulary, Dialogue, Tip, Warn, Fact, Success, Callout, Example, Phrases, Stats, Steps, GrammarTable, ExerciseList } from '@/components/lesson';
+import vocab from './vocab.js';
+
+
+## Фаза 1: Хобби и интересы (6 минут)
+
+<Vocabulary words={vocab.main} locale="ru" />
+
+## Фаза 2: Планы и активности (5 минут)
+
+**Планируем время**:
+- **Wat doe je graag?** - Что ты любишь делать?
+- **Ik houd van lezen** - Я люблю читать
+- **In het weekend ga ik fietsen** - В выходные я езжу на велосипеде
+- **Heb je tijd vanavond?** - У тебя есть время сегодня вечером?
+- **Zullen we samen gaan?** - Пойдем вместе?
+
+## Фаза 3: Места развлечений (3 минуты)
+
+<Vocabulary words={vocab.section2} locale="ru" />
+
+## Диалог 1
+
+<Dialogue
+  title="Диалог 1"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Wat doe je in het weekend?"
+  },
+  {
+    "speaker": "B",
+    "text": "Ik ga naar het museum. En jij?"
+  },
+  {
+    "speaker": "A",
+    "text": "Ik ga fietsen in het park. Wil je meegaan?"
+  },
+  {
+    "speaker": "B",
+    "text": "Leuk! Hoe laat?"
+  },
+  {
+    "speaker": "A",
+    "text": "Om tien uur?"
+  },
+  {
+    "speaker": "B",
+    "text": "Prima! Tot zaterdag!"
+  }
+]}
+/>
+
+## Диалог 2
+
+<Dialogue
+  title="Диалог 2"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Wat doe je graag in je vrije tijd?"
+  },
+  {
+    "speaker": "B",
+    "text": "Ik houd van koken en lezen. En jij?"
+  },
+  {
+    "speaker": "A",
+    "text": "Ik zwem graag. Ik ga drie keer per week naar het zwembad."
+  },
+  {
+    "speaker": "B",
+    "text": "Wauw, dat is sportief! Ik sport niet zo veel."
+  },
+  {
+    "speaker": "A",
+    "text": "Zullen we samen naar de sportschool gaan?"
+  },
+  {
+    "speaker": "B",
+    "text": "Goed idee! Wanneer?"
+  },
+  {
+    "speaker": "A",
+    "text": "Volgende week dinsdag?"
+  },
+  {
+    "speaker": "B",
+    "text": "Afgesproken!"
+  }
+]}
+/>
+
+## 1. Graag / houden van (нравиться / любить)
+
+Два способа сказать "я люблю делать что-то":
+- **Ik lees graag.** -- Я люблю читать. (graag после глагола)
+- **Ik houd van lezen.** -- Я люблю читать. (houden van + инфинитив)
+Для предпочтений:
+- **Ik fiets liever.** -- Я предпочитаю ездить на велосипеде.
+- **Ik kook het liefst.** -- Больше всего я люблю готовить.
+
+## 2. Частота (hoe vaak?)
+
+Место в предложении: **Ik ga vaak naar het park.** (после глагола)
+
+<GrammarTable
+  headers={["Nederlands","Русский"]}
+  rows={[["altijd","всегда"],["vaak","часто"],["soms","иногда"],["zelden","редко"],["nooit","никогда"],["elke dag","каждый день"],["drie keer per week","три раза в неделю"],["in het weekend","в выходные"]]}
+/>
+
+## 3. Meegaan / meekomen / meenemen
+
+Приставка **mee-** означает "вместе/с собой":
+- **meegaan** -- пойти вместе: Wil je meegaan?
+- **meekomen** -- прийти вместе: Kom je mee?
+- **meenemen** -- взять с собой: Neem je paraplu mee!
+
+## Упражнение 1: Заполни пропуски
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Ik __ van zwemmen.",
+    "answer": "houd",
+    "explanation": "houden van: Ik houd van zwemmen."
+  },
+  {
+    "sentence": "Zij fietst __. Ze fietst elke dag.",
+    "answer": "graag",
+    "explanation": "graag после глагола выражает симпатию к действию."
+  },
+  {
+    "sentence": "Wil je __? We gaan naar de bioscoop.",
+    "answers": ["meegaan", "mee"],
+    "explanation": "meegaan — пойти вместе."
+  },
+  {
+    "sentence": "Ik ga __ keer per week naar de sportschool.",
+    "sample": "twee"
+  }
+]} />
+
+## Упражнение 2: Переведи на нидерландский
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Что ты любишь делать в свободное время?",
+    "answer": "Wat doe je graag in je vrije tijd?",
+    "explanation": "Вопрос о предпочтениях с graag."
+  },
+  {
+    "sentence": "Я хожу в бассейн два раза в неделю.",
+    "answer": "Ik ga twee keer per week naar het zwembad.",
+    "explanation": "twee keer per week — два раза в неделю."
+  },
+  {
+    "sentence": "Пойдем вместе в кино в субботу?",
+    "answer": "Zullen we zaterdag samen naar de bioscoop gaan?",
+    "explanation": "Zullen we ...? — предложение сделать что-то вместе."
+  }
+]} />
+
+## Упражнение 3: Говорение
+
+<ExerciseList client:load items={[
+  {
+    "sentence": "Wat doe je graag in je vrije tijd?",
+    "sample": "Ik lees graag en ik houd van koken."
+  },
+  {
+    "sentence": "Hoe vaak sport je?",
+    "sample": "Ik sport drie keer per week."
+  },
+  {
+    "sentence": "Wat ga je dit weekend doen?",
+    "sample": "Ik ga fietsen in het park en naar het museum."
+  }
+]} />
+
+## Голландское свободное время
+
+- **Gezelligheid**: ключевое голландское понятие -- уютное, приятное времяпрепровождение с друзьями или семьей. Кафе, ужин дома, прогулка -- все это gezellig.
+- **Велосипед**: не только транспорт, но и хобби. Голландцы ездят на велосипеде в любую погоду.
+- **Музеи**: Нидерланды -- страна музеев. Rijksmuseum, Van Gogh Museum, Anne Frank Huis -- обязательны к посещению.
+- **Verjaardag (день рождения)**: голландцы поздравляют не только именинника, но и всех его родственников! "Gefeliciteerd met je moeder!" (Поздравляю с днем рождения твоей мамы!)
+- **Borrel**: неформальная встреча с напитками и закусками (bitterballen!). Важная часть социальной жизни.

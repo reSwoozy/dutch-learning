@@ -1,0 +1,34 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import FlashcardApp from '@/components/flashcards/FlashcardApp.jsx';
+import { getAllLessons } from '@/lib/content.js';
+import vocabIndex from '@/content/vocabulary/index.js';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+const allLessons = getAllLessons();
+const lessonsForClient = allLessons.map((l) => ({
+  id: l.id,
+  level: l.level,
+  num: l.num,
+  title: l.title,
+}));
+const totalWords = vocabIndex.totalWords || 0;
+---
+
+<MainLayout title="Карточки">
+  <div class="page-hero">
+    <h1>Флеш-карточки</h1>
+    <p class="page-hero__summary">
+      Spaced Repetition System (SM-2). Выбери набор карточек для изучения.
+    </p>
+    <div class="page-hero__meta">
+      <span class="culture-pill culture-pill--muted">{totalWords} слов</span>
+    </div>
+  </div>
+
+  <FlashcardApp client:load lang={lang} allLessons={lessonsForClient} />
+</MainLayout>

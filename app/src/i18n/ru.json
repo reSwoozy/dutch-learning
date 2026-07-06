@@ -1,0 +1,64 @@
+{
+  "site": {
+    "title": "Dutch Learning System",
+    "description": "Курс нидерландского A1-B2 с грамматикой, карточками и тестами."
+  },
+  "nav": {
+    "lessons": "Уроки",
+    "grammar": "Грамматика",
+    "flashcards": "Карточки",
+    "tests": "Тесты",
+    "verbs": "Глаголы",
+    "reading": "Чтение",
+    "writing": "Письмо",
+    "culture": "Культура",
+    "resources": "Ресурсы",
+    "materials": "Материалы",
+    "account": "Аккаунт",
+    "search": "Поиск"
+  },
+  "lesson": {
+    "objectives": "Цели урока",
+    "markComplete": "Отметить пройденным",
+    "unmarkComplete": "Снять отметку",
+    "completed": "Пройдено",
+    "showTranslation": "Показать перевод",
+    "sections": "секций",
+    "words": "слов",
+    "minutes": "мин"
+  },
+  "auth": {
+    "title": "Вход",
+    "subtitle": "Войдите через Google, чтобы синхронизировать прогресс между устройствами.",
+    "signIn": "Войти через Google",
+    "signOut": "Выйти из аккаунта"
+  },
+  "account": {
+    "title": "Аккаунт",
+    "subtitle": "Профиль, прогресс и управление аккаунтом.",
+    "resetProgress": "Сбросить прогресс",
+    "resetConfirm": "Сбросить весь прогресс? Отменить действие нельзя.",
+    "streakDays": "дн. подряд",
+    "accuracy": "точность",
+    "lessonsCompleted": "Уроков пройдено",
+    "grammarViewed": "Грамматика",
+    "correctRate": "Правильных ответов",
+    "daysStreak": "Дней подряд",
+    "learning": "В изучении (SRS)",
+    "dueReview": "К повтору",
+    "levelProgress": "Прогресс по уровням",
+    "activity": "Активность (52 недели)",
+    "testResults": "Результаты тестов",
+    "recentExercises": "Последние упражнения",
+    "management": "Управление аккаунтом"
+  },
+  "common": {
+    "notFound": "Страница не найдена",
+    "notFoundDesc": "Проверь ссылку или вернись на главную.",
+    "backHome": "На главную",
+    "loading": "Загрузка...",
+    "noTranslation": "Перевод ещё не доступен.",
+    "viewInRussian": "Открыть русскую версию",
+    "of": "из"
+  }
+}

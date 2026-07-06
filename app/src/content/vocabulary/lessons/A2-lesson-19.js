@@ -1,0 +1,298 @@
+export default [
+  {
+    "nl": "groot",
+    "ru": "большой",
+    "example": "Amsterdam is een grote stad.",
+    "pronunciation": "ɣroːt",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "groter",
+    "ru": "больше",
+    "example": "Amsterdam is groter dan Utrecht.",
+    "pronunciation": "ˈɣroːtər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het grootst",
+    "ru": "самый большой",
+    "example": "Dit is het grootste huis.",
+    "pronunciation": "ɦət ˈɣroːtst",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "klein",
+    "ru": "маленький",
+    "example": "Een klein appartement in het centrum.",
+    "pronunciation": "klɛi̯n",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "kleiner",
+    "ru": "меньше",
+    "example": "Dit huis is kleiner dan dat.",
+    "pronunciation": "ˈklɛi̯nər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het kleinst",
+    "ru": "самый маленький",
+    "example": "De kleinste kamer is de badkamer.",
+    "pronunciation": "ɦət ˈklɛi̯nst",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "mooi",
+    "ru": "красивый",
+    "example": "Een mooie dag voor een wandeling.",
+    "pronunciation": "moːi̯",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "mooier",
+    "ru": "красивее",
+    "example": "Deze bloemen zijn mooier dan die.",
+    "pronunciation": "ˈmoːi̯ər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het mooist",
+    "ru": "самый красивый",
+    "example": "Het mooiste weer van het jaar.",
+    "pronunciation": "ɦət ˈmoːi̯st",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "duur",
+    "ru": "дорогой",
+    "example": "Dure kleren in de etalage.",
+    "pronunciation": "dyːr",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "duurder",
+    "ru": "дороже",
+    "example": "Bio voedsel is duurder dan gewoon.",
+    "pronunciation": "ˈdyːrdər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het duurst",
+    "ru": "самый дорогой",
+    "example": "Het duurste restaurant van de stad.",
+    "pronunciation": "ɦət ˈdyːrst",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "goed",
+    "ru": "хороший",
+    "example": "Een goede vriend is belangrijk.",
+    "pronunciation": "ɣut",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "beter",
+    "ru": "лучше",
+    "example": "Deze koffie is beter dan die.",
+    "pronunciation": "ˈbeːtər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het beste",
+    "ru": "самый лучший",
+    "example": "Het beste restaurant in de buurt.",
+    "pronunciation": "ɦət ˈbɛstə",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "veel",
+    "ru": "много",
+    "example": "Veel mensen op straat vandaag.",
+    "pronunciation": "veːl",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "meer",
+    "ru": "больше",
+    "example": "Ik heb meer tijd nodig.",
+    "pronunciation": "meːr",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het meeste",
+    "ru": "больше всего",
+    "example": "Hij heeft het meeste geld.",
+    "pronunciation": "ɦət ˈmeːstə",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "weinig",
+    "ru": "мало",
+    "example": "Weinig mensen spreken Nederlands.",
+    "pronunciation": "ˈʋɛi̯nəx",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "minder",
+    "ru": "меньше",
+    "example": "Ik werk minder uren dan jij.",
+    "pronunciation": "ˈmɪndər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het minste",
+    "ru": "меньше всего",
+    "example": "Hij heeft het minste ervaring.",
+    "pronunciation": "ɦət ˈmɪnstə",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "graag",
+    "ru": "охотно",
+    "example": "Ik reis graag naar andere landen.",
+    "pronunciation": "ɣraːx",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "liever",
+    "ru": "предпочитаю",
+    "example": "Ik drink liever thee dan koffie.",
+    "pronunciation": "ˈliːvər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het liefst",
+    "ru": "больше всего предпочитаю",
+    "example": "Het liefst blijf ik thuis.",
+    "pronunciation": "ɦət ˈliːfst",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "dan",
+    "ru": "чем",
+    "example": "Deze auto is sneller dan die.",
+    "pronunciation": "dɑn",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "als",
+    "ru": "как",
+    "example": "Net zo groot als mijn huis.",
+    "pronunciation": "ɑls",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "even...als",
+    "ru": "одинаково как",
+    "example": "Even lekker als gisteren.",
+    "pronunciation": "ˈeːvə...ɑls",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "net zo...als",
+    "ru": "такой же как",
+    "example": "Net zo duur als vorige week.",
+    "pronunciation": "nɛt soː...ɑls",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "jong",
+    "ru": "молодой",
+    "example": "Een jonge leraar op school.",
+    "pronunciation": "jɔŋ",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "jonger",
+    "ru": "моложе",
+    "example": "Mijn broer is jonger dan ik.",
+    "pronunciation": "ˈjɔŋər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het jongst",
+    "ru": "самый молодой",
+    "example": "De jongste student van de klas.",
+    "pronunciation": "ɦət ˈjɔŋst",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "oud",
+    "ru": "старый",
+    "example": "Een oud gebouw in het centrum.",
+    "pronunciation": "ɑut",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "ouder",
+    "ru": "старше",
+    "example": "Mijn zus is ouder dan ik.",
+    "pronunciation": "ˈɑudər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het oudst",
+    "ru": "самый старый",
+    "example": "Het oudste huis van de straat.",
+    "pronunciation": "ɦət ˈɑutst",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "snel",
+    "ru": "быстрый",
+    "example": "Een snelle trein naar Amsterdam.",
+    "pronunciation": "snɛl",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "sneller",
+    "ru": "быстрее",
+    "example": "De auto is sneller dan de fiets.",
+    "pronunciation": "ˈsnɛlər",
+    "level": "A2",
+    "lesson": 19
+  },
+  {
+    "nl": "het snelst",
+    "ru": "самый быстрый",
+    "example": "Het snelste internet van Nederland.",
+    "pronunciation": "ɦət ˈsnɛlst",
+    "level": "A2",
+    "lesson": 19
+  }
+];

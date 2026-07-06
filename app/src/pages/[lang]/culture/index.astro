@@ -1,0 +1,55 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import { allCulture } from '@/content/culture/index.js';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+
+const byCategory = {};
+const catOrder = [];
+for (const c of allCulture) {
+  const cat = c.category || 'other';
+  if (!byCategory[cat]) { byCategory[cat] = []; catOrder.push(cat); }
+  byCategory[cat].push(c);
+}
+
+const catTitles = {
+  'everyday-life': 'Повседневная жизнь',
+  'integration-exam': 'Экзамен по интеграции',
+  'knm': 'Знание нидерландского общества (KNM)',
+  'society': 'Общество',
+  'traditions': 'Традиции и праздники',
+};
+---
+
+<MainLayout title="Культура">
+  <div class="page-hero">
+    <h1>Культура</h1>
+    <p class="page-hero__summary">Нидерландское общество, традиции и подготовка к интеграции.</p>
+    <div class="page-hero__meta">
+      <span class="culture-pill">{allCulture.length} статей</span>
+    </div>
+  </div>
+
+  {catOrder.map((cat) => {
+    const articles = byCategory[cat];
+    return (
+      <section class="page-section">
+        <div class="page-section__head">
+          <h2>{catTitles[cat] || cat}</h2>
+          <span class="page-section__count">{articles.length}</span>
+        </div>
+        <div class="card-grid">
+          {articles.map((a) => (
+            <a href={`/${lang}/culture/${a.id}`} class="card" style="text-decoration:none;color:inherit">
+              <h3>{a.title}</h3>
+            </a>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+</MainLayout>

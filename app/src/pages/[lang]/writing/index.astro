@@ -1,0 +1,27 @@
+---
+import MainLayout from '@/layouts/MainLayout.astro';
+import WritingListItem from '@/components/progress/WritingListItem.jsx';
+import { allWritings } from '@/content/writing/index.js';
+
+export function getStaticPaths() {
+  return [{ params: { lang: 'ru' } }];
+}
+
+const { lang } = Astro.params;
+---
+
+<MainLayout title="Письмо">
+  <div class="page-hero">
+    <h1>Письмо</h1>
+    <p class="page-hero__summary">Задания для развития письменных навыков.</p>
+    <div class="page-hero__meta">
+      <span class="culture-pill">{allWritings.length} заданий</span>
+    </div>
+  </div>
+
+  <div class="card-grid">
+    {allWritings.map((w) => (
+      <WritingListItem client:load writing={w} lang={lang} />
+    ))}
+  </div>
+</MainLayout>

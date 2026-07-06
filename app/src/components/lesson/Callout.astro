@@ -1,0 +1,25 @@
+---
+const VARIANTS = {
+  tip:     { cls: 'callout-tip',     icon: 'i', defaultTitle: 'Совет' },
+  info:    { cls: 'callout-tip',     icon: 'i', defaultTitle: 'Полезно знать' },
+  warn:    { cls: 'callout-warn',    icon: '!', defaultTitle: 'Важно' },
+  warning: { cls: 'callout-warn',    icon: '!', defaultTitle: 'Важно' },
+  example: { cls: 'callout-example', icon: 'E', defaultTitle: 'Пример из жизни' },
+  fact:    { cls: 'callout-fact',    icon: '?', defaultTitle: 'Факт' },
+  success: { cls: 'callout-success', icon: '+', defaultTitle: 'Итог' },
+};
+
+const { variant = 'tip', title } = Astro.props;
+const meta = VARIANTS[variant] || VARIANTS.tip;
+const displayTitle = title || meta.defaultTitle;
+---
+
+<div class:list={['callout', meta.cls]}>
+  <div class="callout__head">
+    <span class="callout__icon">{meta.icon}</span>
+    <span class="callout__title">{displayTitle}</span>
+  </div>
+  <div class="callout__body">
+    <slot />
+  </div>
+</div>

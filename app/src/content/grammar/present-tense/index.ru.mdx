@@ -1,0 +1,104 @@
+---
+title: "Настоящее время (OTT)"
+level: "a1"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Настоящее время образуется от основы глагола (инфинитив минус -en). К основе добавляются окончания: -0 (ik), -t (jij/hij/zij/u), -en (wij/jullie/zij).
+
+**Основа = инфинитив - en | ik + основа | jij/hij/zij/u + основа + t | wij/jullie/zij + инфинитив**
+
+Сначала найди основу: убери -en от инфинитива. Затем добавь окончание. Важно: при инверсии с jij окончание -t исчезает. Действуют правила орфографии (удвоение гласных, f/v, s/z).
+
+- Регулярные действия: Ik werk elke dag. (Я работаю каждый день.)
+- Факты: De zon schijnt. (Солнце светит.)
+- Будущее с указанием времени: Morgen ga ik naar Amsterdam. (Завтра я еду в Амстердам.)
+
+### Спряжение правильных глаголов
+
+<GrammarTable headers={["Лицо","werken (работать)","wonen (жить)","lezen (читать)"]} rows={[["ik","werk","woon","lees"],["jij/je","werkt","woont","leest"],["u","werkt","woont","leest"],["hij/zij/het","werkt","woont","leest"],["wij/we","werken","wonen","lezen"],["jullie","werken","wonen","lezen"],["zij/ze","werken","wonen","lezen"]]} />
+
+### Неправильные глаголы
+
+<GrammarTable headers={["Лицо","zijn (быть)","hebben (иметь)","kunnen (мочь)","willen (хотеть)"]} rows={[["ik","ben","heb","kan","wil"],["jij/je","bent","hebt","kunt/kan","wilt/wil"],["u","bent","heeft","kunt/kan","wilt/wil"],["hij/zij/het","is","heeft","kan","wil"],["wij/we","zijn","hebben","kunnen","willen"],["jullie","zijn","hebben","kunnen","willen"],["zij/ze","zijn","hebben","kunnen","willen"]]} />
+
+### Как найти основу глагола
+
+<GrammarTable headers={["Инфинитив","Основа","Правило"]} rows={[["werken","werk","Убрать -en"],["wonen","woon","wo- в закрытом слоге -> woon (удвоение o)"],["maken","maak","ma- в закрытом слоге -> maak (удвоение a)"],["lezen","lees","le- в закрытом слоге -> lees (удвоение e); z -> s на конце"],["leven","leef","le- в закрытом слоге -> leef (удвоение e); v -> f на конце"],["schrijven","schrijf","v -> f на конце"],["reizen","reis","z -> s на конце"]]} />
+
+<Tip title="Правило инверсии с jij">
+- В обычном порядке: Jij werkt hier.
+- При инверсии (вопрос или после наречия): Werk jij hier? Morgen werk jij.
+- Окончание -t исчезает ТОЛЬКО с jij/je, НЕ с hij/u
+</Tip>
+
+<Tip title="Основа оканчивается на -t">
+- Если основа уже на -t, не добавляй еще одну: zitten -> основа zit -> jij zit (не zitt)
+- Примеры: eten -> eet -> jij eet, weten -> weet -> jij weet
+</Tip>
+
+<Tip title="leven vs wonen: разные значения">
+- leven = 'жить' в смысле 'быть живым, существовать': Mijn opa leeft nog. (Мой дедушка ещё жив.)
+- wonen = 'жить' в смысле 'проживать где-то': Ik woon in Amsterdam.
+- Оба спрягаются правильно, но путать их нельзя: 'Ik leef in Amsterdam' звучит как 'Я выживаю в Амстердаме'.
+</Tip>
+
+## Примеры
+
+<Example nl={`Ik werk in een ziekenhuis.`} ru={`Я работаю в больнице.`} />
+<Example nl={`Zij woont in Rotterdam.`} ru={`Она живет в Роттердаме.`} />
+<Example nl={`Wij lezen elke dag de krant.`} ru={`Мы каждый день читаем газету.`} />
+<Example nl={`Spreek jij Nederlands?`} ru={`Ты говоришь по-нидерландски? (без -t при инверсии с jij)`} />
+<Example nl={`Hij schrijft een brief.`} ru={`Он пишет письмо.`} />
+<Example nl={`De kinderen spelen in het park.`} ru={`Дети играют в парке.`} />
+<Example nl={`Ik ben student en ik heb een baan.`} ru={`Я студент и у меня есть работа.`} />
+<Example nl={`Morgen gaan we naar de markt.`} ru={`Завтра мы идем на рынок.`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "fill-blank",
+    "sentence": "Ik __ elke dag Nederlands. (studeren)",
+    "answer": "studeer",
+    "explanation": "ik + основа (studeer)"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Hij __ in een restaurant. (werken)",
+    "answer": "werkt",
+    "explanation": "hij + основа + t"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "__ jij koffie? (drinken)",
+    "answer": "Drink",
+    "explanation": "Инверсия с jij: без -t"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Wij __ naar school. (fietsen)",
+    "answer": "fietsen",
+    "explanation": "wij + инфинитив"
+  },
+  {
+    "type": "choice",
+    "question": "Zij (ед.ч.) __ een boek. (lezen)",
+    "options": [
+      "lees",
+      "leest",
+      "lezen",
+      "leez"
+    ],
+    "answer": "leest",
+    "explanation": "zij (она) + основа + t; z -> s на конце основы"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Ik __ student. (zijn)",
+    "answer": "ben",
+    "explanation": "zijn -- неправильный глагол: ik ben"
+  }
+]} />
+

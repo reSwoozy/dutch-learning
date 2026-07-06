@@ -1,0 +1,74 @@
+---
+title: "Уменьшительные формы (-je)"
+level: "a2"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+Уменьшительные формы очень распространены в нидерландском. Образуются суффиксом -je (и его вариантами). Все уменьшительные -- het-woorden.
+
+**Существительное + -je / -tje / -pje / -etje / -kje -> het-woord**
+
+Выбор суффикса зависит от последнего звука слова. Уменьшительные выражают не только маленький размер, но и ласку, привычность. Все уменьшительные -- het-woorden, мн.ч. на -s.
+
+- Маленький размер: het huisje (домик), het hondje (собачка)
+- Ласка/привычность: een kopje koffie (чашечка кофе), een biertje (пивко)
+- Нейтральное: het meisje (девочка), het beetje (немного)
+
+### Правила образования
+
+<GrammarTable headers={["После","Суффикс","Пример"]} rows={[["Большинство согласных","-je","boek -> boekje, stoel -> stoeltje"],["-m (после короткой гласной)","-etje","kam -> kammetje, dam -> dammetje"],["-m (после долгой гласной/дифтонга/согл.)","-pje","boom -> boompje, bloem -> bloempje, arm -> armpje, bezem -> bezempje"],["-n (после короткой гласной)","-etje","pan -> pannetje, man -> mannetje"],["-ng (после короткой гласной)","-etje","ring -> ringetje, ding -> dingetje"],["-ing (безударное, 2+ слога)","-kje (с заменой g→k)","koning -> koninkje, leerling -> leerlinkje"],["-l (после короткой гласной)","-etje","bal -> balletje, bel -> belletje"],["-l (после долгой гласной)","-tje","stoel -> stoeltje, tafel -> tafeltje"],["-r (после короткой гласной)","-etje","ster -> sterretje"],["-r (после долгой гласной)","-tje","deur -> deurtje, dier -> diertje"]]} />
+
+### Частые уменьшительные
+
+<GrammarTable headers={["Слово","Уменьшительное","Перевод"]} rows={[["huis","het huisje","домик"],["hond","het hondje","собачка"],["kat","het katje","котенок/кошечка"],["kind","het kindje","малыш"],["kopje","het kopje","чашечка (kopje koffie)"],["meisje","het meisje","девочка (уже уменьшительное от meid)"],["beetje","het beetje","немного (een beetje)"],["broodje","het broodje","булочка/бутерброд"],["biertje","het biertje","пивко"],["bloempje","het bloempje","цветочек"],["zonnetje","het zonnetje","солнышко"]]} />
+
+## Примеры
+
+<Example nl={`Wil je een kopje koffie?`} ru={`Хочешь чашечку кофе?`} />
+<Example nl={`Het meisje speelt met haar hondje.`} ru={`Девочка играет со своей собачкой.`} />
+<Example nl={`Ik woon in een klein huisje.`} ru={`Я живу в маленьком домике.`} />
+<Example nl={`Mag ik een biertje?`} ru={`Можно мне пивко?`} />
+<Example nl={`Ik spreek een beetje Nederlands.`} ru={`Я говорю немного по-нидерландски.`} />
+<Example nl={`Wil je een broodje kaas?`} ru={`Хочешь бутерброд с сыром?`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "fill-blank",
+    "sentence": "huis -> het __ (уменьшительное)",
+    "answer": "huisje",
+    "explanation": "huis + -je"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "kam -> het __ (уменьшительное)",
+    "answer": "kammetje",
+    "explanation": "После -m с короткой гласной: -etje (с удвоением m)"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "koning -> het __ (уменьшительное)",
+    "answer": "koninkje",
+    "explanation": "Безударное -ing: -ing заменяется на -kje (koninkje)"
+  },
+  {
+    "type": "choice",
+    "question": "__ hondje is schattig.",
+    "options": [
+      "De",
+      "Het",
+      "Een"
+    ],
+    "answer": "Het",
+    "explanation": "Все уменьшительные -- het-woorden"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Wil je een __ koffie? (чашечку)",
+    "answer": "kopje",
+    "explanation": "kopje koffie -- устойчивое выражение"
+  }
+]} />
+

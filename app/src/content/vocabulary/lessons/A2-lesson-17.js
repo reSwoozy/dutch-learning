@@ -1,0 +1,290 @@
+export default [
+  {
+    "nl": "zijn - geweest",
+    "ru": "быть - был",
+    "example": "Ik ben in Amsterdam geweest.",
+    "pronunciation": "zɛi̯n - ɣəˈʋeːst",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "hebben - gehad",
+    "ru": "иметь - имел",
+    "example": "Hij heeft koorts gehad.",
+    "pronunciation": "ˈɦɛbə - ɣəˈɦɑt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "gaan - gegaan",
+    "ru": "идти - пошел",
+    "example": "We zijn naar huis gegaan.",
+    "pronunciation": "ɣaːn - ɣəˈɣaːn",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "komen - gekomen",
+    "ru": "приходить - пришел",
+    "example": "Ze is laat gekomen.",
+    "pronunciation": "ˈkoːmə - ɣəˈkoːmə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "doen - gedaan",
+    "ru": "делать - сделал",
+    "example": "Wat heb je gedaan?",
+    "pronunciation": "dun - ɣəˈdaːn",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "zien - gezien",
+    "ru": "видеть - видел",
+    "example": "Ik heb de film gezien.",
+    "pronunciation": "zin - ɣəˈzin",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "worden - geworden",
+    "ru": "становиться - стал",
+    "example": "Het is koud geworden.",
+    "pronunciation": "ˈʋɔrdə - ɣəˈʋɔrdə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "krijgen - gekregen",
+    "ru": "получать - получил",
+    "example": "Hij heeft een cadeau gekregen.",
+    "pronunciation": "ˈkrɛi̯ɣə - ɣəˈkreːɣə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "geven - gegeven",
+    "ru": "давать - дал",
+    "example": "Ze heeft advies gegeven.",
+    "pronunciation": "ˈɣeːvə - ɣəˈɣeːvə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "nemen - genomen",
+    "ru": "брать - взял",
+    "example": "Ik heb de bus genomen.",
+    "pronunciation": "ˈneːmə - ɣəˈnoːmə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "vinden - gevonden",
+    "ru": "находить - нашел",
+    "example": "Heb je je sleutels gevonden?",
+    "pronunciation": "ˈvɪndə - ɣəˈvɔndə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "brengen - gebracht",
+    "ru": "приносить - принес",
+    "example": "Hij heeft bloemen gebracht.",
+    "pronunciation": "ˈbrɛŋə - ɣəˈbrɑxt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "denken - gedacht",
+    "ru": "думать - думал",
+    "example": "Ik heb aan je gedacht.",
+    "pronunciation": "ˈdɛŋkə - ɣəˈdɑxt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "weten - geweten",
+    "ru": "знать - знал",
+    "example": "Heb je dat geweten?",
+    "pronunciation": "ˈʋeːtə - ɣəˈʋeːtə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "kunnen - gekund",
+    "ru": "мочь - мог",
+    "example": "Hij heeft het niet gekund.",
+    "pronunciation": "ˈkʏnə - ɣəˈkʏnt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "maken - gemaakt",
+    "ru": "делать - сделал",
+    "example": "Ik heb het eten gemaakt.",
+    "pronunciation": "ˈmaːkə - ɣəˈmaːkt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "kopen - gekocht",
+    "ru": "покупать - купил",
+    "example": "We hebben een auto gekocht.",
+    "pronunciation": "ˈkoːpə - ɣəˈkoːxt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "werken - gewerkt",
+    "ru": "работать - работал",
+    "example": "Hij heeft hard gewerkt.",
+    "pronunciation": "ˈʋɛrkə - ɣəˈʋɛrkt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "leven - geleefd",
+    "ru": "жить - жил",
+    "example": "Ze heeft lang in Parijs geleefd.",
+    "pronunciation": "ˈleːvə - ɣəˈleːft",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "horen - gehoord",
+    "ru": "слышать - слышал",
+    "example": "Heb je het nieuws gehoord?",
+    "pronunciation": "ˈɦoːrə - ɣəˈɦoːrt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "spelen - gespeeld",
+    "ru": "играть - играл",
+    "example": "De kinderen hebben buiten gespeeld.",
+    "pronunciation": "ˈspeːlə - ɣəˈspeːlt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "eten - gegeten",
+    "ru": "есть - ел",
+    "example": "We hebben in een restaurant gegeten.",
+    "pronunciation": "ˈeːtə - ɣəˈɣeːtə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "drinken - gedronken",
+    "ru": "пить - пил",
+    "example": "Hij heeft veel water gedronken.",
+    "pronunciation": "ˈdrɪŋkə - ɣəˈdrɔŋkə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "slapen - geslapen",
+    "ru": "спать - спал",
+    "example": "Ik heb goed geslapen.",
+    "pronunciation": "ˈslaːpə - ɣəˈslaːpə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "lezen - gelezen",
+    "ru": "читать - читал",
+    "example": "Ze heeft het boek gelezen.",
+    "pronunciation": "ˈleːzə - ɣəˈleːzə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "schrijven - geschreven",
+    "ru": "писать - писал",
+    "example": "Hij heeft een brief geschreven.",
+    "pronunciation": "ˈsxrɛi̯və - ɣəˈsxreːvə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "rijden - gereden",
+    "ru": "ехать - ехал",
+    "example": "We hebben naar Amsterdam gereden.",
+    "pronunciation": "ˈrɛi̯də - ɣəˈreːdə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "vliegen - gevlogen",
+    "ru": "летать - летал",
+    "example": "Hij is naar Spanje gevlogen.",
+    "pronunciation": "ˈvliːɣə - ɣəˈvloːɣə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "lopen - gelopen",
+    "ru": "идти пешком - шел",
+    "example": "Ik ben naar werk gelopen.",
+    "pronunciation": "ˈloːpə - ɣəˈloːpə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "blijven - gebleven",
+    "ru": "оставаться - остался",
+    "example": "Ze is thuis gebleven.",
+    "pronunciation": "ˈblɛi̯və - ɣəˈbleːvə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "vertrekken - vertrokken",
+    "ru": "отправляться - отправился",
+    "example": "De trein is vertrokken.",
+    "pronunciation": "vərˈtrɛkə - vərˈtrɔkə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "aankomen - aangekomen",
+    "ru": "прибывать - прибыл",
+    "example": "We zijn om tien uur aangekomen.",
+    "pronunciation": "ˈaːnkoːmə - ˈaːnɣəkoːmə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "beginnen - begonnen",
+    "ru": "начинать - начал",
+    "example": "De film is al begonnen.",
+    "pronunciation": "bəˈɣɪnə - bəˈɣɔnə",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "eindigen - geëindigd",
+    "ru": "заканчивать - закончил",
+    "example": "Het werk is geëindigd.",
+    "pronunciation": "ˈɛi̯ndəɣə - ɣəˈʔɛi̯ndəxt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "gebeuren - gebeurd",
+    "ru": "происходить - произошло",
+    "example": "Wat is er gebeurd?",
+    "pronunciation": "ɣəˈbøːrə - ɣəˈbøːrt",
+    "level": "A2",
+    "lesson": 17
+  },
+  {
+    "nl": "vergeten - vergeten",
+    "ru": "забывать - забыл",
+    "example": "Ik ben mijn sleutels vergeten.",
+    "pronunciation": "vərˈɣeːtə - vərˈɣeːtə",
+    "level": "A2",
+    "lesson": 17
+  }
+];

@@ -1,0 +1,77 @@
+---
+title: "KNM: Werk en inkomen"
+category: "knm"
+---
+
+import { Tip, Callout, Phrases, Stats, Steps } from '@/components/lesson';
+
+
+Тема **Werk en inkomen** на KNM — про то, как устроена работа в NL: где искать вакансии, чем отличаются контракты, откуда берётся netto и что такое WW.
+
+<Stats items={[
+  { num: '26 / 36', label: 'недель работы' , sub: 'минимум для WW'},
+  { num: '8%', label: 'vakantiegeld' , sub: 'от годового bruto'},
+  { num: '3', label: 'фазы uitzend' , sub: 'A, B, C'}
+]} />
+
+## Поиск работы
+
+- **UWV** — [werk.nl](https://www.werk.nl), пособия WW/WIA/Ziektewet.
+- **Uitzendbureau** — частый вход на рынок для новых жителей.
+- **Indeed, LinkedIn, Nationale Vacaturebank** — массовые площадки.
+- **Tewerkstellingsvergunning** — для граждан вне ЕС/ЕЭЗ, если статус ВНЖ этого не снимает.
+
+<Tip title="CV на нидерландском">
+Даже на складе или в доставке ждут короткое NL-CV. Фото не обязательно, даты в формате **mm/jjjj**, раздел «Taal» с уровнем (A2/B1).
+</Tip>
+
+## Типы контрактов
+
+| Тип | Суть |
+|---|---|
+| **Vast (onbepaalde tijd)** | Бессрочный, сильная защита. |
+| **Tijdelijk (bepaalde tijd)** | До 3 подряд, четвёртый часто становится vast. |
+| **Oproep / 0-uren** | Вызов по необходимости; после года работодатель обязан предложить фикс-часы. |
+| **Uitzend** | Фазы A/B/C, растёт защита. |
+| **ZZP** | Свой KvK, налоги самостоятельно. |
+
+## Зарплата и налоги
+
+- **Bruto → netto**: удерживают loonheffing и взносы (AOW, WW, Zvw и др.).
+- **Minimumloon** — пересматривается дважды в год; сумму уточняйте на [rijksoverheid.nl](https://www.rijksoverheid.nl).
+- **Vakantiegeld** — около 8%, обычно выплата в мае.
+- **Aangifte inkomstenbelasting** — до 1 мая (или продление через Belastingdienst).
+
+<Callout variant="example" title="Типичный вопрос KNM">
+«Кто платит AOW-взносы с зарплаты?» — **работодатель удерживает с bruto** вместе с другими социальными взносами; это не отдельный платёж сотруднику в банк.
+</Callout>
+
+## Пособия (коротко)
+
+- **WW** — после увольнения не по своей вине, условие по неделям работы. Действует **sollicitatieplicht**: получатель обязан активно искать работу и отчитываться перед UWV.
+- **Ziektewet / WIA** — болезнь и частичная нетрудоспособность.
+- **Bijstand** — социальная помощь через gemeente в рамках **Participatiewet**, если нет других средств; сопровождается обязанностями (поиск работы, встречное участие).
+- **Toeslagen** — zorg-, huur-, kinderopvangtoeslag и др.
+
+<Callout variant="example" title="Кто такой SVB">
+**SVB** (Sociale Verzekeringsbank) выплачивает государственные социальные выплаты: **AOW** (государственную пенсию) и **kinderbijslag** (детское пособие). Пособия по безработице и нетрудоспособности (WW, WIA) — это уже **UWV**, а bijstand — **gemeente**.
+</Callout>
+
+## Пенсия: три уровня
+
+<Steps items={[
+  { title: '**AOW** — государственная базовая пенсия' , desc: 'выплачивает SVB с AOW-leeftijd, зависит от лет проживания в NL'},
+  { title: '**Pensioen via werkgever**' , desc: 'коллективный пенсионный фонд или договор на работе'},
+  { title: '**Eigen spaarzaamheid**' , desc: 'lijfrente, личные сбережения и инвестиции'}
+]} />
+
+## Ключевые слова
+
+<Phrases title="werkgever | работодатель |" rows={[
+  { nl: 'werknemer', ru: 'работник' },
+  { nl: 'loonstrook', ru: 'расчётный листок' },
+  { nl: 'proeftijd', ru: 'испытательный срок' },
+  { nl: 'CAO', ru: 'отраслевое соглашение' },
+  { nl: 'opzegtermijn', ru: 'срок предупреждения об увольнении' }
+]} />
+

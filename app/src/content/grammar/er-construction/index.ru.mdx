@@ -1,0 +1,93 @@
+---
+title: "Конструкция с er"
+level: "b1"
+---
+
+import { GrammarTable, Example, Tip, Warn, Fact, Callout, Phrases, ExerciseList } from '@/components/lesson';
+
+er -- одно из самых сложных слов в нидерландском. Имеет 5 функций: вводное er, местоименное er, количественное er, предложное er, пассивное er.
+
+**er + глагол (вводное) | er + van/mee/naar... (предложное) | er + числительное (количественное)**
+
+er используется в разных контекстах. Главное -- понять, какую функцию оно выполняет в конкретном предложении.
+
+- Вводное (existential): Er is een probleem. (Есть проблема.)
+- Местоименное (locative): Ik ben er geweest. (Я там был.)
+- Количественное: Ik heb er drie. (У меня их три.)
+- Предложное: Ik denk eraan. (Я думаю об этом.)
+- Пассивное: Er wordt hier gewerkt. (Здесь работают.)
+
+### 5 функций er
+
+<GrammarTable headers={["Функция","Значение","Пример","Аналог в русском"]} rows={[["Вводное","есть/существует","Er is een park in de stad.","В городе есть парк."],["Местоименное","там","Ik woon er al 5 jaar.","Я живу там уже 5 лет."],["Количественное","их (заменяет сущ.)","Hoeveel heb je er? -- Ik heb er drie.","Сколько у тебя? -- У меня их три."],["Предложное","er + предлог = об этом/с этим","Ik denk eraan. (= aan het/dat)","Я думаю об этом."],["Пассивное","безличный пассив","Er wordt hier niet gerookt.","Здесь не курят."]]} />
+
+### Предложное er (er + предлог)
+
+<GrammarTable headers={["Глагол + предлог","С существительным","С er (для вещей)","С местоимением (для людей)"]} rows={[["denken aan","Ik denk aan het examen.","Ik denk eraan.","Ik denk aan hem."],["kijken naar","Ik kijk naar de film.","Ik kijk ernaar.","Ik kijk naar haar."],["praten over","Wij praten over het weer.","Wij praten erover.","Wij praten over hem."],["wachten op","Ik wacht op de bus.","Ik wacht erop.","Ik wacht op jou."],["beginnen met","Ik begin met de les.","Ik begin ermee.",""]]} />
+
+<Tip title="er + предлог: только для вещей!">
+- Для вещей/понятий: eraan, ernaar, erover, erop, ermee
+- Для людей: aan hem, naar haar, over hen (НЕ eraan, ernaar...)
+- Ik denk eraan. (Я думаю об этом.) vs Ik denk aan haar. (Я думаю о ней.)
+</Tip>
+
+<Tip title="Вводное er обязательно">
+- Нельзя начать предложение с неопределенного подлежащего без er
+- Er is een man aan de deur. (не: Een man is aan de deur.)
+- Er zijn veel mensen in het park. (не: Veel mensen zijn in het park. -- можно, но значение другое)
+</Tip>
+
+## Примеры
+
+<Example nl={`Er is een supermarkt in de buurt.`} ru={`В районе есть супермаркет. (вводное)`} />
+<Example nl={`Er zijn veel studenten in de klas.`} ru={`В классе много студентов. (вводное)`} />
+<Example nl={`Ben je in Amsterdam geweest? -- Ja, ik ben er geweest.`} ru={`Ты был в Амстердаме? -- Да, я там был. (местоименное)`} />
+<Example nl={`Hoeveel broers heb je? -- Ik heb er twee.`} ru={`Сколько у тебя братьев? -- У меня их два. (количественное)`} />
+<Example nl={`Ik denk eraan om Nederlands te leren.`} ru={`Я думаю о том, чтобы учить нидерландский. (предложное)`} />
+<Example nl={`Er wordt hier niet gerookt.`} ru={`Здесь не курят. (пассивное)`} />
+
+## Упражнения
+
+<ExerciseList client:load items={[
+  {
+    "type": "fill-blank",
+    "sentence": "__ is een park in de buurt.",
+    "answer": "Er",
+    "explanation": "Вводное er: есть/существует"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Hoeveel kinderen heb je? -- Ik heb __ drie.",
+    "answer": "er",
+    "explanation": "Количественное er: заменяет kinderen"
+  },
+  {
+    "type": "fill-blank",
+    "sentence": "Ik denk __ (aan het examen).",
+    "answer": "eraan",
+    "explanation": "Предложное er: denken aan -> eraan (для вещей)"
+  },
+  {
+    "type": "choice",
+    "question": "Ik wacht __ (op de bus).",
+    "options": [
+      "erop",
+      "op er",
+      "er op"
+    ],
+    "answer": "erop",
+    "explanation": "er + op пишется слитно: erop"
+  },
+  {
+    "type": "choice",
+    "question": "__ wordt hier niet gerookt.",
+    "options": [
+      "Er",
+      "Het",
+      "Men"
+    ],
+    "answer": "Er",
+    "explanation": "Безличный пассив -> Er wordt..."
+  }
+]} />
+

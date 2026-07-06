@@ -1,0 +1,36 @@
+---
+const { words = [], locale = 'ru' } = Astro.props;
+const hasPron = words.some((w) => w.pronunciation);
+const hasHint = words.some((w) => w.hint);
+---
+
+{words.length > 0 && (
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr>
+          <th>Nederlands</th>
+          <th>{locale === 'en' ? 'English' : 'Русский'}</th>
+          {hasPron && <th>{locale === 'en' ? 'Pronunciation' : 'Произношение'}</th>}
+          {hasHint && <th></th>}
+        </tr>
+      </thead>
+      <tbody>
+        {words.map((w) => (
+          <tr>
+            <td><strong>{w.nl}</strong></td>
+            <td>{w[locale] || w.ru || ''}</td>
+            {hasPron && (
+              <td style="color:var(--text-muted);font-size:.85rem">{w.pronunciation || ''}</td>
+            )}
+            {hasHint && (
+              <td style="color:var(--text-muted);font-size:.85rem">
+                {typeof w.hint === 'object' ? w.hint[locale] || w.hint.ru || '' : w.hint || ''}
+              </td>
+            )}
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+)}

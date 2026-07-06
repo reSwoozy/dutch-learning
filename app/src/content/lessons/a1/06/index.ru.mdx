@@ -1,0 +1,198 @@
+---
+title: "Повелительное наклонение (Imperatief)"
+objectives:
+  - "Образовывать imperatief в трёх контекстах: ты/u/laten we"
+  - "Смягчать команды словами even, maar, eens"
+  - "Использовать imperatief с отделяемыми глаголами"
+  - "Строить вежливые просьбы и инструкции"
+  - "Понимать разницу между прямыми командами и вежливыми запросами"
+---
+
+import { Vocabulary, Dialogue, Tip, Warn, Fact, Success, Callout, Example, Phrases, Stats, Steps, GrammarTable, ExerciseList } from '@/components/lesson';
+import vocab from './vocab.js';
+
+
+## Фаза 1: Форма и правила (4 минуты)
+
+**Формула imperatief**:
+- Ты/вы (неформально): основа глагола → `Kom!` (иди!)
+- U (формально): основа + -t + u → `Komt u binnen.`
+- Мы (совместно): `Laten we + инфинитив` → `Laten we gaan.`
+Особые формы: `zijn → wees`, `hebben → heb`.
+**Отделяемые глаголы**: приставка в конец. `opstaan → Sta op!`
+
+<GrammarTable
+  headers={["Контекст","Форма","Пример"]}
+  rows={[["Ты (неформально)","основа","Kom! Luister! Wacht!"],["U (формально)","основа + -t + u","Komt u binnen. Wacht u even."],["Мы (совместно)","Laten we + инф.","Laten we beginnen."],["Отрицание","Niet + imperatief","Doe dat niet!"],["Отделяемый","основа + ... + приставка","Sta op! Kom mee!"]]}
+/>
+
+## Фаза 2: Частые команды и смягчители (5 минут)
+
+<Vocabulary words={vocab.main} locale="ru" />
+
+## Диалог 1: На кухне
+
+<Dialogue
+  title="Диалог 1: На кухне"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Kom eens hier! Ik maak pasta."
+  },
+  {
+    "speaker": "B",
+    "text": "Goed, wat moet ik doen?"
+  },
+  {
+    "speaker": "A",
+    "text": "Snijd de ui, alsjeblieft. En wees voorzichtig met het mes."
+  },
+  {
+    "speaker": "B",
+    "text": "Oké. Moet ik ook de tomaten snijden?"
+  },
+  {
+    "speaker": "A",
+    "text": "Ja, doe dat. En zet de pan op het fornuis."
+  },
+  {
+    "speaker": "B",
+    "text": "Klaar! Wat nu?"
+  },
+  {
+    "speaker": "A",
+    "text": "Wacht even. Laten we de pasta in de pan doen."
+  }
+]}
+  translation={[
+  {
+    "speaker": "A",
+    "text": "Иди-ка сюда! Я готовлю пасту."
+  },
+  {
+    "speaker": "B",
+    "text": "Хорошо, что мне делать?"
+  },
+  {
+    "speaker": "A",
+    "text": "Нарежь лук, пожалуйста. И будь осторожен с ножом."
+  },
+  {
+    "speaker": "B",
+    "text": "Ок. Мне ещё помидоры нарезать?"
+  },
+  {
+    "speaker": "A",
+    "text": "Да, сделай это. И поставь сковороду на огонь."
+  },
+  {
+    "speaker": "B",
+    "text": "Готово! Что теперь?"
+  },
+  {
+    "speaker": "A",
+    "text": "Подожди. Давай положим туда пасту."
+  }
+]}
+/>
+
+## Диалог 2: В офисе (формально)
+
+<Dialogue
+  title="Диалог 2: В офисе (формально)"
+  lines={[
+  {
+    "speaker": "A",
+    "text": "Goedemorgen! Komt u binnen."
+  },
+  {
+    "speaker": "B",
+    "text": "Dank u wel."
+  },
+  {
+    "speaker": "A",
+    "text": "Neemt u plaats. Wilt u koffie?"
+  },
+  {
+    "speaker": "B",
+    "text": "Ja, graag."
+  },
+  {
+    "speaker": "A",
+    "text": "Wacht u even, ik haal het."
+  }
+]}
+  translation={[
+  {
+    "speaker": "A",
+    "text": "Доброе утро! Входите."
+  },
+  {
+    "speaker": "B",
+    "text": "Благодарю."
+  },
+  {
+    "speaker": "A",
+    "text": "Присаживайтесь. Хотите кофе?"
+  },
+  {
+    "speaker": "B",
+    "text": "Да, с удовольствием."
+  },
+  {
+    "speaker": "A",
+    "text": "Подождите, я принесу."
+  }
+]}
+/>
+
+## Смягчители команд
+
+В голландском голая команда (`Kom hier!`) звучит грубо. Почти всегда добавляют **смягчитель**:
+- **even** = 'минутку': `Wacht even.`
+- **maar** = 'давай уже': `Ga maar zitten.`
+- **eens** = 'как-нибудь': `Kom eens hier.`
+- **toch** = 'ну ведь': `Luister toch!`
+- **alsjeblieft / alstublieft** = 'пожалуйста'
+Можно комбинировать: `Kom even hier, alsjeblieft.`
+
+## Фаза 3: Практика
+
+<ExerciseList client:load items={[
+  {
+    "question": "Образуй imperatief (ты) от komen: `________`",
+    "answer": "Kom"
+  },
+  {
+    "question": "Образуй imperatief (u) от wachten: `________`",
+    "answer": "Wacht u"
+  },
+  {
+    "question": "Совместный призыв 'Давайте есть' — `________`",
+    "answer": "Laten we eten"
+  },
+  {
+    "question": "Отделяемый opstaan в imperatief — `________`",
+    "answer": "Sta op"
+  },
+  {
+    "question": "Отрицание 'Не делай этого' — `________`",
+    "answer": "Doe dat niet"
+  },
+  {
+    "question": "Imperatief от zijn (неформально): `Wees ...`",
+    "answer": "Wees"
+  },
+  {
+    "question": "Вежливо: 'Входите' — `________`",
+    "answer": "Komt u binnen"
+  },
+  {
+    "question": "Смягчи: 'Kom hier' → (c eens)",
+    "answer": "Kom eens hier"
+  }
+]} />
+
+## Голландский стиль команд
+
+Голландцы ценят прямоту, но не грубость. Полная команда без смягчителя — для экстренной ситуации (`Kijk uit!`, `Stop!`). В быту всегда смягчают: **even, maar, eens** или **alsjeblieft**. На работе часто используют форму с 'kun je ...?' ('можешь ли ты...?') вместо прямого императива — это ещё мягче.

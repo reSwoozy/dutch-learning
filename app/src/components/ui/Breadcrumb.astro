@@ -1,0 +1,13 @@
+---
+const { items = [] } = Astro.props;
+---
+
+<div class="breadcrumb">
+  {items.map((item, i) =>
+    i < items.length - 1 ? (
+      <><a href={item.href}>{item.label}</a> / </>
+    ) : (
+      <span>{item.label}</span>
+    )
+  )}
+</div>

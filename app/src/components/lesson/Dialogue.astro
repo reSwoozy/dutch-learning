@@ -1,0 +1,39 @@
+---
+const { lines = [], translation, title } = Astro.props;
+---
+
+{lines.length > 0 && (
+  <div>
+    {title && <h3 style="margin-top:1.5rem">{title}</h3>}
+    <div class="card" style="font-family:var(--mono);font-size:.9rem;line-height:1.8">
+      {lines.map((line) =>
+        line.speaker ? (
+          <div>
+            <strong style="color:var(--accent)">{line.speaker}:</strong> {line.text}
+          </div>
+        ) : (
+          <div style="color:var(--text-muted);font-style:italic">{line.text}</div>
+        )
+      )}
+    </div>
+    {translation && (
+      <details style="margin-top:.5rem">
+        <summary style="cursor:pointer;color:var(--accent);font-size:.85rem">
+          Показать перевод
+        </summary>
+        <div class="card" style="margin-top:.5rem;font-size:.85rem;color:var(--text-muted);line-height:1.8">
+          {Array.isArray(translation)
+            ? translation.map((line) =>
+                line.speaker ? (
+                  <div><strong style="color:var(--text-muted)">{line.speaker}:</strong> {line.text}</div>
+                ) : (
+                  <div>{line.text || line}</div>
+                )
+              )
+            : <slot name="translation" />
+          }
+        </div>
+      </details>
+    )}
+  </div>
+)}

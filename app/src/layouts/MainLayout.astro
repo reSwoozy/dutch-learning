@@ -1,0 +1,49 @@
+---
+import '@/styles/base.css';
+import '@/styles/layout.css';
+import '@/styles/components.css';
+import '@/styles/pages.css';
+
+import Header from '@/components/layout/Header.astro';
+import Footer from '@/components/layout/Footer.astro';
+import AuthGate from '@/components/layout/AuthGate.jsx';
+import NavStreak from '@/components/layout/NavStreak.jsx';
+import NavAccount from '@/components/layout/NavAccount.jsx';
+import Toast from '@/components/ui/Toast.jsx';
+import { getLocaleFromUrl, t } from '@/i18n/utils.js';
+
+const lang = getLocaleFromUrl(Astro.url);
+const { title } = Astro.props;
+const fullTitle = title ? `${title} — ${t('site.title', lang)}` : t('site.title', lang);
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0b0f1a" />
+    <meta name="description" content={t('site.description', lang)} />
+    <title>{fullTitle}</title>
+    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}icon.svg`} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <AuthGate client:load locale={lang} />
+    <NavStreak client:load />
+    <NavAccount client:load />
+    <Toast client:load />
+    <Header lang={lang} />
+
+    <main class="container">
+      <slot />
+    </main>
+
+    <Footer />
+  </body>
+</html>

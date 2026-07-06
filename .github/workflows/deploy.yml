@@ -20,89 +20,41 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    defaults:
+      run:
+        working-directory: app
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm
+          cache-dependency-path: app/package-lock.json
 
-      - name: Validate JSON data
-        run: |
-          set -e
-          mapfile -t files < <(find site/data -name '*.json')
-          for f in "${files[@]}"; do
-            node -e "JSON.parse(require('fs').readFileSync(process.argv[1],'utf8'))" "$f" \
-              || { echo "::error file=$f::Invalid JSON"; exit 1; }
-          done
+      - run: npm ci
 
-      - name: Lint lessons (schema + content rules)
-        run: node scripts/lint-lessons.mjs
+      - run: npm run lint
 
-      - name: Rebuild vocabulary indexes
-        run: node scripts/rebuild-vocab-index.mjs
+      - run: npm run test
 
-      - name: Inject Firebase config
+      - run: npm run validate:content
+
+      - run: npm run build
         env:
-          FB_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
-          FB_AUTH_DOMAIN: ${{ secrets.FIREBASE_AUTH_DOMAIN }}
-          FB_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
-          FB_STORAGE_BUCKET: ${{ secrets.FIREBASE_STORAGE_BUCKET }}
-          FB_MESSAGING_SENDER_ID: ${{ secrets.FIREBASE_MESSAGING_SENDER_ID }}
-          FB_APP_ID: ${{ secrets.FIREBASE_APP_ID }}
-        run: |
-          node <<'EOF'
-          const fs = require('fs');
-          const clean = (v) =>
-            (v ?? '').trim().replace(/^["'`]|["'`]$/g, '');
-          const cfg = {
-            apiKey: clean(process.env.FB_API_KEY),
-            authDomain: clean(process.env.FB_AUTH_DOMAIN),
-            projectId: clean(process.env.FB_PROJECT_ID),
-            storageBucket: clean(process.env.FB_STORAGE_BUCKET),
-            messagingSenderId: clean(process.env.FB_MESSAGING_SENDER_ID),
-            appId: clean(process.env.FB_APP_ID),
-          };
-          const missing = Object.entries(cfg)
-            .filter(([, v]) => !v)
-            .map(([k]) => k);
-          if (missing.length) {
-            console.error(
-              '::error::Missing or empty Firebase secrets: ' + missing.join(', '),
-            );
-            process.exit(1);
-          }
-          const body =
-            'export const firebaseConfig = ' +
-            JSON.stringify(cfg, null, 2) +
-            ';\n';
-          fs.writeFileSync('site/js/firebase/config.js', body);
-          EOF
-
-      - name: Validate generated config.js
-        run: node --check site/js/firebase/config.js
-
-      - name: Stamp service worker version
-        run: |
-          node <<'EOF'
-          const fs = require('fs');
-          const path = 'site/sw.js';
-          const short = (process.env.GITHUB_SHA || '').slice(0, 7) || String(Date.now());
-          const src = fs.readFileSync(path, 'utf8');
-          const next = src.replace(/const VERSION = '[^']+';/, `const VERSION = '${short}';`);
-          if (src === next) {
-            console.error('::error::Failed to stamp VERSION in sw.js');
-            process.exit(1);
-          }
-          fs.writeFileSync(path, next);
-          console.log('sw.js VERSION stamped as', short);
-          EOF
+          BASE_PATH: /${{ github.event.repository.name }}/
+          PUBLIC_FB_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
+          PUBLIC_FB_AUTH_DOMAIN: ${{ secrets.FIREBASE_AUTH_DOMAIN }}
+          PUBLIC_FB_PROJECT_ID: ${{ secrets.FIREBASE_PROJECT_ID }}
+          PUBLIC_FB_STORAGE_BUCKET: ${{ secrets.FIREBASE_STORAGE_BUCKET }}
+          PUBLIC_FB_MESSAGING_SENDER_ID: ${{ secrets.FIREBASE_MESSAGING_SENDER_ID }}
+          PUBLIC_FB_APP_ID: ${{ secrets.FIREBASE_APP_ID }}
 
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: app/dist
 
       - id: deployment
         uses: actions/deploy-pages@v4

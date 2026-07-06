@@ -1,0 +1,64 @@
+{
+  "site": {
+    "title": "Dutch Learning System",
+    "description": "Dutch course A1-B2 with grammar, flashcards and tests."
+  },
+  "nav": {
+    "lessons": "Lessons",
+    "grammar": "Grammar",
+    "flashcards": "Flashcards",
+    "tests": "Tests",
+    "verbs": "Verbs",
+    "reading": "Reading",
+    "writing": "Writing",
+    "culture": "Culture",
+    "resources": "Resources",
+    "materials": "Materials",
+    "account": "Account",
+    "search": "Search"
+  },
+  "lesson": {
+    "objectives": "Lesson objectives",
+    "markComplete": "Mark as completed",
+    "unmarkComplete": "Unmark",
+    "completed": "Completed",
+    "showTranslation": "Show translation",
+    "sections": "sections",
+    "words": "words",
+    "minutes": "min"
+  },
+  "auth": {
+    "title": "Sign in",
+    "subtitle": "Sign in with Google to sync your progress across devices.",
+    "signIn": "Sign in with Google",
+    "signOut": "Sign out"
+  },
+  "account": {
+    "title": "Account",
+    "subtitle": "Profile, progress and account management.",
+    "resetProgress": "Reset progress",
+    "resetConfirm": "Reset all progress? This cannot be undone.",
+    "streakDays": "day streak",
+    "accuracy": "accuracy",
+    "lessonsCompleted": "Lessons completed",
+    "grammarViewed": "Grammar",
+    "correctRate": "Correct answers",
+    "daysStreak": "Day streak",
+    "learning": "Learning (SRS)",
+    "dueReview": "Due for review",
+    "levelProgress": "Level progress",
+    "activity": "Activity (52 weeks)",
+    "testResults": "Test results",
+    "recentExercises": "Recent exercises",
+    "management": "Account management"
+  },
+  "common": {
+    "notFound": "Page not found",
+    "notFoundDesc": "Check the link or go back home.",
+    "backHome": "Go home",
+    "loading": "Loading...",
+    "noTranslation": "Translation is not available yet.",
+    "viewInRussian": "View in Russian",
+    "of": "of"
+  }
+}

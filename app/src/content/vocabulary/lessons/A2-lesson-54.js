@@ -1,0 +1,114 @@
+export default [
+  {
+    "nl": "niet",
+    "ru": "не",
+    "example": "Ik werk vandaag niet.",
+    "pronunciation": "nit",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "geen",
+    "ru": "нет (перед существительным)",
+    "example": "Ik heb geen auto.",
+    "pronunciation": "ɣeːn",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "nee",
+    "ru": "нет (ответ)",
+    "example": "Nee, ik kom niet.",
+    "pronunciation": "neː",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "wel",
+    "ru": "да, действительно",
+    "example": "Ik drink geen bier, maar wel wijn.",
+    "pronunciation": "ʋɛl",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "niets",
+    "ru": "ничего",
+    "example": "Er is niets te doen.",
+    "pronunciation": "nits",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "niks",
+    "ru": "ничего (разговорное)",
+    "example": "Ik zeg niks.",
+    "pronunciation": "nɪks",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "niemand",
+    "ru": "никто",
+    "example": "Niemand is thuis.",
+    "pronunciation": "ˈnimɑnt",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "nooit",
+    "ru": "никогда",
+    "example": "Ik rook nooit.",
+    "pronunciation": "noːi̯t",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "nergens",
+    "ru": "нигде, никуда",
+    "example": "Ik kan het nergens vinden.",
+    "pronunciation": "ˈnɛrɣəns",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "nog niet",
+    "ru": "ещё не",
+    "example": "Ik ben nog niet klaar.",
+    "pronunciation": "nɔɣ nit",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "niet meer",
+    "ru": "больше не",
+    "example": "Ze werkt hier niet meer.",
+    "pronunciation": "nit meːr",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "nog geen",
+    "ru": "пока нет",
+    "example": "Ik heb nog geen plannen.",
+    "pronunciation": "nɔɣ ɣeːn",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "helemaal niet",
+    "ru": "совсем не",
+    "example": "Dat is helemaal niet waar.",
+    "pronunciation": "ˈɦeːləmaːl nit",
+    "level": "A2",
+    "lesson": 54
+  },
+  {
+    "nl": "helemaal geen",
+    "ru": "совсем никакого",
+    "example": "Ik heb helemaal geen tijd.",
+    "pronunciation": "ˈɦeːləmaːl ɣeːn",
+    "level": "A2",
+    "lesson": 54
+  }
+];

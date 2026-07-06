@@ -1,0 +1,22 @@
+export const LEGACY_READING_ID_MAP = {
+  "A1-text-01": "a1/01",
+  "A1-text-02": "a1/02",
+  "A1-text-03": "a1/03",
+  "A1-text-04": "a1/04",
+  "A1-text-05": "a1/05",
+  "A2-text-01": "a2/01",
+  "A2-text-02": "a2/02",
+  "A2-text-03": "a2/03",
+  "A2-text-04": "a2/04",
+  "A2-text-05": "a2/05",
+  "B1-text-01": "b1/01",
+  "B1-text-02": "b1/02",
+  "B1-text-03": "b1/03",
+  "B1-text-04": "b1/04",
+  "B1-text-05": "b1/05",
+  "B2-text-01": "b2/01",
+  "B2-text-02": "b2/02",
+  "B2-text-03": "b2/03",
+  "B2-text-04": "b2/04",
+  "B2-text-05": "b2/05"
+};
