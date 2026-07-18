@@ -4,6 +4,8 @@ import { signOutUser } from '../core/auth.js';
 
 Object.assign(App, {
   HEATMAP_WEEKS: 52,
+  /** Hidden for now; set true to restore the 52-week activity heatmap. */
+  SHOW_ACTIVITY: false,
 
   buildHeatmap(history) {
     const weeks = this.HEATMAP_WEEKS;
@@ -135,12 +137,14 @@ Object.assign(App, {
         </div>
       </section>
 
+      ${this.SHOW_ACTIVITY ? `
       <section class="page-section" style="margin-top:1.5rem">
         <div class="page-section__head">
           <h2>Активность (52 недели)</h2>
         </div>
         ${this.buildHeatmap(history)}
       </section>
+      ` : ''}
 
       ${Object.keys(testResults).length > 0 ? `
         <section class="page-section" style="margin-top:1.5rem">

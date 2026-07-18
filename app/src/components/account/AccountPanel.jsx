@@ -9,6 +9,9 @@ import Heatmap from '@/components/ui/Heatmap.jsx';
 import Loader from '@/components/ui/Loader.jsx';
 import { withBase } from '@/lib/paths.js';
 
+/** Hidden for now; set true to restore the 52-week activity heatmap. */
+const SHOW_ACTIVITY = false;
+
 export default function AccountPanel({ lang = 'ru' }) {
   const user = useAuthStore((s) => s.user);
   const signOut = useAuthStore((s) => s.signOut);
@@ -137,12 +140,14 @@ export default function AccountPanel({ lang = 'ru' }) {
         </div>
       </section>
 
-      <section className="page-section" style={{ marginBottom: '1.5rem' }}>
-        <div className="page-section__head">
-          <h2>Активность (52 недели)</h2>
-        </div>
-        <Heatmap history={history} />
-      </section>
+      {SHOW_ACTIVITY && (
+        <section className="page-section" style={{ marginBottom: '1.5rem' }}>
+          <div className="page-section__head">
+            <h2>Активность (52 недели)</h2>
+          </div>
+          <Heatmap history={history} />
+        </section>
+      )}
 
       {Object.keys(testResults).length > 0 && (
         <section className="page-section" style={{ marginBottom: '1.5rem' }}>
