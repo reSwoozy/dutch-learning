@@ -4,17 +4,16 @@ import { useProgressStore } from '@/stores/progress.js';
 
 function TestQuestion({ q, result, onSelect, selected }) {
   return (
-    <div style={{ marginBottom: '1.5rem' }}>
+    <div className="test-question card">
       {q.context && (
-        <blockquote className="test-context" style={{ whiteSpace: 'pre-line', marginBottom: '.5rem' }}>
-          {q.context}
-        </blockquote>
+        <blockquote className="test-context">{q.context}</blockquote>
       )}
-      <p style={{ marginBottom: '.5rem' }}>
-        <strong>{q.num}.</strong> {q.text}
+      <p className="test-question-text">
+        <span className="test-question-num">{q.num}.</span>
+        {q.text}
       </p>
       {q.options && (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '.25rem' }}>
+        <div className="test-options">
           {q.options.map((opt) => {
             let cls = 'test-option';
             if (result) {
@@ -23,8 +22,9 @@ function TestQuestion({ q, result, onSelect, selected }) {
             } else if (opt.letter === selected) {
               cls += ' selected';
             }
+            if (result) cls += ' is-locked';
             return (
-              <label key={opt.letter} className={cls} style={{ display: 'flex', gap: '.5rem', padding: '.375rem 0', cursor: result ? 'default' : 'pointer' }}>
+              <label key={opt.letter} className={cls}>
                 <input
                   type="radio"
                   name={`q${q.num}`}
@@ -32,19 +32,16 @@ function TestQuestion({ q, result, onSelect, selected }) {
                   checked={selected === opt.letter}
                   onChange={() => !result && onSelect(q.num, opt.letter)}
                   disabled={!!result}
-                  style={{ marginTop: '.3rem' }}
                 />
-                <span className="test-option-letter" style={{ fontWeight: 600, minWidth: '1.2rem' }}>{opt.letter}</span>
-                <span>{opt.text}</span>
+                <span className="test-option-letter">{opt.letter}</span>
+                <span className="test-option-text">{opt.text}</span>
               </label>
             );
           })}
         </div>
       )}
       {result && q.explanation && (
-        <div className="test-explanation is-visible" style={{ marginTop: '.5rem', fontSize: '.85rem', color: 'var(--text-muted)' }}>
-          {q.explanation}
-        </div>
+        <div className="test-explanation is-visible">{q.explanation}</div>
       )}
     </div>
   );

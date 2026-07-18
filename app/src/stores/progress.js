@@ -117,6 +117,27 @@ export const useProgressStore = create((set, get) => ({
     migrate(data, user);
     updateStreak(data);
 
+    const prev = get().data;
+    // Skip zustand notify when Firestore returns the same streak the UI already shows.
+    // Full data still refreshes when learning fields change.
+    if (
+      prev &&
+      get().loaded &&
+      prev.streak === data.streak &&
+      prev.totalCorrect === data.totalCorrect &&
+      prev.totalAnswered === data.totalAnswered &&
+      prev.lastActiveDate === data.lastActiveDate &&
+      JSON.stringify(prev.lessonsCompleted) === JSON.stringify(data.lessonsCompleted) &&
+      JSON.stringify(prev.grammarViewed) === JSON.stringify(data.grammarViewed) &&
+      JSON.stringify(prev.testResults) === JSON.stringify(data.testResults) &&
+      JSON.stringify(prev.srs) === JSON.stringify(data.srs) &&
+      JSON.stringify(prev.readingRead) === JSON.stringify(data.readingRead) &&
+      JSON.stringify(prev.writingSeen) === JSON.stringify(data.writingSeen)
+    ) {
+      writeProgressSession(user.uid, prev);
+      return;
+    }
+
     set({ data, loaded: true });
     writeProgressSession(user.uid, data);
     get()._flush(user);

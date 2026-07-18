@@ -57,7 +57,7 @@ export default function AuthGate({ locale = 'ru', subtitle }) {
       <div className="auth-gate__card">
         <div className="auth-gate__brand">
           <span className="logo-mark">NL</span>
-          <span>Dutch Learning System</span>
+          <span>Dutch Learning</span>
         </div>
         <h1 className="auth-gate__title">{l.title}</h1>
         <p className="auth-gate__subtitle">{subtitle || (locale === 'en'

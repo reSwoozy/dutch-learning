@@ -80,29 +80,51 @@ if (allMdx[key]) {
     <p style="color:var(--text-muted)">Контент урока не найден.</p>
   )}
 
-  <div style="margin-top:1.5rem;text-align:center">
-    <LessonCompleteBtn client:load lessonId={lesson.id} />
-  </div>
+  <footer class="lesson-end">
+    <nav class="lesson-end__nav" aria-label="Конец урока">
+      <div class="lesson-end__nav-side lesson-end__nav-side--start">
+        {nav.prev ? (
+          <a
+            href={withBase(`/${lang}/lessons/${nav.prev.level}/${pad(nav.prev.num)}`)}
+            class="btn btn-secondary"
+          >
+            ← {nav.prev.level.toUpperCase()} · Урок {nav.prev.num}
+          </a>
+        ) : null}
+      </div>
 
-  {nav.isLast && (
-    <div class="card" style="margin-top:2rem;border-color:var(--accent);text-align:center">
-      <h3>Уровень {level.toUpperCase()} завершён!</h3>
-      <p style="color:var(--text-muted);margin:.5rem 0">Пройди тест, чтобы проверить знания</p>
-      <a href={withBase(`/${lang}/tests`)} class="btn btn-primary" style="margin-top:.5rem">Тесты</a>
-    </div>
-  )}
+      <div class="lesson-end__nav-center">
+        <LessonCompleteBtn client:load lessonId={lesson.id} />
+      </div>
 
-  <div style="display:flex;justify-content:space-between;margin-top:1.5rem;padding-top:1rem;border-top:1px solid var(--border)">
-    {nav.prev ? (
-      <a href={withBase(`/${lang}/lessons/${nav.prev.level}/${pad(nav.prev.num)}`)} class="btn btn-secondary">
-        ← {nav.prev.level.toUpperCase()} · Урок {nav.prev.num}
-      </a>
-    ) : <span />}
-    <a href={withBase(`/${lang}/flashcards?set=${lesson.id}`)} class="btn btn-primary">Карточки</a>
-    {nav.next ? (
-      <a href={withBase(`/${lang}/lessons/${nav.next.level}/${pad(nav.next.num)}`)} class="btn btn-secondary">
-        {nav.next.level.toUpperCase()} · Урок {nav.next.num} →
-      </a>
-    ) : <span />}
-  </div>
+      <div class="lesson-end__nav-side lesson-end__nav-side--end">
+        {nav.next ? (
+          <a
+            href={withBase(`/${lang}/lessons/${nav.next.level}/${pad(nav.next.num)}`)}
+            class="btn btn-secondary"
+          >
+            {nav.next.level.toUpperCase()} · Урок {nav.next.num} →
+          </a>
+        ) : (
+          <a href={withBase(`/${lang}/lessons`)} class="btn btn-secondary">
+            К списку уроков
+          </a>
+        )}
+      </div>
+    </nav>
+
+    <p class="lesson-end__extra">
+      <a href={withBase(`/${lang}/flashcards?set=${lesson.id}`)}>Карточки к уроку</a>
+    </p>
+
+    {nav.isLast && (
+      <div class="lesson-end__milestone">
+        <div class="lesson-end__milestone-copy">
+          <h3>Уровень {level.toUpperCase()} завершён</h3>
+          <p>Пройди тест, чтобы проверить знания</p>
+        </div>
+        <a href={withBase(`/${lang}/tests`)} class="btn btn-secondary">К тестам</a>
+      </div>
+    )}
+  </footer>
 </MainLayout>

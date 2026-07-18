@@ -1,6 +1,5 @@
 ---
 import MainLayout from '@/layouts/MainLayout.astro';
-import Badge from '@/components/ui/Badge.astro';
 import ReadingListItem from '@/components/progress/ReadingListItem.jsx';
 import { allReadings } from '@/content/reading/index.js';
 
@@ -32,7 +31,7 @@ for (const r of allReadings) {
     return (
       <section class="page-section">
         <div class="page-section__head">
-          <h2><Badge level={level}>{level.toUpperCase()}</Badge></h2>
+          <h2>Уровень {level.toUpperCase()}</h2>
           <span class="page-section__count">{readings.length}</span>
         </div>
         <div class="card-grid">

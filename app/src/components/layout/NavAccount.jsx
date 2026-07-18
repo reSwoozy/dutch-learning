@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { useAuthStore } from '@/stores/auth.js';
+import { paintNavChromeFromSession } from '@/lib/session-cache.js';
 
 const DEFAULT_AVATAR_SVG = `
   <svg viewBox="0 0 20 20" width="16" height="16">
@@ -8,31 +9,50 @@ const DEFAULT_AVATAR_SVG = `
   </svg>
 `;
 
+function paintUser(user) {
+  const host = document.getElementById('nav-account-avatar');
+  const link = document.getElementById('nav-account');
+  if (!host) return;
+
+  if (!user) {
+    if (!host.querySelector('svg') || host.querySelector('img')) {
+      host.classList.remove('nav-account__avatar--initials');
+      host.innerHTML = DEFAULT_AVATAR_SVG;
+    }
+    if (link) link.title = 'Аккаунт';
+    return;
+  }
+
+  paintNavChromeFromSession();
+
+  // Fallback if session paint missed (e.g. photoURL without https cache yet)
+  const name = user.displayName || user.email || 'Аккаунт';
+  if (link) link.title = name;
+
+  if (user.photoURL && /^https:\/\//i.test(user.photoURL)) {
+    const existing = host.querySelector('img');
+    if (existing?.getAttribute('src') === user.photoURL) return;
+    host.classList.remove('nav-account__avatar--initials');
+    const img = document.createElement('img');
+    img.src = user.photoURL;
+    img.alt = '';
+    img.decoding = 'async';
+    img.referrerPolicy = 'no-referrer';
+    host.replaceChildren(img);
+    return;
+  }
+
+  const initial = name.slice(0, 1).toUpperCase();
+  if (host.classList.contains('nav-account__avatar--initials') && host.textContent === initial) return;
+  host.textContent = initial;
+  host.classList.add('nav-account__avatar--initials');
+}
+
 export default function NavAccount() {
   const user = useAuthStore((s) => s.user);
 
   useEffect(() => {
-    const host = document.getElementById('nav-account-avatar');
-    const link = document.getElementById('nav-account');
-    if (!host) return;
-
-    if (!user) {
-      host.classList.remove('nav-account__avatar--initials');
-      host.innerHTML = DEFAULT_AVATAR_SVG;
-      if (link) link.title = 'Аккаунт';
-      return;
-    }
-
-    const name = user.displayName || user.email || 'Аккаунт';
-    if (link) link.title = name;
-
-    if (user.photoURL) {
-      host.classList.remove('nav-account__avatar--initials');
-      host.innerHTML = `<img src="${user.photoURL}" alt="" referrerpolicy="no-referrer">`;
-    } else {
-      host.textContent = name.slice(0, 1).toUpperCase();
-      host.classList.add('nav-account__avatar--initials');
-    }
+    paintUser(user);
   }, [user]);
 
   return null;

@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react';
 import { useAuthStore } from '@/stores/auth.js';
 import { useProgressStore } from '@/stores/progress.js';
 import Loader from '@/components/ui/Loader.jsx';
@@ -30,19 +29,20 @@ export default function LessonCompleteBtn({ lessonId }) {
   return (
     <button
       type="button"
-      className={done ? 'btn btn-secondary' : 'btn btn-primary'}
+      className={done ? 'btn btn-success' : 'btn btn-primary'}
       onClick={toggle}
-      style={{ display: 'inline-flex', alignItems: 'center', gap: '.5rem' }}
+      aria-pressed={done}
+      title={done ? 'Снять отметку' : 'Отметить урок пройденным'}
     >
       {done ? (
         <>
-          <svg viewBox="0 0 20 20" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2">
+          <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
             <path d="M4 10l4 4 8-8" strokeLinecap="round" strokeLinejoin="round" />
           </svg>
-          Снять отметку
+          Пройдено
         </>
       ) : (
-        '\u2713 Отметить пройденным'
+        'Отметить пройденным'
       )}
     </button>
   );

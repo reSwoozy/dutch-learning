@@ -10,35 +10,43 @@ function normalizeAnswer(s) {
     .replace(/\s+/g, ' ');
 }
 
-function ExerciseItem({ item, checked, onAnswer, index }) {
-  const [revealed, setRevealed] = useState(false);
-  const [selected, setSelected] = useState(null);
+function expectedAnswers(item) {
+  if (item.answers?.length) return item.answers;
+  if (item.answer) return [item.answer];
+  return [];
+}
+
+function isOptionCorrect(item, opt) {
+  return expectedAnswers(item).includes(opt);
+}
+
+function isTextCorrect(item, userAns) {
+  if (!userAns?.trim()) return false;
+  return expectedAnswers(item).some((a) => normalizeAnswer(a) === normalizeAnswer(userAns));
+}
+
+function ExerciseItem({ item, checked, onAnswer, index, userAnswer }) {
   const [input, setInput] = useState('');
+  const [showSample, setShowSample] = useState(false);
+
+  const prompt = item.sentence || item.question || '';
+  const isOpen = !item.options && !item.answer && !item.answers && item.sample;
+  const selected = item.options ? userAnswer : null;
 
   const handleInput = (val) => {
+    if (checked) return;
     setInput(val);
     onAnswer(val, index);
   };
 
   const handleSelect = (opt) => {
-    setSelected(opt);
-    setRevealed(true);
+    if (checked) return;
     onAnswer(opt, index);
   };
 
-  const isCorrect = (opt) => {
-    if (item.answer) return opt === item.answer;
-    if (item.answers) return item.answers.includes(opt);
-    return false;
-  };
-
-  const showResult = checked || revealed;
-  const prompt = item.sentence || item.question || '';
-  const isOpen = !item.options && !item.answer && !item.answers && item.sample;
-
   if (isOpen) {
     return (
-      <div className="exercise-item" style={{ marginBottom: '1rem' }}>
+      <div className="exercise-item">
         <p>{prompt}</p>
         <textarea
           className="exercise-input"
@@ -46,38 +54,55 @@ function ExerciseItem({ item, checked, onAnswer, index }) {
           value={input}
           onChange={(e) => setInput(e.target.value)}
           placeholder="Твой ответ на нидерландском..."
-          style={{ width: '100%', marginTop: '.5rem', resize: 'vertical' }}
+          disabled={showSample}
         />
-        <details style={{ marginTop: '.5rem' }}>
-          <summary style={{ cursor: 'pointer', color: 'var(--accent)', fontSize: '.85rem' }}>
-            Образец ответа
-          </summary>
-          <p style={{ color: 'var(--green)', marginTop: '.25rem' }}>{item.sample}</p>
-        </details>
+        {!showSample ? (
+          <button
+            type="button"
+            className="btn btn-ghost btn-small"
+            style={{ marginTop: '.5rem' }}
+            onClick={() => setShowSample(true)}
+          >
+            Показать образец
+          </button>
+        ) : (
+          <p className="exercise-feedback show correct" style={{ display: 'block' }}>
+            Образец: {item.sample}
+          </p>
+        )}
       </div>
     );
   }
 
+  const textValue = userAnswer ?? input;
+  const textOk = checked && (item.answer || item.answers) && !item.options
+    ? isTextCorrect(item, textValue)
+    : null;
+
   return (
-    <div className="exercise-item" data-answer={item.answer || (item.answers && item.answers[0]) || ''} style={{ marginBottom: '1rem' }}>
+    <div className="exercise-item">
       <p>{prompt}</p>
+
       {item.options && (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '.25rem' }}>
+        <div className="exercise-options" role="group" aria-label="Варианты ответа">
           {item.options.map((opt, i) => {
-            let style = { padding: '.25rem 0', color: 'var(--text-muted)', cursor: 'pointer' };
-            if (showResult && selected === opt) {
-              style.color = isCorrect(opt) ? 'var(--green)' : 'var(--red)';
-              style.fontWeight = 600;
-            } else if (showResult && isCorrect(opt)) {
-              style.color = 'var(--green)';
+            const isSelected = selected === opt;
+            const correct = isOptionCorrect(item, opt);
+            let cls = 'exercise-option';
+            if (checked) {
+              if (correct) cls += ' is-correct';
+              else if (isSelected) cls += ' is-incorrect';
+            } else if (isSelected) {
+              cls += ' is-selected';
             }
             return (
               <button
                 key={i}
                 type="button"
-                onClick={() => !checked && handleSelect(opt)}
-                style={{ ...style, background: 'none', border: 'none', textAlign: 'left', fontSize: 'inherit' }}
-                disabled={showResult}
+                className={cls}
+                onClick={() => handleSelect(opt)}
+                disabled={checked}
+                aria-pressed={isSelected}
               >
                 {opt}
               </button>
@@ -85,45 +110,44 @@ function ExerciseItem({ item, checked, onAnswer, index }) {
           })}
         </div>
       )}
-      {!item.options && item.answer && (
+
+      {!item.options && (item.answer || item.answers) && (
         <input
           type="text"
-          className="exercise-input"
-          value={input}
+          className={[
+            'exercise-input',
+            checked && textOk === true ? 'correct' : '',
+            checked && textOk === false ? 'incorrect' : '',
+          ]
+            .filter(Boolean)
+            .join(' ')}
+          value={textValue}
           onChange={(e) => handleInput(e.target.value)}
           disabled={checked}
-          style={{ width: '100%', marginTop: '.5rem' }}
+          autoComplete="off"
         />
       )}
-      {!item.options && item.answers && (
-        <input
-          type="text"
-          className="exercise-input"
-          value={input}
-          onChange={(e) => handleInput(e.target.value)}
-          disabled={checked}
-          style={{ width: '100%', marginTop: '.5rem' }}
-        />
-      )}
-      {!item.options && (item.answer || item.answers) && !checked && (
-        <details style={{ marginTop: '.5rem' }}>
-          <summary style={{ cursor: 'pointer', color: 'var(--accent)', fontSize: '.85rem' }}>
-            Ответ
-          </summary>
-          <p style={{ color: 'var(--green)', marginTop: '.25rem' }}>
-            {item.answer || item.answers?.join(', ')}
-          </p>
-        </details>
-      )}
-      {showResult && (item.answer || item.answers) && (
-        <p style={{ color: 'var(--green)', marginTop: '.25rem', fontSize: '.9rem' }}>
-          Ответ: {item.answer || item.answers?.join(', ')}
+
+      {checked && item.options && (
+        <p
+          className={`exercise-feedback show ${
+            selected && isOptionCorrect(item, selected) ? 'correct' : 'incorrect'
+          }`}
+        >
+          {selected && isOptionCorrect(item, selected)
+            ? 'Верно'
+            : `Правильный ответ: ${expectedAnswers(item).join(', ')}`}
         </p>
       )}
-      {showResult && item.explanation && (
-        <p style={{ color: 'var(--text-muted)', marginTop: '.25rem', fontSize: '.85rem' }}>
-          {item.explanation}
+
+      {checked && !item.options && (item.answer || item.answers) && (
+        <p className={`exercise-feedback show ${textOk ? 'correct' : 'incorrect'}`}>
+          {textOk ? 'Верно' : `Правильный ответ: ${expectedAnswers(item).join(', ')}`}
         </p>
+      )}
+
+      {checked && item.explanation && (
+        <p className="exercise-explanation">{item.explanation}</p>
       )}
     </div>
   );
@@ -156,37 +180,27 @@ export default function ExerciseList({ title, items = [], topicId: topicIdProp }
   const canCheck = hasCheckableItems(items);
 
   const checkAll = () => {
+    if (checked) return;
+
     let correct = 0;
     let total = 0;
     let unanswered = 0;
 
     items.forEach((item, i) => {
-      const expected = item.answer || (item.answers && item.answers[0]);
-      if (!expected && !item.options) return;
-
       if (item.options) {
         total++;
         const sel = answers[i];
-        if (!sel) {
-          unanswered++;
-        } else if (item.answer && sel === item.answer) {
-          correct++;
-        } else if (item.answers && item.answers.includes(sel)) {
-          correct++;
-        }
+        if (!sel) unanswered++;
+        else if (isOptionCorrect(item, sel)) correct++;
         return;
       }
 
+      if (!item.answer && !item.answers) return;
+
       total++;
       const userAns = answers[i] || '';
-      if (!userAns.trim()) {
-        unanswered++;
-      } else {
-        const ok =
-          item.answers?.some((a) => normalizeAnswer(a) === normalizeAnswer(userAns)) ||
-          normalizeAnswer(userAns) === normalizeAnswer(expected);
-        if (ok) correct++;
-      }
+      if (!userAns.trim()) unanswered++;
+      else if (isTextCorrect(item, userAns)) correct++;
     });
 
     setChecked(true);
@@ -197,20 +211,20 @@ export default function ExerciseList({ title, items = [], topicId: topicIdProp }
       if (topicId) {
         recordExercise(topicId, correct, total, user);
       }
-      const type = correct === total ? 'success' : 'error';
-      showToast(`${correct} из ${total} правильно${suffix}`, type);
+      showToast(`${correct} из ${total} правильно${suffix}`, correct === total ? 'success' : 'error');
     }
   };
 
   return (
-    <div>
-      {title && <h3 style={{ marginTop: '1.5rem' }}>{title}</h3>}
+    <div className="exercise-list">
+      {title && <h3 className="exercise-list__title">{title}</h3>}
       {items.map((item, i) => (
         <ExerciseItem
           key={i}
           item={item}
           checked={checked}
           index={i}
+          userAnswer={answers[i]}
           onAnswer={(val) => setAnswers((prev) => ({ ...prev, [i]: val }))}
         />
       ))}
@@ -220,12 +234,11 @@ export default function ExerciseList({ title, items = [], topicId: topicIdProp }
           className="btn btn-primary"
           onClick={checkAll}
           disabled={checked}
-          style={{ marginTop: '1rem' }}
         >
           {checked ? 'Проверено' : 'Проверить ответы'}
         </button>
       )}
-      <p aria-live="polite" role="status" style={{ marginTop: '.5rem', minHeight: '1.2rem', color: 'var(--text-muted)' }}>
+      <p className="exercise-list__summary" aria-live="polite" role="status">
         {summary || ''}
       </p>
     </div>

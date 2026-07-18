@@ -8,10 +8,11 @@ export default function NavStreak() {
     const el = document.getElementById('nav-account-streak');
     const val = document.getElementById('nav-account-streak-value');
     if (!el || !val) return;
+
     if (streak > 0) {
-      el.hidden = false;
-      val.textContent = String(streak);
-    } else {
+      if (val.textContent !== String(streak)) val.textContent = String(streak);
+      if (el.hidden) el.hidden = false;
+    } else if (!el.hidden) {
       el.hidden = true;
     }
   }, [streak]);

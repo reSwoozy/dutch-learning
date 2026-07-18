@@ -29,7 +29,7 @@ const materialLinks = [
 <header>
   <div class="header-inner">
     <a href={localePath('/', lang)} class="logo">
-      <span>NL</span> Dutch Learning
+      <span class="logo-mark">NL</span> Dutch Learning
     </a>
 
     <button
@@ -53,7 +53,7 @@ const materialLinks = [
             {link.label}
           </a>
         ))}
-        <details class="nav-group" id="nav-materials" open={materialsActive ? true : undefined}>
+        <details class="nav-group" id="nav-materials">
           <summary
             class:list={['nav-link', 'nav-group__trigger', { active: materialsActive }]}
           >
@@ -103,31 +103,116 @@ const materialLinks = [
   </div>
 </header>
 
+{/* Paint avatar/streak from session before React/Firebase — kills Google-photo blink */}
+<script is:inline>
+  (() => {
+    try {
+      const raw = sessionStorage.getItem('dutch-auth-session');
+      if (!raw) return;
+      const auth = JSON.parse(raw);
+      const host = document.getElementById('nav-account-avatar');
+      const link = document.getElementById('nav-account');
+      if (host && auth) {
+        const name = auth.displayName || auth.email || 'Аккаунт';
+        if (link) link.title = name;
+        if (auth.photoURL && /^https:\/\//i.test(auth.photoURL)) {
+          host.classList.remove('nav-account__avatar--initials');
+          const img = document.createElement('img');
+          img.src = auth.photoURL;
+          img.alt = '';
+          img.decoding = 'async';
+          img.referrerPolicy = 'no-referrer';
+          host.replaceChildren(img);
+        } else {
+          host.textContent = String(name).slice(0, 1).toUpperCase();
+          host.classList.add('nav-account__avatar--initials');
+        }
+      }
+      if (auth?.uid) {
+        const pRaw = sessionStorage.getItem('dutch-progress-' + auth.uid);
+        if (!pRaw) return;
+        const streak = JSON.parse(pRaw)?.streak || 0;
+        const wrap = document.getElementById('nav-account-streak');
+        const val = document.getElementById('nav-account-streak-value');
+        if (wrap && val && streak > 0) {
+          val.textContent = String(streak);
+          wrap.hidden = false;
+        }
+      }
+    } catch (_) {}
+  })();
+</script>
+
 <script>
   const burger = document.getElementById('nav-burger');
   const drawer = document.getElementById('nav-drawer');
   const scrim = document.getElementById('nav-scrim');
+  const materials = document.getElementById('nav-materials');
+  const mobileMq = window.matchMedia('(max-width: 860px)');
 
-  function toggle() {
-    const open = drawer.classList.toggle('open');
-    burger.setAttribute('aria-expanded', String(open));
-    scrim.hidden = !open;
-    document.body.classList.toggle('nav-open', open);
+  function isMobileLayout() {
+    return mobileMq.matches;
   }
 
-  function close() {
+  function closeDrawer() {
+    if (!drawer || !burger || !scrim) return;
     drawer.classList.remove('open');
     burger.setAttribute('aria-expanded', 'false');
     scrim.hidden = true;
     document.body.classList.remove('nav-open');
   }
 
-  burger?.addEventListener('click', toggle);
-  scrim?.addEventListener('click', close);
+  function toggleDrawer() {
+    if (!drawer || !burger || !scrim) return;
+    const open = drawer.classList.toggle('open');
+    burger.setAttribute('aria-expanded', String(open));
+    scrim.hidden = !open;
+    document.body.classList.toggle('nav-open', open);
+  }
 
-  document.querySelectorAll('#nav-drawer a.nav-link').forEach((link) => {
+  function closeMaterialsDesktop() {
+    if (!materials || isMobileLayout()) return;
+    materials.open = false;
+  }
+
+  function syncMaterialsState() {
+    if (!materials) return;
+    materials.open = isMobileLayout();
+  }
+
+  burger?.addEventListener('click', toggleDrawer);
+  scrim?.addEventListener('click', closeDrawer);
+
+  document.querySelectorAll('#nav-drawer a').forEach((link) => {
     link.addEventListener('click', () => {
-      if (window.matchMedia('(max-width: 860px)').matches) close();
+      closeMaterialsDesktop();
+      if (isMobileLayout()) closeDrawer();
     });
+  });
+
+  if (materials) {
+    // Keep the mobile materials list always expanded.
+    materials.addEventListener('toggle', () => {
+      if (isMobileLayout() && !materials.open) {
+        materials.open = true;
+      }
+    });
+
+    document.addEventListener('click', (event) => {
+      if (!materials.open || isMobileLayout()) return;
+      if (materials.contains(event.target)) return;
+      materials.open = false;
+    });
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') closeMaterialsDesktop();
+    });
+
+    syncMaterialsState();
+  }
+
+  mobileMq.addEventListener('change', () => {
+    if (!isMobileLayout()) closeDrawer();
+    syncMaterialsState();
   });
 </script>
