@@ -1397,342 +1397,320 @@ a.card:hover {
   color: var(--text-muted);
 }
 
-/* Activity calendar — dense month / Apple-style year overview */
-.activity-cal {
-  --cal-day: 2.35rem;
-  --cal-gap: 3px;
-  --cal-ring: 1.5px;
+/* GitHub-style contribution heatmap (brand orange) */
+.contrib {
+  --contrib-size: 11px;
+  --contrib-gap: 3px;
+  --contrib-radius: 2px;
+  --contrib-label: 26px;
+  --contrib-scroll-size: 6px;
   margin-top: .35rem;
+  max-width: 100%;
+  min-width: 0;
+}
+
+.contrib__summary {
+  font-size: .95rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: .65rem;
+}
+
+.contrib__layout {
+  display: flex;
+  align-items: flex-start; /* panel height = chart; years capped to that */
+  gap: .85rem;
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+}
+
+.contrib__panel {
+  flex: 1;
+  min-width: 0;
+  width: 100%;
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 1rem 1.1rem 1.15rem;
+  padding: 1rem 1.1rem .9rem;
   box-sizing: border-box;
-}
-
-/* Month: shrink-wrap so controls sit with the grid, not across the page */
-.activity-cal--month {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: stretch;
-  width: max-content;
-  max-width: 100%;
-}
-
-.activity-cal--year {
-  display: block;
-  width: 100%;
-}
-
-.activity-cal__toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: .5rem .65rem;
-  margin-bottom: .85rem;
-  width: 100%;
-}
-
-.activity-cal--month .activity-cal__toolbar {
-  flex-direction: column;
-  align-items: stretch;
-  gap: .55rem;
-}
-
-.activity-cal--month .activity-cal__nav {
-  width: 100%;
-  justify-content: space-between;
-}
-
-.activity-cal--month .activity-cal__actions {
-  width: 100%;
-  justify-content: space-between;
-}
-
-.activity-cal--month .activity-cal__title {
-  flex: 1;
-  min-width: 0;
-}
-
-.activity-cal__nav {
-  display: inline-flex;
-  align-items: center;
-  gap: .15rem;
-  min-width: 0;
-}
-
-.activity-cal__nav-btn {
-  width: 1.75rem;
-  height: 1.75rem;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: transparent;
-  color: var(--text);
-  font-size: 1.1rem;
-  line-height: 1;
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0;
-}
-
-.activity-cal__nav-btn:hover {
-  border-color: var(--accent-border);
-  color: var(--accent);
-}
-
-.activity-cal__title {
-  min-width: 8.5rem;
-  text-align: center;
-  font-weight: 700;
-  font-size: .95rem;
-  color: var(--text);
-  letter-spacing: -.01em;
-}
-
-.activity-cal__actions {
-  display: inline-flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: .4rem;
-}
-
-.activity-cal__chip {
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: transparent;
-  color: var(--text-muted);
-  font: inherit;
-  font-size: .78rem;
-  font-weight: 500;
-  padding: .28rem .55rem;
-  cursor: pointer;
-  line-height: 1.2;
-}
-
-.activity-cal__chip:hover {
-  border-color: var(--accent-border);
-  color: var(--accent);
-}
-
-.activity-cal__modes {
-  display: inline-flex;
-  border: 1px solid var(--border);
-  border-radius: 6px;
   overflow: hidden;
-  background: color-mix(in srgb, var(--bg) 55%, transparent);
 }
 
-.activity-cal__mode-btn {
-  border: 0;
+.contrib__scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  width: 100%;
+  max-width: 100%;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--accent) 45%, var(--navy-700)) transparent;
+  padding-bottom: 2px;
+}
+
+.contrib__scroll::-webkit-scrollbar,
+.contrib__years::-webkit-scrollbar {
+  width: var(--contrib-scroll-size);
+  height: var(--contrib-scroll-size);
+}
+
+.contrib__scroll::-webkit-scrollbar-track,
+.contrib__years::-webkit-scrollbar-track {
   background: transparent;
-  color: var(--text-muted);
-  font: inherit;
-  font-size: .78rem;
-  font-weight: 500;
-  padding: .28rem .55rem;
-  cursor: pointer;
-  line-height: 1.2;
+  border-radius: 999px;
 }
 
-.activity-cal__mode-btn:hover { color: var(--text); }
-
-.activity-cal__mode-btn.is-active {
-  background: var(--accent-soft);
-  color: var(--accent);
-  font-weight: 600;
+.contrib__scroll::-webkit-scrollbar-thumb,
+.contrib__years::-webkit-scrollbar-thumb {
+  background: color-mix(in srgb, var(--accent) 40%, var(--navy-700));
+  border-radius: 999px;
 }
 
-.activity-cal__grid {
-  display: grid;
-  grid-template-columns: repeat(7, var(--cal-day));
-  gap: var(--cal-gap);
+.contrib__scroll::-webkit-scrollbar-thumb:hover,
+.contrib__years::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--accent) 70%, var(--navy-600));
+}
+
+.contrib__scroll::-webkit-scrollbar-corner,
+.contrib__years::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+.contrib__chart {
   width: max-content;
 }
 
-.activity-cal__weekday {
-  width: var(--cal-day);
-  height: 1.1rem;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: .68rem;
-  font-weight: 500;
-  color: var(--text-muted);
-  text-transform: uppercase;
-  letter-spacing: .02em;
+.contrib__months {
+  display: grid;
+  grid-template-columns: var(--contrib-label) repeat(var(--weeks), var(--contrib-size));
+  column-gap: var(--contrib-gap);
+  margin-bottom: 6px;
+  overflow: visible;
 }
 
-.activity-cal__day {
-  width: var(--cal-day);
-  height: var(--cal-day);
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: .8rem;
-  font-variant-numeric: tabular-nums;
+.contrib__weekday-spacer {
+  font-size: .7rem;
   color: var(--text-muted);
-  border-radius: 50%;
-  border: var(--cal-ring) solid transparent;
-  box-sizing: border-box;
-  user-select: none;
   line-height: 1;
 }
 
-.activity-cal__day.is-empty {
-  visibility: hidden;
-  pointer-events: none;
-  border: 0;
+/* Label sits on the first week of a month and may overflow into following empty slots */
+.contrib__month {
+  font-size: .7rem;
+  color: var(--text-muted);
+  line-height: 1;
+  white-space: nowrap;
+  overflow: visible;
+  position: relative;
+  z-index: 1;
 }
 
-.activity-cal__day.is-active {
-  border-color: var(--accent);
-  color: var(--accent);
-  font-weight: 700;
-  box-shadow: inset 0 0 0 1px var(--accent);
+.contrib__body {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--contrib-gap);
+  width: max-content;
 }
 
-.activity-cal__day.is-today:not(.is-active) {
-  color: var(--text);
-  background: var(--bg-hover);
-  font-weight: 600;
-}
-
-.activity-cal__day.is-today.is-active {
-  background: var(--accent-soft);
-  border-color: var(--accent);
-  box-shadow: none;
-}
-
-/* Year overview: dense 4×3 inside the same card */
-.activity-cal.activity-cal--year {
-  --cal-day: 1.15rem;
-  --cal-gap: 1px;
-  --cal-ring: 1.25px;
-}
-
-.activity-cal__year {
+.contrib__weekdays {
   display: grid;
-  grid-template-columns: repeat(4, max-content);
-  justify-content: space-between;
-  column-gap: 1.25rem;
-  row-gap: 1rem;
-  width: 100%;
+  grid-template-rows: repeat(7, var(--contrib-size));
+  gap: var(--contrib-gap);
+  width: var(--contrib-label);
+  flex-shrink: 0;
 }
 
-.activity-cal__year-month {
+.contrib__weekday {
+  font-size: .65rem;
+  color: var(--text-muted);
+  line-height: var(--contrib-size);
+  height: var(--contrib-size);
+}
+
+.contrib__grid {
+  display: flex;
+  gap: var(--contrib-gap);
+}
+
+.contrib__week {
+  display: grid;
+  grid-template-rows: repeat(7, var(--contrib-size));
+  gap: var(--contrib-gap);
+  flex: 0 0 auto;
+}
+
+.contrib__cell {
+  position: relative;
+  width: var(--contrib-size);
+  height: var(--contrib-size);
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: var(--contrib-radius);
+  background: var(--bg-hover);
+  outline: 1px solid color-mix(in srgb, var(--border) 70%, transparent);
+  outline-offset: -1px;
+  box-sizing: border-box;
+  cursor: pointer;
+  appearance: none;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.contrib__cell::before {
+  content: '';
+  position: absolute;
+  inset: -3px;
+}
+
+.contrib__cell.is-out {
+  background: transparent;
+  outline: none;
+  pointer-events: none;
+}
+
+.contrib__cell.is-out::before {
+  content: none;
+}
+
+.contrib__cell.is-active {
+  background: var(--accent);
+  outline-color: transparent;
+}
+
+.contrib__cell.is-tip:not(.is-active) {
+  outline-color: var(--accent-border);
+}
+
+.contrib__tooltip {
+  position: fixed;
+  z-index: 40;
+  transform: translate(-50%, calc(-100% - 8px));
+  padding: .35rem .6rem;
+  border-radius: 6px;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: .8rem;
+  font-weight: 600;
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .35);
+}
+
+.contrib__years {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
-  gap: .2rem;
-  width: max-content;
-  margin: 0;
+  gap: .35rem;
+  flex: 0 0 6.5rem;
+  width: 6.5rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--accent) 45%, var(--navy-700)) transparent;
   padding: 0;
+  box-sizing: border-box;
+}
+
+.contrib__year-btn {
   border: 0;
   background: transparent;
-  cursor: pointer;
-  color: inherit;
+  color: var(--text-muted);
   font: inherit;
+  font-size: .85rem;
+  font-weight: 500;
+  padding: .45rem .65rem;
+  border-radius: 6px;
+  cursor: pointer;
   text-align: left;
-  border-radius: 4px;
+  width: 100%;
+  flex: 0 0 auto;
+  box-sizing: border-box;
 }
 
-.activity-cal__year-month:hover .activity-cal__year-month-title,
-.activity-cal__year-month.is-current .activity-cal__year-month-title {
-  color: var(--accent);
-}
-
-.activity-cal__year-month:focus-visible {
-  outline: 2px solid var(--accent);
-  outline-offset: 3px;
-}
-
-.activity-cal__year-month-title {
-  font-size: .75rem;
-  font-weight: 600;
-  color: var(--text);
-  line-height: 1.2;
-  padding-left: 1px;
-}
-
-.activity-cal__grid.is-compact .activity-cal__day {
-  font-size: .58rem;
-  color: color-mix(in srgb, var(--text-muted) 75%, transparent);
-  border-width: 1.5px;
-}
-
-.activity-cal__grid.is-compact .activity-cal__day.is-active {
-  color: var(--accent);
-  font-weight: 700;
-  border-color: var(--accent);
-  background: color-mix(in srgb, var(--accent) 14%, transparent);
-  box-shadow: none;
-}
-
-.activity-cal__grid.is-compact .activity-cal__day.is-today:not(.is-active) {
+.contrib__year-btn:hover {
   background: var(--bg-hover);
   color: var(--text);
 }
 
-.activity-cal__grid.is-compact .activity-cal__day.is-today.is-active {
-  background: var(--accent-soft);
-  border-color: var(--accent);
+.contrib__year-btn.is-active {
+  background: var(--accent);
+  color: var(--text-on-accent);
+  font-weight: 700;
 }
 
-@media (max-width: 900px) {
-  .activity-cal__year {
-    grid-template-columns: repeat(3, max-content);
-    justify-content: space-around;
-  }
-}
-
+/* Mobile: fixed cell size + horizontal swipe scroll inside the card */
 @media (max-width: 768px) {
   .card { padding: 1.25rem; }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .continue-card { flex-direction: column; align-items: stretch; }
 
-  .activity-cal {
-    --cal-day: 2.4rem;
-    padding: .9rem 1rem 1rem;
+  .contrib {
+    --contrib-size: 11px;
+    --contrib-gap: 3px;
+    --contrib-label: 24px;
   }
 
-  .activity-cal.activity-cal--year {
-    --cal-day: 1.05rem;
-  }
-
-  .activity-cal--month {
+  .contrib__layout {
+    flex-direction: column;
+    gap: .65rem;
     width: 100%;
   }
 
-  .activity-cal--month .activity-cal__grid {
-    margin-inline: auto;
-  }
-
-  .activity-cal__year {
-    grid-template-columns: repeat(3, max-content);
-    column-gap: .85rem;
-    row-gap: .85rem;
-  }
-
-  .activity-cal__title { min-width: 7.5rem; font-size: .9rem; }
-}
-
-@media (max-width: 520px) {
-  .activity-cal__year {
-    grid-template-columns: repeat(2, max-content);
-    justify-content: space-between;
+  .contrib__panel {
     width: 100%;
+    padding: .75rem .8rem .7rem;
   }
 
-  .activity-cal--year {
-    --cal-day: 1.2rem;
+  .contrib__scroll {
+    padding-bottom: .2rem;
+  }
+
+  .contrib__month {
+    font-size: .65rem;
+  }
+
+  .contrib__cell::before {
+    inset: -4px;
+  }
+
+  .contrib__years {
+    flex: 0 0 auto;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: .35rem;
+    width: 100%;
+    max-height: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0;
+    align-self: auto;
+  }
+
+  .contrib__year-btn {
+    width: auto;
+    min-width: 4.5rem;
+    flex: 0 0 auto;
+    padding: .4rem .7rem;
+    font-size: .82rem;
+  }
+
+  .contrib__tooltip {
+    font-size: .85rem;
+    padding: .4rem .7rem;
   }
 }
 
 @media (max-width: 480px) {
   .card-grid { grid-template-columns: 1fr; }
+
+  .contrib {
+    --contrib-size: 11px;
+    --contrib-gap: 2px;
+    --contrib-label: 22px;
+  }
 }
 
 .loader {
