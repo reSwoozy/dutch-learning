@@ -1397,66 +1397,338 @@ a.card:hover {
   color: var(--text-muted);
 }
 
-.heatmap-scroll {
-  margin: 1rem 0;
-  width: 100%;
+/* Activity calendar — dense month / Apple-style year overview */
+.activity-cal {
+  --cal-day: 2.35rem;
+  --cal-gap: 3px;
+  --cal-ring: 1.5px;
+  margin-top: .35rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem 1.15rem;
+  box-sizing: border-box;
+}
+
+/* Month: shrink-wrap so controls sit with the grid, not across the page */
+.activity-cal--month {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: max-content;
   max-width: 100%;
+}
+
+.activity-cal--year {
+  display: block;
+  width: 100%;
+}
+
+.activity-cal__toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .5rem .65rem;
+  margin-bottom: .85rem;
+  width: 100%;
+}
+
+.activity-cal--month .activity-cal__toolbar {
+  flex-direction: column;
+  align-items: stretch;
+  gap: .55rem;
+}
+
+.activity-cal--month .activity-cal__nav {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.activity-cal--month .activity-cal__actions {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.activity-cal--month .activity-cal__title {
+  flex: 1;
   min-width: 0;
-  align-self: stretch;
-  overflow-x: auto;
-  overscroll-behavior-x: contain;
-  -webkit-overflow-scrolling: touch;
 }
 
-.heatmap {
-  display: grid;
-  grid-template-columns: repeat(52, minmax(0, 1fr));
-  grid-template-rows: repeat(7, auto);
-  grid-auto-flow: column;
-  gap: 3px;
-  width: 100%;
+.activity-cal__nav {
+  display: inline-flex;
+  align-items: center;
+  gap: .15rem;
+  min-width: 0;
 }
 
-.heatmap-cell {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  border-radius: 2px;
-  background: var(--bg-hover);
-  transition: transform .1s;
-}
-
-.heatmap-cell.future {
+.activity-cal__nav-btn {
+  width: 1.75rem;
+  height: 1.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
   background: transparent;
-  pointer-events: none;
+  color: var(--text);
+  font-size: 1.1rem;
+  line-height: 1;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
 }
 
-.heatmap-cell:hover { transform: scale(1.4); }
-.heatmap-cell.l1 { background: var(--green-800); }
-.heatmap-cell.l2 { background: color-mix(in srgb, var(--green-500) 55%, var(--navy-950)); }
-.heatmap-cell.l3 { background: var(--green-500); }
-.heatmap-cell.l4 { background: var(--green-bright); }
+.activity-cal__nav-btn:hover {
+  border-color: var(--accent-border);
+  color: var(--accent);
+}
+
+.activity-cal__title {
+  min-width: 8.5rem;
+  text-align: center;
+  font-weight: 700;
+  font-size: .95rem;
+  color: var(--text);
+  letter-spacing: -.01em;
+}
+
+.activity-cal__actions {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .4rem;
+}
+
+.activity-cal__chip {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-muted);
+  font: inherit;
+  font-size: .78rem;
+  font-weight: 500;
+  padding: .28rem .55rem;
+  cursor: pointer;
+  line-height: 1.2;
+}
+
+.activity-cal__chip:hover {
+  border-color: var(--accent-border);
+  color: var(--accent);
+}
+
+.activity-cal__modes {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  background: color-mix(in srgb, var(--bg) 55%, transparent);
+}
+
+.activity-cal__mode-btn {
+  border: 0;
+  background: transparent;
+  color: var(--text-muted);
+  font: inherit;
+  font-size: .78rem;
+  font-weight: 500;
+  padding: .28rem .55rem;
+  cursor: pointer;
+  line-height: 1.2;
+}
+
+.activity-cal__mode-btn:hover { color: var(--text); }
+
+.activity-cal__mode-btn.is-active {
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.activity-cal__grid {
+  display: grid;
+  grid-template-columns: repeat(7, var(--cal-day));
+  gap: var(--cal-gap);
+  width: max-content;
+}
+
+.activity-cal__weekday {
+  width: var(--cal-day);
+  height: 1.1rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .68rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: .02em;
+}
+
+.activity-cal__day {
+  width: var(--cal-day);
+  height: var(--cal-day);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .8rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-muted);
+  border-radius: 50%;
+  border: var(--cal-ring) solid transparent;
+  box-sizing: border-box;
+  user-select: none;
+  line-height: 1;
+}
+
+.activity-cal__day.is-empty {
+  visibility: hidden;
+  pointer-events: none;
+  border: 0;
+}
+
+.activity-cal__day.is-active {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 700;
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+
+.activity-cal__day.is-today:not(.is-active) {
+  color: var(--text);
+  background: var(--bg-hover);
+  font-weight: 600;
+}
+
+.activity-cal__day.is-today.is-active {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  box-shadow: none;
+}
+
+/* Year overview: dense 4×3 inside the same card */
+.activity-cal.activity-cal--year {
+  --cal-day: 1.15rem;
+  --cal-gap: 1px;
+  --cal-ring: 1.25px;
+}
+
+.activity-cal__year {
+  display: grid;
+  grid-template-columns: repeat(4, max-content);
+  justify-content: space-between;
+  column-gap: 1.25rem;
+  row-gap: 1rem;
+  width: 100%;
+}
+
+.activity-cal__year-month {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: .2rem;
+  width: max-content;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  border-radius: 4px;
+}
+
+.activity-cal__year-month:hover .activity-cal__year-month-title,
+.activity-cal__year-month.is-current .activity-cal__year-month-title {
+  color: var(--accent);
+}
+
+.activity-cal__year-month:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.activity-cal__year-month-title {
+  font-size: .75rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.2;
+  padding-left: 1px;
+}
+
+.activity-cal__grid.is-compact .activity-cal__day {
+  font-size: .58rem;
+  color: color-mix(in srgb, var(--text-muted) 75%, transparent);
+  border-width: 1.5px;
+}
+
+.activity-cal__grid.is-compact .activity-cal__day.is-active {
+  color: var(--accent);
+  font-weight: 700;
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+  box-shadow: none;
+}
+
+.activity-cal__grid.is-compact .activity-cal__day.is-today:not(.is-active) {
+  background: var(--bg-hover);
+  color: var(--text);
+}
+
+.activity-cal__grid.is-compact .activity-cal__day.is-today.is-active {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+
+@media (max-width: 900px) {
+  .activity-cal__year {
+    grid-template-columns: repeat(3, max-content);
+    justify-content: space-around;
+  }
+}
 
 @media (max-width: 768px) {
   .card { padding: 1.25rem; }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .continue-card { flex-direction: column; align-items: stretch; }
 
-  .heatmap-scroll {
-    overflow-x: auto;
-    overscroll-behavior-x: contain;
-    -webkit-overflow-scrolling: touch;
-    padding-bottom: .4rem;
-    scrollbar-width: thin;
+  .activity-cal {
+    --cal-day: 2.4rem;
+    padding: .9rem 1rem 1rem;
   }
 
-  .heatmap {
-    grid-template-columns: repeat(52, 11px);
-    gap: 2px;
-    width: max-content;
+  .activity-cal.activity-cal--year {
+    --cal-day: 1.05rem;
   }
 
-  .heatmap-cell { width: 11px; height: 11px; aspect-ratio: auto; }
-  .heatmap-cell:hover { transform: none; }
+  .activity-cal--month {
+    width: 100%;
+  }
+
+  .activity-cal--month .activity-cal__grid {
+    margin-inline: auto;
+  }
+
+  .activity-cal__year {
+    grid-template-columns: repeat(3, max-content);
+    column-gap: .85rem;
+    row-gap: .85rem;
+  }
+
+  .activity-cal__title { min-width: 7.5rem; font-size: .9rem; }
+}
+
+@media (max-width: 520px) {
+  .activity-cal__year {
+    grid-template-columns: repeat(2, max-content);
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .activity-cal--year {
+    --cal-day: 1.2rem;
+  }
 }
 
 @media (max-width: 480px) {

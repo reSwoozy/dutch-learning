@@ -5,12 +5,9 @@ import { SRS } from '@/lib/srs.js';
 import { allLessons } from '@/content/lessons/index.js';
 import { allTopics } from '@/content/grammar/index.js';
 import vocabIndex from '@/content/vocabulary/index.js';
-import Heatmap from '@/components/ui/Heatmap.jsx';
+import ActivityCalendar from '@/components/ui/ActivityCalendar.jsx';
 import Loader from '@/components/ui/Loader.jsx';
 import { withBase } from '@/lib/paths.js';
-
-/** Hidden for now; set true to restore the 52-week activity heatmap. */
-const SHOW_ACTIVITY = false;
 
 export default function AccountPanel({ lang = 'ru' }) {
   const user = useAuthStore((s) => s.user);
@@ -49,7 +46,6 @@ export default function AccountPanel({ lang = 'ru' }) {
   const testResults = data.testResults || {};
   const history = data.exerciseHistory || [];
   const recentHistory = [...history].slice(-15).reverse();
-  const pad = (n) => String(n).padStart(2, '0');
 
   const handleReset = () => {
     if (confirm('Сбросить весь прогресс? Отменить действие нельзя.')) {
@@ -140,14 +136,12 @@ export default function AccountPanel({ lang = 'ru' }) {
         </div>
       </section>
 
-      {SHOW_ACTIVITY && (
-        <section className="page-section" style={{ marginBottom: '1.5rem' }}>
-          <div className="page-section__head">
-            <h2>Активность (52 недели)</h2>
-          </div>
-          <Heatmap history={history} />
-        </section>
-      )}
+      <section className="page-section" style={{ marginBottom: '1.5rem' }}>
+        <div className="page-section__head">
+          <h2>Активность</h2>
+        </div>
+        <ActivityCalendar history={history} />
+      </section>
 
       {Object.keys(testResults).length > 0 && (
         <section className="page-section" style={{ marginBottom: '1.5rem' }}>

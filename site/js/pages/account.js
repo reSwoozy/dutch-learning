@@ -3,44 +3,6 @@ import { SRS } from '../core/srs.js';
 import { signOutUser } from '../core/auth.js';
 
 Object.assign(App, {
-  HEATMAP_WEEKS: 52,
-  /** Hidden for now; set true to restore the 52-week activity heatmap. */
-  SHOW_ACTIVITY: false,
-
-  buildHeatmap(history) {
-    const weeks = this.HEATMAP_WEEKS;
-    const days = weeks * 7;
-    const now = new Date();
-    const byDay = {};
-    for (const h of history) {
-      const d = (h.date || '').slice(0, 10);
-      if (!d) continue;
-      byDay[d] = (byDay[d] || 0) + (h.total || 0);
-    }
-    const todayDow = now.getDay();
-    const start = new Date(now);
-    start.setDate(start.getDate() - (weeks - 1) * 7 - todayDow);
-
-    const cells = [];
-    for (let i = 0; i < days; i++) {
-      const d = new Date(start);
-      d.setDate(start.getDate() + i);
-      if (d > now) {
-        cells.push('<div class="heatmap-cell future" aria-hidden="true"></div>');
-        continue;
-      }
-      const key = d.toISOString().slice(0, 10);
-      const count = byDay[key] || 0;
-      let lvl = 0;
-      if (count >= 20) lvl = 4;
-      else if (count >= 10) lvl = 3;
-      else if (count >= 5) lvl = 2;
-      else if (count >= 1) lvl = 1;
-      cells.push(`<div class="heatmap-cell${lvl ? ' l' + lvl : ''}" title="${key}: ${count}"></div>`);
-    }
-    return `<div class="heatmap-scroll"><div class="heatmap">${cells.join('')}</div></div>`;
-  },
-
   renderAccount(el) {
     const user = window.__dutchUser || null;
     const stats = this.progress.getStats();
@@ -137,15 +99,6 @@ Object.assign(App, {
         </div>
       </section>
 
-      ${this.SHOW_ACTIVITY ? `
-      <section class="page-section" style="margin-top:1.5rem">
-        <div class="page-section__head">
-          <h2>Активность (52 недели)</h2>
-        </div>
-        ${this.buildHeatmap(history)}
-      </section>
-      ` : ''}
-
       ${Object.keys(testResults).length > 0 ? `
         <section class="page-section" style="margin-top:1.5rem">
           <div class="page-section__head">
@@ -210,13 +163,6 @@ Object.assign(App, {
         </div>
       </section>
     `;
-
-    const heatmapScroll = el.querySelector('.heatmap-scroll');
-    if (heatmapScroll) {
-      requestAnimationFrame(() => {
-        heatmapScroll.scrollLeft = heatmapScroll.scrollWidth;
-      });
-    }
 
     const resetBtn = document.getElementById('account-reset');
     if (resetBtn) {
